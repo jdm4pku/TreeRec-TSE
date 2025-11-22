@@ -50,7 +50,7 @@ def gpt_evaluation(prompt, max_retries=5, retry_delay=1):
     """
     # 使用与annotation.py相同的API配置
     client = OpenAI(
-        api_key=os.environ.get("OPENAI_API_KEY", "sk-BwTI1iSg83soUQ6u2d1096B8A27848E5B3E4141154Dc592b"),
+        api_key=os.environ.get("OPENAI_API_KEY", ""),
         base_url=os.environ.get("OPENAI_BASE_URL", "http://66.206.9.230:4000/v1"),
     )
     

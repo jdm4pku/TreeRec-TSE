@@ -36,7 +36,7 @@ class OpenAIEmbeddingModel(BaseEmbeddingModel):
     def __init__(self, model="text-embedding-ada-002"):
         self.client = OpenAI(
             base_url = "https://openrouter.ai/api/v1",
-            api_key = "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"
+            api_key = ""
         )
         self.model = model
 
@@ -53,7 +53,7 @@ class QwenEmbeddingModel(BaseEmbeddingModel):
     def __init__(self, model="Qwen/Qwen3-Embedding-8B"):
         self.client = OpenAI(
             base_url = "https://api.siliconflow.cn/v1",
-            api_key = "sk-wbnxvocaaofhilzlgkvhiuhoivdawabyvaavkvblnokomdyz"
+            api_key = ""
         )
         self.model = model
 

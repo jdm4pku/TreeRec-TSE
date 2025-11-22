@@ -6,8 +6,8 @@ from typing import List, Dict
 from math import log2
 from statistics import mean, pstdev
 
-os.environ["OPENAI_API_KEY"] = "sk-BwTI1iSg83soUQ6u2d1096B8A27848E5B3E4141154Dc592b"
-os.environ["OPENAI_BASE_URL"] = "http://66.206.9.230:4000/v1"
+os.environ["OPENAI_API_KEY"] = ""
+os.environ["OPENAI_BASE_URL"] = ""
 
 from TreeRec.RetrievalAugmentation import RetrievalAugmentation
 from TreeRec.RetrievalAugmentation import RetrievalAugmentationConfig

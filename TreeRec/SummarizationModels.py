@@ -96,7 +96,7 @@ class QwenSummarizationModel(BaseSummarizationModel):
         try:
             client = OpenAI(
                 base_url = "https://api.siliconflow.cn/v1",
-                api_key = "sk-wbnxvocaaofhilzlgkvhiuhoivdawabyvaavkvblnokomdyz"
+                api_key = ""
             )
 
             response = client.chat.completions.create(
@@ -139,7 +139,7 @@ class DeepSeekSummarizationModel(BaseSummarizationModel):
         try:
             client = OpenAI(
                 base_url = "https://api.siliconflow.cn/v1",
-                api_key = "sk-wbnxvocaaofhilzlgkvhiuhoivdawabyvaavkvblnokomdyz"
+                api_key = ""
             )
 
             response = client.chat.completions.create(
@@ -182,7 +182,7 @@ class LlamaSummarizationModel(BaseSummarizationModel):
         try:
             client = OpenAI(
                 base_url = "https://openrouter.ai/api/v1",
-                api_key = "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"
+                api_key = ""
             )
 
             response = client.chat.completions.create(

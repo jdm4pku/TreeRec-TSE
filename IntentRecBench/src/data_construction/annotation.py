@@ -130,7 +130,7 @@ def save_json(data, file_path):
 
 def gpt_completion(prompt):
     client = OpenAI(
-        api_key="sk-BwTI1iSg83soUQ6u2d1096B8A27848E5B3E4141154Dc592b",  # replace with your key
+        api_key="",  # replace with your key
         base_url="http://66.206.9.230:4000/v1",
     )
     flag = False

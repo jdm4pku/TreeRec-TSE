@@ -30,8 +30,8 @@ except ImportError:
     NUMPY_AVAILABLE = False
     SentenceTransformer = None
 
-os.environ["OPENAI_API_KEY"] = "sk-BwTI1iSg83soUQ6u2d1096B8A27848E5B3E4141154Dc592b"
-os.environ["OPENAI_BASE_URL"] = "https://api.yesapikey.com/v1"
+os.environ["OPENAI_API_KEY"] = ""
+os.environ["OPENAI_BASE_URL"] = ""
 
 # ========== 工具函数 ==========
 
@@ -88,8 +88,8 @@ def get_model_config(model_name: str, api_key: Optional[str] = None, base_url: O
     print("***************")
     if "gpt" in model_lower or "openai" in model_lower:
         return {
-            "base_url": base_url or "http://66.206.9.230:4000/v1",
-            "api_key": api_key or "sk-BwTI1iSg83soUQ6u2d1096B8A27848E5B3E4141154Dc592b",
+            "base_url": base_url or "",
+            "api_key": api_key or "",
             "model_name": model_name
         }
     
@@ -99,9 +99,9 @@ def get_model_config(model_name: str, api_key: Optional[str] = None, base_url: O
     # Qwen 系列模型（使用 SiliconFlow）
     if "qwen" in model_lower:
         return {
-            "base_url": base_url or "https://api.siliconflow.cn/v1",
+            "base_url": base_url or "",
             "api_key": api_key or os.environ.get("SILICONFLOW_API_KEY", 
-                        "sk-wbnxvocaaofhilzlgkvhiuhoivdawabyvaavkvblnokomdyz"),
+                        ""),
             "model_name": model_name
         }
     
@@ -113,7 +113,7 @@ def get_model_config(model_name: str, api_key: Optional[str] = None, base_url: O
         return {
             "base_url": base_url or "https://api.siliconflow.cn/v1",
             "api_key": api_key or os.environ.get("SILICONFLOW_API_KEY",
-                        "sk-wbnxvocaaofhilzlgkvhiuhoivdawabyvaavkvblnokomdyz"),
+                        ""),
             "model_name": model_name
         }
     
@@ -122,7 +122,7 @@ def get_model_config(model_name: str, api_key: Optional[str] = None, base_url: O
         return {
             "base_url": base_url or "https://openrouter.ai/api/v1",
             "api_key": api_key or os.environ.get("OPENROUTER_API_KEY",
-                        "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"),
+                        ""),
             "model_name": model_name
         }
     
