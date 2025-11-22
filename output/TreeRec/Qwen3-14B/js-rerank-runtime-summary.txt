@@ -1,0 +1,1 @@
+2025-11-12 18:35:28 | js       | Tree:    0.12s | Retrieval: 12874.38s | Total: 12879.41s | AvgRetr: 13.3000s | StdRetr: 48.2863s | MinRetr:  2.6543s | MaxRetr: 1215.9623s | AvgTotal: 13.3052s

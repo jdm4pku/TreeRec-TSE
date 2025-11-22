@@ -1,0 +1,24 @@
+{
+    "precision": {
+        "P@1": 0.6056338028169014,
+        "P@2": 0.676056338028169,
+        "P@3": 0.676056338028169,
+        "P@4": 0.6830985915492958
+    },
+    "dcg": {
+        "DCG@2": 0.6500654756036237,
+        "DCG@3": 0.6500654756036237,
+        "DCG@4": 0.6530984091111828,
+        "DCG@5": 0.6530984091111828
+    },
+    "time": {
+        "build_tree_seconds": 0.0,
+        "retrieval_seconds": 21823.95,
+        "avg_retrieval_seconds": 153.6897,
+        "std_retrieval_seconds": 60.3075,
+        "min_retrieval_seconds": 58.8409,
+        "max_retrieval_seconds": 454.4273,
+        "total_seconds": 21829.21,
+        "avg_total_seconds": 153.7268
+    }
+}

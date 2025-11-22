@@ -1,0 +1,3746 @@
+[
+    {
+        "name": "istanbul-lib-instrument",
+        "description": "Core istanbul API for JS code coverage"
+    },
+    {
+        "name": "istanbul-lib-coverage",
+        "description": "Data library for istanbul coverage objects"
+    },
+    {
+        "name": "jest-cli",
+        "description": "Delightful JavaScript Testing."
+    },
+    {
+        "name": "@jest/core",
+        "description": "Delightful JavaScript Testing."
+    },
+    {
+        "name": "jest",
+        "description": "Delightful JavaScript Testing."
+    },
+    {
+        "name": "v8-to-istanbul",
+        "description": "convert from v8 coverage format to istanbul's format"
+    },
+    {
+        "name": "@vitest/coverage-v8",
+        "description": "V8 coverage provider for Vitest"
+    },
+    {
+        "name": "nyc",
+        "description": "the Istanbul command line interface"
+    },
+    {
+        "name": "append-transform",
+        "description": "Install a transform to `require.extensions` that always runs last, even if additional extensions are added later."
+    },
+    {
+        "name": "c8",
+        "description": "output coverage reports using Node.js' built in coverage"
+    },
+    {
+        "name": "karma-coverage",
+        "description": "A Karma plugin. Generate code coverage."
+    },
+    {
+        "name": "@vitest/coverage-istanbul",
+        "description": "Istanbul coverage provider for Vitest"
+    },
+    {
+        "name": "coveralls",
+        "description": "takes json-cov output into stdin and POSTs to coveralls.io"
+    },
+    {
+        "name": "@istanbuljs/nyc-config-typescript",
+        "description": "nyc configuration that works with typescript"
+    },
+    {
+        "name": "@cypress/code-coverage",
+        "description": "Saves the code coverage collected during Cypress tests"
+    },
+    {
+        "name": "karma-coverage-istanbul-reporter",
+        "description": "A karma reporter that uses the latest istanbul 1.x APIs (with full sourcemap support) to report coverage."
+    },
+    {
+        "name": "@jsdevtools/coverage-istanbul-loader",
+        "description": "A Webpack loader that uses Istanbul to add code coverage instrumentation"
+    },
+    {
+        "name": "@storybook/addon-coverage",
+        "description": "Tools to support code coverage in Storybook"
+    },
+    {
+        "name": "istanbul-instrumenter-loader",
+        "description": "Istanbul instrumenter loader for webpack"
+    },
+    {
+        "name": "sc-istanbul",
+        "description": "Istanbul V0 used by solidity-coverage for its report-api"
+    },
+    {
+        "name": "inspector-api",
+        "description": "A simple node module to access V8 inspector + some tools to export and read the data."
+    },
+    {
+        "name": "mocha-lcov-reporter",
+        "description": "LCOV reporter for Mocha"
+    },
+    {
+        "name": "istanbul-merge",
+        "description": "Merge multiple istanbul coverage reports into one"
+    },
+    {
+        "name": "swc-plugin-coverage-instrument",
+        "description": "SWC coverage instrumentation plugin"
+    },
+    {
+        "name": "lcov-result-merger",
+        "description": "Merges multiple lcov results into one"
+    },
+    {
+        "name": "remap-istanbul",
+        "description": "A tool for remapping Istanbul coverage via Source Maps"
+    },
+    {
+        "name": "karma-typescript",
+        "description": "Simplifying running unit tests with coverage for Typescript projects."
+    },
+    {
+        "name": "playwright-test-coverage",
+        "description": "Extends Playwright test to measure code coverage"
+    },
+    {
+        "name": "bunker",
+        "description": "code coverage in native javascript"
+    },
+    {
+        "name": "rollup-plugin-istanbul",
+        "description": "Seamless integration between Rollup and Istanbul."
+    },
+    {
+        "name": "@temporalio/nyc-test-coverage",
+        "description": "Temporal.io SDK code coverage integration"
+    },
+    {
+        "name": "coverage-istanbul-loader",
+        "description": "A Webpack loader that uses Istanbul to add code coverage instrumentation"
+    },
+    {
+        "name": "gulp-istanbul",
+        "description": "Istanbul unit test coverage plugin for gulp."
+    },
+    {
+        "name": "browserify-istanbul",
+        "description": "A browserify transform for the istanbul code coverage tool"
+    },
+    {
+        "name": "codecov.io",
+        "description": "lcov posting to codecov.io"
+    },
+    {
+        "name": "runforcover",
+        "description": "require plugin for js code coverage using bunker"
+    },
+    {
+        "name": "esdoc-coverage-plugin",
+        "description": "A coverage plugin for ESDoc"
+    },
+    {
+        "name": "sl-istanbul-lib-instrument",
+        "description": "SL update to the core istanbul API for JS code coverage"
+    },
+    {
+        "name": "make-coverage-badge",
+        "description": "Create a coverage badge"
+    },
+    {
+        "name": "yuitest-coverage",
+        "description": "Node.js wrapper for yuitest-coverage java package"
+    },
+    {
+        "name": "@istanbuljs/nyc-config-babel",
+        "description": "nyc configuration that works with babel-plugin-istanbul"
+    },
+    {
+        "name": "jest-coverage-badges",
+        "description": "Create a group of coverage badges from jest"
+    },
+    {
+        "name": "nodemailer-mock",
+        "description": "Easy as pie nodemailer mock for unit testing your Node.js applications."
+    },
+    {
+        "name": "jest-it-up",
+        "description": "Automatically bump up global Jest thresholds whenever coverage goes above them"
+    },
+    {
+        "name": "karma-remap-coverage",
+        "description": "Karma reporter that shows coverage for original non transpiled code (TypeScript, ES6/7, etc)"
+    },
+    {
+        "name": "babel-istanbul",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "istanbul-badges-readme",
+        "description": "Creates README badges from istanbul coverage report"
+    },
+    {
+        "name": "check-code-coverage",
+        "description": "Utilities for checking the coverage produced by NYC against extra or missing files"
+    },
+    {
+        "name": "coveralls-next",
+        "description": "takes json-cov output into stdin and POSTs to coveralls.io"
+    },
+    {
+        "name": "nyc-config-tsx",
+        "description": "Istanbul.js config for tsx"
+    },
+    {
+        "name": "istanbul-combine",
+        "description": "easily merge coverage data from multiple istanbul runs"
+    },
+    {
+        "name": "playwright-test",
+        "description": "Run mocha, zora, uvu, tape and benchmark.js scripts inside real browsers with playwright."
+    },
+    {
+        "name": "puppeteer-to-istanbul",
+        "description": "convert from puppeteer's coverage output to a format that can be used by istanbul reports"
+    },
+    {
+        "name": "blanket",
+        "description": "seamless js code coverage"
+    },
+    {
+        "name": "flow-coverage-report",
+        "description": "Generate an HTML report of the flow coverage data"
+    },
+    {
+        "name": "obake",
+        "description": "Pipe javascript into phantomjs, print the output, writing test coverage to disk along the way"
+    },
+    {
+        "name": "@lcov-viewer/istanbul-report",
+        "description": "Istanbul grouped HTML report. Generates code coverage report grouped by directory."
+    },
+    {
+        "name": "karma-coveralls",
+        "description": "A karma plugin which uploads coverage reports to coveralls.io"
+    },
+    {
+        "name": "sourcemap-istanbul-instrumenter-loader",
+        "description": "Istanbul instrumenter loader for webpack"
+    },
+    {
+        "name": "ui5-test-runner",
+        "description": "Standalone test runner for UI5"
+    },
+    {
+        "name": "coverify",
+        "description": "code coverage browserify transform"
+    },
+    {
+        "name": "parse-lcov",
+        "description": "Parse LCOV"
+    },
+    {
+        "name": "karma-sabarivka-reporter",
+        "description": "A Karma plugin. Adds untested files to istanbul coverage statistic"
+    },
+    {
+        "name": "grunt-mocha-istanbul",
+        "description": "Almost config-free Istanbul code coverage reporter for Mocha usage in Grunt"
+    },
+    {
+        "name": "jscoverage",
+        "description": "a javascript coverage tool, can be used in node dev, and browser side js dev"
+    },
+    {
+        "name": "gulp-coveralls",
+        "description": "Gulp plugin to submit code coverage to Coveralls"
+    },
+    {
+        "name": "bare-cov",
+        "description": "Generate coverage reports using Bare and Node.js"
+    },
+    {
+        "name": "danger-plugin-istanbul-coverage",
+        "description": "Danger.js plugin for monitoring istanbul code coverage on changed files."
+    },
+    {
+        "name": "@bahmutov/cypress-code-coverage",
+        "description": "My version of Cypress code coverage plugin"
+    },
+    {
+        "name": "istanbul-to-vscode",
+        "description": "Converts Istanbul coverage output to VS Code's coverage API"
+    },
+    {
+        "name": "grunt-simple-nyc",
+        "description": "A grunt wrapper for nyc"
+    },
+    {
+        "name": "@lcov-viewer/cli",
+        "description": "LCOV viewer CLI to convert coverage to grouped HTML report. Generates code coverage report grouped by directory."
+    },
+    {
+        "name": "deps",
+        "description": "Node dependency usage checker using V8 Coverage"
+    },
+    {
+        "name": "childprocess",
+        "description": "Wrap `child_process` module to support Multiple Process Code Coverage with istanbul."
+    },
+    {
+        "name": "istanbul-slack-notify",
+        "description": "Sends nyc (aka: istanbul) coverage summary and git build details to Slack using a pass/fail threshold for project coverage."
+    },
+    {
+        "name": "covert",
+        "description": "code coverage command con coverify"
+    },
+    {
+        "name": "lcov-total",
+        "description": "Parsing lcov.info and returning total of the summary intended to use inside CI to exit if threshold not reach"
+    },
+    {
+        "name": "coffee-coverage",
+        "description": "Istanbul and JSCoverage-style instrumentation for CoffeeScript files."
+    },
+    {
+        "name": "mocha-sonar-generic-test-coverage",
+        "description": "Mocha sonar generic tesst coverage integrator"
+    },
+    {
+        "name": "cover",
+        "description": "Native JavaScript code coverage"
+    },
+    {
+        "name": "eslint-plugin-istanbul",
+        "description": "ESLint plugin for istanbul code coverage"
+    },
+    {
+        "name": "coverage",
+        "description": "A command-line tool to collect and report code coverage of a JavaScript program"
+    },
+    {
+        "name": "@cvrg-report/clover-json",
+        "description": "Parse clover XML coverage reports to JSON, using the same format as lcov-parse"
+    },
+    {
+        "name": "@putout/plugin-coverage",
+        "description": "🐊Putout plugin helps with coverage configs"
+    },
+    {
+        "name": "@bgotink/playwright-coverage",
+        "description": "Track coverage in playwright tests using v8, without instrumentation"
+    },
+    {
+        "name": "codecov-lite",
+        "description": "LCOV uploader for codecov.io service"
+    },
+    {
+        "name": "bamboo-jest-reporter",
+        "description": "A reporter for Jest which parses the coverage-, snapshot- and test-results to a Mocha Test Parser format"
+    },
+    {
+        "name": "coverage-badges-cli",
+        "description": "Create coverage badges from coverage reports. Using GitHub Actions and GitHub Workflow CPU time (no 3rd parties servers)."
+    },
+    {
+        "name": "mocha-istanbul",
+        "description": "Istanbul code coverage reporter for Mocha"
+    },
+    {
+        "name": "danger-plugin-coverage",
+        "description": "A Danger plugin to report code coverage."
+    },
+    {
+        "name": "jest-ratchet",
+        "description": "Ratchet up code coverage - keep test coverage going only one direction -- up"
+    },
+    {
+        "name": "grunt-coveralls",
+        "description": "Grunt task to load coverage results and submit them to Coveralls.io"
+    },
+    {
+        "name": "lcov-badge2",
+        "description": "Generate a badge from a LCOV report"
+    },
+    {
+        "name": "@airtap/browserify-istanbul",
+        "description": "A browserify transform for the istanbul code coverage tool"
+    },
+    {
+        "name": "tap-nyc",
+        "description": "nyc compatible TAP output formatter"
+    },
+    {
+        "name": "@zitterorg/magni-eos",
+        "description": "[![github actions][actions-image]][actions-url] [![coverage][codecov-image]][codecov-url] [![dependency status][deps-svg]][deps-url] [![dev dependency status][dev-deps-svg]][dev-deps-url] [![License][license-image]][license-url] [![Downloads][downloads-im"
+    },
+    {
+        "name": "lab-transform-typescript",
+        "description": "transform TypeScript for the lab testing framework"
+    },
+    {
+        "name": "start-istanbul",
+        "description": "Istanbul tasks for Start"
+    },
+    {
+        "name": "jest-coverage-to-csv",
+        "description": "Convert jest coverage json to csv"
+    },
+    {
+        "name": "grunt-istanbul",
+        "description": "JavaScript codecoverage tool for Grunt"
+    },
+    {
+        "name": "@connectis/coverage-parser",
+        "description": "Library for parsing coverage reports."
+    },
+    {
+        "name": "@connectis/coverage-merger",
+        "description": "Library for merging parsed coverage reports."
+    },
+    {
+        "name": "gulp-codecov",
+        "description": "Gulp plugin to submit code coverage to Codecov"
+    },
+    {
+        "name": "gemini-coverage",
+        "description": "Coverage report generator for gemini"
+    },
+    {
+        "name": "danger-plugin-code-coverage",
+        "description": "Danger.JS plugin to display the code coverage on a pull request by commenting it via the CI"
+    },
+    {
+        "name": "@connectis/diff-test-coverage",
+        "description": "Commandline tool which calculates test coverage of (source control) diffs."
+    },
+    {
+        "name": "@leanup/cli-core-test",
+        "description": "This module contains the test feature for the @leanup/cli."
+    },
+    {
+        "name": "istanbul-cobertura-badger",
+        "description": "Istanbul test coverage report badger task."
+    },
+    {
+        "name": "coverage-node",
+        "description": "A simple CLI to run Node.js and report code coverage."
+    },
+    {
+        "name": "webpack-plugin-istanbul",
+        "description": "Minimal Webpack5 plugin for instrumenting code coverage using istanbul"
+    },
+    {
+        "name": "apex-code-coverage-transformer",
+        "description": "Transform Salesforce Apex code coverage JSONs into other formats accepted by SonarQube, GitHub, GitLab, Azure, Bitbucket, etc."
+    },
+    {
+        "name": "mock-argv",
+        "description": "Temporarily overrides the command line arguments. This is useful for testing."
+    },
+    {
+        "name": "mrm-task-codecov",
+        "description": "Mrm task that adds Codecov to Travis CI config"
+    },
+    {
+        "name": "grunt-jasmine-node-coverage",
+        "description": "Grunt task for running jasmine using istanbul for code coverage reports. Based off of grunt-jasmine-node by Omar Gonzalez (s9tpepper)."
+    },
+    {
+        "name": "@rayyan98/coverage-on-diff",
+        "description": "A tool to get code coverage on new lines added based on a diff"
+    },
+    {
+        "name": "coverage-on-diff",
+        "description": "A tool to get code coverage on new lines added based on a diff"
+    },
+    {
+        "name": "istanbul-coveralls",
+        "description": "A simple alias for istanbul + coveralls"
+    },
+    {
+        "name": "@kollavarsham/gulp-coveralls",
+        "description": "Gulp plugin to submit code coverage to Coveralls"
+    },
+    {
+        "name": "macaca-reporter",
+        "description": "Reporter for mocha and other frameworks."
+    },
+    {
+        "name": "vsts-coverage-styles",
+        "description": "This package helps to convert the external css files in an HTML to an internal style i.e., injected using style tag in the document head."
+    },
+    {
+        "name": "jest-simple-summary",
+        "description": "Simple Summary for Jest"
+    },
+    {
+        "name": "jest-coverage-shield",
+        "description": "Auto creates jest coverage shield from shield.io"
+    },
+    {
+        "name": "macaca-cli",
+        "description": "Macaca command-line interface"
+    },
+    {
+        "name": "karma-threshold-reporter",
+        "description": "A Karma plugin. Fail tests if the coverage falls below the given threshold."
+    },
+    {
+        "name": "travis-cov",
+        "description": "Mocha/blanket coverage reporter for travis-ci."
+    },
+    {
+        "name": "macaca-istanbul",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "mocha-phantomjs-istanbul",
+        "description": "collect istanbul coverage from instrumented client-side Mocha tests with PhantomJS"
+    },
+    {
+        "name": "macaca-coverage",
+        "description": "Macaca coverage tool"
+    },
+    {
+        "name": "meeko",
+        "description": "meeko自用函数"
+    },
+    {
+        "name": "karma-coverage-istanbul-instrumenter",
+        "description": "Karma preprocessor for instrumenting javascript code for coverage"
+    },
+    {
+        "name": "mocha-text-cov",
+        "description": "Summary text coverage reporter for Mocha"
+    },
+    {
+        "name": "@istanbuljs/nyc-config-hook-run-in-this-context",
+        "description": "nyc configuration for hook-run-in-this-context"
+    },
+    {
+        "name": "jest-coverage-badges-ts",
+        "description": "Create a group of coverage badges from jest"
+    },
+    {
+        "name": "coverage-badge-creator",
+        "description": "Coverage Badge Creator creates badges based on your test coverage and inserts them into the README"
+    },
+    {
+        "name": "@rwx-research/jest-core",
+        "description": "Delightful JavaScript Testing."
+    },
+    {
+        "name": "marko-tester",
+        "description": "Assist Marko components testing using Jest."
+    },
+    {
+        "name": "typescript-coverage",
+        "description": "A dead-simple criteria to track your Typescript migration"
+    },
+    {
+        "name": "grunt-mocha-nyc",
+        "description": "Almost config-free nyc code coverage reporter for Mocha usage in Grunt"
+    },
+    {
+        "name": "@compas/cli",
+        "description": "CLI containing utilities and simple script runner"
+    },
+    {
+        "name": "gulp-istanbul-report",
+        "description": "write istanbul coverage reports from pre-collected coverage files"
+    },
+    {
+        "name": "coverage-badges",
+        "description": "Create coverage badges from different coverage reports"
+    },
+    {
+        "name": "@actualwave/traceability-matrices",
+        "description": "Integrate requirements into e2e/integration test code and generate [traceability matrices](https://en.wikipedia.org/wiki/Traceability_matrix) for your project. Currently this library has an adapter to work with [Cypress](https://www.cypress.io/) tests."
+    },
+    {
+        "name": "@juanger/v8-to-istanbul",
+        "description": "convert from v8 coverage format to istanbul's format"
+    },
+    {
+        "name": "cypress-istanbul",
+        "description": "Saves the code coverage collected from instrumented code"
+    },
+    {
+        "name": "jest-openapi-coverage",
+        "description": "Report OpenAPI coverage for Jest integration tests."
+    },
+    {
+        "name": "test-inputs",
+        "description": "Easily get comprehensive lists of all data types, including lesser-known edge cases"
+    },
+    {
+        "name": "jest-coverage-badges-ng",
+        "description": "Create a group of coverage badges from jest"
+    },
+    {
+        "name": "gulp-istanbul-enforcer",
+        "description": "Plugin for gulp that enforces coverage thresholds from Istanbul"
+    },
+    {
+        "name": "@lbu/cli",
+        "description": "CLI containing utilities and simple script runner"
+    },
+    {
+        "name": "typecov",
+        "description": "Track type coverage in TypeScript projects to ensure type safety"
+    },
+    {
+        "name": "playwright-coverage-reporter",
+        "description": "🎯 Native Playwright coverage reporter with runtime element discovery. Seamlessly integrates with your Playwright test suite to analyze UI element coverage, discover interactive elements during test execution, and generate comprehensive reports with Istan"
+    },
+    {
+        "name": "grunt-istanbul-coverage",
+        "description": "A grunt plugin to enforce coverage thresholds from istanbul coverage objects."
+    },
+    {
+        "name": "@xgovformbuilder/lab-babel",
+        "description": "a transform for lab to allow testing babel transpiled modules, with coverage and source maps (fork from nfl/lab-babel)"
+    },
+    {
+        "name": "grunt-blanket-mocha",
+        "description": "Headless Blanket.js code coverage and Mocha testing via PhantomJS"
+    },
+    {
+        "name": "@aristobyte-ui/jest-config",
+        "description": "Centralized, shareable Jest configuration presets for AristoByteUI monorepo projects. Supports Node, React, and Next.js environments with TypeScript, Babel integration, and consistent coverage reporting."
+    },
+    {
+        "name": "jest-coverage-ratchet",
+        "description": "Ensures code coverage only increases"
+    },
+    {
+        "name": "@brightunion/sdk",
+        "description": "Brightjs is a set of javascript tools to interact with the Bright Union's risk platform aggregator's protocol on Ethereum, Binance Smart Chain and Polygon blockchains."
+    },
+    {
+        "name": "esdoc2-coverage-plugin",
+        "description": "A coverage plugin for esdoc2"
+    },
+    {
+        "name": "mocha-coverage-reporter",
+        "description": "A simple coverage reporter for mocha"
+    },
+    {
+        "name": "coverage-percentage",
+        "description": "Simple command line utility for turning code coverage reports into a number"
+    },
+    {
+        "name": "@endyjasmi/istanbul-merge",
+        "description": "CLI for merging multiple istabul coverage report into one."
+    },
+    {
+        "name": "ai-unit-test-generator",
+        "description": "AI-powered unit test generator with smart priority scoring, parallel generation, behavior classification, test validation, and deduplication"
+    },
+    {
+        "name": "grunt-lcov-merge",
+        "description": "Grunt plugin to merge lcov files from multiple test runs."
+    },
+    {
+        "name": "whiskey",
+        "description": "Whiskey is a powerful test runner for Node.js applications and a process orchestration framework which makes running integration tests with a lot of service / process dependencies easier."
+    },
+    {
+        "name": "ui-coverage-scenario-tool-js",
+        "description": "**UI Coverage Scenario Tool** is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots. The tool collects coverage during UI test execution and generates an interactiv"
+    },
+    {
+        "name": "@gullerya/just-test",
+        "description": "JavaScript multiplatform tests runner"
+    },
+    {
+        "name": "karma-sourcemap-writer",
+        "description": "Sourcemap writer for karma-webpack to work with istanbul."
+    },
+    {
+        "name": "jet",
+        "description": "Jet lets you test your React Native Module APIs in JS mock free and native testing code free - ideal for testing React Native modules e2e."
+    },
+    {
+        "name": "@plugjs/cov8",
+        "description": "V8 Coverage Plugin for the PlugJS Build System =============================================="
+    },
+    {
+        "name": "fugl",
+        "description": "A tool for verifying that changes to a package do not affect projects dependent upon it."
+    },
+    {
+        "name": "gulp-babel-istanbul",
+        "description": "Babel + Istanbul unit test coverage plugin for gulp."
+    },
+    {
+        "name": "gt",
+        "description": "JavaScript native QUnit runner with code coverage and multiple extensions"
+    },
+    {
+        "name": "istanbul-diff",
+        "description": "Diffs istanbul json summary coverage reports"
+    },
+    {
+        "name": "conditional",
+        "description": "A preconditions package based on Google's Preconditions library"
+    },
+    {
+        "name": "lcov-filter",
+        "description": "Removes records for files matching given regexp from LCOV file or stream"
+    },
+    {
+        "name": "@plugjs/cov8-html",
+        "description": "Single-page-app to browse Cov8 reports"
+    },
+    {
+        "name": "babel-plugin-canyon",
+        "description": "A Babel plugin cooperates with istanbul to report the coverage"
+    },
+    {
+        "name": "aria-mocha",
+        "description": "Zero configuration CLI testing tool for nodejs and browser base"
+    },
+    {
+        "name": "danger-plugin-coverage-plus",
+        "description": "A Danger plugin to report code coverage plus additional configurations"
+    },
+    {
+        "name": "karma-istanbul-threshold",
+        "description": "Karma reporter that checks coverage thresholds with coverage data generated by karma-coverage. Because it reads its data from a json file, it can also handle remapped coverage data provided by karma-remap-istanbul to allow source-map support."
+    },
+    {
+        "name": "@liftr/tscov",
+        "description": "Check the type coverage of any TypeScript project with this easy npm package"
+    },
+    {
+        "name": "relcov",
+        "description": "A simple CLI tool for transforming absolute lcov source file paths to paths relative to the source root."
+    },
+    {
+        "name": "@zooshdigital/bitbucket-code-insights",
+        "description": "Function to upload reports to Bitbucket"
+    },
+    {
+        "name": "cypress-jest-coverage-merge",
+        "description": "A helper to merge Cypress and Jest coverage reports into one report file."
+    },
+    {
+        "name": "@aeolun/code-coverage",
+        "description": "Saves the code coverage collected during Cypress tests"
+    },
+    {
+        "name": "one-double-zero",
+        "description": "[![NPM version][npm-image]][npm-url] [![Build Status][build-image]][build-url] [![Coverage percentage][coveralls-image]][coveralls-url]"
+    },
+    {
+        "name": "@storybook-extras/angular",
+        "description": "Storybook addon to add extra configurations for Angular applications."
+    },
+    {
+        "name": "grunt-istanbul-combine",
+        "description": "Combine istanbul coverage files with grunt"
+    },
+    {
+        "name": "coverage-istanbul",
+        "description": "istanbul tools for test coverage"
+    },
+    {
+        "name": "grunt-protractor-coverage",
+        "description": "Instrument your code and gather coverage data from Protractor E2E tests"
+    },
+    {
+        "name": "@rstest/coverage-istanbul",
+        "description": "Istanbul coverage provider for Rstest"
+    },
+    {
+        "name": "ask-sdk-test",
+        "description": "[![npm version](https://badge.fury.io/js/ask-sdk-test.svg)](https://badge.fury.io/js/ask-sdk-test)"
+    },
+    {
+        "name": "helper-coverage",
+        "description": "Template helper for including a code coverage report generated by istanbul."
+    },
+    {
+        "name": "coverage-collector",
+        "description": "A simple server for collecting code coverage objects"
+    },
+    {
+        "name": "jest-text-formatter",
+        "description": "Package to convert Jest coverage output files to a format readable by Reviewdog"
+    },
+    {
+        "name": "gulp-coverage",
+        "description": "Instrument and generate code coverage independent of test runner"
+    },
+    {
+        "name": "@containerbase/istanbul-reports-html",
+        "description": "Custom istanbuljs html coverage reporter."
+    },
+    {
+        "name": "doogu",
+        "description": "A wrapper around modern JavaScript tools"
+    },
+    {
+        "name": "bisect_ppx",
+        "description": "Code coverage for OCaml and Reason"
+    },
+    {
+        "name": "print-coveralls",
+        "description": "print coveralls' coverage and files' coverage"
+    },
+    {
+        "name": "@zooshdigital/bitbucket-v8-coverage-report",
+        "description": "Command-line tool to upload coverage reports to Bitbucket"
+    },
+    {
+        "name": "reqover",
+        "description": "Reqover is language agnostic tool that gives a picture about coverage of APIs based on Open API (Swagger)."
+    },
+    {
+        "name": "one-double-zero-core",
+        "description": "[![NPM version][npm-image]][npm-url] [![Build Status][build-image]][build-url] [![Coverage percentage][coveralls-image]][coveralls-url]"
+    },
+    {
+        "name": "playwright-to-istanbul",
+        "description": "convert from playwright's coverage output to a format that can be used by istanbul reports"
+    },
+    {
+        "name": "coverage-badger",
+        "description": "Coverage report badger tool."
+    },
+    {
+        "name": "bamboo-mocha-jest-code-coverage",
+        "description": "Formats Jest code coverage report for Bamboo's Mocha Test Parser, so Bamboo can consume Jest code coverage reports."
+    },
+    {
+        "name": "simple-coverage-badger",
+        "description": "Simple coverage badger with some customization options"
+    },
+    {
+        "name": "lab-babel",
+        "description": "a transform for lab to allow testing babel transpiled modules, with coverage and source maps"
+    },
+    {
+        "name": "bob",
+        "description": "Convention-based build tool for node.js projects."
+    },
+    {
+        "name": "mochify-istanbul",
+        "description": "Istanbul for mochify"
+    },
+    {
+        "name": "@projectwallace/css-code-coverage",
+        "description": "Generate useful CSS Code Coverage report from browser-reported coverage"
+    },
+    {
+        "name": "@itsjamie/esdoc-coverage-plugin",
+        "description": "A coverage plugin for ESDoc"
+    },
+    {
+        "name": "aqa",
+        "description": "Dependency-less Test Runner for Node.js"
+    },
+    {
+        "name": "coverage-diff-cli",
+        "description": "🚦 command line tool to report diff coverage 🚦"
+    },
+    {
+        "name": "grunt-nyc-mocha",
+        "description": "grunt task for running tests and coverage, based on nyc and mocha."
+    },
+    {
+        "name": "@greguintow/jest-coverage-badges",
+        "description": "Create a group of coverage badges from jest"
+    },
+    {
+        "name": "@cedx/lcov",
+        "description": "Parse and format to LCOV your code coverage reports."
+    },
+    {
+        "name": "@remotex-labs/xjet",
+        "description": "xJet: Run Automated Tests Anywhere, Effortlessly"
+    },
+    {
+        "name": "jest-code-coverage-protection",
+        "description": "Basic Code Coverage Protection Utility for comparing coverage between branches"
+    },
+    {
+        "name": "@hyperse/vitest-coverage-reporter",
+        "description": "Using gitHub action for creating markdown coverage report, badges from Istanbul json report"
+    },
+    {
+        "name": "headlamp",
+        "description": "Coverage-first, runner-agnostic test UX CLI for Jest"
+    },
+    {
+        "name": "@remotex-labs/xjet-expect",
+        "description": "xJet-Expect: Powerful Assertions for Seamless xJet Testing"
+    },
+    {
+        "name": "babel-plugin-transform-adana",
+        "description": "A better instanbul."
+    },
+    {
+        "name": "liverage",
+        "description": "Makes your code coverage a real time live source"
+    },
+    {
+        "name": "@digest/jest",
+        "description": "Digested Jest configurations"
+    },
+    {
+        "name": "babel-plugin-coverage",
+        "description": "Babel 6.x plugin to add instrument code with Istanbul-compatible `__coverage__` variable."
+    },
+    {
+        "name": "@adso-ts/badges",
+        "description": "Jest coverage badges generator"
+    },
+    {
+        "name": "@cuties/wall",
+        "description": "Quality checker for projects for browser js and Node.js, can be integrated in build process of Page, also can be as stand alone application."
+    },
+    {
+        "name": "nyc-dark",
+        "description": "Dark color scheme CSS files for jest / nyc / istanbul-reports, the full-featured javascript coverage tool."
+    },
+    {
+        "name": "@aicore/libcommonutils",
+        "description": "Common util libraries used by various modules. This library is created to prevent code duplication"
+    },
+    {
+        "name": "karma-istanbul-preprocessor",
+        "description": "Instrument code with istanbul without causing conflict with karma-coverage"
+    },
+    {
+        "name": "lasso-node",
+        "description": "JavaScript widget and page unit testing with on the fly instrumentation"
+    },
+    {
+        "name": "vitest-github-action",
+        "description": "GitHub actions error and coverage reporter for vitest."
+    },
+    {
+        "name": "karma-js-coverage",
+        "description": "A Karma plugin to generate code coverage for JavaScript files. A fork of https://github.com/karma-runner/karma-coverage without the flakey coffee dependencies."
+    },
+    {
+        "name": "mocha-teamcity-cov-reporter",
+        "description": "teamcity code coverage reporter for mocha"
+    },
+    {
+        "name": "jest-puppeteer-istanbul",
+        "description": "Collect code coverage information from end-to-end jest puppeteer tests."
+    },
+    {
+        "name": "lcov-comparer",
+        "description": "Visual diff between two lcov.info reports"
+    },
+    {
+        "name": "web-component-env",
+        "description": "front-end development boilerplate"
+    },
+    {
+        "name": "escover",
+        "description": "Coverage for EcmaScript Modules"
+    },
+    {
+        "name": "katulong",
+        "description": "A npm script runner to make tooling easier between projects"
+    },
+    {
+        "name": "lcov-utils",
+        "description": "LCOV utils: parse, format, merge"
+    },
+    {
+        "name": "comforter-cli",
+        "description": "cli tool for communicating with comforter instance"
+    },
+    {
+        "name": "coveralls-send",
+        "description": "Calls coveralls.io and ignores errors"
+    },
+    {
+        "name": "wdio-coverage-service",
+        "description": "A WebdriverIO plugin for Istanbul-Coverage results via nyc"
+    },
+    {
+        "name": "merge-istanbul",
+        "description": "Merge multiple istanbul coverage reports into one"
+    },
+    {
+        "name": "istanbul-lite",
+        "description": "this zero-dependency package will provide browser-compatible version of istanbul coverage-tool (v0.4.5), with working web-demo"
+    },
+    {
+        "name": "rollup-plugin-istanbul2",
+        "description": "Seamless integration between Rollup and Istanbul."
+    },
+    {
+        "name": "dotest",
+        "description": "One dev dependency to run ESLint, your test.js, coverage and report to Coveralls.io"
+    },
+    {
+        "name": "lcov-badge-generator",
+        "description": "Generate a badge from a lcov report"
+    },
+    {
+        "name": "quick-coverage",
+        "description": "Selective test coverage reporting"
+    },
+    {
+        "name": "playwright-e2e-coverage-report",
+        "description": "Converts playwright e2e test report(json) to a hacky coverage report for use in code coverage"
+    },
+    {
+        "name": "alexa-skill-test-framework",
+        "description": "Framework for easy offline black-box testing of Alexa skills."
+    },
+    {
+        "name": "grunt-gt",
+        "description": "Grunt task for GT - node test runner for QUnit with code coverage"
+    },
+    {
+        "name": "phl",
+        "description": "a thin wrapper around istanbul to support ava test framework."
+    },
+    {
+        "name": "react-baseplate",
+        "description": "Quickly build, document and test react components via a grunt task"
+    },
+    {
+        "name": "@cumulusds/flow-coverage-report",
+        "description": "Generate an HTML report of the flow coverage data"
+    },
+    {
+        "name": "istanbulify",
+        "description": "Simple transform command to instrument your source with istanbul using browserify"
+    },
+    {
+        "name": "wct-istanbul",
+        "description": "Istanbul coverage reporting for projects being tested by web-component-tester"
+    },
+    {
+        "name": "c88",
+        "description": "Code coverage from the future"
+    },
+    {
+        "name": "istanbul-combine-updated",
+        "description": "easily merge coverage data from multiple istanbul runs"
+    },
+    {
+        "name": "savor",
+        "description": "Make your Node Typescript unit testing a piece a cake."
+    },
+    {
+        "name": "buster-istanbul",
+        "description": "buster extension for istanbul code coverage."
+    },
+    {
+        "name": "just-test",
+        "description": "JavaScript tests runner"
+    },
+    {
+        "name": "code-coverage-git-diff",
+        "description": "Application used to check code coverage by tests on added lines (ex. check coverage just on new code in PR)"
+    },
+    {
+        "name": "@codechecks/type-coverage-watcher",
+        "description": "Track missing type coverage in TypeScript projects to ensure type safety"
+    },
+    {
+        "name": "swagger-coverage-cli",
+        "description": "A Node.js CLI tool to measure test coverage of Swagger/OpenAPI specs using Postman collections or Newman run reports. Features smart endpoint mapping with intelligent status code prioritization and enhanced path matching."
+    },
+    {
+        "name": "soltest-cli",
+        "description": "A powerful command-line tool for Solidity smart contract development, testing, and deployment built with Bun"
+    },
+    {
+        "name": "api-coverage-tracker",
+        "description": "A universal library for tracking API coverage against OpenAPI/Swagger specifications from URL or local file. Supports Axis, Fetch, Playwright and manual registry of the responses"
+    },
+    {
+        "name": "@antv/istanbul",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "@jfrolich/bisect_ppx",
+        "description": "Code coverage for OCaml and Reason"
+    },
+    {
+        "name": "karma-extjs",
+        "description": "Use Karma to run tests for Ext JS applications"
+    },
+    {
+        "name": "prunk",
+        "description": "A mocking utility for node.js require"
+    },
+    {
+        "name": "adana-analyze",
+        "description": "Make sense of adana data."
+    },
+    {
+        "name": "karma-istanbul",
+        "description": "A Karma plugin. Generate code coverage with istanbul."
+    },
+    {
+        "name": "cypress-code-coverage-v8",
+        "description": "Saves the code coverage collected during Cypress tests using V8"
+    },
+    {
+        "name": "mocha-sonar-generic-test-coverage-file",
+        "description": "Mocha sonar generic test report integrator"
+    },
+    {
+        "name": "babel-plugin-canyontest",
+        "description": "A Babel plugin cooperates with istanbul to report the coverage"
+    },
+    {
+        "name": "coverage-code-regex",
+        "description": "Regular expression (regex) for matching ugly code that coverage tools add during the test process. Like this one `__cov_Ejgcx$XN18CSfmeWn$f7vQ.f['2']++;`"
+    },
+    {
+        "name": "assert-100",
+        "description": "Assert 100% coverage via nyc"
+    },
+    {
+        "name": "cleanup-coverage-code",
+        "description": "Cleanup ugly code added by code coverage tools during the test process. Like this one `__cov_Ejgcx$XN18CSfmeWn$f7vQ.f['2']++;`."
+    },
+    {
+        "name": "istanbul-middleware-ts",
+        "description": "TypeScript version of Istanbul middleware for code coverage reporting"
+    },
+    {
+        "name": "@chialab/es-test-runner",
+        "description": "Test helpers for ES modules."
+    },
+    {
+        "name": "@jimwong/gulp-istanbul",
+        "description": "Istanbul unit test coverage plugin for gulp."
+    },
+    {
+        "name": "karma-istanbuljs-reporter",
+        "description": "Karma reporter using Istanbul code coverage library"
+    },
+    {
+        "name": "benchtest",
+        "description": "Integrated performance testing and resource tracking (memory, cpu, Promise, socket, etc) for unit testing"
+    },
+    {
+        "name": "@hyperjump/json-schema-coverage",
+        "description": "Test coverage tools for JSON Schema testing"
+    },
+    {
+        "name": "@aicore/libtestutils",
+        "description": "This library contains set of test utilities used by core.ai for running integration tests"
+    },
+    {
+        "name": "browserify-babel-istanbul",
+        "description": "A browserify transform for the babel-istanbul code coverage fork"
+    },
+    {
+        "name": "adana-dump",
+        "description": "Output adana coverage information after node process ends."
+    },
+    {
+        "name": "exam",
+        "description": "Clustered JavaScript test runner with builtin assertions."
+    },
+    {
+        "name": "mocha-spec-cov",
+        "description": "Mocha spec report but with coverage output"
+    },
+    {
+        "name": "jest-coverage-badge",
+        "description": "Create simple coverage badge for your coverage reports"
+    },
+    {
+        "name": "coveradge",
+        "description": "Generate coverage badges during local nyc/istanbul execution"
+    },
+    {
+        "name": "istanbulize",
+        "description": "AST-based conversion from V8 coverage to Istanbul report"
+    },
+    {
+        "name": "web-component-tester-istanbul",
+        "description": "Instanbul coverage reporting for projects being tested by web-component-tester"
+    },
+    {
+        "name": "adana-format-lcov",
+        "description": "Generate lcov coverage from adana data."
+    },
+    {
+        "name": "@technote-space/clover-json",
+        "description": "Parse clover XML coverage reports to JSON, using the same format as lcov-parse"
+    },
+    {
+        "name": "@start/plugin-lib-codecov",
+        "description": "💯 Send code coverage report to codecov.io"
+    },
+    {
+        "name": "@electrovir/nyc",
+        "description": "the Istanbul command line interface"
+    },
+    {
+        "name": "@joshjohanning/make-coverage-badge-better",
+        "description": "Create a coverage badge - but better"
+    },
+    {
+        "name": "khutzpa",
+        "description": "Node powered, cross-platform, drop-in replacement for Chutzpah.exe"
+    },
+    {
+        "name": "@aicore/cocodb-ws-client",
+        "description": "Websocket client for cocoDb"
+    },
+    {
+        "name": "jasminetea",
+        "description": "Unfancy Jasmine2 in Node.js"
+    },
+    {
+        "name": "mocoverage",
+        "description": "a mocha reporter with coverage using blanket."
+    },
+    {
+        "name": "patched-blanket",
+        "description": "Blanket.js patched to work with iojs and newer mocha."
+    },
+    {
+        "name": "avcoveralls",
+        "description": "takes json-cov output into stdin and POSTs to coveralls.io"
+    },
+    {
+        "name": "flow-bro",
+        "description": "Your personal flow type helper with features like coverage and watch mode"
+    },
+    {
+        "name": "vineguard-harvest-planner",
+        "description": "VineGuard Test Planner - Creates comprehensive test strategies with MSW API mocking and Page Object Model patterns for Playwright/Cypress"
+    },
+    {
+        "name": "electabul",
+        "description": "Istanbul helpers for Electron apps"
+    },
+    {
+        "name": "codecov-json-to-lcov",
+        "description": "convert Codecov json format to lcov format."
+    },
+    {
+        "name": "@scaffit/jest",
+        "description": "Jest unit testing setup with framework-specific configurations for Next.js, React, Vue, Angular, Svelte, Express, Fastify, Node.js projects"
+    },
+    {
+        "name": "@martinhrvn/jest-it-up",
+        "description": "Automatically bump up global Jest thresholds whenever coverage goes above them"
+    },
+    {
+        "name": "@aicore/libmysql",
+        "description": "MySql Library used by core.ai to write to DB"
+    },
+    {
+        "name": "coverage-slackify",
+        "description": "The `coverage-slackify` package allows you to effortlessly integrate code coverage summaries and build details into your Slack workflow. It simplifies the process of notifying your team about the health of your project's test coverage."
+    },
+    {
+        "name": "@ones-design/coverage-report",
+        "description": "ONES Design Coverage Report Action"
+    },
+    {
+        "name": "@hd-forks/v8-to-istanbul",
+        "description": "convert from v8 coverage format to istanbul's format"
+    },
+    {
+        "name": "@aicore/coco-db-client",
+        "description": "JS client for cocoDb"
+    },
+    {
+        "name": "grunt-blanket",
+        "description": "Instruments files with Blanket.js"
+    },
+    {
+        "name": "c8js",
+        "description": "A modern, asynchronous Node.js API for c8"
+    },
+    {
+        "name": "@nevware21/coverage-tools",
+        "description": "Tools for merging coverage reports."
+    },
+    {
+        "name": "benderjs-coverage",
+        "description": "Code coverage plugin for Bender.js"
+    },
+    {
+        "name": "cov",
+        "description": "Mocha Coverage report store on CDN."
+    },
+    {
+        "name": "gulp-jsx-coverage",
+        "description": "Enable istanbul coverage on ES2015/babel or coffee-script/cjsx files when you do mocha/jasmine tests, also deal with sourceMap for coverage report and stack trace."
+    },
+    {
+        "name": "@jimwong/istanbul-lib-instrument",
+        "description": "基于 istanbul-lib-instrument@1.10.1，在它的功能上增加了："
+    },
+    {
+        "name": "cypress-code-coverage",
+        "description": "Saves the code coverage collected during Cypress tests"
+    },
+    {
+        "name": "@theintern/istanbul-loader",
+        "description": "A webpack loader that adds code coverage instrumentation"
+    },
+    {
+        "name": "cobertura-diff-coverage",
+        "description": "Compares the cobertura.xml file with a diff patch and verify the coverage percentage for changed code"
+    },
+    {
+        "name": "@vodyani/coverage-report",
+        "description": "📚 During jest testing, it was used to generate mochawesome compliant json formatted reports."
+    },
+    {
+        "name": "riko-cli",
+        "description": "Webpack Build System for React JS Projects (web & electron)"
+    },
+    {
+        "name": "@principal-ai/vanta-sdk",
+        "description": "SDK for interacting with Vanta API for compliance and security monitoring, with GitHub coverage calculator integration"
+    },
+    {
+        "name": "@snps/stakeholder",
+        "description": "Comprehensive stakeholder reporting package for generating beautiful documents and reports covering tests, coverage, performance, lighthouse reports, and more"
+    },
+    {
+        "name": "wct-istanbub",
+        "description": "Instanbuljs coverage reporting for projects being tested by web-component-tester"
+    },
+    {
+        "name": "grunt-js-test",
+        "description": "Grunt task for running client-side, mocha-based unit tests in PhantomJS with code coverage reports"
+    },
+    {
+        "name": "generator-gruntproject",
+        "description": "Yeoman generator for a Grunt ready project"
+    },
+    {
+        "name": "danger-plugin-istanbul-coverage-branchestrue",
+        "description": "Danger.js plugin for monitoring istanbul code coverage on changed files. Forked by Jace Simons to add support for new branchesTrue key in json coverage reports."
+    },
+    {
+        "name": "nyc-config-common",
+        "description": "A reusable nyc configuration to improve common workflow"
+    },
+    {
+        "name": "was-tested",
+        "description": "Code coverage proxy"
+    },
+    {
+        "name": "codeclimate-hook",
+        "description": "Publish code coverage to Code Climate"
+    },
+    {
+        "name": "@oorabona/vitest-monocart-coverage",
+        "description": "A Vitest custom coverage provider that integrates with Monocart coverage reporting"
+    },
+    {
+        "name": "html-file-cov",
+        "description": "Mocha html-cov reporter replacement which writes to a file"
+    },
+    {
+        "name": "force-coverage",
+        "description": "Force.com test coverage tooling"
+    },
+    {
+        "name": "sl-node-cover",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "gulp-coffee-istanbul",
+        "description": "Istanbul coffee and js unit test coverage plugin for gulp."
+    },
+    {
+        "name": "nikitas-badges",
+        "description": "some badges I made to be used with local-badges"
+    },
+    {
+        "name": "lcov-badge",
+        "description": "Generate a badge from a Lcov report"
+    },
+    {
+        "name": "newman-reporter-openapi",
+        "description": "Newman reporter for OpenAPI coverage"
+    },
+    {
+        "name": "grunt-jasmine-node-coverage-validation",
+        "description": "Grunt task for jasmine-node using istanbul for code coverage. Validates coverage configuration and fails the task for under coverage. Based off of grunt-jasmine-node-coverage by Jarrod Ribble."
+    },
+    {
+        "name": "web-caddy",
+        "description": "Create, build, test, Serve and Release. Quickly"
+    },
+    {
+        "name": "@aicore/template-nodejs",
+        "description": "Template for nodejs with unit gulp build, test, coverage, code guardian, github and Other defaults"
+    },
+    {
+        "name": "jsforce-deploy-reporter",
+        "description": "Take a Salesforce metadata deploy result and get code coverage and test result reports!"
+    },
+    {
+        "name": "@kitmi/tester",
+        "description": "JavaScript application unit test framework"
+    },
+    {
+        "name": "@dragonshorn-studios/elyseum-cli",
+        "description": "A CLI tool for coverage reporting"
+    },
+    {
+        "name": "grunt-appc-coverage",
+        "description": "Grunt task to load coverage results and submit them to coverage.appcelerator.com"
+    },
+    {
+        "name": "istanbul-coverage-danger-plugin",
+        "description": "Danger.js plugin for monitoring istanbul code coverage on changed files. This is a fork from the original danger-plugin-istanbul-coverage."
+    },
+    {
+        "name": "wrapper-valorant-api",
+        "description": "A wrapper for the official Valorant Api."
+    },
+    {
+        "name": "cover-it",
+        "description": "A package for test coverage."
+    },
+    {
+        "name": "gulp-codecov.io",
+        "description": "Gulp plugin to submit code coverage to Codecov.io"
+    },
+    {
+        "name": "mocha-spec-cov-alt",
+        "description": "Mocha/blanket spec coverage reporter and enforcer."
+    },
+    {
+        "name": "prism-playwright-js",
+        "description": "Visualize test coverage over the AUT (Application Under Test)"
+    },
+    {
+        "name": "might-cli",
+        "description": "A no-code solution for performing frontend tests"
+    },
+    {
+        "name": "testaged-coverage",
+        "description": "Utility script to run tests and verify coverage threshold for stages files"
+    },
+    {
+        "name": "liverage-client",
+        "description": "HTML client for watching live code coverage updates"
+    },
+    {
+        "name": "ct-danger-plugin-istanbul-coverage",
+        "description": "Danger.js plugin for monitoring istanbul code coverage on changed files."
+    },
+    {
+        "name": "@jimwong/grunt-istanbul",
+        "description": "JavaScript codecoverage tool for Grunt"
+    },
+    {
+        "name": "@blockquote/test-runner-mocha-style-reporter",
+        "description": "Mocha-Style reporter for @web/test-runner"
+    },
+    {
+        "name": "turbo-test-runner",
+        "description": "Turbo the node.js Test Runner"
+    },
+    {
+        "name": "playwright-test-coverage-native",
+        "description": "Extends Playwright for measuring code-coverage (built-in v8 coverage, no Istanbul)"
+    },
+    {
+        "name": "ibrik-instrumenter-loader",
+        "description": "Ibrik instrumenter loader for webpack"
+    },
+    {
+        "name": "readme-shields-sync",
+        "description": "Auto-insert and keep Shields.io badges in README.md across ecosystems (Javascript, TypeScript, Python, Rust, Go)."
+    },
+    {
+        "name": "lichtenberg",
+        "description": "A tracing program for your JavaScript apps."
+    },
+    {
+        "name": "total-coverage",
+        "description": "Parse LCOV file and return total coverages"
+    },
+    {
+        "name": "@reversense/interruptor",
+        "description": "A Frida-based library for hook system call (and interrupts) and produce strace-like output "
+    },
+    {
+        "name": "@automated/automated",
+        "description": "Use-case-oriented testing"
+    },
+    {
+        "name": "qmemory",
+        "description": "A comprehensive production-ready Node.js utility library with MongoDB document operations, user ownership enforcement, Express.js HTTP utilities, environment-aware logging, and in-memory storage. Features 96%+ test coverage with comprehensive error handli"
+    },
+    {
+        "name": "ui-coverage-tool-js",
+        "description": "**UI Coverage Tool** is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots. The tool collects coverage during UI test execution and generates an interactive HTML re"
+    },
+    {
+        "name": "trixly",
+        "description": "Universal TypeScript 2.0 Pre starter kit for Angular 2 and React"
+    },
+    {
+        "name": "git-diff-code-coverage",
+        "description": "Application used to check code coverage by tests on added lines (ex. check coverage just on new code in PR)"
+    },
+    {
+        "name": "comment-value",
+        "description": "Instruments a Node program and updates its comments with computed expression values"
+    },
+    {
+        "name": "react-3d-room-scene",
+        "description": "React 3D Room Scence"
+    },
+    {
+        "name": "@sldm/dev-reports",
+        "description": "Beautiful development reports for bundle size, tests, coverage, and more"
+    },
+    {
+        "name": "jstandard",
+        "description": "Common data structures implementation for javascript"
+    },
+    {
+        "name": "jest-cpf",
+        "description": "Generates a coverage per file overview"
+    },
+    {
+        "name": "jest-bluster",
+        "description": "Test both promises and callbacks in one go"
+    },
+    {
+        "name": "proto-coverage-reporter",
+        "description": "Jest custome reporter for gRPC server E2E testing"
+    },
+    {
+        "name": "@start/plugin-lib-istanbul",
+        "description": "💯 Collect, report and check code coverage using Istanbul"
+    },
+    {
+        "name": "reportage",
+        "description": "Scenarist-wrapped mocha sessions on browsers to any reporters"
+    },
+    {
+        "name": "grunt-code-quality-report",
+        "description": "Grunt code quality reporter"
+    },
+    {
+        "name": "@vroskus/config-web",
+        "description": "Tool for preparing config.js file"
+    },
+    {
+        "name": "@vroskus/bump-flow-coverage-threshold",
+        "description": "Tool for bumping flow static type check coverage threshold value in package.json"
+    },
+    {
+        "name": "@rianbotha/coverage-summary",
+        "description": "Summarizes istanbul coverage report for specified folders."
+    },
+    {
+        "name": "karma-typescript-egjs",
+        "description": "Simplifying running unit tests with coverage for Typescript projects."
+    },
+    {
+        "name": "lcoview",
+        "description": "LCOV coverage report viewer that generates interactive HTML reports with file filtering"
+    },
+    {
+        "name": "@achil/istanbul-lib-instrument",
+        "description": "Core istanbul API for JS code coverage"
+    },
+    {
+        "name": "@enterthenamehere/esdoc-coverage-plugin",
+        "description": "A coverage plugin for ESDoc"
+    },
+    {
+        "name": "node-module-boilerplate",
+        "description": "My template for node modules with lint, tests, code coverage, type checking, CI, semantic release and interoperability between ES6 modules and CommonJs."
+    },
+    {
+        "name": "@continuit/testreport",
+        "description": "Generates a test report and badges from your test and coverage results. Allows checking the report in your CI pipeline."
+    },
+    {
+        "name": "zeriousify",
+        "description": "A module for maintaining adherence to the Zerious Module Standard"
+    },
+    {
+        "name": "jest-coverage-guard",
+        "description": "jest coverage guard"
+    },
+    {
+        "name": "@jimwong/nyc",
+        "description": "the Istanbul command line interface"
+    },
+    {
+        "name": "@newerty/core",
+        "description": ""
+    },
+    {
+        "name": "coverage-svg",
+        "description": "coverage % tag as svg generated for istambul unit test coverage provider"
+    },
+    {
+        "name": "nutra-jasmine-coverage-babel-preset",
+        "description": "The \"nutra-jasmine-coverage-babel-preset\" module makes available the \"jasmine\" framework, \"Istanbul\" code coverage tool, \"babel\" transpiler, and \"commonjs\" module loader to the \"N.U.T.R.A.\" unit test runner."
+    },
+    {
+        "name": "monorepo-coverage-badges",
+        "description": "Generate coverage badges for monorepos"
+    },
+    {
+        "name": "@canterbury-air-patrol/marine-search-area-coverage",
+        "description": "Marine Search Area Coverage Calculator"
+    },
+    {
+        "name": "hubot-coveralls",
+        "description": "Hubot script for Coveralls WebHook Notification."
+    },
+    {
+        "name": "nehoid",
+        "description": "Advanced unique ID generation utility with multi-layer encoding, collision detection, and context-aware features"
+    },
+    {
+        "name": "eslint-plugin-istanbul-ignore-preserve",
+        "description": "Make sure istanbul include a @preserve keyword in the ignore hint."
+    },
+    {
+        "name": "create-test-app",
+        "description": "A scaffolding CLI to make your project tested by Jest and with coverage enabled."
+    },
+    {
+        "name": "@sebastianwessel/esdoc-coverage-plugin",
+        "description": "A coverage plugin for ESDoc"
+    },
+    {
+        "name": "@danielx/coffeecoverage",
+        "description": "Istanbul and JSCoverage-style instrumentation for CoffeeScript files."
+    },
+    {
+        "name": "bluster",
+        "description": "Test both promises and callbacks in one go"
+    },
+    {
+        "name": "github-badge-action",
+        "description": "Create a badge using GitHub Actions inputs & outputs, and save it into a file"
+    },
+    {
+        "name": "js-unit",
+        "description": "A javascript unit testing tool inspired by the famous PHPUnit framework. This tool uses jasmine internally to run the tests"
+    },
+    {
+        "name": "generator-fed",
+        "description": "Yeoman generator for Frontend Development with Browserify and SASS Composer."
+    },
+    {
+        "name": "cobertura-merger",
+        "description": "Merge multiple cobertura code coverage reports"
+    },
+    {
+        "name": "@peterprint/test-keeper",
+        "description": "A lightweight guard that just checks for the presence of test/story files"
+    },
+    {
+        "name": "@aicore/cocodb",
+        "description": "Simple json document database using mysql"
+    },
+    {
+        "name": "eams-scripts",
+        "description": "A utility to easily build, test, apply eslint and prettier to your react projects"
+    },
+    {
+        "name": "coberturaJS",
+        "description": "code coverage tool for node.js"
+    },
+    {
+        "name": "mocha-allure-teamcity-reporter",
+        "description": "Allure reporter for Mocha that produces reports for both TeamCity and Allure at the same time."
+    },
+    {
+        "name": "@endosama/bisect_ppx",
+        "description": "Code coverage for OCaml and Reason"
+    },
+    {
+        "name": "incremental-coverage",
+        "description": "Merge lcov.info and get incremental coverage and full coverage"
+    },
+    {
+        "name": "generator-node-adv",
+        "description": "A generator for Yeoman. This generator will create a NodeJS project. It has some advanced features (hence the name)."
+    },
+    {
+        "name": "@madrus/vitest-mcp-server",
+        "description": "Advanced Model Context Protocol (MCP) server for Vitest testing with intelligent resources, coverage analysis, and AI-assisted development workflows"
+    },
+    {
+        "name": "istanbub",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "test-turtle",
+        "description": "This package a simple language-agnostic test runner which uses memoization based on file dependency information provided by the user. The problem that this package is trying to solve is avoiding to re-test files that are known to be unaffected by a change"
+    },
+    {
+        "name": "coverage-viewer",
+        "description": "Create a static website for exploring your project’s coverage statistics"
+    },
+    {
+        "name": "sfdc-travisci-coveralls",
+        "description": "Runs a Salesforce project's Apex tests in TravisCI then reports overall coverage results to Coveralls"
+    },
+    {
+        "name": "@vroskus/compare-coverage-thresholds",
+        "description": "Tool for comparing code coverage thresholds values in package.json agaist the generated json coverage summary report."
+    },
+    {
+        "name": "@alexbosworth/nyc",
+        "description": "the Istanbul command line interface"
+    },
+    {
+        "name": "fetch-coverage",
+        "description": "Fetch the code coverage from an open-source GIT repository, using a variety of well-known coverage services"
+    },
+    {
+        "name": "@bemedev/vitest-exclude",
+        "description": "Exclude files for test and coverage, more dev-friendly"
+    },
+    {
+        "name": "nutra",
+        "description": "The \"nutra\" module is a simple, extendable unit test runner for node."
+    },
+    {
+        "name": "@ngageoint/opensphere-coverage-loader",
+        "description": "Webpack loader to instrument code coverage"
+    },
+    {
+        "name": "@symbolism/cli",
+        "description": "Coverage assertions for specific code tokens."
+    },
+    {
+        "name": "@wojtek1150/instanbul",
+        "description": "[![Build Status](https://secure.travis-ci.org/gotwarlost/istanbul.svg?branch=master)](http://travis-ci.org/gotwarlost/istanbul) [![Dependency Status](https://gemnasium.com/gotwarlost/istanbul.svg)](https://gemnasium.com/gotwarlost/istanbul) [![Coverage St"
+    },
+    {
+        "name": "@seantrane/nyc-config-typescript-70",
+        "description": "An extendable istanbuljs/nyc configuration for TypeScript, requiring 70% code coverage"
+    },
+    {
+        "name": "component-helper",
+        "description": "Create, build, test, serve and release small and large projects quickly"
+    },
+    {
+        "name": "nutra-coverage",
+        "description": "The \"nutra-coverage\" module is an adaption of the Istanbul code coverage for \"N.U.T.R.A.\" unit test runner."
+    },
+    {
+        "name": "@alphakretin/mocha-ecosystem",
+        "description": "Testing and coverage framework with all plugins for Dawnbrand projects."
+    },
+    {
+        "name": "wrightplay",
+        "description": "playwright, but unit test"
+    },
+    {
+        "name": "babel7-istanbul",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "@jbrower95/bsan",
+        "description": "Block Sanitizer: Assert on-chain state changes in your truffle tests."
+    },
+    {
+        "name": "@atakama/cover-diff",
+        "description": "coverage reporter and enforcer for diffs only"
+    },
+    {
+        "name": "clipcover",
+        "description": "Closure Library style test and coverage"
+    },
+    {
+        "name": "@seantrane/nyc-config-typescript-60",
+        "description": "An extendable istanbuljs/nyc configuration for TypeScript, requiring 60% code coverage"
+    },
+    {
+        "name": "mock-user-auth",
+        "description": "Mock-User-Auth is a mock user authentication API developed in Nodejs and Express using JWT as authenticator"
+    },
+    {
+        "name": "@taservers/lest",
+        "description": "Painless Lua testing."
+    },
+    {
+        "name": "grunt-codeclimate-reporter",
+        "description": "Send your coverage to codeclimate."
+    },
+    {
+        "name": "generator-backend-scaffolder",
+        "description": "Scaffolder for backend code, covering testing, code coverage, doctests and linting"
+    },
+    {
+        "name": "protractor-e2e-coverage",
+        "description": "Protractor plugin for E2E coverage"
+    },
+    {
+        "name": "@in-ch/setup",
+        "description": "A tool for quick setup and configuration of essential project files."
+    },
+    {
+        "name": "kube-f",
+        "description": "A framework for easy scaling through namespaces"
+    },
+    {
+        "name": "riko",
+        "description": "Webpack Build System for React JS Projects (web & electron)"
+    },
+    {
+        "name": "doloremqueofficia",
+        "description": "seamless js code coverage"
+    },
+    {
+        "name": "karma-pierce-reporter",
+        "description": "An alternative interface for coverage reports generated by Istanbul."
+    },
+    {
+        "name": "@seantrane/nyc-config-typescript-90",
+        "description": "An extendable istanbuljs/nyc configuration for TypeScript, requiring 90% code coverage"
+    },
+    {
+        "name": "@aicore/libcache",
+        "description": "Cache library for core.ai services"
+    },
+    {
+        "name": "ts-file-coverage",
+        "description": "Analyze TypeScript adoption in your codebase with framework-specific breakdowns and color-coded coverage reports"
+    },
+    {
+        "name": "generator-py",
+        "description": "Yeoman generator to create a python project with test/coverage ready"
+    },
+    {
+        "name": "smart-cov",
+        "description": "JS code coverage tool that computes statement, function and branch coverage"
+    },
+    {
+        "name": "jest-auto-shard",
+        "description": "Automatic test sharding for Jest with zero configuration. Intelligently distributes tests across multiple runners and merges coverage reports seamlessly."
+    },
+    {
+        "name": "tradie-plugin-coverage",
+        "description": "Adds code coverage to `tradie`."
+    },
+    {
+        "name": "n8n-nodes-canopyrate",
+        "description": "N8N node for calculating rice canopy coverage rate"
+    },
+    {
+        "name": "smpl-build-test",
+        "description": "Collection of testing scripts for node/browser projects"
+    },
+    {
+        "name": "generator-angular-jeej",
+        "description": "Yeoman generator"
+    },
+    {
+        "name": "@smashwilson/codecov",
+        "description": "Uploading report to Codecov: https://codecov.io"
+    },
+    {
+        "name": "karma-coffee-coverage",
+        "description": "Plugins for Karma to use the coffee-coverage tool"
+    },
+    {
+        "name": "@berlund/openapicoverage",
+        "description": "A simple tool for measuring test coverage on OpenApi specifications"
+    },
+    {
+        "name": "@bschauer/webtools-mcp-server",
+        "description": "MCP server providing web analysis tools including screenshot, debug, performance, security, accessibility, SEO, and asset optimization capabilities"
+    },
+    {
+        "name": "@spmeesseman/test-utils",
+        "description": "Unit Testing utilities including best and slowest time tracking"
+    },
+    {
+        "name": "docdash-coverage",
+        "description": "docdash with nyc's coverage."
+    },
+    {
+        "name": "css-coverage",
+        "description": "[![Greenkeeper badge](https://badges.greenkeeper.io/philschatz/css-coverage.js.svg)](https://greenkeeper.io/)"
+    },
+    {
+        "name": "angular-templates-code-coverage",
+        "description": "Provides code coverage for angular templates"
+    },
+    {
+        "name": "wdio-openapi-service",
+        "description": "WebdriverIO service for OpenAPI coverage tracking"
+    },
+    {
+        "name": "cover-child-process",
+        "description": "Collect coverage data from child processes"
+    },
+    {
+        "name": "karma-uiuxengineering-jspm",
+        "description": "Include jspm module loader for karma runs; allows dynamic loading of src and test files and modules"
+    },
+    {
+        "name": "@bitbybit/configurable",
+        "description": "Configuration mixin for composition pattern"
+    },
+    {
+        "name": "ga-echidna-coverage",
+        "description": "Enhanced Echidna coverage analysis with scope-based reporting, logical coverage, and smart filtering"
+    },
+    {
+        "name": "maskpassword",
+        "description": "Suggestions for passwords that change with datetime."
+    },
+    {
+        "name": "workspace-lcov-aggregate",
+        "description": "Aggregates multiple LCOV results into one inside an monorepo."
+    },
+    {
+        "name": "istanbul-traceur",
+        "description": "Provides alternative version of Istanbul which supports Traceur."
+    },
+    {
+        "name": "rollup-plugin-coverage",
+        "description": "Istanbul unit test coverage plugin for Rollup."
+    },
+    {
+        "name": "gulp-css-usage",
+        "description": "A Gulp task which scans your JavaScript classes, including React JSX files support (.jsx/.js), as well as HTML files, your CSS files, and gives you a report of CSS coverage. i.e how many class names are needless and which are those class names."
+    },
+    {
+        "name": "@nodecov/cli",
+        "description": "The coverage report transporter tool for nodecov"
+    },
+    {
+        "name": "@seantrane/nyc-config-typescript-80",
+        "description": "An extendable istanbuljs/nyc configuration for TypeScript, requiring 80% code coverage"
+    },
+    {
+        "name": "istanbul-instrumenter-loader-fix",
+        "description": "Istanbul instrumenter loader for webpack"
+    },
+    {
+        "name": "react-savor",
+        "description": "A simple way of adding tests (and more) to your React apps"
+    },
+    {
+        "name": "petrol",
+        "description": "A javascript unit testing tool designed to be simple, to install it and start writing tests. that's it. No webpack, No karma. No distractions."
+    },
+    {
+        "name": "@ttvuong/code-coverage",
+        "description": "Comprehensive code coverage measurement and reporting tool for TypeScript and JavaScript projects"
+    },
+    {
+        "name": "@ollelauribostrom/hindex",
+        "description": "Wrap your reports in an index.html file with a single command"
+    },
+    {
+        "name": "mocha-phantom-coverage-reporter",
+        "description": "PhantomJS LCOV reporter for Mocha"
+    },
+    {
+        "name": "nw-test-runner",
+        "description": "Test runner for node webkit with mocha, chai and Istabul."
+    },
+    {
+        "name": "nutra-jasmine-coverage-preset",
+        "description": "The \"nutra-jasmine-coverage-preset\" module makes available the \"jasmine\" framework, \"Istanbul\" code coverage tool, and \"commonjs\" module loader to the \"N.U.T.R.A.\" unit test runner."
+    },
+    {
+        "name": "ry-istanbul-web",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "node-build",
+        "description": "An ant like build tool for nodejs without the xml hassle"
+    },
+    {
+        "name": "endpoint-coverage",
+        "description": "Allows checking the API endpoint coverage of you server."
+    },
+    {
+        "name": "coverage-blamer",
+        "description": "coverage-blamer is tool for get information about authors of uncovered code"
+    },
+    {
+        "name": "@packasso/coverage",
+        "description": "coverage preset"
+    },
+    {
+        "name": "coverage-badge-svg",
+        "description": "Create SVG badges from code coverage reports, with support for monorepo."
+    },
+    {
+        "name": "@nsf-open/ember-cli-sonarqube",
+        "description": "Sonarqube analysis integration for Ember projects."
+    },
+    {
+        "name": "ts-istanbul-lib-coverage",
+        "description": "Data library for istanbul coverage objects"
+    },
+    {
+        "name": "@stelynx/dart-full-coverage",
+        "description": "A GitHub Actions action for allowing coverage test tool to see all Dart files"
+    },
+    {
+        "name": "tape-istanbul",
+        "description": "Print and parse code coverage with tape tests"
+    },
+    {
+        "name": "grunt-simple-istanbul",
+        "description": "A grunt wrapper for istanbul"
+    },
+    {
+        "name": "@qualipsolutions/buncover",
+        "description": "A cross-platform CLI tool for collecting, analyzing, and reporting test coverage data for Bun projects. BunCover helps you track and improve your test coverage with real-time reporting and historical data analysis."
+    },
+    {
+        "name": "babel-plugin-instrument-istanbul",
+        "description": "Babel 6.x plugin to add instrument code with Istanbul-compatible `__coverage__` variable."
+    },
+    {
+        "name": "@glideapps/vitest-v8-json-coverage-summary",
+        "description": "A plugin for vitest that generates a coverage summary in json format"
+    },
+    {
+        "name": "sosia",
+        "description": "Sosia is a visual regression tool, powered by component snapshots"
+    },
+    {
+        "name": "@appngo-sk/mocha-chai",
+        "description": "Dependencies for testing typescript modules."
+    },
+    {
+        "name": "sl-gulp",
+        "description": "Sealights plugin for gulp."
+    },
+    {
+        "name": "steamshovel",
+        "description": "Code Coverage Done Right!"
+    },
+    {
+        "name": "istanbul-phabricator-reporter",
+        "description": "istanbuljs reporter for the Phabricator code coverage format."
+    },
+    {
+        "name": "coverage-enforcer",
+        "description": ""
+    },
+    {
+        "name": "mocha-json-to-file",
+        "description": "Prints test results in JSON and outputs to file. "
+    },
+    {
+        "name": "grunt-mocha-blanket",
+        "description": "Headless Blanket.js code coverage and Mocha testing via PhantomJS"
+    },
+    {
+        "name": "swc-plugin-fix-decorator-metadata-cov",
+        "description": ""
+    },
+    {
+        "name": "caitai-security-test-framework",
+        "description": "A comprehensive test framework with security testing, coverage reporting, and multiple test categories"
+    },
+    {
+        "name": "prism-playwright",
+        "description": "Visualize test coverage over the AUT (Application Under Test)"
+    },
+    {
+        "name": "package-skeleton",
+        "description": "Skeleton of a simple NPM Package with Babel and CI already configured."
+    },
+    {
+        "name": "generator-react-webpack-scaffold",
+        "description": "Yeoman generator for generating the boilerplate of React Webpack application with Karma Mocha testing frameworks."
+    },
+    {
+        "name": "apicover",
+        "description": "Reserved package for API coverage tools (Playwright, Swagger/OpenAPI)"
+    },
+    {
+        "name": "@jaxcoder/pharo-acm",
+        "description": "Pharo ACM contracts for integrations"
+    },
+    {
+        "name": "node-alice",
+        "description": "Get a visualization of the call stack during the lifetime of a request."
+    },
+    {
+        "name": "clairvoyance",
+        "description": "A css code coverage tool"
+    },
+    {
+        "name": "wonder-jest-cli",
+        "description": "Delightful JavaScript Testing."
+    },
+    {
+        "name": "covertools",
+        "description": "Tools for work with coverage files (Bioinformatics)"
+    },
+    {
+        "name": "mocha-with-coverage",
+        "description": "Run mocha with istanbul and report coverage of untested files"
+    },
+    {
+        "name": "@seantrane/nyc-config-typescript",
+        "description": "An extendable istanbuljs/nyc configuration for TypeScript"
+    },
+    {
+        "name": "@perftools/purgecss",
+        "description": "Chrome Dev Tools Coverage JSON Css Purger. Parses json and purge css files with used classes."
+    },
+    {
+        "name": "@drahman/web-component-tester-istanbul",
+        "description": "Instanbul coverage reporting for projects being tested by web-component-tester"
+    },
+    {
+        "name": "coverage-inspect",
+        "description": "Node.js App running code coverage inspect"
+    },
+    {
+        "name": "@blockquote/coverage-table-reporter",
+        "description": "Adding a simple coverage table to your web-test-runner reporters"
+    },
+    {
+        "name": "@aicore/wasabi-storage-lib",
+        "description": "Template for nodejs with unit gulp build, test, coverage, code guardian, github and Other defaults"
+    },
+    {
+        "name": "gulp-toolbox-pipe-coverage-istanbul",
+        "description": "pipe for coverage checks with istanbul"
+    },
+    {
+        "name": "@jpmoorhouse/paint-calculators",
+        "description": "Professional painting calculation tools and APIs"
+    },
+    {
+        "name": "karma-extjs-jasmine-tester",
+        "description": "Use Karma to run tests for Ext JS modern applications"
+    },
+    {
+        "name": "crap.js",
+        "description": "Complete React Application Platform for JS"
+    },
+    {
+        "name": "tested-commits",
+        "description": "JavaScript code coverage split by commit"
+    },
+    {
+        "name": "@lui-design/coverage-report",
+        "description": "lui Coverage Report Action"
+    },
+    {
+        "name": "@aicore/elasticsearch-lib",
+        "description": "Elastic Search helper module for Javascript"
+    },
+    {
+        "name": "esnext-coverage-analytics",
+        "description": "Analytics package for esnext-coverage"
+    },
+    {
+        "name": "generator-clearphp",
+        "description": "Scaffold for Composer based PHP projects with a lot of integrations, advocating the use of The Clear Architecture (https://jkphl.is/articles/clear-architecture-php)"
+    },
+    {
+        "name": "karma-coverage-es6",
+        "description": "A Karma plugin. Generate code coverage with support of ES6"
+    },
+    {
+        "name": "test-slsa-publish",
+        "description": "output coverage reports using Node.js' built in coverage"
+    },
+    {
+        "name": "nyc-text-summary-avg",
+        "description": "Computes the average coverage from the nyc's text-summary report."
+    },
+    {
+        "name": "jest-playwright-istanbul",
+        "description": "Collect code coverage information from end-to-end jest chromium tests."
+    },
+    {
+        "name": "@sealights/sl-node-cover",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "webpack-istanbul-plugin",
+        "description": "istanbul code coverage plugin for webpack"
+    },
+    {
+        "name": "@antonytejakusuma/v8-to-istanbul",
+        "description": "convert from v8 coverage format to istanbul's format"
+    },
+    {
+        "name": "istanbul-azure-reporter",
+        "description": "Code coverage HTML reporter with Azure DevOps limitations in mind"
+    },
+    {
+        "name": "gulp-instrument",
+        "description": "Gulp plugin for instrumenting code using jscoverage (or other instrumentation engine)."
+    },
+    {
+        "name": "@clowd/suggest-test",
+        "description": "A clover.xml parser to suggest the next unit test to write"
+    },
+    {
+        "name": "map-coverage",
+        "description": "Generate coverage files from your source maps"
+    },
+    {
+        "name": "teststate",
+        "description": "Create immutable test state before each test case."
+    },
+    {
+        "name": "@rhino-ai/orchard9-thm",
+        "description": "A strongly opinionated tool to monitor the health of TypeScript projects"
+    },
+    {
+        "name": "lcov-parser",
+        "description": "To Parse LCOV file and print in the console"
+    },
+    {
+        "name": "coverage-diff-back",
+        "description": "Send the coverage difference back to the github on each pull requests"
+    },
+    {
+        "name": "iced-coffee-coverage",
+        "description": "Istanbul and JSCoverage-style instrumentation for Iced CoffeeScript files."
+    },
+    {
+        "name": "@vyapti/parser",
+        "description": "lcov coverage parser for files and streams"
+    },
+    {
+        "name": "@rakwireless/field-tester-server",
+        "description": "Field tester server node compatible with disk91 implementation"
+    },
+    {
+        "name": "nhcx-fhir-coverage-eligibility",
+        "description": "NHCX FHIR CoverageEligibilityRequest resource creation and validation library."
+    },
+    {
+        "name": "grunt-coffeecov",
+        "description": "Grunt task to compile CoffeeScript to Javascript with JSCoverage-compatible instrumentation for code coverage"
+    },
+    {
+        "name": "example-calculator",
+        "description": "A simple calculator package developed as an exemplary, educational project using a range of libraries and external tools"
+    },
+    {
+        "name": "@bytedance/babel-coverage-plugin",
+        "description": "基于 Babel 的覆盖率工具，支持全量上报前端代码覆盖率"
+    },
+    {
+        "name": "@selikhovalexey/jest",
+        "description": "Delightful JavaScript Testing."
+    },
+    {
+        "name": "package-foundation",
+        "description": "Skeleton for a simple NPM Package with ES2015 support and CI already configured."
+    },
+    {
+        "name": "@eclipsejs/cli",
+        "description": "Inject environment variables on runtime"
+    },
+    {
+        "name": "gulp-test",
+        "description": "All-in-one unit, lint, coverage & complexity tester"
+    },
+    {
+        "name": "@hugsylabs/plugin-test",
+        "description": "Test execution support for Hugsy - testing frameworks and coverage"
+    },
+    {
+        "name": "covermy",
+        "description": "show uncovered lines that were edited by you that are in files changed in your current branch/pull"
+    },
+    {
+        "name": "@bytedance/coverage-uploader",
+        "description": "An e2e coverage suite for frontend."
+    },
+    {
+        "name": "gulp-codeclimate-reporter",
+        "description": "[![Build Status](https://travis-ci.org/MrBoolean/gulp-codeclimate-reporter.svg)](https://travis-ci.org/MrBoolean/gulp-codeclimate-reporter) [![Code Climate](https://codeclimate.com/github/MrBoolean/gulp-codeclimate-reporter/badges/gpa.svg)](https://codecl"
+    },
+    {
+        "name": "mocha-coveralls-reporter",
+        "description": "Reports JSONCov from mocha to Coveralls.io"
+    },
+    {
+        "name": "@paulcbetts/coveralls",
+        "description": "takes json-cov output into stdin and POSTs to coveralls.io"
+    },
+    {
+        "name": "jenkinshield",
+        "description": "Serves build status badges from Jenkins API"
+    },
+    {
+        "name": "qnc",
+        "description": "实现一种查看线上node服务实时代码覆盖率统计的方案，相比本地跑单元测试获取覆盖率，具有对任意服务跑黑盒测试的便捷性。"
+    },
+    {
+        "name": "karma-coverage-istanbul-es5-preprocessor",
+        "description": "Karma preprocessor to instrument es5 files for use with karma-coverage-istanbul-reporter"
+    },
+    {
+        "name": "gulp-coverage_output",
+        "description": "Instrument and generate code coverage independent of test runner"
+    },
+    {
+        "name": "@wolox/js-test-coverage-script",
+        "description": "Script to retrieve lcov test coverage and put into code_coverage.json file in project's root folder."
+    },
+    {
+        "name": "verify-istanbul-coverage",
+        "description": "Verifies minimum total covered lines in generated Istanbul reports."
+    },
+    {
+        "name": "vue-nyc",
+        "description": "the Istanbul command line interface"
+    },
+    {
+        "name": "@cvrg-report/golang-cover-json",
+        "description": "Parse golang cover coverage data to JSON, using the same format as lcov-parse"
+    },
+    {
+        "name": "node-lens",
+        "description": "Lens is a lightweight developer tool for Node.js apps that lets you log, view, and debug requests and other activity in real time — inspired by Laravel Telescope. "
+    },
+    {
+        "name": "borschik-tech-istanbul",
+        "description": "borschik tech that instruments included files using istanbul code coverage tool"
+    },
+    {
+        "name": "browserify-iced-coffee-coverage",
+        "description": "Browserify transform to instrument iced src files with JSCoverage or Istanbul instrumentation"
+    },
+    {
+        "name": "node-boilerplate-cli",
+        "description": "An CLI to generate modern boilerplate skeleton for node and browser modules."
+    },
+    {
+        "name": "grunt-ez-istanbul",
+        "description": "A simple grunt plugin for running istanbul commands."
+    },
+    {
+        "name": "atom-coverage",
+        "description": "Add code coverage to your ES6 Atom package."
+    },
+    {
+        "name": "mocha-teamcity-tests-cov-reporter",
+        "description": "Teamcity tests and code coverage reporter for mocha"
+    },
+    {
+        "name": "thetool",
+        "description": "thetool is a CLI tool to capture different cpu, memory and other profiles for your node app in Chrome DevTools friendly format"
+    },
+    {
+        "name": "coffee-coverage-v2",
+        "description": "Istanbul and JSCoverage-style instrumentation for CoffeeScript files."
+    },
+    {
+        "name": "jest-coverage-theme",
+        "description": "Are those coverage reports too bright? Inject dark mode into your Jest coverage reports! Also supports custom themes."
+    },
+    {
+        "name": "@behance/istanbul",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "mutant-test",
+        "description": "A mutation testing framework for JavaScript"
+    },
+    {
+        "name": "jest-coverage-partial-compare",
+        "description": "Compares the summary-coverage.json files between two branches"
+    },
+    {
+        "name": "grunt-cellarise-istanbul",
+        "description": "This package has been forked from gotwarlost/istanbul, and updates the clover report to provide reporting of total source lines, so that the report provides accurate reporting of total lines versus source code lines. Yet another JS code coverage tool that"
+    },
+    {
+        "name": "@abinavseelan/papers-please",
+        "description": "jest-based test case mandating tool for new code"
+    },
+    {
+        "name": "browserify-coffee-coverage",
+        "description": "Browserify transform to instrument coffee src files with JSCoverage or Istanbul instrumentation"
+    },
+    {
+        "name": "karma-new-coverage-reporter",
+        "description": "A karma reporter that uses the latest istanbul 1.x APIs (with full sourcemap support) to report coverage."
+    },
+    {
+        "name": "webpack-mocha-plugin",
+        "description": "Webpack plugin integration with mocha testing framework + coverage with istanbul."
+    },
+    {
+        "name": "grunt-require-all",
+        "description": "Grunt plugin to require code in order to generate accurate code coverage reports"
+    },
+    {
+        "name": "esnext-coverage-format-text",
+        "description": "esnext-coverage output formatter to human-readable text"
+    },
+    {
+        "name": "karma-adana-reporter",
+        "description": "Coverage reporter in Karma using Adana for ES6+"
+    },
+    {
+        "name": "npm-boilerplater",
+        "description": "Boilerplate for coding, linting, testing, debugging and publishing npm module"
+    },
+    {
+        "name": "babel-plugin-transform-esnext-coverage",
+        "description": "Instrumenter for esnext-coverage"
+    },
+    {
+        "name": "@katerberg/nyc",
+        "description": "the Istanbul command line interface"
+    },
+    {
+        "name": "urbanjs-tool-mocha",
+        "description": "Urbanjs tool to run tests"
+    },
+    {
+        "name": "covered-cycle-example",
+        "description": "Example Cycle.js counter demo with parts not covered by test coverage removed"
+    },
+    {
+        "name": "grunt-cucumber-coverage",
+        "description": "Coverage reporting for cucumber with grunt"
+    },
+    {
+        "name": "wonder-jest",
+        "description": "Delightful JavaScript Testing."
+    },
+    {
+        "name": "mendel-transform-istanbul",
+        "description": "Mendel transform to instrument coverage using istanbul"
+    },
+    {
+        "name": "sts-nyc",
+        "description": "the Istanbul command line interface"
+    },
+    {
+        "name": "ajv-istanbul",
+        "description": "Instrument validation code generated by Ajv to measure test coverage of your schemas"
+    },
+    {
+        "name": "mo3ta-coverage",
+        "description": "Run tests and report uncovered changed lines in a PR"
+    },
+    {
+        "name": "@fintory/flow-coverage-report",
+        "description": "Generate an HTML report of the flow coverage data"
+    },
+    {
+        "name": "badge-gen",
+        "description": "Generates an SVG & PNG badge for an lcov coverage report"
+    },
+    {
+        "name": "@dannyfranca/typescript-boilerplate",
+        "description": "TypeScript starting point handsome, clean and easy with test, CI, code coverage, documentation and git hooks. "
+    },
+    {
+        "name": "hiiso-nyc",
+        "description": "the Istanbul command line interface"
+    },
+    {
+        "name": "@zweer/coverage-badge-readme",
+        "description": "A small utility to apply your coverage badge on the README file"
+    },
+    {
+        "name": "babel-plugin-transform-coverage",
+        "description": "A plugin for Babel 6 that converts the source code to the code with coverage measurement for jscover"
+    },
+    {
+        "name": "mocha-istanbul-spec",
+        "description": "Istanbul + Spec code coverage reporter for Mocha"
+    },
+    {
+        "name": "@adeattwood/diff-cov",
+        "description": "Simple CLI to get test coverage on a diff"
+    },
+    {
+        "name": "gulp-istanbul-plus",
+        "description": "Istanbul unit test coverage plugin for gulp."
+    },
+    {
+        "name": "poncho",
+        "description": "Client-side JS code coverage using PhantomJS, Mocha and Blanket"
+    },
+    {
+        "name": "pegis-solidity",
+        "description": "pegjs grammar for solidity parsing"
+    },
+    {
+        "name": "swagger-coverage",
+        "description": "Proxy HTTP server able to generate a coverage report based on a swagger description"
+    },
+    {
+        "name": "@advanced-rest-client/wct-istanbub",
+        "description": "Instanbuljs coverage reporting for projects being tested by web-component-tester"
+    },
+    {
+        "name": "@splayer/istanbul",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "@pre-bundled/nyc",
+        "description": "the Istanbul command line interface"
+    },
+    {
+        "name": "react-native-savor",
+        "description": "A simple way of adding tests (and more) to your React Native apps"
+    },
+    {
+        "name": "gulp-toolbox-reporter-coveralls",
+        "description": "report coverage to coveralls"
+    },
+    {
+        "name": "@sedlak.r/karma-typescript",
+        "description": "Simplifying running unit tests with coverage for Typescript projects."
+    },
+    {
+        "name": "real-time-coverage",
+        "description": "Real time code coverage information for JavaScript"
+    },
+    {
+        "name": "grunt-appc-istanbul",
+        "description": "A lightweight plugin to generate code coverage while leveraging istanbul."
+    },
+    {
+        "name": "@ivamuno/cypress-api-coverage",
+        "description": "Cypress plugin to generate API coverage reports"
+    },
+    {
+        "name": "istanbul-for-harmony",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "insulator",
+        "description": "Analysis of project's javascript code coverage"
+    },
+    {
+        "name": "@phoenix-plugin-registry/brackets-xunit",
+        "description": "Open a qUnit, YUI or Jasmine file to run tests"
+    },
+    {
+        "name": "@gzaripov/danger-plugin-istanbul-coverage",
+        "description": "Danger.js plugin for monitoring istanbul code coverage on changed files."
+    },
+    {
+        "name": "gulp-coffee-coverage",
+        "description": "gulp plugin for coffee-coverage. Compiles CoffeeScript into JavaScript with coverage logic provided by coffee-coverage."
+    },
+    {
+        "name": "coverageify",
+        "description": "Browserify's transform for unit test coverage, using istanbul"
+    },
+    {
+        "name": "codecheck-type-coverage",
+        "description": "Track missing type coverage in TypeScript projects to ensure type safety"
+    },
+    {
+        "name": "tanwenmin",
+        "description": "JS code coverage tool that computes statement, function and branch coverage"
+    },
+    {
+        "name": "@poooi/coveralls",
+        "description": "takes json-cov output into stdin and POSTs to coveralls.io"
+    },
+    {
+        "name": "@pre-bundled/browserify-istanbul",
+        "description": "A browserify transform for the istanbul code coverage tool"
+    },
+    {
+        "name": "macaca-istanbul-electron",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "atlas-coverage",
+        "description": "Postprocesses puppeteer coverage data to project coverage data on minified js back to the source files"
+    },
+    {
+        "name": "web-component-tester-istanbulcoverage",
+        "description": "Instanbul coverage reporting for projects being tested by web-component-tester. Web-component-tester version should be greater than 6.4.0"
+    },
+    {
+        "name": "yp-code-coverage-report",
+        "description": "front code testing coverage collection SDK with periodic and route change reporting"
+    },
+    {
+        "name": "generator-tslib-webpack",
+        "description": "A Yeoman generator for scaffolding a reusable library written in Typescript."
+    },
+    {
+        "name": "@bizantine/istanbul-lib-coverage",
+        "description": "Data library for istanbul coverage objects for bizantine"
+    },
+    {
+        "name": "punctuate-coverage",
+        "description": "日本語の文章のコードカバレッジ風"
+    },
+    {
+        "name": "test-coverage-bundle",
+        "description": "It's your go-to buddy for checking out how well your code is covered"
+    },
+    {
+        "name": "@wekanteam/nyc",
+        "description": "the Istanbul command line interface"
+    },
+    {
+        "name": "estnihil",
+        "description": "Parse LCOV"
+    },
+    {
+        "name": "mocha-specxunitcov-reporter",
+        "description": "spec to console, xunit to test.xml, cov to coverage.html reporter for Mocha"
+    },
+    {
+        "name": "istanbul-lib-instrument-dp",
+        "description": "Core istanbul API for JS code coverage"
+    },
+    {
+        "name": "@start/plugin-istanbul",
+        "description": "Istanbul plugin for @start"
+    },
+    {
+        "name": "flow-stats",
+        "description": "Check total Flow coverage for the project"
+    },
+    {
+        "name": "gulp-fcount",
+        "description": "Display line count per function within a file for javascript"
+    },
+    {
+        "name": "istanbul-lib-instrument-hiiso",
+        "description": "Core istanbul API for JS code coverage"
+    },
+    {
+        "name": "rapid-tank",
+        "description": "nodejs development/testing/deployment util"
+    },
+    {
+        "name": "check-state",
+        "description": "The CLI tool for testing selectors in your application."
+    },
+    {
+        "name": "nwjs-test-runner",
+        "description": "Test runner for node webkit with mocha, chai and Istabul."
+    },
+    {
+        "name": "@thetrg/istanbul",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "karma-police",
+        "description": "A Karma plugin. Generate code coverage."
+    },
+    {
+        "name": "blanket-node",
+        "description": "Seamless JS and CS Code Coverage"
+    },
+    {
+        "name": "sts-istanbul-lib-instrument",
+        "description": "Core istanbul API for JS code coverage"
+    },
+    {
+        "name": "grunt-jest-enforcer",
+        "description": "## Getting Started:"
+    },
+    {
+        "name": "generator-node-puzzle-jest",
+        "description": "Generator for jest test runner"
+    },
+    {
+        "name": "shields-badge-url-codecov",
+        "description": "Creates Shields.io badge URLs for Codecov."
+    },
+    {
+        "name": "local-nyc",
+        "description": "the Istanbul command line interface"
+    },
+    {
+        "name": "byzantine",
+        "description": "istanbul coverage json parser"
+    },
+    {
+        "name": "@vcaisim/playwright-test-coverage",
+        "description": "Extends Playwright test to measure code coverage"
+    },
+    {
+        "name": "istanbul-node4",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "pegjs-solidity",
+        "description": "pegjs grammar for solidity parsing with esm/commonjs and browser umd support"
+    },
+    {
+        "name": "vuesheetz",
+        "description": "A Powerful spreadsheet-like Vue component."
+    },
+    {
+        "name": "fuzzyblanket",
+        "description": "sets up your project to use alexseville/blanket according to the node.js instructions"
+    },
+    {
+        "name": "covershot",
+        "description": "Multi-format, test framework agnostic, code coverage report generator."
+    },
+    {
+        "name": "hiiso-istanbul-lib-instrument",
+        "description": "Core istanbul API for JS code coverage"
+    },
+    {
+        "name": "markdown-coverage-reporter",
+        "description": "A custom coverage reporter for generating Markdown coverage reports. It is compatible with Vitest and implements the Istanbul.js reporter interface."
+    },
+    {
+        "name": "@gaoding/ergate-inspector",
+        "description": "ergate code Coverage"
+    },
+    {
+        "name": "n8n-tdd-framework",
+        "description": "A Test-Driven Development framework for n8n workflows"
+    },
+    {
+        "name": "@ringcentral/gitlab-sonarqube-echo-coverage",
+        "description": "Print SonarQube overall coverage statistics to the gitlab pipeline"
+    },
+    {
+        "name": "newerty",
+        "description": ""
+    },
+    {
+        "name": "@start/plugin-codecov",
+        "description": "Codevoc plugin for @start"
+    },
+    {
+        "name": "coverify-lcov",
+        "description": "Minimallistic translation of coverify output to lcov.info format"
+    },
+    {
+        "name": "qd-test",
+        "description": "青岛银行前端单测集成配置工具包"
+    },
+    {
+        "name": "karma-coverage-up",
+        "description": "Karma coverage which base on Playwright"
+    },
+    {
+        "name": "@visualkit/coverage",
+        "description": "Visualkit UI Coverage"
+    },
+    {
+        "name": "kpdecker-nyc",
+        "description": "the Istanbul command line interface"
+    },
+    {
+        "name": "generator-f1lt3r",
+        "description": "Yeoman Generator I use to setup my Node modules."
+    },
+    {
+        "name": "adana-format-text",
+        "description": "Generate a pretty output of Adana coverage data."
+    },
+    {
+        "name": "intestify",
+        "description": "Framework for client side unit tests and code coverage combining Babel, Jasmine, Istanbul and Phantom with support for fixtures, ajax mock, ES6, Gulp and Grunt"
+    },
+    {
+        "name": "@electrovir/c8",
+        "description": "output coverage reports using Node.js' built in coverage"
+    },
+    {
+        "name": "tankjs",
+        "description": "nodejs development/testing/deployment util"
+    },
+    {
+        "name": "@xcube/nyc",
+        "description": "the Istanbul command line interface"
+    },
+    {
+        "name": "@dannyfranca/ts-boilerplate",
+        "description": "Typescript boilerplate with Linting, E2E/Unit Testing, CI, Git Hooks and Code Coverage"
+    },
+    {
+        "name": "@pokujs/c8",
+        "description": "☔️ Facilitator utility for coverage with c8 using Poku."
+    },
+    {
+        "name": "mocha-express",
+        "description": "Minimal test runner for Mocha in the browser"
+    },
+    {
+        "name": "gulp-livescript-istanbul",
+        "description": "Istanbul livescript & js unit test coverage plugin for gulp "
+    },
+    {
+        "name": "moorhouse-coating-paint-calculators",
+        "description": "Professional painting calculation tools and APIs"
+    },
+    {
+        "name": "@egjs/karma-typescript",
+        "description": "Simplifying running unit tests with coverage for Typescript projects."
+    },
+    {
+        "name": "@bassettsj/isparta-loader",
+        "description": "isparta instrumenter loader for webpack"
+    },
+    {
+        "name": "es6-rb-mc-k-i-boilerplate",
+        "description": "Full ES6 module boilerplate with rollup/babel, mocha/chai/karma/istanbul, coveralls, travis, conventional commit, pre-push and pre-commit check"
+    },
+    {
+        "name": "@jiangweixian1994/swc-plugin-coverage-instrument",
+        "description": "SWC coverage instrumentation plugin"
+    },
+    {
+        "name": "jest-test-lineage-reporter",
+        "description": "Comprehensive test analytics platform with line-by-line coverage, performance metrics, memory analysis, and test quality scoring"
+    },
+    {
+        "name": "learn-istanbul",
+        "description": "Learn how to use istanbul for tracking test/code coverage in your JS projects"
+    },
+    {
+        "name": "coverage-calculator",
+        "description": "Create test coverage report using x-ray repositories and swagger data"
+    },
+    {
+        "name": "contract-coverager",
+        "description": "Name ===="
+    },
+    {
+        "name": "karma-iced-coffee-coverage",
+        "description": "Plugins for Karma to use the iced-coffee-coverage tool"
+    },
+    {
+        "name": "mocha-teamcity-coverage-reporter",
+        "description": "Teamcity code coverage reporter for mocha"
+    },
+    {
+        "name": "nyc-config-100",
+        "description": "nyc configuration for 100% code coverage checking."
+    },
+    {
+        "name": "@yoursco/nyc-config",
+        "description": "nyc configuration for @yoursco"
+    },
+    {
+        "name": "jest-preset-ngx",
+        "description": "jest preset to run angular specs within jsdom and improved coverage accuracy"
+    },
+    {
+        "name": "@jimwong/istanbul",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "lygos",
+        "description": "Node.js code coverage tool designed for simple usage"
+    },
+    {
+        "name": "clean-tostring",
+        "description": "Clean function `toString` from code coverage mess. It can't be ideal, but it's useful in testing process."
+    },
+    {
+        "name": "bercow-c8",
+        "description": "Test plugin for the [bercow](https://github.com/lachrist/bercow) test runner based [c8](https://github.com/bcoe/c8)."
+    },
+    {
+        "name": "jenkins-badges",
+        "description": "Create shield.io badges from jenkins plugins."
+    },
+    {
+        "name": "babel-plugin-transform-adana-alt",
+        "description": "Like Istanbul, but better."
+    },
+    {
+        "name": "fru-grunt-coveralls",
+        "description": "Grunt task to load coverage results and submit them to Coveralls.io"
+    },
+    {
+        "name": "@qoi/test",
+        "description": ""
+    },
+    {
+        "name": "unified-api-ui-coverage",
+        "description": "Track which API endpoints are tested via UI and API tests, and generate combined coverage reports."
+    },
+    {
+        "name": "easy-coveralls",
+        "description": "Easily configure a npm module to generate and upload tests coverage to Coveralls.io"
+    },
+    {
+        "name": "eslint-changes",
+        "description": "Run with TravisCI and have the ESLint results for the changed files added to your GitHub statuses for the pull request or commit."
+    },
+    {
+        "name": "istanbul-classic",
+        "description": "this zero-dependency package will provide a browser-compatible version of the istanbul (v0.4.5) coverage-tool, with a working web-demo"
+    },
+    {
+        "name": "grunt-coverage-fork",
+        "description": "A grunt plugin to enforce coverage thresholds from istanbul coverage objects."
+    },
+    {
+        "name": "angular-browserify-seed",
+        "description": "A seed project for using browserify with angularjs"
+    },
+    {
+        "name": "kahvesi",
+        "description": "A coffeescript coverage tool using Istanbul"
+    },
+    {
+        "name": "newerty-cli",
+        "description": "JavaScript testing"
+    },
+    {
+        "name": "generator-nmx",
+        "description": "Scaffold out a node module in jest"
+    },
+    {
+        "name": "ugly-blanket-brunch",
+        "description": "Brunch.io optimizer that creates separate .min.js (UglifyJS) and .cov.js (blanketjs) files."
+    },
+    {
+        "name": "@deepzua/inspector-api",
+        "description": "A simple node module to access V8 inspector + some tools to export and read the data."
+    },
+    {
+        "name": "module-coverage",
+        "description": "Displays information about module coverage (on a webpack bundle) using Code Coverage report from Chrome DevTools."
+    },
+    {
+        "name": "@anthony-redfox/v8-to-istanbul",
+        "description": "convert from v8 coverage format to istanbul's format"
+    },
+    {
+        "name": "middleware-js",
+        "description": "Application depending through middleware injection."
+    },
+    {
+        "name": "graph-coherence",
+        "description": "Calculate the coherence of a triple dataset"
+    },
+    {
+        "name": "coverage-filter",
+        "description": "Filters coverage.json files with a whitelist of allowed source files. "
+    },
+    {
+        "name": "typescript-multipart-library-template",
+        "description": "Typescript multi-part library template"
+    },
+    {
+        "name": "component-builder-istanbul",
+        "description": "Istanbul instrumenter for component"
+    },
+    {
+        "name": "esper-danger-plugin-istanbul-coverage",
+        "description": "Danger.js plugin for monitoring istanbul code coverage on changed files."
+    },
+    {
+        "name": "@rufwork/karma-coverage",
+        "description": "A Karma plugin. Generate code coverage."
+    },
+    {
+        "name": "page-coverage",
+        "description": "Collect the information about JS and CSS overage and usage from any page"
+    },
+    {
+        "name": "@fordi-org/test-init",
+        "description": "Quick setup for minimalist native testing with coverage"
+    },
+    {
+        "name": "sift-css",
+        "description": "Automatically remove unused CSS rules using Chrome code coverage"
+    },
+    {
+        "name": "jenkins-coverage-badge",
+        "description": "crate shield.io badge from jenkins cobertura coverage"
+    },
+    {
+        "name": "browserify-npm-seed",
+        "description": "browserify and build with npm"
+    },
+    {
+        "name": "istanbul-coverage-calculator",
+        "description": "coverage calculator for istanbul"
+    },
+    {
+        "name": "cypress-native-coverage",
+        "description": ""
+    },
+    {
+        "name": "jest-coverage-updater",
+        "description": "Ratchet up code coverage - keep test coverage going only one direction -- up"
+    },
+    {
+        "name": "mocha-phantomjs-coverage-hook",
+        "description": "coverage hook for mocha-phantomjs"
+    },
+    {
+        "name": "nitp-build-tools",
+        "description": "Official build system for NIT Patna's backend services - A powerful Maven-based build automation tool with cross-platform support"
+    },
+    {
+        "name": "echidna-coverage-parser",
+        "description": "Echidna log parser package"
+    },
+    {
+        "name": "grunt-covreview",
+        "description": "Parsing lcov report and throwing an error if any file in src folder is missing"
+    },
+    {
+        "name": "tscover",
+        "description": "Code covrage for TypeScript"
+    },
+    {
+        "name": "jenkins-pitesti",
+        "description": "puts coverage and test data in jenkins-friendly places"
+    },
+    {
+        "name": "transform-coverage-demo",
+        "description": "Demo for babel plugin transform coverage"
+    },
+    {
+        "name": "@zokugun/istanbul.cover",
+        "description": "Control how Istanbul covers your code and generates the reports"
+    },
+    {
+        "name": "remap-istanbul-adhoc",
+        "description": "A tool for remapping Istanbul coverage via Source Maps"
+    },
+    {
+        "name": "covergates",
+        "description": "Covergates tools for NodeJS"
+    },
+    {
+        "name": "karma-istanbul-reporter",
+        "description": "A Karma reporter which generates code coverage."
+    },
+    {
+        "name": "coffee-coverage-loader",
+        "description": "Webpack coffee-coverage loader to compile and instrument CoffeeScript with sourcemaps support"
+    },
+    {
+        "name": "istanbul-sp",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "vcx",
+        "description": "Codecov Example Typescript"
+    },
+    {
+        "name": "gulp-lcov-to-html",
+        "description": "Pure javascript implementation of LCOV's genhtml function for use in gulp"
+    },
+    {
+        "name": "node-browser-module-boilerplate",
+        "description": "My template for node modules with lint, tests, code coverage, type checking, CI, semantic release and interoperability between ES6 modules and CommonJs."
+    },
+    {
+        "name": "vue3-test-config",
+        "description": "Vue3项目测试环境自动配置工具"
+    },
+    {
+        "name": "eiusvoluptas",
+        "description": "Quality checker for projects for browser js and Node.js, can be integrated in build process of Page, also can be as stand alone application."
+    },
+    {
+        "name": "vue-covfefe",
+        "description": "Cofveve directive for Vue.js"
+    },
+    {
+        "name": "@deltacov/istanbul-lib-coverage",
+        "description": "Data library for istanbul coverage objects for deltacov"
+    },
+    {
+        "name": "travis-cov-forked",
+        "description": "Mocha/blanket coverage reporter for travis-ci."
+    },
+    {
+        "name": "experimental-browserify-istanbul",
+        "description": "An experimental version of browserify-istanbul that works on sourcemaps."
+    },
+    {
+        "name": "codecov-88",
+        "description": "Uploading report to Codecov: https://codecov.io"
+    },
+    {
+        "name": "@bam.tech/danger-plugin-jest-coverage",
+        "description": "Display Jest coverage"
+    },
+    {
+        "name": "nv14-click-track",
+        "description": "Click Track for Nodevember 2014 Demos #1 and #2"
+    },
+    {
+        "name": "grunt-jasmine-node-istanbul",
+        "description": "Grunt multi-task for jasmine-node using istanbul for code coverage."
+    },
+    {
+        "name": "nyc-merge",
+        "description": "A tool to merge Istanbul coverage reports"
+    },
+    {
+        "name": "@frenchyeti/interruptor",
+        "description": "A Frida-based library for hook system call (and interrupts) and produce strace-like output "
+    },
+    {
+        "name": "cp-istanbul-slack-notify",
+        "description": "Sends istanbul / jest coverage summary and git build details to Slack using a pass/fail threshold for project coverage."
+    },
+    {
+        "name": "@thall90/jest-it-up",
+        "description": "Automatically bump up global Jest thresholds whenever coverage goes above them"
+    },
+    {
+        "name": "larker",
+        "description": "test & coverage tool"
+    },
+    {
+        "name": "encrust",
+        "description": "Send LCOV code coverage and ESLint warnings and errors from CI builds to splunk project nova."
+    },
+    {
+        "name": "mocha-remap-istanbul",
+        "description": "Istanbul code coverage reporter for Mocha supporting coverage remapping by remap-istanbul"
+    },
+    {
+        "name": "fru-coveralls",
+        "description": "takes json-cov output into stdin and POSTs to coveralls.io"
+    },
+    {
+        "name": "string-sequencer",
+        "description": "An easy way to sequence arbitrary strings"
+    },
+    {
+        "name": "@arcari/react-test-coverage",
+        "description": "CLI tool to analyze React component and hook test coverage"
+    },
+    {
+        "name": "sf-apex-coverage-visualizer",
+        "description": "A Salesforce CLI plugin to visualize Apex code coverage after running tests."
+    },
+    {
+        "name": "@prantlf/c8",
+        "description": "output coverage reports using Node.js' built in coverage"
+    },
+    {
+        "name": "karma-esnext-coverage-reporter",
+        "description": "esnext-coverage reporter for Karma"
+    },
+    {
+        "name": "ts-sqlite3",
+        "description": "SQLite3 TypeScript module to support async/await asynchronous model"
+    },
+    {
+        "name": "jest-coverage-gate",
+        "description": "Jest coverage gate"
+    },
+    {
+        "name": "quilted",
+        "description": "A css/js coverage tool for websites."
+    },
+    {
+        "name": "lifo",
+        "description": "A Last In First Out (stack) implementation"
+    },
+    {
+        "name": "karma-coverage-blamer1",
+        "description": "A Karma plugin. Generate code coverage."
+    },
+    {
+        "name": "research-network",
+        "description": "Research website network resource"
+    },
+    {
+        "name": "a-nice-lib",
+        "description": "awesome lib"
+    },
+    {
+        "name": "yui-istanbul",
+        "description": "YUI loader hook for istanbul coverage"
+    },
+    {
+        "name": "shields-badge-url-coveralls",
+        "description": "Creates Shields.io badge URLs for Coveralls."
+    },
+    {
+        "name": "file-coverage",
+        "description": "A coverage tool when comparing two folders"
+    },
+    {
+        "name": "shieldgen",
+        "description": "Update your package readme on every test with build status and code coverage"
+    },
+    {
+        "name": "tarec-plugin-mocha",
+        "description": "Tarec plugins to support writing tests with mocha and check coverage with nyc"
+    },
+    {
+        "name": "grunt-jasmine-coverage",
+        "description": "Grunt task for running Jasmine specs and generate test coverage"
+    },
+    {
+        "name": "larky",
+        "description": "test & coverage tool"
+    },
+    {
+        "name": "karma-gvcoverage",
+        "description": "A Karma plugin. Generate code coverage."
+    },
+    {
+        "name": "babel-istanbul-harmony",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "node-test-tools",
+        "description": "Lightweight bdd/tdd development utilities working with both javascript and coffee-script"
+    },
+    {
+        "name": "@atakama/capio",
+        "description": "Capture logs and i/o in an async-safe way"
+    },
+    {
+        "name": "xunit-html-cov",
+        "description": "The XunitHTMLCov reporter is similar to the xunit and html reporter, however when run against a library instrumented by node-jscoverage it will produce coverage output."
+    },
+    {
+        "name": "tehran",
+        "description": "Transparent JavaScript code coverage inside a ServiceWorker"
+    },
+    {
+        "name": "gulp-babel-istanbul-reborn",
+        "description": "Babel + Istanbul unit test coverage plugin for gulp."
+    },
+    {
+        "name": "sts-istanbuljs",
+        "description": "monorepo containing the various nuts and bolts that facilitate istanbul.js test instrumentation"
+    },
+    {
+        "name": "karma-coverage-lynx",
+        "description": "A Karma plugin. Generate code coverage."
+    },
+    {
+        "name": "gulp-istanbul-sp",
+        "description": "Istanbul unit test coverage plugin for gulp."
+    },
+    {
+        "name": "grunt-lcov-merge2",
+        "description": "Grunt plugin to merge lcov files from multiple test runs."
+    },
+    {
+        "name": "covreporter",
+        "description": "a javascript coverage reporter for mocha -r jscoverage"
+    },
+    {
+        "name": "tect",
+        "description": "test & coverage tool"
+    },
+    {
+        "name": "pixbi-jscoverage",
+        "description": "a javascript coverage tool, can be used in node dev, and browser side js dev"
+    },
+    {
+        "name": "jest-chromium-istanbul",
+        "description": "Collect code coverage information from end-to-end jest chromium tests."
+    },
+    {
+        "name": "objcov",
+        "description": "Watch a javascript object and get statistics about how it has been used within your code."
+    },
+    {
+        "name": "jest-single-file-coverage",
+        "description": "Automatic jest single file coverage for react-boilerplate"
+    },
+    {
+        "name": "grunt-mocha-istanbul-extra",
+        "description": "Almost config-free Istanbul code coverage reporter for Mocha usage in Grunt. Fully compliant with grunt-mocha-istanbule but more customizeable"
+    },
+    {
+        "name": "cobertura-xml-remapper",
+        "description": "Remap browserified files to single javascript files in cobertura xml reports"
+    },
+    {
+        "name": "karma-coverage-intfolders",
+        "description": "A Karma plugin. Generate code coverage."
+    },
+    {
+        "name": "grunt-web-development",
+        "description": "Description."
+    },
+    {
+        "name": "@nitedani/inspector-api",
+        "description": "A simple node module to access V8 inspector + some tools to export and read the data."
+    },
+    {
+        "name": "idea-notify",
+        "description": "Helps to show the build version of the service and more..."
+    },
+    {
+        "name": "istanbul-moos",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "gulpfile.basics",
+        "description": "Provides basic functionality such as watch, test, coverage, shrinkwrap, release and publish"
+    },
+    {
+        "name": "jt-coverage",
+        "description": "代码覆盖率收集工具"
+    },
+    {
+        "name": "mocha-htmlcov-sourcemap-reporter",
+        "description": "HTML coverage reporter for Mocha with SourceMap support"
+    },
+    {
+        "name": "@seal-labs/cc",
+        "description": "monorepo containing the various nuts and bolts that facilitate istanbul.js test instrumentation"
+    },
+    {
+        "name": "coveralls.io",
+        "description": "Posts your coverage reports to coveralls.io. Optimized for TravisCI, Codeship.io and local builds"
+    },
+    {
+        "name": "@currents/playwright-test-coverage",
+        "description": "Extends Playwright test to measure code coverage"
+    },
+    {
+        "name": "layj",
+        "description": "Layj, generate API types the lazy way"
+    },
+    {
+        "name": "esdoc-latest-coverage-plugin",
+        "description": "A coverage plugin for ESDoc"
+    },
+    {
+        "name": "clairvoyance-html",
+        "description": "A HTML report for Clairvoyance"
+    },
+    {
+        "name": "gcov-parse",
+        "description": "Parse GCOV .gcda and .gcno files"
+    },
+    {
+        "name": "carpetify",
+        "description": "A browserify transform for the istanbul code coverage tool"
+    },
+    {
+        "name": "@can1357/swc-plugin-coverage-instrument",
+        "description": "SWC coverage instrumentation plugin"
+    },
+    {
+        "name": "coverage-runner",
+        "description": "Unified coverage analysis tool for Jest, Vitest, and other test frameworks with intelligent merging and reporting"
+    },
+    {
+        "name": "mocha-lcov-sourcemap-reporter",
+        "description": "LCOV reporter for Mocha with SourceMap support"
+    },
+    {
+        "name": "base-npm-library-es6",
+        "description": "Node.js Application Starter Pack for ES6 NPM Library"
+    },
+    {
+        "name": "@wyze/istanbul-lib-instrument",
+        "description": "Core istanbul API for JS code coverage"
+    },
+    {
+        "name": "igniter-react-component",
+        "description": "An archetype for building react component, includes linting, testing, test coverage, directory structure and common (dev)dependencies bundling."
+    },
+    {
+        "name": "@katerberg/istanbul-lib-instrument",
+        "description": "Core istanbul API for JS code coverage"
+    },
+    {
+        "name": "spec-trace",
+        "description": "A library for linking system requirements with test cases and measuring specification coverage"
+    },
+    {
+        "name": "local-istanbul-lib-instrument",
+        "description": "Core istanbul API for JS code coverage"
+    },
+    {
+        "name": "grunt-coverage-check",
+        "description": "A grunt plugin to enforce coverage thresholds"
+    },
+    {
+        "name": "karma-coverage-0.11",
+        "description": "A Karma plugin. Generate code coverage. Updating dependency to karma 0.11"
+    },
+    {
+        "name": "a11y-react-redux-router",
+        "description": "Make your router components screen-reader accessible!"
+    },
+    {
+        "name": "grunt-dotnet-codecoverage",
+        "description": "Grunt plugin to generate code coverage report using opencover and reportgenerator"
+    },
+    {
+        "name": "maxcover",
+        "description": "Site and badge system to display true value of testing in your project"
+    },
+    {
+        "name": "broccoli-istanbul",
+        "description": "Broccoli plugin for Istanbul instrumentation"
+    },
+    {
+        "name": "grunt-instrument",
+        "description": "Grunt plugin for instrumenting code using jscoverage."
+    },
+    {
+        "name": "coffeebreak-coverage",
+        "description": "Codecoverage plugin for CoffeeBreak"
+    },
+    {
+        "name": "istanbul-blamer",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "check-coverage-summary",
+        "description": "checking the coverage percentage from coverage-summary.json"
+    },
+    {
+        "name": "coveralls-truffle",
+        "description": "Generate and upload coverage reports for Truffle projects with ease."
+    },
+    {
+        "name": "istanbul-alpha-instrument",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "jest-incremental",
+        "description": "A package which tells you how much new code coverage is there for a PR"
+    },
+    {
+        "name": "istanbul-reporter-missing-coverage-summary-json",
+        "description": "Istanbuljs custom reporter to generate json summary only for the files that have coverage below 100%"
+    },
+    {
+        "name": "istanbul-sourcemap-report",
+        "description": "Utility to generate coverage reports for sources from compiled code coverage using SourceMaps"
+    },
+    {
+        "name": "istanbul-source-map",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "test-coverage-badge",
+        "description": "create coverage badge from test coverage reports"
+    },
+    {
+        "name": "codecov-stats",
+        "description": "Easily retrieve codecov statistics."
+    },
+    {
+        "name": "babel-istanbul-reborn",
+        "description": "A simple fork of babel-istanbul, but original author might be dead or something."
+    },
+    {
+        "name": "flowbuild-coverage-calculator",
+        "description": "Test workflows and calculate its coverage"
+    },
+    {
+        "name": "jest-it-up-ts",
+        "description": "Automatically bump up global Jest thresholds whenever coverage goes above them"
+    },
+    {
+        "name": "generator-avanyc",
+        "description": "Yeoman generator that quickly adds nyc test coverage to your AVA projects"
+    },
+    {
+        "name": "generator-bdd",
+        "description": "A Yeoman generator that makes it easy to start writing unit tests within your Node.js application."
+    },
+    {
+        "name": "zolmeister-coffee-coverage-loader",
+        "description": "Webpack coffee-coverage loader to compile and instrument CoffeeScript with sourcemaps support"
+    },
+    {
+        "name": "code-coverage-cypress-biglemon",
+        "description": "Saves the code coverage collected during Cypress tests"
+    },
+    {
+        "name": "istanbul-json",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "coverage-shaker",
+        "description": "Minify JavaScript code from chrome/puppeteer coverage report. tree shaking."
+    },
+    {
+        "name": "phantomjs-test-starter",
+        "description": "Starter Template for testing PhantomJS ‘Applications’ with Jasmine, Grunt, and Istanbul"
+    },
+    {
+        "name": "esnext-coverage-format-clover",
+        "description": "esnext-coverage clover formatter"
+    },
+    {
+        "name": "karma-coverage-blamer",
+        "description": "A Karma plugin. Generate code coverage."
+    },
+    {
+        "name": "coverage-warning",
+        "description": "Display a coverage report health warning"
+    },
+    {
+        "name": "zyan-gulp-coveralls",
+        "description": "Gulp plugin to submit code coverage to Coveralls"
+    },
+    {
+        "name": "serverless-appsync-simulator-coverage",
+        "description": "PLugin to be user with serverless-appsync-simulator that generates cobertura for Velocity Language Template"
+    },
+    {
+        "name": "athecoder-jest",
+        "description": "Delightful JavaScript Testing."
+    },
+    {
+        "name": "css-usage",
+        "description": "CSS Usage"
+    },
+    {
+        "name": "@kpdecker/nyc",
+        "description": "the Istanbul command line interface"
+    },
+    {
+        "name": "s3-badges",
+        "description": "Custom badges generation and publishing on aws s3 bucket"
+    },
+    {
+        "name": "umbo",
+        "description": "Badge as a service as a service"
+    },
+    {
+        "name": "istanbul-combine-nsp",
+        "description": "easily merge coverage data from multiple istanbul runs"
+    },
+    {
+        "name": "storybook-addon-coverage-panel",
+        "description": "A storybook add-on to work in conjunction with @storybook/addon-coverage to display the coverage metrics in storybook UI panel"
+    },
+    {
+        "name": "cover-mba",
+        "description": "Библиотека для отслеживания покрытия API тестами с использованием Playwright"
+    },
+    {
+        "name": "browserslist-coverage",
+        "description": "A tool for generating browserslist configurations."
+    },
+    {
+        "name": "blanket-badoo",
+        "description": "seamless js code coverage"
+    },
+    {
+        "name": "parallel-jest-runner",
+        "description": "Run Jest tests in parallel shards for faster execution"
+    },
+    {
+        "name": "grunt-mocha-babel-istanbul",
+        "description": "Almost config-free Istanbul code coverage reporter for Mocha usage in Grunt"
+    },
+    {
+        "name": "vite-swc-test",
+        "description": ""
+    },
+    {
+        "name": "jest-coverage-badges2",
+        "description": "Create a group of coverage badges from jest with http proxy support"
+    },
+    {
+        "name": "puppeteer-to-istanbul-extra",
+        "description": "convert from puppeteer's coverage output to a format that can be used by istanbul reports"
+    },
+    {
+        "name": "babel-plugin-transform-ankara",
+        "description": "Like Istanbul, but better."
+    },
+    {
+        "name": "@griest/karma-coverage-istanbul-reporter",
+        "description": "A karma reporter that uses the latest istanbul 1.x APIs (with full sourcemap support) to report coverage."
+    },
+    {
+        "name": "xunit-cov",
+        "description": "The XunitCov reporter is similar to the xunit reporter, however when run against a library instrumented by node-jscoverage it will produce coverage output."
+    },
+    {
+        "name": "@toolisticon/istanbul-coveralls",
+        "description": "A simple alias for istanbul + coveralls"
+    },
+    {
+        "name": "istanbul-blame",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "sonarcov-watchdog",
+        "description": "Parse lcov report and compare coverage value with sonar measures. Exit 1 if coverage drops."
+    },
+    {
+        "name": "istanbul-combine-x",
+        "description": "easily merge coverage data from multiple istanbul runs"
+    },
+    {
+        "name": "brand_nyc",
+        "description": "the Istanbul command line interface"
+    },
+    {
+        "name": "generator-jest-extented",
+        "description": "extend jest generator"
+    },
+    {
+        "name": "lcov.sh",
+        "description": "The best LCOV framework around a BASH project"
+    },
+    {
+        "name": "istanbul-lib-coverage-increment",
+        "description": "Data library for istanbul coverage objects"
+    },
+    {
+        "name": "mwittig-gulp-coveralls",
+        "description": "Gulp plugin to submit code coverage to Coveralls"
+    },
+    {
+        "name": "covu",
+        "description": "Collect code coverage for your own project. `cov u` -> `covu`."
+    },
+    {
+        "name": "@tiant167/coverage-on-diff",
+        "description": "A tool to get code coverage on new lines added based on a diff."
+    },
+    {
+        "name": "max-cover",
+        "description": "Site and badge system to display true value of testing in your project"
+    },
+    {
+        "name": "maque",
+        "description": "test & coverage tool"
+    },
+    {
+        "name": "gamura_jest",
+        "description": "Delightful JavaScript Testing."
+    },
+    {
+        "name": "sonarqube-compare",
+        "description": "With sonarqube-compare, you can compare your new branch against the target branch's coverage and issues in detail."
+    },
+    {
+        "name": "npm-jest-coverage-pckg",
+        "description": "A package that allows code coverage to be run on only javascript lines that are changed."
+    },
+    {
+        "name": "angular-browserify-npm-seed",
+        "description": "browserify angularjs and build with npm"
+    },
+    {
+        "name": "vue-test-coverage-badges",
+        "description": "Create a group of coverage badges from vue-test-utils using direct links to sheilds.io badges in README"
+    },
+    {
+        "name": "@furball/c8",
+        "description": "output coverage reports using Node.js' built in coverage"
+    },
+    {
+        "name": "@mutoe/playwright-coverage",
+        "description": "Track coverage in playwright tests using v8, without instrumentation"
+    },
+    {
+        "name": "@weird_phlex/js_coverage",
+        "description": "Convert coverage data from Istanbul's to SimpleCov's format"
+    },
+    {
+        "name": "mocha-blanket-lcov-reporter",
+        "description": "LCOV reporter for Mocha using blanket for coverage."
+    },
+    {
+        "name": "dp-create-badge",
+        "description": "Create badge based on supplied percentage"
+    },
+    {
+        "name": "jumpman",
+        "description": "CLI tool for setting up Solidity/Truffle test environment"
+    },
+    {
+        "name": "code-coverage-cbiglemon",
+        "description": "Saves the code coverage collected during Cypress tests"
+    },
+    {
+        "name": "generator-node-puzzle-angular",
+        "description": "> TODO: description"
+    },
+    {
+        "name": "gamura_jest-cli",
+        "description": "Delightful JavaScript Testing."
+    },
+    {
+        "name": "mocha-blanket-reporter",
+        "description": "Mocha/blanket coverage reporter featuring branchTracking"
+    },
+    {
+        "name": "generator-jest-extended",
+        "description": "extend jest generator"
+    },
+    {
+        "name": "sp-cover-overall",
+        "description": "Native JavaScript code coverage"
+    },
+    {
+        "name": "istanbul-x",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "mocha-istanbuljs-reporter",
+        "description": "Istanbul coverage instrumenter and reporter for mocha"
+    },
+    {
+        "name": "make-coverage-badge--logo",
+        "description": "Create a coverage badge"
+    },
+    {
+        "name": "front-remap-istanbul",
+        "description": "A tool for remapping Istanbul coverage via Source Maps"
+    },
+    {
+        "name": "istanbulfork",
+        "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+    },
+    {
+        "name": "react-3d-room-scence",
+        "description": "React 3D Room Scence"
+    }
+]

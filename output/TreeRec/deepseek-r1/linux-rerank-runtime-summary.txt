@@ -1,0 +1,1 @@
+2025-11-12 16:56:31 | linux    | Tree:    0.00s | Retrieval: 21823.95s | Total: 21829.21s | AvgRetr: 153.6897s | StdRetr: 60.3075s | MinRetr: 58.8409s | MaxRetr: 454.4273s | AvgTotal: 153.7268s

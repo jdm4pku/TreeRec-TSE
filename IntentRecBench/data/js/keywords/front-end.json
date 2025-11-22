@@ -1,0 +1,4002 @@
+[
+    {
+        "name": "next",
+        "description": "The React Framework"
+    },
+    {
+        "name": "preact",
+        "description": "Fast 3kb React-compatible Virtual DOM library."
+    },
+    {
+        "name": "bootstrap",
+        "description": "The most popular front-end framework for developing responsive, mobile first projects on the web."
+    },
+    {
+        "name": "msw",
+        "description": "Seamless REST/GraphQL API mocking library for browser and Node.js."
+    },
+    {
+        "name": "react-colorful",
+        "description": "🎨 A tiny (2,8 KB) color picker component for React and Preact apps. Fast, well-tested, dependency-free, mobile-friendly and accessible"
+    },
+    {
+        "name": "@juggle/resize-observer",
+        "description": "Polyfills the ResizeObserver API and supports box size options from the latest spec"
+    },
+    {
+        "name": "croner",
+        "description": "Trigger functions and/or evaluate cron expressions in JavaScript. No dependencies. Most features. All environments."
+    },
+    {
+        "name": "cropperjs",
+        "description": "JavaScript image cropper."
+    },
+    {
+        "name": "@tabler/icons",
+        "description": "A set of free MIT-licensed high-quality SVG icons for you to use in your web projects."
+    },
+    {
+        "name": "@fontsource/roboto",
+        "description": "Self-host the Roboto font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/inter",
+        "description": "Self-host the Inter font in a neatly bundled NPM package."
+    },
+    {
+        "name": "infima",
+        "description": "A UI framework for content-centric websites."
+    },
+    {
+        "name": "daisyui",
+        "description": "daisyUI 5 - The Tailwind CSS Component Library"
+    },
+    {
+        "name": "ng-mocks",
+        "description": "An Angular testing library for creating mock services, components, directives, pipes and modules in unit tests. It provides shallow rendering, precise stubs to fake child dependencies. ng-mocks works with Angular 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20"
+    },
+    {
+        "name": "@compodoc/live-server",
+        "description": "Simple development http server with live reload capability"
+    },
+    {
+        "name": "yo",
+        "description": "CLI tool for running Yeoman generators"
+    },
+    {
+        "name": "compressorjs",
+        "description": "JavaScript image compressor."
+    },
+    {
+        "name": "@fontsource/open-sans",
+        "description": "Self-host the Open Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "hugo-extended",
+        "description": "✏️ Plug-and-play binary wrapper for Hugo Extended, the awesomest static-site generator."
+    },
+    {
+        "name": "@coreui/coreui",
+        "description": "The most popular front-end framework for developing responsive, mobile-first projects on the web rewritten and maintained by the CoreUI Team"
+    },
+    {
+        "name": "@fontsource-variable/inter",
+        "description": "Self-host the Inter font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/updater-out-modes",
+        "description": "tsParticles particles out modes updater"
+    },
+    {
+        "name": "@fontsource/poppins",
+        "description": "Self-host the Poppins font in a neatly bundled NPM package."
+    },
+    {
+        "name": "monaco-yaml",
+        "description": "YAML plugin for the Monaco Editor"
+    },
+    {
+        "name": "@tsparticles/shape-square",
+        "description": "tsParticles square shape"
+    },
+    {
+        "name": "@tsparticles/move-base",
+        "description": "tsParticles Base movement"
+    },
+    {
+        "name": "@tsparticles/updater-opacity",
+        "description": "tsParticles particles opacity updater"
+    },
+    {
+        "name": "@tsparticles/updater-color",
+        "description": "tsParticles particles color updater"
+    },
+    {
+        "name": "@tsparticles/shape-emoji",
+        "description": "tsParticles emoji shape"
+    },
+    {
+        "name": "@tsparticles/shape-image",
+        "description": "tsParticles image shape"
+    },
+    {
+        "name": "@tsparticles/updater-size",
+        "description": "tsParticles particles size updater"
+    },
+    {
+        "name": "@tsparticles/plugin-hex-color",
+        "description": "tsParticles hex color plugin"
+    },
+    {
+        "name": "@tsparticles/shape-star",
+        "description": "tsParticles star shape"
+    },
+    {
+        "name": "@tsparticles/basic",
+        "description": "Easily create highly customizable particle animations and use them as animated backgrounds for your website. Ready to use components available also for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Riot.js, Inferno."
+    },
+    {
+        "name": "@tsparticles/shape-polygon",
+        "description": "tsParticles polygon shape"
+    },
+    {
+        "name": "@tsparticles/move-parallax",
+        "description": "tsParticles Parallax movement"
+    },
+    {
+        "name": "@tsparticles/interaction-external-remove",
+        "description": "tsParticles remove external interaction"
+    },
+    {
+        "name": "@tsparticles/interaction-particles-links",
+        "description": "tsParticles links particles interaction"
+    },
+    {
+        "name": "@tsparticles/plugin-hsl-color",
+        "description": "tsParticles HSL color plugin"
+    },
+    {
+        "name": "@tsparticles/engine",
+        "description": "Easily create highly customizable particle, confetti and fireworks animations and use them as animated backgrounds for your website. Ready to use components available also for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Riot.js, Inferno."
+    },
+    {
+        "name": "@tsparticles/interaction-external-bounce",
+        "description": "tsParticles bounce external interaction"
+    },
+    {
+        "name": "@tsparticles/shape-circle",
+        "description": "tsParticles circle shape"
+    },
+    {
+        "name": "@tsparticles/updater-life",
+        "description": "tsParticles particles life updater"
+    },
+    {
+        "name": "@tsparticles/plugin-rgb-color",
+        "description": "tsParticles RGB color plugin"
+    },
+    {
+        "name": "live-server",
+        "description": "simple development http server with live reload capability"
+    },
+    {
+        "name": "tsparticles",
+        "description": "Easily create highly customizable particle animations and use them as animated backgrounds for your website. Ready to use components available also for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Riot.js, Inferno."
+    },
+    {
+        "name": "@tsparticles/updater-rotate",
+        "description": "tsParticles particles rotate updater"
+    },
+    {
+        "name": "@tsparticles/interaction-external-grab",
+        "description": "tsParticles grab external interaction"
+    },
+    {
+        "name": "@tsparticles/interaction-external-slow",
+        "description": "tsParticles slow external interaction"
+    },
+    {
+        "name": "@tsparticles/interaction-external-push",
+        "description": "tsParticles push external interaction"
+    },
+    {
+        "name": "local-web-server",
+        "description": "A lean, modular web server for rapid full-stack development"
+    },
+    {
+        "name": "@tsparticles/interaction-particles-collisions",
+        "description": "tsParticles collisions particles interaction"
+    },
+    {
+        "name": "@tsparticles/interaction-particles-attract",
+        "description": "tsParticles attract particles interaction"
+    },
+    {
+        "name": "@tsparticles/shape-line",
+        "description": "tsParticles line shape"
+    },
+    {
+        "name": "@tsparticles/interaction-external-pause",
+        "description": "tsParticles pause external interaction"
+    },
+    {
+        "name": "@tsparticles/updater-stroke-color",
+        "description": "tsParticles particles stroke color updater"
+    },
+    {
+        "name": "@tsparticles/interaction-external-bubble",
+        "description": "tsParticles bubble external interaction"
+    },
+    {
+        "name": "viewerjs",
+        "description": "JavaScript image viewer."
+    },
+    {
+        "name": "@tsparticles/interaction-external-connect",
+        "description": "tsParticles connect external interaction"
+    },
+    {
+        "name": "@tsparticles/plugin-easing-quad",
+        "description": "tsParticles easing quad plugin"
+    },
+    {
+        "name": "@tsparticles/interaction-external-attract",
+        "description": "tsParticles attract external interaction"
+    },
+    {
+        "name": "@fontsource/ibm-plex-sans",
+        "description": "Self-host the IBM Plex Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/slim",
+        "description": "Easily create highly customizable particle animations and use them as animated backgrounds for your website. Ready to use components available also for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Riot.js, Inferno."
+    },
+    {
+        "name": "@tsparticles/interaction-external-repulse",
+        "description": "tsParticles repulse external interaction"
+    },
+    {
+        "name": "@tsparticles/updater-wobble",
+        "description": "tsParticles particles wobble updater"
+    },
+    {
+        "name": "@tsparticles/plugin-emitters",
+        "description": "tsParticles emitters plugin"
+    },
+    {
+        "name": "@fontsource/montserrat",
+        "description": "Self-host the Montserrat font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/updater-tilt",
+        "description": "tsParticles particles tilt updater"
+    },
+    {
+        "name": "@fontsource/roboto-mono",
+        "description": "Self-host the Roboto Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/updater-roll",
+        "description": "tsParticles particles roll updater"
+    },
+    {
+        "name": "@fontsource/material-icons",
+        "description": "Self-host the Material Icons font in a neatly bundled NPM package."
+    },
+    {
+        "name": "vue-js-modal",
+        "description": "Modal Component for Vue.js"
+    },
+    {
+        "name": "@fontsource/ibm-plex-mono",
+        "description": "Self-host the IBM Plex Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/lato",
+        "description": "Self-host the Lato font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/fira-code",
+        "description": "Self-host the Fira Code font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/public-sans",
+        "description": "Self-host the Public Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@kyvg/vue3-notification",
+        "description": "Vue.js Notification Library"
+    },
+    {
+        "name": "@fontsource/noto-sans",
+        "description": "Self-host the Noto Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@omlet/cli",
+        "description": "Omlet (https://omlet.dev) is a component analytics tool that uses a CLI to scan your codebase to detect components and their usage. Get real usage insights from customizable charts to measure adoption across all projects and identify opportunities to impr"
+    },
+    {
+        "name": "react-horizontal-scrolling-menu",
+        "description": "Scrolling horizontal menu component for React, support mouse and touch devices."
+    },
+    {
+        "name": "@tsparticles/plugin-motion",
+        "description": "tsParticles motion sickness plugin"
+    },
+    {
+        "name": "@tsparticles/updater-destroy",
+        "description": "tsParticles particles destroy updater"
+    },
+    {
+        "name": "@chenfengyuan/vue-qrcode",
+        "description": "QR code component for Vue 3."
+    },
+    {
+        "name": "@tsparticles/shape-heart",
+        "description": "tsParticles heart shape"
+    },
+    {
+        "name": "@tsparticles/plugin-absorbers",
+        "description": "tsParticles absorbers plugin"
+    },
+    {
+        "name": "vue-notification",
+        "description": "Vue.js Notification Library"
+    },
+    {
+        "name": "@fontsource/fira-mono",
+        "description": "Self-host the Fira Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/source-sans-pro",
+        "description": "Self-host the Source Sans Pro font in a neatly bundled NPM package."
+    },
+    {
+        "name": "percom",
+        "description": "A calculation npm module that is to simplify the calculation of permutations and combinations"
+    },
+    {
+        "name": "@tsparticles/shape-cards",
+        "description": "tsParticles cards shape"
+    },
+    {
+        "name": "@tsparticles/plugin-emitters-shape-square",
+        "description": "tsParticles emitters shape square plugin"
+    },
+    {
+        "name": "@tsparticles/shape-text",
+        "description": "tsParticles text shape"
+    },
+    {
+        "name": "@fontsource/noto-sans-jp",
+        "description": "Self-host the Noto Sans JP font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/plugin-emitters-shape-circle",
+        "description": "tsParticles emitters shape circle plugin"
+    },
+    {
+        "name": "@tsparticles/confetti",
+        "description": "Easily create highly customizable particle animations and use them as animated backgrounds for your website. Ready to use components available also for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Riot.js, Inferno."
+    },
+    {
+        "name": "@tsparticles/interaction-external-trail",
+        "description": "tsParticles trail external interaction"
+    },
+    {
+        "name": "@chenfengyuan/vue-countdown",
+        "description": "Countdown component for Vue 3."
+    },
+    {
+        "name": "@fontsource-variable/jetbrains-mono",
+        "description": "Self-host the JetBrains Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/updater-twinkle",
+        "description": "tsParticles particles twinkle updater"
+    },
+    {
+        "name": "@luzmo/embed",
+        "description": "A modern [Web Component](https://developer.mozilla.org/en-US/docs/Web/Web_Components) for [Luzmo](https://luzmo.com) dashboards in your web application."
+    },
+    {
+        "name": "@coreui/coreui-pro",
+        "description": "The most popular front-end framework for developing responsive, mobile-first projects on the web rewritten by the CoreUI Team"
+    },
+    {
+        "name": "@fontsource/barlow",
+        "description": "Self-host the Barlow font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/dm-sans",
+        "description": "Self-host the DM Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/nunito",
+        "description": "Self-host the Nunito font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tabler/core",
+        "description": "Premium and Open Source dashboard template with responsive and high quality UI."
+    },
+    {
+        "name": "@fontsource/nunito-sans",
+        "description": "Self-host the Nunito Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/dm-sans",
+        "description": "Self-host the DM Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/montserrat",
+        "description": "Self-host the Montserrat font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/public-sans",
+        "description": "Self-host the Public Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/source-code-pro",
+        "description": "Self-host the Source Code Pro font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/inconsolata",
+        "description": "Self-host the Inconsolata font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/jetbrains-mono",
+        "description": "Self-host the JetBrains Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/mulish",
+        "description": "Self-host the Mulish font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/nunito-sans",
+        "description": "Self-host the Nunito Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@bytescale/upload-widget",
+        "description": "File Upload UI Widget — Lightweight & supports: drag and drop, multiple file uploads, image cropping, customization, and more 🚀 Comes with Cloud Storage 🌐"
+    },
+    {
+        "name": "@coveo/platform-client",
+        "description": "The main goal of this package is to provide an easy to configure and straightforward way of querying Coveo Cloud APIs using JavaScript."
+    },
+    {
+        "name": "vue-feather",
+        "description": "Feather icons component for Vue 3."
+    },
+    {
+        "name": "@fontsource/merriweather",
+        "description": "Self-host the Merriweather font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/plus-jakarta-sans",
+        "description": "Self-host the Plus Jakarta Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@luzmo/react-embed",
+        "description": "This is a React library for embedding [Luzmo](https://luzmo.com) dashboards in your React application."
+    },
+    {
+        "name": "@fontsource-variable/open-sans",
+        "description": "Self-host the Open Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/roboto-flex",
+        "description": "Self-host the Roboto Flex font in a neatly bundled NPM package."
+    },
+    {
+        "name": "postcss-import-ext-glob",
+        "description": "A PostCSS plugin to extend postcss-import path resolver to allow glob usage as path"
+    },
+    {
+        "name": "@fontsource/roboto-condensed",
+        "description": "Self-host the Roboto Condensed font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/figtree",
+        "description": "Self-host the Figtree font in a neatly bundled NPM package."
+    },
+    {
+        "name": "cropper",
+        "description": "A simple jQuery image cropping plugin."
+    },
+    {
+        "name": "upload-js",
+        "description": "File Upload Library — Upload.js gives developers AJAX multipart file uploading via XHR 🚀 Comes with Cloud Storage 🌐"
+    },
+    {
+        "name": "extract-colors",
+        "description": "Extract color palettes from images"
+    },
+    {
+        "name": "search-index",
+        "description": "A network resilient, persistent full-text search library for the browser and Node.js"
+    },
+    {
+        "name": "@fontsource/raleway",
+        "description": "Self-host the Raleway font in a neatly bundled NPM package."
+    },
+    {
+        "name": "bootstrap-css-only",
+        "description": "[Bootstrap](http://getbootstrap.com/) CSS and font libraries only. No javascript, and more importantly NO depenedency on jQuery."
+    },
+    {
+        "name": "marko",
+        "description": "UI Components + streaming, async, high performance, HTML templating for Node.js and the browser."
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-jp",
+        "description": "Self-host the Noto Sans JP font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/ubuntu",
+        "description": "Self-host the Ubuntu font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/oswald",
+        "description": "Self-host the Oswald font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/dm-mono",
+        "description": "Self-host the DM Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "ts-japi",
+        "description": "A highly-modular (typescript-friendly)-framework agnostic library for serializing data to the JSON:API specification"
+    },
+    {
+        "name": "@tsparticles/preset-confetti",
+        "description": "tsParticles confetti preset"
+    },
+    {
+        "name": "@fontsource/manrope",
+        "description": "Self-host the Manrope font in a neatly bundled NPM package."
+    },
+    {
+        "name": "uploader",
+        "description": "File Upload UI Widget — Lightweight & supports: drag and drop, multiple file uploads, image cropping, customization, and more 🚀 Comes with Cloud Storage 🌐"
+    },
+    {
+        "name": "@fontsource-variable/roboto-mono",
+        "description": "Self-host the Roboto Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tabler/icons-webfont",
+        "description": "A set of free MIT-licensed high-quality SVG icons for you to use in your web projects."
+    },
+    {
+        "name": "@fontsource-variable/plus-jakarta-sans",
+        "description": "Self-host the Plus Jakarta Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/space-grotesk",
+        "description": "Self-host the Space Grotesk font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/libre-franklin",
+        "description": "Self-host the Libre Franklin font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@hongzhiyuan/preact",
+        "description": "Fast 3kb React-compatible Virtual DOM library."
+    },
+    {
+        "name": "@fontsource-variable/geist",
+        "description": "Self-host the Geist font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/rubik",
+        "description": "Self-host the Rubik font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/playfair-display",
+        "description": "Self-host the Playfair Display font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/geist-mono",
+        "description": "Self-host the Geist Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "date-picker-svelte",
+        "description": "Date and time picker for Svelte"
+    },
+    {
+        "name": "@coveord/plasma-style",
+        "description": "Yet another CSS framework - but it's awesome & built by Coveo."
+    },
+    {
+        "name": "mdui",
+        "description": "实现 material you 设计规范的 Web Components 组件库"
+    },
+    {
+        "name": "@fontsource-variable/roboto",
+        "description": "Self-host the Roboto font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/material-icons-outlined",
+        "description": "Self-host the Material Icons Outlined font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/work-sans",
+        "description": "Self-host the Work Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/lora",
+        "description": "Self-host the Lora font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/nunito",
+        "description": "Self-host the Nunito font in a neatly bundled NPM package."
+    },
+    {
+        "name": "bootstrap-material-design",
+        "description": "Material Design for Bootstrap 4"
+    },
+    {
+        "name": "@fontsource-variable/noto-sans",
+        "description": "Self-host the Noto Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/figtree",
+        "description": "Self-host the Figtree font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/fira-sans",
+        "description": "Self-host the Fira Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "mantine-contextmenu",
+        "description": "Craft your applications for productivity and meet your users’ expectations by enhancing your Mantine-based UIs with a desktop-grade, lightweight yet fully-featured, dark-theme aware context-menu component, built by the creator of Mantine DataTable"
+    },
+    {
+        "name": "@fontsource/geist-sans",
+        "description": "Self-host the Geist Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/space-mono",
+        "description": "Self-host the Space Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/libre-baskerville",
+        "description": "Self-host the Libre Baskerville font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/source-code-pro",
+        "description": "Self-host the Source Code Pro font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/lexend",
+        "description": "Self-host the Lexend font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/mulish",
+        "description": "Self-host the Mulish font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@coveord/plasma-react",
+        "description": "Plasma components implemented with React!"
+    },
+    {
+        "name": "jquery-cropper",
+        "description": "A jQuery plugin wrapper for Cropper.js."
+    },
+    {
+        "name": "@fontsource-variable/outfit",
+        "description": "Self-host the Outfit font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/titillium-web",
+        "description": "Self-host the Titillium Web font in a neatly bundled NPM package."
+    },
+    {
+        "name": "boosted",
+        "description": "Orange Boosted with Bootstrap is a Bootstrap based, Orange branded accessible and ergonomic components library."
+    },
+    {
+        "name": "@fontsource-variable/material-symbols-rounded",
+        "description": "Self-host the Material Symbols Rounded font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/noto-sans-sc",
+        "description": "Self-host the Noto Sans SC font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/material-symbols-outlined",
+        "description": "Self-host the Material Symbols Outlined font in a neatly bundled NPM package."
+    },
+    {
+        "name": "vue-croppa",
+        "description": "A simple straightforward customizable lightweight mobile-friendly image cropper for Vue 2.0."
+    },
+    {
+        "name": "webmidi",
+        "description": "WEBMIDI.js makes it easy to talk to MIDI instruments from a browser or from Node.js. It simplifies the control of external or virtual MIDI instruments with functions such as playNote(), sendPitchBend(), sendControlChange(), etc. It also allows reacting to"
+    },
+    {
+        "name": "@fontsource/quicksand",
+        "description": "Self-host the Quicksand font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/roboto-flex",
+        "description": "Self-host the Roboto Flex font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/space-grotesk",
+        "description": "Self-host the Space Grotesk font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/kanit",
+        "description": "Self-host the Kanit font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/roboto-slab",
+        "description": "Self-host the Roboto Slab font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/outfit",
+        "description": "Self-host the Outfit font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-sc",
+        "description": "Self-host the Noto Sans SC font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/comfortaa",
+        "description": "Self-host the Comfortaa font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/sora",
+        "description": "Self-host the Sora font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/material-symbols-rounded",
+        "description": "Self-host the Material Symbols Rounded font in a neatly bundled NPM package."
+    },
+    {
+        "name": "vue-input-facade",
+        "description": "A lightweight and dependency free input masking library created specific for Vue"
+    },
+    {
+        "name": "@chenfengyuan/vue-number-input",
+        "description": "Number input component for Vue 3."
+    },
+    {
+        "name": "bootstrap-italia",
+        "description": "Bootstrap Italia è un tema Bootstrap 5 per la creazione di applicazioni web nel pieno rispetto delle linee guida di design per i siti internet e i servizi digitali della PA"
+    },
+    {
+        "name": "holy-loader",
+        "description": "Holy Loader is a lightweight, customizable top-loading progress bar component for React applications."
+    },
+    {
+        "name": "@fontsource/ubuntu-mono",
+        "description": "Self-host the Ubuntu Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-arabic",
+        "description": "Self-host the Noto Sans Arabic font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/material-symbols-outlined",
+        "description": "Self-host the Material Symbols Outlined font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/rubik",
+        "description": "Self-host the Rubik font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/karla",
+        "description": "Self-host the Karla font in a neatly bundled NPM package."
+    },
+    {
+        "name": "pangea-lib",
+        "description": "## Installation"
+    },
+    {
+        "name": "@uploadcare/react-uploader",
+        "description": "React component for file uploads using Uploadcare"
+    },
+    {
+        "name": "@fontsource/noto-sans-kr",
+        "description": "Self-host the Noto Sans KR font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/instrument-serif",
+        "description": "Self-host the Instrument Serif font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/be-vietnam-pro",
+        "description": "Self-host the Be Vietnam Pro font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@chenfengyuan/vue-barcode",
+        "description": "Bar code component for Vue 3."
+    },
+    {
+        "name": "@fontsource/pt-sans",
+        "description": "Self-host the PT Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/interaction-external-pop",
+        "description": "tsParticles pop external interaction"
+    },
+    {
+        "name": "@tsparticles/plugin-easing-back",
+        "description": "tsParticles easing back plugin"
+    },
+    {
+        "name": "spectre.css",
+        "description": "Spectre.css: A lightweight, responsive and modern CSS framework"
+    },
+    {
+        "name": "@fontsource/kalam",
+        "description": "Self-host the Kalam font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/plugin-canvas-mask",
+        "description": "tsParticles canvas mask plugin"
+    },
+    {
+        "name": "@amaui/ui-react",
+        "description": "UI for React"
+    },
+    {
+        "name": "@tsparticles/plugin-easing-sine",
+        "description": "tsParticles easing sine plugin"
+    },
+    {
+        "name": "@fontsource/oxygen",
+        "description": "Self-host the Oxygen font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/josefin-sans",
+        "description": "Self-host the Josefin Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/manrope",
+        "description": "Self-host the Manrope font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uploadcare/react-widget",
+        "description": "React File Uploader. React component with uploading from multiple sources"
+    },
+    {
+        "name": "@adminkit/core",
+        "description": "AdminKit - Bootstrap 5 Admin Template"
+    },
+    {
+        "name": "banner-webpack-plugin",
+        "description": "append content before or after js bundle"
+    },
+    {
+        "name": "@dlghq/dialog-ui",
+        "description": "Dialog UI is an open source framework for build beautiful interfaces within a minute"
+    },
+    {
+        "name": "@tsparticles/updater-orbit",
+        "description": "tsParticles particles orbit updater"
+    },
+    {
+        "name": "@fontsource-variable/work-sans",
+        "description": "Self-host the Work Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "layui",
+        "description": "Classic modular Front-End UI library"
+    },
+    {
+        "name": "datalist-polyfill",
+        "description": "A minimal and dependency-free vanilla JavaScript datalist polyfill. Supports all standard's functionality as well as mimics other browsers behavior."
+    },
+    {
+        "name": "@tsparticles/effect-trail",
+        "description": "tsParticles trail effect"
+    },
+    {
+        "name": "@files-ui/react",
+        "description": "UI components for file uploads with React js"
+    },
+    {
+        "name": "@tsparticles/all",
+        "description": "Easily create highly customizable particle animations and use them as animated backgrounds for your website. Ready to use components available also for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Riot.js, Inferno."
+    },
+    {
+        "name": "@luzmo/vue-embed",
+        "description": "This is a Vue.js library for embedding [Luzmo](https://luzmo.com) dashboards in your Vue 2 or Vue 3 application."
+    },
+    {
+        "name": "@tsparticles/shape-cog",
+        "description": "tsParticles cog shape"
+    },
+    {
+        "name": "@tsparticles/plugin-easing-quint",
+        "description": "tsParticles easing quint plugin"
+    },
+    {
+        "name": "@tsparticles/plugin-easing-cubic",
+        "description": "tsParticles easing cubic plugin"
+    },
+    {
+        "name": "@tsparticles/plugin-easing-quart",
+        "description": "tsParticles easing quart plugin"
+    },
+    {
+        "name": "@fontsource/cabin",
+        "description": "Self-host the Cabin font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/path-polygon",
+        "description": "tsParticles polygon path"
+    },
+    {
+        "name": "@tsparticles/simplex-noise",
+        "description": "tsParticles simplex noise library"
+    },
+    {
+        "name": "@tsparticles/plugin-infection",
+        "description": "tsParticles infection plugin"
+    },
+    {
+        "name": "@tsparticles/plugin-export-json",
+        "description": "tsParticles export json plugin"
+    },
+    {
+        "name": "@tsparticles/plugin-hsv-color",
+        "description": "tsParticles HSV color plugin"
+    },
+    {
+        "name": "@fontsource-variable/fira-code",
+        "description": "Self-host the Fira Code font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/interaction-external-particle",
+        "description": "tsParticles particle external interaction"
+    },
+    {
+        "name": "@tsparticles/plugin-poisson-disc",
+        "description": "tsParticles poisson disc plugin"
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-bengali",
+        "description": "Self-host the Noto Sans Bengali font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/source-sans-3",
+        "description": "Self-host the Source Sans 3 font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@siemens/element-theme",
+        "description": "Element CSS theme."
+    },
+    {
+        "name": "@tsparticles/path-zig-zag",
+        "description": "tsParticles zig zag path"
+    },
+    {
+        "name": "@tsparticles/interaction-light",
+        "description": "tsParticles Light interaction"
+    },
+    {
+        "name": "@tsparticles/pjs",
+        "description": "Easily create highly customizable particle animations and use them as animated backgrounds for your website. Ready to use components available also for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Riot.js, Inferno."
+    },
+    {
+        "name": "@tsparticles/plugin-sounds",
+        "description": "tsParticles sounds plugin"
+    },
+    {
+        "name": "@tsparticles/plugin-export-video",
+        "description": "tsParticles export video plugin"
+    },
+    {
+        "name": "@tsparticles/shape-path",
+        "description": "tsParticles path shape"
+    },
+    {
+        "name": "@tsparticles/path-svg",
+        "description": "tsParticles svg path"
+    },
+    {
+        "name": "@tsparticles/shape-arrow",
+        "description": "tsParticles arrow shape"
+    },
+    {
+        "name": "@tsparticles/plugin-emitters-shape-polygon",
+        "description": "tsParticles emitters shape polygon plugin"
+    },
+    {
+        "name": "@fontsource/source-serif-4",
+        "description": "Self-host the Source Serif 4 font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/path-perlin-noise",
+        "description": "tsParticles perlin noise path"
+    },
+    {
+        "name": "@tsparticles/effect-bubble",
+        "description": "tsParticles bubble effect"
+    },
+    {
+        "name": "@tsparticles/plugin-export-image",
+        "description": "tsParticles export image plugin"
+    },
+    {
+        "name": "@fontsource/permanent-marker",
+        "description": "Self-host the Permanent Marker font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/noto-sans-tc",
+        "description": "Self-host the Noto Sans TC font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/path-curves",
+        "description": "tsParticles curves path"
+    },
+    {
+        "name": "@tsparticles/updater-gradient",
+        "description": "tsParticles particles gradient updater"
+    },
+    {
+        "name": "@tsparticles/plugin-easing-expo",
+        "description": "tsParticles easing expo plugin"
+    },
+    {
+        "name": "@tsparticles/plugin-emitters-shape-canvas",
+        "description": "tsParticles emitters shape canvas plugin"
+    },
+    {
+        "name": "@tsparticles/plugin-easing-linear",
+        "description": "tsParticles easing linear plugin"
+    },
+    {
+        "name": "@tsparticles/plugin-polygon-mask",
+        "description": "tsParticles polygon mask plugin"
+    },
+    {
+        "name": "@fontsource/pt-mono",
+        "description": "Self-host the PT Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/atkinson-hyperlegible",
+        "description": "Self-host the Atkinson Hyperlegible font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/bangers",
+        "description": "Self-host the Bangers font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/exo-2",
+        "description": "Self-host the Exo 2 font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/interaction-particles-repulse",
+        "description": "tsParticles repulse particles interaction"
+    },
+    {
+        "name": "@fontsource/bricolage-grotesque",
+        "description": "Self-host the Bricolage Grotesque font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/path-curl-noise",
+        "description": "tsParticles curl noise path"
+    },
+    {
+        "name": "@tsparticles/plugin-emitters-shape-path",
+        "description": "tsParticles emitters shape path plugin"
+    },
+    {
+        "name": "vue3-openlayers",
+        "description": "OpenLayers Wrapper for Vue3"
+    },
+    {
+        "name": "@fontsource/monofett",
+        "description": "Self-host the Monofett font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/plugin-oklch-color",
+        "description": "tsParticles OKLCH color plugin"
+    },
+    {
+        "name": "@dynamicss/dynamicss",
+        "description": "Manage CSS style sheets with javascript"
+    },
+    {
+        "name": "enum-plus",
+        "description": "A drop-in replacement for native enum. Like native enum but much better!"
+    },
+    {
+        "name": "@tsparticles/shape-rounded-rect",
+        "description": "tsParticles rounded rect shape"
+    },
+    {
+        "name": "@fontsource/heebo",
+        "description": "Self-host the Heebo font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/path-simplex-noise",
+        "description": "tsParticles simplex noise path"
+    },
+    {
+        "name": "@tsparticles/plugin-easing-circ",
+        "description": "tsParticles easing circ plugin"
+    },
+    {
+        "name": "@chenfengyuan/datepicker",
+        "description": "A simple jQuery datepicker plugin."
+    },
+    {
+        "name": "@tsparticles/perlin-noise",
+        "description": "tsParticles perlin noise library"
+    },
+    {
+        "name": "@tsparticles/shape-rounded-polygon",
+        "description": "tsParticles rounded polygon shape"
+    },
+    {
+        "name": "zoomist",
+        "description": "A TypeScript library for zooming any element. Also supports mobile devices."
+    },
+    {
+        "name": "@tsparticles/shape-spiral",
+        "description": "tsParticles spiral shape"
+    },
+    {
+        "name": "@tsparticles/shape-infinity",
+        "description": "tsParticles infinity shape"
+    },
+    {
+        "name": "@fontsource/hanken-grotesk",
+        "description": "Self-host the Hanken Grotesk font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/geist",
+        "description": "Self-host the Geist font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/pacifico",
+        "description": "Self-host the Pacifico font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/bricolage-grotesque",
+        "description": "Self-host the Bricolage Grotesque font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/dm-serif-display",
+        "description": "Self-host the DM Serif Display font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@engie-group/fluid-design-system",
+        "description": "The Fluid Design System is ENGIE’s open-source library to create, build and deliver ENGIE digital services in a more efficient way."
+    },
+    {
+        "name": "@fontsource-variable/readex-pro",
+        "description": "Self-host the Readex Pro font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/inconsolata",
+        "description": "Self-host the Inconsolata font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/geist-mono",
+        "description": "Self-host the Geist Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/rammetto-one",
+        "description": "Self-host the Rammetto One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "aemfed",
+        "description": "Upload front-end changes into AEM, refresh relevant resources in the page and get instant notifications from the error.log, all for easier and faster development."
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-tc",
+        "description": "Self-host the Noto Sans TC font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/source-sans-3",
+        "description": "Self-host the Source Sans 3 font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/calistoga",
+        "description": "Self-host the Calistoga font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/pt-serif",
+        "description": "Self-host the PT Serif font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/birthstone",
+        "description": "Self-host the Birthstone font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/urbanist",
+        "description": "Self-host the Urbanist font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/bowlby-one-sc",
+        "description": "Self-host the Bowlby One SC font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/sigmar-one",
+        "description": "Self-host the Sigmar One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/noto-color-emoji",
+        "description": "Self-host the Noto Color Emoji font in a neatly bundled NPM package."
+    },
+    {
+        "name": "state-in-url",
+        "description": "Store state in URL as in object, types and structure are preserved, with TS validation. Same API as React.useState, wthout any hasssle or boilerplate. Next.js@14-15, react-router@6-7, and remix@2."
+    },
+    {
+        "name": "@fontsource/geologica",
+        "description": "Self-host the Geologica font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/dm-serif-text",
+        "description": "Self-host the DM Serif Text font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/press-start-2p",
+        "description": "Self-host the Press Start 2P font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@pattern-lab/live-server",
+        "description": "simple development http server with live reload capability"
+    },
+    {
+        "name": "@fontsource/jost",
+        "description": "Self-host the Jost font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/exo-2",
+        "description": "Self-host the Exo 2 font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/playfair-display",
+        "description": "Self-host the Playfair Display font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/bebas-neue",
+        "description": "Self-host the Bebas Neue font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/inter-tight",
+        "description": "Self-host the Inter Tight font in a neatly bundled NPM package."
+    },
+    {
+        "name": "flyonui",
+        "description": "The easiest, free and open-source Tailwind CSS component library with semantic classes."
+    },
+    {
+        "name": "@fontsource/lilita-one",
+        "description": "Self-host the Lilita One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "loading-attribute-polyfill",
+        "description": "Fast and lightweight dependency-free vanilla JavaScript polyfill for native lazy loading / the awesome loading='lazy'-attribute."
+    },
+    {
+        "name": "@fontsource/dela-gothic-one",
+        "description": "Self-host the Dela Gothic One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/dancing-script",
+        "description": "Self-host the Dancing Script font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/archivo",
+        "description": "Self-host the Archivo font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/eb-garamond",
+        "description": "Self-host the EB Garamond font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/plugin-named-color",
+        "description": "tsParticles named color plugin"
+    },
+    {
+        "name": "@tsparticles/vue3",
+        "description": "Official tsParticles Vue.js 3.x Component - Easily create highly customizable particle, confetti and fireworks animations and use them as animated backgrounds for your website. Ready to use components available also for Web Components, React, Vue.js 2.x, "
+    },
+    {
+        "name": "@fontsource-variable/oswald",
+        "description": "Self-host the Oswald font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/raleway",
+        "description": "Self-host the Raleway font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/staatliches",
+        "description": "Self-host the Staatliches font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/overpass",
+        "description": "Self-host the Overpass font in a neatly bundled NPM package."
+    },
+    {
+        "name": "bootstrap3",
+        "description": "The most popular front-end framework for developing responsive, mobile first projects on the web."
+    },
+    {
+        "name": "@zitterorg/magni-eos",
+        "description": "[![github actions][actions-image]][actions-url] [![coverage][codecov-image]][codecov-url] [![dependency status][deps-svg]][deps-url] [![dev dependency status][dev-deps-svg]][dev-deps-url] [![License][license-image]][license-url] [![Downloads][downloads-im"
+    },
+    {
+        "name": "@fontsource/barlow-condensed",
+        "description": "Self-host the Barlow Condensed font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/alfa-slab-one",
+        "description": "Self-host the Alfa Slab One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/caprasimo",
+        "description": "Self-host the Caprasimo font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@daypilot/daypilot-lite-javascript",
+        "description": "DayPilot Lite for JavaScript"
+    },
+    {
+        "name": "@fontsource/suez-one",
+        "description": "Self-host the Suez One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "nuxt-lottie",
+        "description": "Easily integrate Lottie animations into your Nuxt project"
+    },
+    {
+        "name": "@fontsource/varela-round",
+        "description": "Self-host the Varela Round font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/rajdhani",
+        "description": "Self-host the Rajdhani font in a neatly bundled NPM package."
+    },
+    {
+        "name": "scss-reset",
+        "description": "SCSS Reset"
+    },
+    {
+        "name": "@fontsource/bitter",
+        "description": "Self-host the Bitter font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/red-hat-text",
+        "description": "Self-host the Red Hat Text font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/anton",
+        "description": "Self-host the Anton font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/bitter",
+        "description": "Self-host the Bitter font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/noto-sans-hk",
+        "description": "Self-host the Noto Sans HK font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@toptal/davinci",
+        "description": "Davinci CLI"
+    },
+    {
+        "name": "@fontsource/climate-crisis",
+        "description": "Self-host the Climate Crisis font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/quicksand",
+        "description": "Self-host the Quicksand font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/titan-one",
+        "description": "Self-host the Titan One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/orbitron",
+        "description": "Self-host the Orbitron font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/mochiy-pop-one",
+        "description": "Self-host the Mochiy Pop One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/metropolis",
+        "description": "Self-host the Metropolis font in a neatly bundled NPM package."
+    },
+    {
+        "name": "svelte-tweakpane-ui",
+        "description": "A Svelte component library wrapping UI elements from Tweakpane, plus some additional functionality for convenience and flexibility."
+    },
+    {
+        "name": "@fontsource/arimo",
+        "description": "Self-host the Arimo font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/cairo",
+        "description": "Self-host the Cairo font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/funnel-display",
+        "description": "Self-host the Funnel Display font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/lexend-deca",
+        "description": "Self-host the Lexend Deca font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/azeret-mono",
+        "description": "Self-host the Azeret Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "asset-hash",
+        "description": "Very fast asset hashing function for using e.g. during front-end deployments."
+    },
+    {
+        "name": "breadstick",
+        "description": "- **An imperative API.** This means that you don't need to set component state or render elements to trigger notifications. Instead, just call a function. This makes it very user friendly for component library authors. - **Render whatever you want.** Util"
+    },
+    {
+        "name": "range-slider-input",
+        "description": "A lightweight (~2kB) library to create range sliders that can capture a value or a range of values with one or two drag handles"
+    },
+    {
+        "name": "bootstrap-wysiwyg",
+        "description": "A tiny Bootstrap and jQuery based WYSIWYG rich text editor based on the browser function execCommand."
+    },
+    {
+        "name": "@fontsource/noto-serif",
+        "description": "Self-host the Noto Serif font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/m-plus-rounded-1c",
+        "description": "Self-host the M PLUS Rounded 1c font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/caveat",
+        "description": "Self-host the Caveat font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/monsieur-la-doulaise",
+        "description": "Self-host the Monsieur La Doulaise font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/quattrocento",
+        "description": "Self-host the Quattrocento font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@dropzone-ui/react",
+        "description": "The best and most complete React library for managing file uploads. Multilanguage support. Server side support. Material design styles. Code generator on webpage."
+    },
+    {
+        "name": "@fontsource-variable/urbanist",
+        "description": "Self-host the Urbanist font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/cinzel",
+        "description": "Self-host the Cinzel font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@giro3d/giro3d",
+        "description": "A JS/WebGL framework for 3D geospatial data visualization"
+    },
+    {
+        "name": "@fontsource-variable/lexend",
+        "description": "Self-host the Lexend font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/ibm-plex-serif",
+        "description": "Self-host the IBM Plex Serif font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/cormorant-garamond",
+        "description": "Self-host the Cormorant Garamond font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/source-serif-pro",
+        "description": "Self-host the Source Serif Pro font in a neatly bundled NPM package."
+    },
+    {
+        "name": "generate",
+        "description": "Command line tool and developer framework for scaffolding out new GitHub projects. Generate offers the robustness and configurability of Yeoman, the expressiveness and simplicity of Slush, and more powerful flow control and composability than either."
+    },
+    {
+        "name": "@fontsource/dosis",
+        "description": "Self-host the Dosis font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/hind",
+        "description": "Self-host the Hind font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-thai",
+        "description": "Self-host the Noto Sans Thai font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/source-serif-4",
+        "description": "Self-host the Source Serif 4 font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/stix-two-text",
+        "description": "Self-host the STIX Two Text font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@oroinc/bootstrap",
+        "description": "The most popular front-end framework for developing responsive, mobile first projects on the web."
+    },
+    {
+        "name": "@festo-ui/web-essentials",
+        "description": "CSS framework and utils to build FESTO web applications"
+    },
+    {
+        "name": "@fontsource/abril-fatface",
+        "description": "Self-host the Abril Fatface font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-kr",
+        "description": "Self-host the Noto Sans KR font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/onest",
+        "description": "Self-host the Onest font in a neatly bundled NPM package."
+    },
+    {
+        "name": "ng-material-datetimepicker",
+        "description": "A datetime picker for AngularJS Material"
+    },
+    {
+        "name": "@uiw/utils",
+        "description": "utils tools for uiw"
+    },
+    {
+        "name": "@fontsource/maven-pro",
+        "description": "Self-host the Maven Pro font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/great-vibes",
+        "description": "Self-host the Great Vibes font in a neatly bundled NPM package."
+    },
+    {
+        "name": "post-me",
+        "description": "Use web Workers and other Windows through a simple Promise API"
+    },
+    {
+        "name": "bootstrap-v4-rtl",
+        "description": "The most popular front-end framework for developing responsive, mobile first projects on the web in RTL."
+    },
+    {
+        "name": "@feflow/cli",
+        "description": "A front-end flow tool."
+    },
+    {
+        "name": "@fontsource-variable/archivo",
+        "description": "Self-host the Archivo font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/material-icons-round",
+        "description": "Self-host the Material Icons Round font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/lobster",
+        "description": "Self-host the Lobster font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/noto-sans-thai",
+        "description": "Self-host the Noto Sans Thai font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/red-hat-display",
+        "description": "Self-host the Red Hat Display font in a neatly bundled NPM package."
+    },
+    {
+        "name": "icon.gl",
+        "description": "icon.gl is a icon library and framework developed by Scape Agency."
+    },
+    {
+        "name": "@daypilot/daypilot-lite-react",
+        "description": "DayPilot Lite for React"
+    },
+    {
+        "name": "@tabler/icons-png",
+        "description": "A set of free MIT-licensed high-quality SVG icons for you to use in your web projects."
+    },
+    {
+        "name": "@fontsource/arvo",
+        "description": "Self-host the Arvo font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/fredoka",
+        "description": "Self-host the Fredoka font in a neatly bundled NPM package."
+    },
+    {
+        "name": "inline-svg",
+        "description": "Takes an inline image with an SVG as it's source and swaps it for an inline SVG"
+    },
+    {
+        "name": "uiw",
+        "description": "A high quality UI Toolkit, A Component Library for React 16+."
+    },
+    {
+        "name": "@schukai/monster",
+        "description": "Monster is a simple library for creating fast, robust and lightweight websites."
+    },
+    {
+        "name": "@qooxdoo/framework",
+        "description": "The JS Framework for Coders"
+    },
+    {
+        "name": "@tsparticles/preset-links",
+        "description": "tsParticles links preset"
+    },
+    {
+        "name": "@fontsource/crimson-pro",
+        "description": "Self-host the Crimson Pro font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/parisienne",
+        "description": "Self-host the Parisienne font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/teko",
+        "description": "Self-host the Teko font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/redacted-script",
+        "description": "Self-host the Redacted Script font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/courier-prime",
+        "description": "Self-host the Courier Prime font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/material-icons-sharp",
+        "description": "Self-host the Material Icons Sharp font in a neatly bundled NPM package."
+    },
+    {
+        "name": "ng-ckeditor",
+        "description": "Angular Module for rendering the CKEditor"
+    },
+    {
+        "name": "@fontsource/happy-monkey",
+        "description": "Self-host the Happy Monkey font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/syne",
+        "description": "Self-host the Syne font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/material-icons-two-tone",
+        "description": "Self-host the Material Icons Two Tone font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/spectral",
+        "description": "Self-host the Spectral font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/inter-tight",
+        "description": "Self-host the Inter Tight font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/didact-gothic",
+        "description": "Self-host the Didact Gothic font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/chivo",
+        "description": "Self-host the Chivo font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/comfortaa",
+        "description": "Self-host the Comfortaa font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/slabo-13px",
+        "description": "Self-host the Slabo 13px font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/league-spartan",
+        "description": "Self-host the League Spartan font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/alegreya",
+        "description": "Self-host the Alegreya font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/noto-serif",
+        "description": "Self-host the Noto Serif font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/alice",
+        "description": "Self-host the Alice font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/questrial",
+        "description": "Self-host the Questrial font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/sunflower",
+        "description": "Self-host the Sunflower font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@abler/ats-front-resources-api",
+        "description": "Front resources package of Abler front-end workflow"
+    },
+    {
+        "name": "@fontsource-variable/commissioner",
+        "description": "Self-host the Commissioner font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/angular",
+        "description": "Official tsParticles Angular Component - Easily create highly customizable particle, confetti and fireworks animations and use them as animated backgrounds for your website. Ready to use components available also for Web Components, React, Vue.js (2.x and"
+    },
+    {
+        "name": "@fontsource/carlito",
+        "description": "Self-host the Carlito font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/yanone-kaffeesatz",
+        "description": "Self-host the Yanone Kaffeesatz font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/tenor-sans",
+        "description": "Self-host the Tenor Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/noto-serif-jp",
+        "description": "Self-host the Noto Serif JP font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/barlow-semi-condensed",
+        "description": "Self-host the Barlow Semi Condensed font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/gothic-a1",
+        "description": "Self-host the Gothic A1 font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/bad-script",
+        "description": "Self-host the Bad Script font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/merriweather-sans",
+        "description": "Self-host the Merriweather Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/creepster",
+        "description": "Self-host the Creepster font in a neatly bundled NPM package."
+    },
+    {
+        "name": "moguli_library",
+        "description": "魔古力的公共库"
+    },
+    {
+        "name": "@fontsource/abel",
+        "description": "Self-host the Abel font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/smooch",
+        "description": "Self-host the Smooch font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/svelte",
+        "description": "Official tsParticles Svelte Component - Easily create highly customizable particle, confetti and fireworks animations and use them as animated backgrounds for your website. Ready to use components available also for Web Components, React, Vue.js (2.x and "
+    },
+    {
+        "name": "@fontsource-variable/eb-garamond",
+        "description": "Self-host the EB Garamond font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/prompt",
+        "description": "Self-host the Prompt font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-portal",
+        "description": "Portal component"
+    },
+    {
+        "name": "@fontsource-variable/sora",
+        "description": "Self-host the Sora font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/atkinson-hyperlegible-next",
+        "description": "Self-host the Atkinson Hyperlegible Next font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/zilla-slab",
+        "description": "Self-host the Zilla Slab font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@luzmo/ngx-embed",
+        "description": "This is an Angular library for embedding [Luzmo](https://luzmo.com) dashboards in your Angular application."
+    },
+    {
+        "name": "@uiw/react-affix",
+        "description": "Affix component"
+    },
+    {
+        "name": "@fontsource-variable/pixelify-sans",
+        "description": "Self-host the Pixelify Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/caveat-brush",
+        "description": "Self-host the Caveat Brush font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/abeezee",
+        "description": "Self-host the ABeeZee font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/exo",
+        "description": "Self-host the Exo font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/doc",
+        "description": "UIW documentation website."
+    },
+    {
+        "name": "@fontsource-variable/lora",
+        "description": "Self-host the Lora font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/luckiest-guy",
+        "description": "Self-host the Luckiest Guy font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/dejavu-sans",
+        "description": "Self-host the DejaVu Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "milligram",
+        "description": "A minimalist CSS framework."
+    },
+    {
+        "name": "alive-server",
+        "description": "Alive fork of live-server: simple development http server with live reload capability"
+    },
+    {
+        "name": "@fontsource/old-standard-tt",
+        "description": "Self-host the Old Standard TT font in a neatly bundled NPM package."
+    },
+    {
+        "name": "v-dropdown",
+        "description": "A dropdown layer container component for vue3"
+    },
+    {
+        "name": "@fontsource/tajawal",
+        "description": "Self-host the Tajawal font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/yeseva-one",
+        "description": "Self-host the Yeseva One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/red-hat-mono",
+        "description": "Self-host the Red Hat Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/arsenal",
+        "description": "Self-host the Arsenal font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/aleo",
+        "description": "Self-host the Aleo font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/jost",
+        "description": "Self-host the Jost font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-mono",
+        "description": "Self-host the Noto Sans Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/actor",
+        "description": "Self-host the Actor font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/acme",
+        "description": "Self-host the Acme font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/merriweather",
+        "description": "Self-host the Merriweather font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-overlay",
+        "description": "Overlay component"
+    },
+    {
+        "name": "@fontsource/recursive",
+        "description": "Self-host the Recursive font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/pt-serif-caption",
+        "description": "Self-host the PT Serif Caption font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/mona-sans",
+        "description": "Self-host the Mona Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/geologica",
+        "description": "Self-host the Geologica font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/prata",
+        "description": "Self-host the Prata font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/cabin-sketch",
+        "description": "Self-host the Cabin Sketch font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/basic",
+        "description": "Self-host the Basic font in a neatly bundled NPM package."
+    },
+    {
+        "name": "pickerjs",
+        "description": "JavaScript date time picker."
+    },
+    {
+        "name": "@fontsource-variable/roboto-condensed",
+        "description": "Self-host the Roboto Condensed font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/anybody",
+        "description": "Self-host the Anybody font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@zippytech/react-toolkit",
+        "description": "> Professionally Built React Components - Made the React Way"
+    },
+    {
+        "name": "@fontsource/roboto-serif",
+        "description": "Self-host the Roboto Serif font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/grandstander",
+        "description": "Self-host the Grandstander font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/inknut-antiqua",
+        "description": "Self-host the Inknut Antiqua font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@webpixels/css",
+        "description": "Utility and component-centric design system based on Bootstrap for fast, responsive UI development."
+    },
+    {
+        "name": "@fontsource/average-sans",
+        "description": "Self-host the Average Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/noto-serif-sc",
+        "description": "Self-host the Noto Serif SC font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/fira-sans-extra-condensed",
+        "description": "Self-host the Fira Sans Extra Condensed font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/fractal-noise",
+        "description": "tsParticles fractal noise library"
+    },
+    {
+        "name": "generator-cozen-angular",
+        "description": "Use this yeoman generator to help you create AngularJS applications based to works properly with the Altran Angular Library."
+    },
+    {
+        "name": "@tsparticles/smooth-value-noise",
+        "description": "tsParticles smooth value noise library"
+    },
+    {
+        "name": "@fontsource/noto-sans-arabic",
+        "description": "Self-host the Noto Sans Arabic font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/adamina",
+        "description": "Self-host the Adamina font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/path-fractal-noise",
+        "description": "tsParticles fractal noise path"
+    },
+    {
+        "name": "@fontsource/piazzolla",
+        "description": "Self-host the Piazzolla font in a neatly bundled NPM package."
+    },
+    {
+        "name": "fuelux",
+        "description": "Base Fuel UX styles and controls"
+    },
+    {
+        "name": "bootstrap-material-datetimepicker",
+        "description": "."
+    },
+    {
+        "name": "@fontsource/esteban",
+        "description": "Self-host the Esteban font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@onesy/ui-react",
+        "description": "UI for React"
+    },
+    {
+        "name": "@fontsource/orienta",
+        "description": "Self-host the Orienta font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/sniglet",
+        "description": "Self-host the Sniglet font in a neatly bundled NPM package."
+    },
+    {
+        "name": "codyhouse-framework",
+        "description": "A lightweight front-end framework for building accessible, bespoke interfaces."
+    },
+    {
+        "name": "@uiw/react-tooltip",
+        "description": "Tooltip component"
+    },
+    {
+        "name": "@fontsource-variable/funnel-sans",
+        "description": "Self-host the Funnel Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/instrument-sans",
+        "description": "Self-host the Instrument Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/noto-sans-hebrew",
+        "description": "Self-host the Noto Sans Hebrew font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/dejavu-mono",
+        "description": "Self-host the DejaVu Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/covered-by-your-grace",
+        "description": "Self-host the Covered By Your Grace font in a neatly bundled NPM package."
+    },
+    {
+        "name": "html5-boilerplate",
+        "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites."
+    },
+    {
+        "name": "@fontsource/play",
+        "description": "Self-host the Play font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/saira",
+        "description": "Self-host the Saira font in a neatly bundled NPM package."
+    },
+    {
+        "name": "swiffy-slider",
+        "description": "Swiffy slider is a touch enabled super lightweight html slider and carousel using browser scroll, css grid and scroll snap align and less than 1.5 kb javascript. Comes in css mode only version"
+    },
+    {
+        "name": "electron-manager",
+        "description": "An NPM module with tools, helper functions, and utilities for building a flawless Electron app 🚀"
+    },
+    {
+        "name": "@fontsource/krona-one",
+        "description": "Self-host the Krona One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/noto-sans-mono",
+        "description": "Self-host the Noto Sans Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/kiwi-maru",
+        "description": "Self-host the Kiwi Maru font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/golos-text",
+        "description": "Self-host the Golos Text font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@universal-material/core",
+        "description": "[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/universal-material/universal-material)"
+    },
+    {
+        "name": "@fontsource-variable/jura",
+        "description": "Self-host the Jura font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/ibm-plex-sans",
+        "description": "Self-host the IBM Plex Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/funnel-display",
+        "description": "Self-host the Funnel Display font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/hepta-slab",
+        "description": "Self-host the Hepta Slab font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/libre-barcode-128-text",
+        "description": "Self-host the Libre Barcode 128 Text font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/vt323",
+        "description": "Self-host the VT323 font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-input",
+        "description": "Input component"
+    },
+    {
+        "name": "@fontsource/amiri",
+        "description": "Self-host the Amiri font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@gobistories/gobi-web-integration",
+        "description": "This library will let you put your Gobi stories on your site."
+    },
+    {
+        "name": "fepper",
+        "description": "A Front End Prototyper tool for rapid prototyping of web sites"
+    },
+    {
+        "name": "turretcss",
+        "description": "Developed for design. turretcss is a styles and browser behaviour normalisation framework for rapid development of responsive and accessible websites."
+    },
+    {
+        "name": "@aws-northstar/ui",
+        "description": "NorthStar Design System v2"
+    },
+    {
+        "name": "aip-module",
+        "description": "API - Module 组件属于(AIP)前端的组成部分，本组件提供模型部分的前端展现。整个组件采用 React 开发"
+    },
+    {
+        "name": "create-3h-fe",
+        "description": "A front-end lib initializer."
+    },
+    {
+        "name": "@fontsource-variable/caveat",
+        "description": "Self-host the Caveat font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/crimson-text",
+        "description": "Self-host the Crimson Text font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/comic-neue",
+        "description": "Self-host the Comic Neue font in a neatly bundled NPM package."
+    },
+    {
+        "name": "aem-front",
+        "description": "AEM Front speeds up development in AEM significantly. It combines AEMSync with BrowserSync, and also works together with the AEM Front Extension for Google Chrome so you don't have to manually inject the BrowserSync script into your code base."
+    },
+    {
+        "name": "@fontsource/amatic-sc",
+        "description": "Self-host the Amatic SC font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-sinhala",
+        "description": "Self-host the Noto Sans Sinhala font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/opendyslexic",
+        "description": "Self-host the OpenDyslexic font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/gugi",
+        "description": "Self-host the Gugi font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/archivo-black",
+        "description": "Self-host the Archivo Black font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-tag",
+        "description": "Tag component"
+    },
+    {
+        "name": "@fontsource/saira-semi-condensed",
+        "description": "Self-host the Saira Semi Condensed font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/recursive",
+        "description": "Self-host the Recursive font in a neatly bundled NPM package."
+    },
+    {
+        "name": "hele",
+        "description": "A front-end UI lib."
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-hebrew",
+        "description": "Self-host the Noto Sans Hebrew font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/roboto-slab",
+        "description": "Self-host the Roboto Slab font in a neatly bundled NPM package."
+    },
+    {
+        "name": "typed-binary",
+        "description": "Describe binary structures with full TypeScript support. Encode and decode into pure JavaScript objects."
+    },
+    {
+        "name": "@fontsource-variable/karla",
+        "description": "Self-host the Karla font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-devanagari",
+        "description": "Self-host the Noto Sans Devanagari font in a neatly bundled NPM package."
+    },
+    {
+        "name": "color-manipulation-utils",
+        "description": "Check contrast of colors HEX"
+    },
+    {
+        "name": "@fontsource/libre-caslon-text",
+        "description": "Self-host the Libre Caslon Text font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@daypilot/daypilot-lite-angular",
+        "description": "DayPilot Lite for Angular"
+    },
+    {
+        "name": "@fontsource-variable/overpass",
+        "description": "Self-host the Overpass font in a neatly bundled NPM package."
+    },
+    {
+        "name": "oneloop.js",
+        "description": "Javascript animation library. Provide scroll observer, tween, throttled event, splitted text, vector2, easings in a bundle of about 5kb gzipped"
+    },
+    {
+        "name": "@uiw/react-button",
+        "description": "Button component"
+    },
+    {
+        "name": "@fontsource/ibm-plex-sans-condensed",
+        "description": "Self-host the IBM Plex Sans Condensed font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/damion",
+        "description": "Self-host the Damion font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@kuma-ui/babel-plugin",
+        "description": "🐻 Kuma UI is a utility-first, zero-runtime CSS-in-JS library that offers an outstanding developer experience and optimized performance."
+    },
+    {
+        "name": "@kuma-ui/webpack-plugin",
+        "description": "🐻 Kuma UI is a utility-first, zero-runtime CSS-in-JS library that offers an outstanding developer experience and optimized performance."
+    },
+    {
+        "name": "@chenfengyuan/vue-carousel",
+        "description": "Carousel component for Vue 3."
+    },
+    {
+        "name": "@uiw/react-file-input",
+        "description": "FileInput component"
+    },
+    {
+        "name": "@pdftron/webviewer-react-toolkit",
+        "description": "A React component library for integrating with PDFTron WebViewer API."
+    },
+    {
+        "name": "jquery-particles",
+        "description": "Official tsParticles jQuery Plugin - Easily create highly customizable particle, confetti and fireworks animations and use them as animated backgrounds for your website. Ready to use components available also for Web Components, React, Vue.js (2.x and 3.x"
+    },
+    {
+        "name": "@fontsource/readex-pro",
+        "description": "Self-host the Readex Pro font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@data-client/rest",
+        "description": "Quickly define typed REST resources and endpoints"
+    },
+    {
+        "name": "@designbycode/tailwindcss-text-shadow",
+        "description": "Tailwindcss utilities for text stroke"
+    },
+    {
+        "name": "@uiw/react-overlay-trigger",
+        "description": "OverlayTrigger component"
+    },
+    {
+        "name": "@fontsource-variable/instrument-sans",
+        "description": "Self-host the Instrument Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/zen-kaku-gothic-new",
+        "description": "Self-host the Zen Kaku Gothic New font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/lexend-zetta",
+        "description": "Self-host the Lexend Zetta font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/indie-flower",
+        "description": "Self-host the Indie Flower font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/albert-sans",
+        "description": "Self-host the Albert Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-tree",
+        "description": "Tree component"
+    },
+    {
+        "name": "@kuma-ui/core",
+        "description": "🐻 Kuma UI is a utility-first, zero-runtime CSS-in-JS library that offers an outstanding developer experience and optimized performance."
+    },
+    {
+        "name": "color-calendar",
+        "description": "A zero-dependency, customizable events calendar widget with themes and event colors."
+    },
+    {
+        "name": "@fontsource-variable/league-spartan",
+        "description": "Self-host the League Spartan font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-textarea",
+        "description": "Textarea component"
+    },
+    {
+        "name": "@fontsource/almarai",
+        "description": "Self-host the Almarai font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@data-client/react",
+        "description": "Async State Management without the Management. REST, GraphQL, SSE, Websockets, Fetch"
+    },
+    {
+        "name": "@fontsource/noto-mono",
+        "description": "Self-host the Noto Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "trakk-js",
+        "description": "Automatic Documentation Generation - Real-Time Code Execution Flow - Testing / Debugging - Onboarding - for Front-End Applications"
+    },
+    {
+        "name": "devbridge-styleguide",
+        "description": "Styleguide automatization tool."
+    },
+    {
+        "name": "@uiw/react-date-picker",
+        "description": "DatePicker component"
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-display",
+        "description": "Self-host the Noto Sans Display font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-time-picker",
+        "description": "TimePicker component"
+    },
+    {
+        "name": "@designbycode/tailwindcss-text-stroke",
+        "description": "Tailwindcss utilities for text stroke"
+    },
+    {
+        "name": "@uiw/react-tree-checked",
+        "description": "TreeChecked component"
+    },
+    {
+        "name": "@data-client/endpoint",
+        "description": "Declarative Network Interface Definitions"
+    },
+    {
+        "name": "@fontsource/ia-writer-mono",
+        "description": "Self-host the iA Writer Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/overpass-mono",
+        "description": "Self-host the Overpass Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-armenian",
+        "description": "Self-host the Noto Sans Armenian font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-drawer",
+        "description": "Drawer component"
+    },
+    {
+        "name": "@uiw/react-tabs",
+        "description": "Tabs component"
+    },
+    {
+        "name": "hoondesign",
+        "description": "```javascript npm install hoondesign ```"
+    },
+    {
+        "name": "@fontsource/noto-sans-myanmar",
+        "description": "Self-host the Noto Sans Myanmar font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/cascadia-code",
+        "description": "Self-host the Cascadia Code font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/montserrat-alternates",
+        "description": "Self-host the Montserrat Alternates font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/gabarito",
+        "description": "Self-host the Gabarito font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/noto-sans-math",
+        "description": "Self-host the Noto Sans Math font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-checkbox",
+        "description": "Checkbox component"
+    },
+    {
+        "name": "@fontsource/pretendard",
+        "description": "Self-host the Pretendard font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/commit-mono",
+        "description": "Self-host the Commit Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/share-tech-mono",
+        "description": "Self-host the Share Tech Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-switch",
+        "description": "Switch component"
+    },
+    {
+        "name": "@fontsource/noto-emoji",
+        "description": "Self-host the Noto Emoji font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@openuiai/next",
+        "description": "The React Framework - Self-Hosted First Fork with Full Bun Support"
+    },
+    {
+        "name": "@fontsource/sarabun",
+        "description": "Self-host the Sarabun font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-loader",
+        "description": "Loader component"
+    },
+    {
+        "name": "@uiw/react-menu",
+        "description": "Menu component"
+    },
+    {
+        "name": "@uiw/react-list",
+        "description": "List component"
+    },
+    {
+        "name": "@appsemble/sdk",
+        "description": "Build your own blocks"
+    },
+    {
+        "name": "easy-web-app",
+        "description": "Create web applications easily."
+    },
+    {
+        "name": "@fontsource/rubik-mono-one",
+        "description": "Self-host the Rubik Mono One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-notify",
+        "description": "Notify component"
+    },
+    {
+        "name": "@uiw/react-month-picker",
+        "description": "MonthPicker component"
+    },
+    {
+        "name": "@fontsource/mouse-memoirs",
+        "description": "Self-host the Mouse Memoirs font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-date-input",
+        "description": "DateInput component"
+    },
+    {
+        "name": "@uiw/react-modal",
+        "description": "Modal component"
+    },
+    {
+        "name": "@uiw/react-calendar",
+        "description": "Calendar component"
+    },
+    {
+        "name": "@fontsource/m-plus-1p",
+        "description": "Self-host the M PLUS 1p font in a neatly bundled NPM package."
+    },
+    {
+        "name": "oxe",
+        "description": "A mighty tiny web components framework/library"
+    },
+    {
+        "name": "@fontsource/satisfy",
+        "description": "Self-host the Satisfy font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/onest",
+        "description": "Self-host the Onest font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/assistant",
+        "description": "Self-host the Assistant font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/unbounded",
+        "description": "Self-host the Unbounded font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-pin-code",
+        "description": "PinCode component"
+    },
+    {
+        "name": "v-dragged",
+        "description": "Vue directive plugin for advanced drag event detection."
+    },
+    {
+        "name": "@uiw/react-steps",
+        "description": "Steps component"
+    },
+    {
+        "name": "@uiw/react-collapse",
+        "description": "Collapse component"
+    },
+    {
+        "name": "imtool",
+        "description": "Client-side canvas-based image manipulation library."
+    },
+    {
+        "name": "@uiw/react-table",
+        "description": "Table component"
+    },
+    {
+        "name": "cpf_and_cnpj-generator",
+        "description": "Este repositório contém um código JavaScript que gera um CPF (Cadastro de Pessoas Físicas) e CNPJ (Cadastro Nacional da Pessoa Jurídica) brasileiro válido. CPF é um número de identificação exclusivo atribuído a indivíduos no Brasil. O código garante que o"
+    },
+    {
+        "name": "@uiw/react-button-group",
+        "description": "ButtonGroup component"
+    },
+    {
+        "name": "@uiw/react-progress",
+        "description": "Progress component"
+    },
+    {
+        "name": "@fontsource-variable/doto",
+        "description": "Self-host the Doto font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/kaushan-script",
+        "description": "Self-host the Kaushan Script font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/fraunces",
+        "description": "Self-host the Fraunces font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@kuma-ui/system",
+        "description": "🐻 Kuma UI is a utility-first, zero-runtime CSS-in-JS library that offers an outstanding developer experience and optimized performance."
+    },
+    {
+        "name": "@fontsource/cooper-hewitt",
+        "description": "Self-host the Cooper Hewitt font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-badge",
+        "description": "Badge component"
+    },
+    {
+        "name": "@fontsource-variable/josefin-sans",
+        "description": "Self-host the Josefin Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@data-client/use-enhanced-reducer",
+        "description": "Add powerful orchestration to hooks-based Flux stores"
+    },
+    {
+        "name": "@fontsource/yrsa",
+        "description": "Self-host the Yrsa font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-georgian",
+        "description": "Self-host the Noto Sans Georgian font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/dosis",
+        "description": "Self-host the Dosis font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-descriptions",
+        "description": "Descriptions component"
+    },
+    {
+        "name": "angular13-organization-chart",
+        "description": "Organization chart library for angular 15+"
+    },
+    {
+        "name": "@uiw/react-alert",
+        "description": "Alert component"
+    },
+    {
+        "name": "@fontsource/bungee",
+        "description": "Self-host the Bungee font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-popover",
+        "description": "Popover component"
+    },
+    {
+        "name": "rayous",
+        "description": "A mini router X ui kit with ts"
+    },
+    {
+        "name": "@amaui/style",
+        "description": "CSS in JS styling solution"
+    },
+    {
+        "name": "qrjs2",
+        "description": "QR code generating with vanilla js (SVG Element, Data URI SVG String, Data URI PNG String, HTML Table Element)."
+    },
+    {
+        "name": "@fontsource/fredoka-one",
+        "description": "Self-host the Fredoka One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/silkscreen",
+        "description": "Self-host the Silkscreen font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-divider",
+        "description": "Divider component"
+    },
+    {
+        "name": "@uiw/react-grid",
+        "description": "Grid component"
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-thaana",
+        "description": "Self-host the Noto Sans Thaana font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-breadcrumb",
+        "description": "Breadcrumb component"
+    },
+    {
+        "name": "@uiw/react-form",
+        "description": "Form component"
+    },
+    {
+        "name": "@fontsource/epilogue",
+        "description": "Self-host the Epilogue font in a neatly bundled NPM package."
+    },
+    {
+        "name": "og-css",
+        "description": "A css package built on top of tailwind.css with more utility classes."
+    },
+    {
+        "name": "@fontsource/ibm-plex-sans-arabic",
+        "description": "Self-host the IBM Plex Sans Arabic font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-tamil",
+        "description": "Self-host the Noto Sans Tamil font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@qrsln/lootstrap",
+        "description": "Lootstrap is a scss library and is still in beta! There is much to improve!"
+    },
+    {
+        "name": "@fontsource/sacramento",
+        "description": "Self-host the Sacramento font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/asap",
+        "description": "Self-host the Asap font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@appsemble/preact",
+        "description": "Build your own blocks using Preact"
+    },
+    {
+        "name": "@uiw/react-pagination",
+        "description": "Pagination component"
+    },
+    {
+        "name": "@ouitoulia/skenografia",
+        "description": "Skenografia è un sub-theme drupal, basato su bootstrap_italia, che implementa il design delle scuole."
+    },
+    {
+        "name": "@uiw/react-rate",
+        "description": "Rate component"
+    },
+    {
+        "name": "@squidit/css",
+        "description": "Squid CSS Styleguide"
+    },
+    {
+        "name": "@uiw/react-icon",
+        "description": "Icon component"
+    },
+    {
+        "name": "@fontsource/vazirmatn",
+        "description": "Self-host the Vazirmatn font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-khmer",
+        "description": "Self-host the Noto Sans Khmer font in a neatly bundled NPM package."
+    },
+    {
+        "name": "v-page",
+        "description": "A simple pagination bar"
+    },
+    {
+        "name": "@uiw/react-dropdown",
+        "description": "Dropdown component"
+    },
+    {
+        "name": "@uiw/react-avatar",
+        "description": "Avatar component"
+    },
+    {
+        "name": "@fontsource/zen-maru-gothic",
+        "description": "Self-host the Zen Maru Gothic font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-copy-to-clipboard",
+        "description": "CpyToClipboard component"
+    },
+    {
+        "name": "@fontsource/bai-jamjuree",
+        "description": "Self-host the Bai Jamjuree font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/material-symbols-sharp",
+        "description": "Self-host the Material Symbols Sharp font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@unlimited-react-components/material-button",
+        "description": "Independant Material Button from Material Design built from 0"
+    },
+    {
+        "name": "@uiw/react-radio",
+        "description": "Radio component"
+    },
+    {
+        "name": "@fontsource/cormorant",
+        "description": "Self-host the Cormorant font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-card",
+        "description": "Card component"
+    },
+    {
+        "name": "@fontsource/fira-sans-condensed",
+        "description": "Self-host the Fira Sans Condensed font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/afacad",
+        "description": "Self-host the Afacad font in a neatly bundled NPM package."
+    },
+    {
+        "name": "ztopia-ui",
+        "description": "A lightweight and multivariant React UI library built with customization and consistency in mind"
+    },
+    {
+        "name": "@fontsource/rethink-sans",
+        "description": "Self-host the Rethink Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@kuma-ui/next-plugin",
+        "description": "🐻 Kuma UI is a utility-first, zero-runtime CSS-in-JS library that offers an outstanding developer experience and optimized performance."
+    },
+    {
+        "name": "@fontsource/noto-naskh-arabic",
+        "description": "Self-host the Noto Naskh Arabic font in a neatly bundled NPM package."
+    },
+    {
+        "name": "msw-signalr",
+        "description": "Adds simple signalR hub mocking to msw"
+    },
+    {
+        "name": "@amaui/utils",
+        "description": "Utils"
+    },
+    {
+        "name": "@fontsource/baloo-2",
+        "description": "Self-host the Baloo 2 font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/domine",
+        "description": "Self-host the Domine font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/lobster-two",
+        "description": "Self-host the Lobster Two font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/cedarville-cursive",
+        "description": "Self-host the Cedarville Cursive font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/red-hat-display",
+        "description": "Self-host the Red Hat Display font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-telugu",
+        "description": "Self-host the Noto Sans Telugu font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/lexend-deca",
+        "description": "Self-host the Lexend Deca font in a neatly bundled NPM package."
+    },
+    {
+        "name": "shunter",
+        "description": "A Node.js application built to read JSON and translate it into HTML"
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-kannada",
+        "description": "Self-host the Noto Sans Kannada font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/corinthia",
+        "description": "Self-host the Corinthia font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/biz-udpgothic",
+        "description": "Self-host the BIZ UDPGothic font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/anonymous-pro",
+        "description": "Self-host the Anonymous Pro font in a neatly bundled NPM package."
+    },
+    {
+        "name": "web-utility",
+        "description": "Web front-end toolkit based on TypeScript"
+    },
+    {
+        "name": "@sass-collective/strip-unit",
+        "description": "Strip unit on CSS value."
+    },
+    {
+        "name": "goobs-frontend",
+        "description": "A comprehensive React-based libary for building modern web applications"
+    },
+    {
+        "name": "@turtlemint/mint-ui",
+        "description": "<div align=\"center\">   <a href=\"http://mint-ui.netlify.com\">     <img width=\"200\" src=\"public/mintui-logo.svg\">   </a> </div>"
+    },
+    {
+        "name": "@fontsource/audiowide",
+        "description": "Self-host the Audiowide font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-slider",
+        "description": "Slider component"
+    },
+    {
+        "name": "@fontsource/sn-pro",
+        "description": "Self-host the SN Pro font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/michroma",
+        "description": "Self-host the Michroma font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-back-top",
+        "description": "BackTop component"
+    },
+    {
+        "name": "@tsparticles/preset-stars",
+        "description": "tsParticles stars preset"
+    },
+    {
+        "name": "@fontsource/pt-sans-narrow",
+        "description": "Self-host the PT Sans Narrow font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@daypilot/daypilot-lite-vue",
+        "description": "DayPilot Lite for Vue"
+    },
+    {
+        "name": "@tsparticles/preset-fireworks",
+        "description": "tsParticles fireworks preset"
+    },
+    {
+        "name": "@fontsource/russo-one",
+        "description": "Self-host the Russo One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-select",
+        "description": "Select component"
+    },
+    {
+        "name": "@fontsource/playfair",
+        "description": "Self-host the Playfair font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/yuji-syuku",
+        "description": "Self-host the Yuji Syuku font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/open-sauce-one",
+        "description": "Self-host the Open Sauce One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "puppertino",
+        "description": " Puppertino is a Framework created to be lightweight, modular, and cool looking!"
+    },
+    {
+        "name": "@nestio/pam",
+        "description": "Nestio UI modules"
+    },
+    {
+        "name": "@kuma-ui/sheet",
+        "description": "🐻 Kuma UI is a utility-first, zero-runtime CSS-in-JS library that offers an outstanding developer experience and optimized performance."
+    },
+    {
+        "name": "@fontsource/swanky-and-moo-moo",
+        "description": "Self-host the Swanky and Moo Moo font in a neatly bundled NPM package."
+    },
+    {
+        "name": "cra-template-particles",
+        "description": "Official React tsParticles template"
+    },
+    {
+        "name": "cra-template-particles-typescript",
+        "description": "Official TypeScript React tsParticles template"
+    },
+    {
+        "name": "@fontsource-variable/atkinson-hyperlegible-next",
+        "description": "Self-host the Atkinson Hyperlegible Next font in a neatly bundled NPM package."
+    },
+    {
+        "name": "heybit-ui-styled-components",
+        "description": "## [Preview](https://uprise-fin.github.io/heybit-ui-styled-components/)"
+    },
+    {
+        "name": "@fontsource-variable/literata",
+        "description": "Self-host the Literata font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/faustina",
+        "description": "Self-host the Faustina font in a neatly bundled NPM package."
+    },
+    {
+        "name": "gl-w-frontend",
+        "description": "Common code for using among web front-end development such as ES6+ and TypeScript"
+    },
+    {
+        "name": "@fontsource/patrick-hand",
+        "description": "Self-host the Patrick Hand font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@stylify/bundler",
+        "description": "CSS bundler for @stylify/stylify."
+    },
+    {
+        "name": "stylescape",
+        "description": "Stylescape is a visual identity framework developed by Scape Agency."
+    },
+    {
+        "name": "jpegasus",
+        "description": "A client-side JavaScript tool that takes in a `File` of type `.jpeg`, `.png`, or `.gif` and returns a compressed `File` of type `.jpeg`."
+    },
+    {
+        "name": "baseguide",
+        "description": "Lightweight and robust CSS framework for prototyping and production code."
+    },
+    {
+        "name": "@fontsource-variable/azeret-mono",
+        "description": "Self-host the Azeret Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/tinos",
+        "description": "Self-host the Tinos font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw-admin/components",
+        "description": "业务组件集合"
+    },
+    {
+        "name": "@fontsource/unbounded",
+        "description": "Self-host the Unbounded font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/alex-brush",
+        "description": "Self-host the Alex Brush font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-auto-link",
+        "description": "AutoLink component"
+    },
+    {
+        "name": "@fontsource/ibm-plex-sans-thai",
+        "description": "Self-host the IBM Plex Sans Thai font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/dancing-script",
+        "description": "Self-host the Dancing Script font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@arwes/animator",
+        "description": "Futuristic Sci-Fi UI Web Framework"
+    },
+    {
+        "name": "web-ui-pack",
+        "description": "Web package with UI elements"
+    },
+    {
+        "name": "@uiw/react-message",
+        "description": "Message component"
+    },
+    {
+        "name": "@fontsource-variable/hanken-grotesk",
+        "description": "Self-host the Hanken Grotesk font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/shadows-into-light",
+        "description": "Self-host the Shadows Into Light font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/zen-kaku-gothic-antique",
+        "description": "Self-host the Zen Kaku Gothic Antique font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/yakuhanjp",
+        "description": "Self-host the YakuHanJP font in a neatly bundled NPM package."
+    },
+    {
+        "name": "inferno-particles",
+        "description": "Official tsParticles Inferno Component - Easily create highly customizable particle, confetti and fireworks animations and use them as animated backgrounds for your website. Ready to use components available also for Web Components, React, Vue.js (2.x and"
+    },
+    {
+        "name": "@fontsource/rokkitt",
+        "description": "Self-host the Rokkitt font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/orbitron",
+        "description": "Self-host the Orbitron font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@skuhnow/vuetify-admin",
+        "description": "FORK - SPA admin framework for Vue.js running on top of REST APIs, built on Vuetify"
+    },
+    {
+        "name": "@fontsource/martel",
+        "description": "Self-host the Martel font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/roboto-serif",
+        "description": "Self-host the Roboto Serif font in a neatly bundled NPM package."
+    },
+    {
+        "name": "create-3h-app",
+        "description": "A simple app initializer."
+    },
+    {
+        "name": "@plentymarkets/tailwind-colors",
+        "description": "Generate a 10-color palette from a base color"
+    },
+    {
+        "name": "@fontsource/encode-sans",
+        "description": "Self-host the Encode Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/fireworks",
+        "description": "Easily create highly customizable particle animations and use them as animated backgrounds for your website. Ready to use components available also for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Riot.js, Inferno."
+    },
+    {
+        "name": "@olton/metroui",
+        "description": "A progressive front-end framework for creating high-performance responsive web applications!"
+    },
+    {
+        "name": "@arwes/bleeps",
+        "description": "Futuristic Sci-Fi UI Web Framework"
+    },
+    {
+        "name": "@uiw-admin/user-login",
+        "description": "Divider component"
+    },
+    {
+        "name": "@fontsource/chakra-petch",
+        "description": "Self-host the Chakra Petch font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@data-client/vue",
+        "description": "Async State Management without the Management. REST, GraphQL, SSE, Websockets, Fetch"
+    },
+    {
+        "name": "@laylazi/bootstrap-rtl",
+        "description": "First and most accurate RTL edition of Bootstrap 4.x, the most popular front-end framework for developing responsive, mobile first projects on the web."
+    },
+    {
+        "name": "@universelabs/meta",
+        "description": "Meta is an open source UI framework for both web2 & web3 applications."
+    },
+    {
+        "name": "@uiw-admin/basic-layouts",
+        "description": "Basic Layouts"
+    },
+    {
+        "name": "@rkaliev/nuxtjs-yandex-metrika",
+        "description": "NuxtJS Yandex.Metrika Module/Plugin"
+    },
+    {
+        "name": "linkcheck-bin",
+        "description": "An npm-installable wrapper for @filiph's linkcheck, a reasonably fast link checker."
+    },
+    {
+        "name": "@fontsource-variable/vollkorn",
+        "description": "Self-host the Vollkorn font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@stylify/stylify",
+        "description": "Stylify generates utility-first CSS dynamically based on what you write. Write HTML. Get CSS."
+    },
+    {
+        "name": "@tsparticles/preset-snow",
+        "description": "tsParticles snow preset"
+    },
+    {
+        "name": "@fontsource/sue-ellen-francisco",
+        "description": "Self-host the Sue Ellen Francisco font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/heebo",
+        "description": "Self-host the Heebo font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@anilanar/resize-observer",
+        "description": "Polyfills the ResizeObserver API and supports box size options from the latest spec"
+    },
+    {
+        "name": "@fontsource/allura",
+        "description": "Self-host the Allura font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/ovo",
+        "description": "Self-host the Ovo font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@kuma-ui/compiler",
+        "description": "🐻 Kuma UI is a utility-first, zero-runtime CSS-in-JS library that offers an outstanding developer experience and optimized performance."
+    },
+    {
+        "name": "@fontsource/ibm-plex-sans-jp",
+        "description": "Self-host the IBM Plex Sans JP font in a neatly bundled NPM package."
+    },
+    {
+        "name": "doz",
+        "description": "A JavaScript framework for building UI, almost like writing in VanillaJS."
+    },
+    {
+        "name": "@fontsource/saira-stencil-one",
+        "description": "Self-host the Saira Stencil One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@arwes/tools",
+        "description": "Futuristic Sci-Fi UI Web Framework"
+    },
+    {
+        "name": "vuetify-admin",
+        "description": "SPA admin framework for Vue.js running on top of REST APIs, built on Vuetify"
+    },
+    {
+        "name": "@arwes/react-bgs",
+        "description": "Futuristic Sci-Fi UI Web Framework"
+    },
+    {
+        "name": "@fontsource-variable/newsreader",
+        "description": "Self-host the Newsreader font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@vuesimple/vs-pagination",
+        "description": "A simple vue pagination"
+    },
+    {
+        "name": "@fontsource/schibsted-grotesk",
+        "description": "Self-host the Schibsted Grotesk font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/chewy",
+        "description": "Self-host the Chewy font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/noto-serif-tc",
+        "description": "Self-host the Noto Serif TC font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/gentium-book-basic",
+        "description": "Self-host the Gentium Book Basic font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/quantico",
+        "description": "Self-host the Quantico font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw-admin/router-control",
+        "description": "router-control"
+    },
+    {
+        "name": "@tabler/icons-sprite",
+        "description": "A set of free MIT-licensed high-quality SVG icons for you to use in your web projects."
+    },
+    {
+        "name": "@onesy/icons-material-rounded-react",
+        "description": "Icons material rounded for React"
+    },
+    {
+        "name": "@arwes/react-bleeps",
+        "description": "Futuristic Sci-Fi UI Web Framework"
+    },
+    {
+        "name": "@fontsource/asap-condensed",
+        "description": "Self-host the Asap Condensed font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/biryani",
+        "description": "Self-host the Biryani font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-search-select",
+        "description": "SearchSelect component"
+    },
+    {
+        "name": "@fontsource-variable/anek-devanagari",
+        "description": "Self-host the Anek Devanagari font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/passion-one",
+        "description": "Self-host the Passion One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "hardtack",
+        "description": "An ultra-light (373 bytes) library for working with cookies in JavaScript"
+    },
+    {
+        "name": "@fontsource/vollkorn",
+        "description": "Self-host the Vollkorn font in a neatly bundled NPM package."
+    },
+    {
+        "name": "cowsayjs",
+        "description": "A nodejs clone of the classic cowsay and cowthink cli commands"
+    },
+    {
+        "name": "@fontsource/alata",
+        "description": "Self-host the Alata font in a neatly bundled NPM package."
+    },
+    {
+        "name": "instapack",
+        "description": "All-in-one TypeScript and Sass compiler for web applications!"
+    },
+    {
+        "name": "@arwes/react-tools",
+        "description": "Futuristic Sci-Fi UI Web Framework"
+    },
+    {
+        "name": "@fontsource/amaranth",
+        "description": "Self-host the Amaranth font in a neatly bundled NPM package."
+    },
+    {
+        "name": "uix-kit",
+        "description": "A free web kits for fast web design and development, compatible with Bootstrap v5."
+    },
+    {
+        "name": "@digitallyhappy/backstrap",
+        "description": "Free Bootstrap 4 Admin Panel HTML Template"
+    },
+    {
+        "name": "@fontsource/catamaran",
+        "description": "Self-host the Catamaran font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/shippori-mincho",
+        "description": "Self-host the Shippori Mincho font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@arwes/frames",
+        "description": "Futuristic Sci-Fi UI Web Framework"
+    },
+    {
+        "name": "@fontsource/monda",
+        "description": "Self-host the Monda font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@arwes/bgs",
+        "description": "Futuristic Sci-Fi UI Web Framework"
+    },
+    {
+        "name": "@fontsource/redaction-10",
+        "description": "Self-host the Redaction 10 font in a neatly bundled NPM package."
+    },
+    {
+        "name": "aws-northstar",
+        "description": "NorthStar Design System"
+    },
+    {
+        "name": "@taro-hooks/compressorjs",
+        "description": "JavaScript image compressor."
+    },
+    {
+        "name": "@fontsource/golos-ui",
+        "description": "Self-host the Golos UI font in a neatly bundled NPM package."
+    },
+    {
+        "name": "palettey",
+        "description": "Generate a 10-color palette from a base color"
+    },
+    {
+        "name": "@fontsource-variable/crimson-pro",
+        "description": "Self-host the Crimson Pro font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/twinkle-star",
+        "description": "Self-host the Twinkle Star font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/monaspace-neon",
+        "description": "Self-host the Monaspace Neon font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/material-symbols-sharp",
+        "description": "Self-host the Material Symbols Sharp font in a neatly bundled NPM package."
+    },
+    {
+        "name": "generator-react-webpack",
+        "description": "Yeoman generator for using React with Webpack via Babel"
+    },
+    {
+        "name": "@uiw-admin/exceptions",
+        "description": "异常组件"
+    },
+    {
+        "name": "@crossfox/react-animated-number",
+        "description": "A lightweight JavaScript component designed for creating smooth and visually appealing animated transitions between different states or values, enhancing user experience in web applications."
+    },
+    {
+        "name": "ku4es-kernel",
+        "description": "kodmunki Utilities for ECMAScript Kernel"
+    },
+    {
+        "name": "@uiw-admin/models",
+        "description": "models"
+    },
+    {
+        "name": "@uiw-admin/document-title",
+        "description": "Document Title"
+    },
+    {
+        "name": "@rabota/yandex-metrika",
+        "description": "The most powerful module to work with Yandex Metrika in your Nuxt.js application"
+    },
+    {
+        "name": "@fontsource-variable/albert-sans",
+        "description": "Self-host the Albert Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/big-shoulders-inline-text",
+        "description": "Self-host the Big Shoulders Inline Text font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@atlassian/i18n-properties-loader",
+        "description": "A webpack loader for i18n *.properties files that can be used in Atlassian Server products"
+    },
+    {
+        "name": "@fontsource/host-grotesk",
+        "description": "Self-host the Host Grotesk font in a neatly bundled NPM package."
+    },
+    {
+        "name": "balm",
+        "description": "BalmJS runtime core"
+    },
+    {
+        "name": "xinjs",
+        "description": "path-based state management for web apps"
+    },
+    {
+        "name": "@fontsource/lekton",
+        "description": "Self-host the Lekton font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/poiret-one",
+        "description": "Self-host the Poiret One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@majidh1/jalalidatepicker",
+        "description": "A lightweight and simple jalali datepicker."
+    },
+    {
+        "name": "@fontsource-variable/arimo",
+        "description": "Self-host the Arimo font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@arwes/animated",
+        "description": "Futuristic Sci-Fi UI Web Framework"
+    },
+    {
+        "name": "waw",
+        "description": "waw is a minimalistic Node.js framework that serves as a foundation for building various types of projects. The core framework itself contains almost no code—its functionality is driven entirely by the modules you choose to include, making it highly flexi"
+    },
+    {
+        "name": "@fontsource-variable/chivo",
+        "description": "Self-host the Chivo font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/italiana",
+        "description": "Self-host the Italiana font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/ultra",
+        "description": "Self-host the Ultra font in a neatly bundled NPM package."
+    },
+    {
+        "name": "vivere",
+        "description": "A lightweight Javascript framework for enriching HTML, heavily inspired by `vue` and `stimulus`."
+    },
+    {
+        "name": "@fontsource-variable/teko",
+        "description": "Self-host the Teko font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/oxanium",
+        "description": "Self-host the Oxanium font in a neatly bundled NPM package."
+    },
+    {
+        "name": "bang.html",
+        "description": "BANG! Web Component custom elements with async templating, smooth syntax and custom void  tags!"
+    },
+    {
+        "name": "@uiw-admin/layout-tabs",
+        "description": "layout tabs"
+    },
+    {
+        "name": "@fontsource-variable/baloo-2",
+        "description": "Self-host the Baloo 2 font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/spectral-sc",
+        "description": "Self-host the Spectral SC font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/black-han-sans",
+        "description": "Self-host the Black Han Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "svgtovue-cli",
+        "description": "Command line interface for converting svg files to Vue.JS templates. (vue 2.x)"
+    },
+    {
+        "name": "@fontsource-variable/spline-sans",
+        "description": "Self-host the Spline Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@arwes/react-animator",
+        "description": "Futuristic Sci-Fi UI Web Framework"
+    },
+    {
+        "name": "@fontsource/archivo-narrow",
+        "description": "Self-host the Archivo Narrow font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/cinzel-decorative",
+        "description": "Self-host the Cinzel Decorative font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/yakuhanmp",
+        "description": "Self-host the YakuHanMP font in a neatly bundled NPM package."
+    },
+    {
+        "name": "propellerkit",
+        "description": "Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap."
+    },
+    {
+        "name": "mofron",
+        "description": "module based front-end framework"
+    },
+    {
+        "name": "@fontsource/gloria-hallelujah",
+        "description": "Self-host the Gloria Hallelujah font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/sansita",
+        "description": "Self-host the Sansita font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@travishorn/session-timeout",
+        "description": "Warn users when their session is about to expire. Dependency-free."
+    },
+    {
+        "name": "valyrian.js",
+        "description": "Lightweight steel to forge PWAs. (Minimal Frontend Framework with server side rendering and other capabilities)"
+    },
+    {
+        "name": "aurora-user-interface",
+        "description": "Based on the most popular front-end framework: Bootstrap."
+    },
+    {
+        "name": "transitionEnd",
+        "description": "TransitionEnd is an agnostic and cross-browser library to work with event transitionend."
+    },
+    {
+        "name": "@fontsource/righteous",
+        "description": "Self-host the Righteous font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/cairo",
+        "description": "Self-host the Cairo font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/shippori-mincho-b1",
+        "description": "Self-host the Shippori Mincho B1 font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-search-tree",
+        "description": "TreeChecked component"
+    },
+    {
+        "name": "@uiw/react-transfer",
+        "description": "TreeChecked component"
+    },
+    {
+        "name": "@ciffi-js/builder",
+        "description": "Builder for ciffi js webbpack project"
+    },
+    {
+        "name": "@fontsource-variable/noto-serif-jp",
+        "description": "Self-host the Noto Serif JP font in a neatly bundled NPM package."
+    },
+    {
+        "name": "easy-route-management",
+        "description": "Type-safe route management for JavaScript and TypeScript apps. Define nested routes in a single object and generate dynamic paths with parameters for React Router, Express, Angular, or any framework that uses paths."
+    },
+    {
+        "name": "@fontsource-variable/chivo-mono",
+        "description": "Self-host the Chivo Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@abler/abler-components",
+        "description": "Components package of Abler front-end workflow"
+    },
+    {
+        "name": "@amaui/style-react",
+        "description": "Amaui CSS in JS styling solution for React"
+    },
+    {
+        "name": "@uiw/react-empty",
+        "description": "Empty component"
+    },
+    {
+        "name": "amazeui",
+        "description": "Sleek, intuitive, and powerful front-end framework for faster and easier web development."
+    },
+    {
+        "name": "@fontsource/volkhov",
+        "description": "Self-host the Volkhov font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/alegreya-sans",
+        "description": "Self-host the Alegreya Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/reenie-beanie",
+        "description": "Self-host the Reenie Beanie font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@vuesimple/vs-button",
+        "description": "A simple vue button. Perfect for all your button scenarios."
+    },
+    {
+        "name": "@ypa/cyborg-js",
+        "description": "CyborgJS - A SEO Friendly PBA Framework"
+    },
+    {
+        "name": "@fontsource/mukta",
+        "description": "Self-host the Mukta font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/bodoni-moda",
+        "description": "Self-host the Bodoni Moda font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/commissioner",
+        "description": "Self-host the Commissioner font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/homemade-apple",
+        "description": "Self-host the Homemade Apple font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@groupeactual/code-quality-front",
+        "description": "Code quality front package for Groupe Actual projects"
+    },
+    {
+        "name": "kretes",
+        "description": "A Programming Environment for TypeScript apps built on top of VS Code"
+    },
+    {
+        "name": "@vuesimple/vs-modal",
+        "description": "A simple vue modal. Perfect for all your modal/ dialogs scenarios."
+    },
+    {
+        "name": "@fontsource/germania-one",
+        "description": "Self-host the Germania One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/big-shoulders-text",
+        "description": "Self-host the Big Shoulders Text font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@vuesimple/vs-datepicker",
+        "description": "A simple vue datepicker. Perfect for all your datepicker scenarios."
+    },
+    {
+        "name": "@kuma-ui/vite",
+        "description": "🐻 Kuma UI is a utility-first, zero-runtime CSS-in-JS library that offers an outstanding developer experience and optimized performance."
+    },
+    {
+        "name": "@fontsource/metal",
+        "description": "Self-host the Metal font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/funnel-sans",
+        "description": "Self-host the Funnel Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@arwes/theme",
+        "description": "Futuristic Sci-Fi UI Web Framework"
+    },
+    {
+        "name": "@fontsource/maple-mono",
+        "description": "Self-host the Maple Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/saira",
+        "description": "Self-host the Saira font in a neatly bundled NPM package."
+    },
+    {
+        "name": "tkeron",
+        "description": "CLI tool and micro framework for developing web user interfaces with TypeScript."
+    },
+    {
+        "name": "gopablo",
+        "description": "Create optimized static websites."
+    },
+    {
+        "name": "@fontsource/aileron",
+        "description": "Self-host the Aileron font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/big-shoulders-display",
+        "description": "Self-host the Big Shoulders Display font in a neatly bundled NPM package."
+    },
+    {
+        "name": "quickrenard",
+        "description": "\"Quick Renard (QR) - A state (and function) management library for React, inspired by GraphQL principles, offering a flexible querying and mutation system.\""
+    },
+    {
+        "name": "@fontsource/special-elite",
+        "description": "Self-host the Special Elite font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@vuesimple/vs-tag",
+        "description": "A simple vue tag. Perfect for all your tag scenarios."
+    },
+    {
+        "name": "@fontsource/antonio",
+        "description": "Self-host the Antonio font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@vuesimple/vs-alert",
+        "description": "A simple vue alert. Perfect for all your alert scenarios."
+    },
+    {
+        "name": "ku4es-ui-kernel",
+        "description": "kodmunki Utilities for ECMAScript UI Kernel"
+    },
+    {
+        "name": "@fontsource/big-shoulders-stencil-text",
+        "description": "Self-host the Big Shoulders Stencil Text font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/spline-sans-mono",
+        "description": "Self-host the Spline Sans Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/k2d",
+        "description": "Self-host the K2D font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/cinzel",
+        "description": "Self-host the Cinzel font in a neatly bundled NPM package."
+    },
+    {
+        "name": "riot-particles",
+        "description": "Official tsParticles Riot Component - Easily create highly customizable particle, confetti and fireworks animations and use them as animated backgrounds for your website. Ready to use components available also for Web Components, React, Vue.js (2.x and 3."
+    },
+    {
+        "name": "@fontsource/fraunces",
+        "description": "Self-host the Fraunces font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw-admin/config",
+        "description": "config 全局配置"
+    },
+    {
+        "name": "@febe95/vue-js-modal",
+        "description": "Modal Component for Vue.js"
+    },
+    {
+        "name": "@fontsource/bree-serif",
+        "description": "Self-host the Bree Serif font in a neatly bundled NPM package."
+    },
+    {
+        "name": "flexbin",
+        "description": "Flexible and gapless image gallery layout like Google Images and 500px.com"
+    },
+    {
+        "name": "@fontsource/libre-barcode-39-text",
+        "description": "Self-host the Libre Barcode 39 Text font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/zeyada",
+        "description": "Self-host the Zeyada font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/inder",
+        "description": "Self-host the Inder font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@vrembem/core",
+        "description": "The core variables, functions and mixins for Vrembem components."
+    },
+    {
+        "name": "@fontsource/saira-condensed",
+        "description": "Self-host the Saira Condensed font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@uiw/react-layout",
+        "description": "React components that handle the overall layout of the page."
+    },
+    {
+        "name": "@arwes/react",
+        "description": "Futuristic Sci-Fi UI Web Framework"
+    },
+    {
+        "name": "vue-multilanguage",
+        "description": "Multilanguage easy support to Vue.js 2"
+    },
+    {
+        "name": "@fontsource/fahkwang",
+        "description": "Self-host the Fahkwang font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/signika",
+        "description": "Self-host the Signika font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/darker-grotesque",
+        "description": "Self-host the Darker Grotesque font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/noto-serif-hk",
+        "description": "Self-host the Noto Serif HK font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@vuesimple/vs-toast",
+        "description": "A simple vue toast."
+    },
+    {
+        "name": "jssor-slider",
+        "description": "touch swipe image slider/slideshow/gallery/carousel/banner mobile responsive bootstrap"
+    },
+    {
+        "name": "mofron-comp-dialog",
+        "description": "dialog component for mofron"
+    },
+    {
+        "name": "@fontsource/firago",
+        "description": "Self-host the FiraGO font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/pinyon-script",
+        "description": "Self-host the Pinyon Script font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@ouds/web",
+        "description": "OUDS Web is a Bootstrap based, Orange branded accessible and ergonomic components library."
+    },
+    {
+        "name": "@fontsource-variable/atkinson-hyperlegible-mono",
+        "description": "Self-host the Atkinson Hyperlegible Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@squidit/ngx-css",
+        "description": "Squid CSS Styleguide for Angular"
+    },
+    {
+        "name": "@uiw-admin/authorized",
+        "description": "authorized"
+    },
+    {
+        "name": "@fontsource-variable/sono",
+        "description": "Self-host the Sono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "ydoc",
+        "description": "基于 Markdown 的静态站点生成工具"
+    },
+    {
+        "name": "@fontsource/kumbh-sans",
+        "description": "Self-host the Kumbh Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "react-jx",
+        "description": "JSX UI Components for React"
+    },
+    {
+        "name": "@fontsource/east-sea-dokdo",
+        "description": "Self-host the East Sea Dokdo font in a neatly bundled NPM package."
+    },
+    {
+        "name": "v-selectpage",
+        "description": "SelectPage for Vue, a select items components provides the list of items with pagination"
+    },
+    {
+        "name": "@uiw/react-carousel",
+        "description": "Carousel component"
+    },
+    {
+        "name": "generator-dan",
+        "description": "Yeoman generator for Single Page Application based on React framework"
+    },
+    {
+        "name": "hive-framework",
+        "description": "A website development framework built with Grunt and Sass, with optional support for jQuery UI."
+    },
+    {
+        "name": "@mcabreradev/filter",
+        "description": "A powerful, SQL-like array filtering library for TypeScript and JavaScript with advanced pattern matching, MongoDB-style operators, deep object comparison, and zero dependencies"
+    },
+    {
+        "name": "@fontsource/reddit-mono",
+        "description": "Self-host the Reddit Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/marcellus",
+        "description": "Self-host the Marcellus font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@arwes/design",
+        "description": "Futuristic Sci-Fi UI Web Framework"
+    },
+    {
+        "name": "nexious-library",
+        "description": "Official database for nexious.tech"
+    },
+    {
+        "name": "v-dialogs",
+        "description": "A simple command-style pop-up dialog components for Vue3"
+    },
+    {
+        "name": "@cantinc/ui",
+        "description": "UI components of innetjs"
+    },
+    {
+        "name": "@shore/bootstrap",
+        "description": "The most popular front-end framework for developing responsive, mobile first projects on the web."
+    },
+    {
+        "name": "@kuma-ui/wasm",
+        "description": "🐻 Kuma UI is a utility-first, zero-runtime CSS-in-JS library that offers an outstanding developer experience and optimized performance."
+    },
+    {
+        "name": "@nextcss/color-tools",
+        "description": "Color tools for browser and node."
+    },
+    {
+        "name": "@fontsource/rye",
+        "description": "Self-host the Rye font in a neatly bundled NPM package."
+    },
+    {
+        "name": "richmd",
+        "description": "Richmd is a tool for making Rich contents Markdown language."
+    },
+    {
+        "name": "@fontsource/gelasio",
+        "description": "Self-host the Gelasio font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/marck-script",
+        "description": "Self-host the Marck Script font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/rozha-one",
+        "description": "Self-host the Rozha One font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/spline-sans-mono",
+        "description": "Self-host the Spline Sans Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@arwes/text",
+        "description": "Futuristic Sci-Fi UI Web Framework"
+    },
+    {
+        "name": "@fontsource/big-shoulders-stencil-display",
+        "description": "Self-host the Big Shoulders Stencil Display font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@sabre-js/sabre",
+        "description": "A gpu accelerated ecmascript renderer for Advanced Substation Alpha (ASS) subtitles. Renders .ass and .ssa files over video in the browser."
+    },
+    {
+        "name": "@fontsource/alexandria",
+        "description": "Self-host the Alexandria font in a neatly bundled NPM package."
+    },
+    {
+        "name": "ve-charts",
+        "description": "ECharts 4.x for Vue.js 2.x."
+    },
+    {
+        "name": "@fontsource-variable/epilogue",
+        "description": "Self-host the Epilogue font in a neatly bundled NPM package."
+    },
+    {
+        "name": "ios-pwa-splash",
+        "description": "Generate iOS PWA splash screens on the fly!"
+    },
+    {
+        "name": "@fontsource/victor-mono",
+        "description": "Self-host the Victor Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/reddit-mono",
+        "description": "Self-host the Reddit Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "daemonite-material",
+        "description": "Daemonite's Material UI is a cross-platform and fully responsive front-end interface based on Google Material Design developed using Bootstrap 4."
+    },
+    {
+        "name": "@fontsource-variable/rethink-sans",
+        "description": "Self-host the Rethink Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/tangerine",
+        "description": "Self-host the Tangerine font in a neatly bundled NPM package."
+    },
+    {
+        "name": "rc-highlight",
+        "description": "React component for highlighting js, ts, jsx and tsx code"
+    },
+    {
+        "name": "@fontsource/noto-sans-display",
+        "description": "Self-host the Noto Sans Display font in a neatly bundled NPM package."
+    },
+    {
+        "name": "aip-modelview",
+        "description": "aip-framework modelview module"
+    },
+    {
+        "name": "@axerunners/insight-ui",
+        "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the Axe network and build your own services with it."
+    },
+    {
+        "name": "@fontsource/noto-serif-kr",
+        "description": "Self-host the Noto Serif KR font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@copart/front-end-utils",
+        "description": "All front end utility methods live here"
+    }
+]

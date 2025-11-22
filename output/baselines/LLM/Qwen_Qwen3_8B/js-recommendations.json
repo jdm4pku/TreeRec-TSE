@@ -1,0 +1,112 @@
+[
+    {
+        "intent": "I want to use a Babel plugin to optimize and preprocess my CSS-in-JS styles with Emotion.",
+        "gold": "@emotion/babel-plugin",
+        "ranking": [
+            "@emotion/babel-plugin",
+            "@emotion/css",
+            "@emotion/server",
+            "@linaria/babel-preset",
+            "@csstools/postcss-ic-unit"
+        ]
+    },
+    {
+        "intent": "I want to easily parse and manage command-line arguments in my Node.js application.",
+        "gold": "yargs",
+        "ranking": [
+            "command-line-args",
+            "yargs",
+            "clap",
+            "dashdash",
+            "argh"
+        ]
+    },
+    {
+        "intent": "I need utility functions to help me work with the Transitive framework in my JavaScript project.",
+        "gold": "@transitive-sdk/utils",
+        "ranking": [
+            "@transitive-sdk/create",
+            "@transitive-sdk/datacache",
+            "@transitive-sdk/utils-caps",
+            "@transitive-sdk/utils-web",
+            "@transitive-sdk/mongo"
+        ]
+    },
+    {
+        "intent": "I want to easily add and self-host the Montserrat font in my web project using npm.",
+        "gold": "@fontsource/montserrat",
+        "ranking": [
+            "@fontsource/montserrat",
+            "@fontsource-variable/montserrat",
+            "@fontsource/montserrat-alternates",
+            "@fontsource-variable/noto-sans",
+            "@fontsource-variable/roboto-mono"
+        ]
+    },
+    {
+        "intent": "I want to add YAML editing and syntax support to the Monaco Editor in my application.",
+        "gold": "monaco-yaml",
+        "ranking": [
+            "monaco-yaml",
+            "gray-matter",
+            "@gr2m/gray-matter",
+            "velite",
+            "yaml-lint"
+        ]
+    },
+    {
+        "intent": "I want a reference list of all valid CSS properties for use in my project.",
+        "gold": "known-css-properties",
+        "ranking": [
+            "css-values",
+            "css-font-size-keywords",
+            "css-system-font-keywords",
+            "css-font-stretch-keywords",
+            "css-font-style-keywords"
+        ]
+    },
+    {
+        "intent": "I want to generate OPC UA modules in Node.js for industrial automation or IoT applications.",
+        "gold": "node-opcua-generator",
+        "ranking": [
+            "node-opcua",
+            "node-opcua-server",
+            "node-opcua-client",
+            "node-opcua-address-space",
+            "node-opcua-nodeset-ia"
+        ]
+    },
+    {
+        "intent": "I want to show animated loading spinners in my command-line applications.",
+        "gold": "cli-spinners",
+        "ranking": [
+            "cli-spinners",
+            "ora",
+            "spinnies",
+            "terminal-overwrite",
+            "nanospinner"
+        ]
+    },
+    {
+        "intent": "I want to add a documentation explorer to my GraphiQL interface so users can browse and view API schema details.",
+        "gold": "@graphiql/plugin-doc-explorer",
+        "ranking": [
+            "@graphiql/plugin-doc-explorer",
+            "dociql",
+            "graphql-docs",
+            "graphdoc-plugin-schema",
+            "@graphidocs/docs"
+        ]
+    },
+    {
+        "intent": "I want to automatically register global Vue components in my VuePress documentation site.",
+        "gold": "@vuepress/plugin-register-components",
+        "ranking": [
+            "@vuepress/plugin-register-components",
+            "vuepress-plugin-vue-example",
+            "vue-atomic-docs",
+            "vuepress-vite",
+            "@vuepress/theme-default"
+        ]
+    }
+]

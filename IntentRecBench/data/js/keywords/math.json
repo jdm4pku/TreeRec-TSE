@@ -1,0 +1,4002 @@
+[
+    {
+        "name": "is-number",
+        "description": "Returns true if a number or string value is a finite number. Useful for regex matches, parsing, user input, etc."
+    },
+    {
+        "name": "long",
+        "description": "A Long class for representing a 64-bit two's-complement integer value."
+    },
+    {
+        "name": "node-int64",
+        "description": "Support for representing 64-bit integers in JavaScript"
+    },
+    {
+        "name": "fraction.js",
+        "description": "The RAW rational numbers library"
+    },
+    {
+        "name": "@xtuc/long",
+        "description": "A Long class for representing a 64-bit two's-complement integer value."
+    },
+    {
+        "name": "big-integer",
+        "description": "An arbitrary length integer library for Javascript"
+    },
+    {
+        "name": "buffer-xor",
+        "description": "A simple module for bitwise-xor on buffers"
+    },
+    {
+        "name": "@sideway/formula",
+        "description": "Math and string formula parser."
+    },
+    {
+        "name": "mathml-tag-names",
+        "description": "List of known MathML tag names"
+    },
+    {
+        "name": "num2fraction",
+        "description": "Convert number to fraction"
+    },
+    {
+        "name": "@csstools/postcss-nested-calc",
+        "description": "Use nested calc() expressions in CSS"
+    },
+    {
+        "name": "frac",
+        "description": "Rational approximation with bounded denominator"
+    },
+    {
+        "name": "rbush",
+        "description": "High-performance 2D spatial index for rectangles (based on R*-tree with bulk loading and bulk insertion algorithms)"
+    },
+    {
+        "name": "is-natural-number",
+        "description": "Check if a value is a natural number"
+    },
+    {
+        "name": "@hapi/formula",
+        "description": "Math and string formula parser."
+    },
+    {
+        "name": "micromark-extension-math",
+        "description": "micromark extension to support math (`$C_L$`)"
+    },
+    {
+        "name": "math-expression-evaluator",
+        "description": "A flexible math expression evaluator"
+    },
+    {
+        "name": "mathjs",
+        "description": "Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser with support for symbolic computation, comes with a large set of built-in functions and constants, and offers an integrated solution to work with dif"
+    },
+    {
+        "name": "complex.js",
+        "description": "A complex numbers library"
+    },
+    {
+        "name": "mdast-util-math",
+        "description": "mdast extension to parse and serialize math"
+    },
+    {
+        "name": "compute-lcm",
+        "description": "Computes the least common multiple (lcm)."
+    },
+    {
+        "name": "remark-math",
+        "description": "remark plugin to parse and stringify math"
+    },
+    {
+        "name": "compute-gcd",
+        "description": "Computes the greatest common divisor (gcd)."
+    },
+    {
+        "name": "rehype-katex",
+        "description": "rehype plugin to transform inline and block math with KaTeX"
+    },
+    {
+        "name": "expr-eval",
+        "description": "Mathematical expression evaluator"
+    },
+    {
+        "name": "csprng",
+        "description": "Secure random numbers of any size in any base"
+    },
+    {
+        "name": "skmeans",
+        "description": "Super fast simple k-means and k-means++ clustering for unidimiensional and multidimensional data. Works in node and browser"
+    },
+    {
+        "name": "sequin",
+        "description": "Generate uniformly distributed ints in any base from a bit sequence"
+    },
+    {
+        "name": "bit-twiddle",
+        "description": "Bit twiddling hacks for JavaScript"
+    },
+    {
+        "name": "clamp",
+        "description": "Clamp a value between two other values"
+    },
+    {
+        "name": "date-arithmetic",
+        "description": "simple date math util"
+    },
+    {
+        "name": "@math.gl/web-mercator",
+        "description": "Utilities for perspective-enabled Web Mercator projections"
+    },
+    {
+        "name": "@stdlib/math-base-napi-binary",
+        "description": "C APIs for registering a Node-API module exporting an interface for invoking a binary numerical function."
+    },
+    {
+        "name": "@stdlib/math-base-napi-unary",
+        "description": "C APIs for registering a Node-API module exporting an interface for invoking a unary numerical function."
+    },
+    {
+        "name": "is-odd",
+        "description": "Returns true if the given number is odd, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER."
+    },
+    {
+        "name": "@stdlib/constants-float64-exponent-bias",
+        "description": "The bias of a double-precision floating-point number's exponent."
+    },
+    {
+        "name": "@stdlib/constants-float64-max-base2-exponent-subnormal",
+        "description": "The maximum biased base 2 exponent for a subnormal double-precision floating-point number."
+    },
+    {
+        "name": "@math.gl/core",
+        "description": "Array-based 3D Math Classes optimized for WebGL applications"
+    },
+    {
+        "name": "@stdlib/constants-float64-smallest-normal",
+        "description": "Smallest positive double-precision floating-point normal number."
+    },
+    {
+        "name": "@stdlib/constants-float64-ninf",
+        "description": "Double-precision floating-point negative infinity."
+    },
+    {
+        "name": "@stdlib/constants-float64-pinf",
+        "description": "Double-precision floating-point positive infinity."
+    },
+    {
+        "name": "@stdlib/math-base-assert-is-infinite",
+        "description": "Test if a double-precision floating-point numeric value is infinite."
+    },
+    {
+        "name": "@stdlib/math-base-assert-is-nan",
+        "description": "Test if a double-precision floating-point numeric value is NaN."
+    },
+    {
+        "name": "@stdlib/math-base-special-abs",
+        "description": "Compute the absolute value of a double-precision floating-point number."
+    },
+    {
+        "name": "gl-mat4",
+        "description": "gl-matrix's mat4, split into smaller pieces"
+    },
+    {
+        "name": "@stdlib/math-base-special-ldexp",
+        "description": "Multiply a double-precision floating-point number by an integer power of two."
+    },
+    {
+        "name": "@stdlib/constants-float64-min-base2-exponent-subnormal",
+        "description": "The minimum biased base 2 exponent for a subnormal double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/constants-float64-max-base2-exponent",
+        "description": "The maximum biased base 2 exponent for a double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/constants-float64-high-word-exponent-mask",
+        "description": "High word mask for the exponent of a double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/complex-reim",
+        "description": "Return the real and imaginary components of a double-precision complex floating-point number."
+    },
+    {
+        "name": "@stdlib/math-base-special-copysign",
+        "description": "Return a double-precision floating-point number with the magnitude of x and the sign of y."
+    },
+    {
+        "name": "ndarray-ops",
+        "description": "Common operations for ndarray arrays"
+    },
+    {
+        "name": "@stdlib/complex-reimf",
+        "description": "Return the real and imaginary components of a single-precision complex floating-point number."
+    },
+    {
+        "name": "@stdlib/constants-float64-high-word-sign-mask",
+        "description": "High word mask for the sign bit of a double-precision floating-point number."
+    },
+    {
+        "name": "math-interval-parser",
+        "description": "Parse math interval"
+    },
+    {
+        "name": "simple-statistics",
+        "description": "Simple Statistics"
+    },
+    {
+        "name": "@math.gl/types",
+        "description": "TypeScript types for math.gl"
+    },
+    {
+        "name": "@stdlib/constants-float64-high-word-abs-mask",
+        "description": "High word mask for excluding the sign bit of a double-precision floating-point number."
+    },
+    {
+        "name": "@math.gl/polygon",
+        "description": "Polygon/polyline processing utilities"
+    },
+    {
+        "name": "random-int",
+        "description": "Generate a random integer"
+    },
+    {
+        "name": "@math.gl/culling",
+        "description": "Culling Functionality for 3D Classes"
+    },
+    {
+        "name": "@math.gl/sun",
+        "description": "Sun classes"
+    },
+    {
+        "name": "bessel",
+        "description": "Pure-JS Bessel Functions"
+    },
+    {
+        "name": "@loaders.gl/math",
+        "description": "Experimental math classes for loaders.gl"
+    },
+    {
+        "name": "@budibase/handlebars-helpers",
+        "description": "More than 130 Handlebars helpers in ~20 categories. Helpers can be used with Assemble, Generate, Verb, Ghost, gulp-handlebars, grunt-handlebars, consolidate, or any node.js/Handlebars project."
+    },
+    {
+        "name": "@math.gl/geospatial",
+        "description": "Geospatial classes"
+    },
+    {
+        "name": "compute-l2norm",
+        "description": "Computes the L2 norm (Euclidean norm) of an array of values."
+    },
+    {
+        "name": "compute-cosine-similarity",
+        "description": "Computes the cosine similarity between two arrays."
+    },
+    {
+        "name": "is-even",
+        "description": "Return true if the given number is even."
+    },
+    {
+        "name": "compute-dot",
+        "description": "Computes the dot product between two numeric arrays."
+    },
+    {
+        "name": "buffer-reverse",
+        "description": "A lite module for reverse-operations on buffers"
+    },
+    {
+        "name": "ewma",
+        "description": "Exponentially Weighted Moving Average"
+    },
+    {
+        "name": "stats-lite",
+        "description": "A light statistical package that operates on numeric Arrays."
+    },
+    {
+        "name": "bresenham",
+        "description": "Bresenham's line algorithm"
+    },
+    {
+        "name": "@keystonehq/alias-sampling",
+        "description": "A Node.js module for efficient sampling from a discrete probability distribution using the alias method."
+    },
+    {
+        "name": "bigi",
+        "description": "Big integers."
+    },
+    {
+        "name": "gl-vec2",
+        "description": "gl-matrix's vec2, split into smaller pieces"
+    },
+    {
+        "name": "multimath",
+        "description": "Core to create fast image math in WebAssembly and JS."
+    },
+    {
+        "name": "postcss-calc-ast-parser",
+        "description": "Parses calc of css and converts it to AST."
+    },
+    {
+        "name": "preciso",
+        "description": "Precise Mathematical Functions"
+    },
+    {
+        "name": "handlebars-helpers",
+        "description": "More than 130 Handlebars helpers in ~20 categories. Helpers can be used with Assemble, Generate, Verb, Ghost, gulp-handlebars, grunt-handlebars, consolidate, or any node.js/Handlebars project."
+    },
+    {
+        "name": "whence",
+        "description": "Add context awareness to your apps and frameworks by safely evaluating user-defined conditional expressions. Useful for evaluating expressions in config files, prompts, key bindings, completions, templates, and many other user cases."
+    },
+    {
+        "name": "mathjax",
+        "description": "Beautiful and accessible math in all browsers. MathJax is an open-source JavaScript display engine for LaTeX, MathML, and AsciiMath notation that works in all browsers. This package includes the packaged components (install mathjax-full to get the source "
+    },
+    {
+        "name": "eval-estree-expression",
+        "description": "Safely evaluate JavaScript (estree) expressions, sync and async."
+    },
+    {
+        "name": "gl-vec3",
+        "description": "gl-matrix's vec3, split into smaller pieces"
+    },
+    {
+        "name": "@stdlib/math-base-special-floor",
+        "description": "Round a double-precision floating-point number toward negative infinity."
+    },
+    {
+        "name": "@stdlib/math-base-assert-is-integer",
+        "description": "Test if a finite double-precision floating-point number is an integer."
+    },
+    {
+        "name": "@stdlib/math-base-special-pow",
+        "description": "Exponential function."
+    },
+    {
+        "name": "@stdlib/math-base-assert-is-odd",
+        "description": "Test if a finite numeric value is an odd number."
+    },
+    {
+        "name": "expr-eval-fork",
+        "description": "Mathematical expression evaluator fork with prototype pollution fix"
+    },
+    {
+        "name": "@vueuse/math",
+        "description": "Math functions for VueUse"
+    },
+    {
+        "name": "rehype-mathjax",
+        "description": "rehype plugin to transform inline and block math with MathJax"
+    },
+    {
+        "name": "@stdlib/math-base-special-gamma",
+        "description": "Gamma function."
+    },
+    {
+        "name": "simplify-js",
+        "description": "A high-performance JavaScript 2D/3D polyline simplification library"
+    },
+    {
+        "name": "numeric",
+        "description": "Numerical analysis in javascript"
+    },
+    {
+        "name": "lcm",
+        "description": "compute the least common multiple using Euclidean algorithm"
+    },
+    {
+        "name": "react-katex",
+        "description": "Display math in TeX with KaTeX and ReactJS"
+    },
+    {
+        "name": "suncalc",
+        "description": "A tiny JavaScript library for calculating sun/moon positions and phases."
+    },
+    {
+        "name": "@stdlib/math-base-special-max",
+        "description": "Return the maximum value."
+    },
+    {
+        "name": "gcd",
+        "description": "compute the greatest common divisor using euclid's algorithm"
+    },
+    {
+        "name": "@stdlib/math-base-special-ceil",
+        "description": "Round a double-precision floating-point number toward positive infinity."
+    },
+    {
+        "name": "@stdlib/math-base-special-exp",
+        "description": "Natural exponential function."
+    },
+    {
+        "name": "@stdlib/math-base-special-trunc",
+        "description": "Round a double-precision floating-point number toward zero."
+    },
+    {
+        "name": "@stdlib/math-base-assert-is-even",
+        "description": "Test if a finite numeric value is an even number."
+    },
+    {
+        "name": "@stdlib/math-base-special-round",
+        "description": "Round a numeric value to the nearest integer."
+    },
+    {
+        "name": "@stdlib/complex-float64-reim",
+        "description": "Return the real and imaginary components of a double-precision complex floating-point number."
+    },
+    {
+        "name": "@stdlib/math-base-special-ln",
+        "description": "Evaluate the natural logarithm of a double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/math-base-assert-is-negative-zero",
+        "description": "Test if a double-precision floating-point numeric value is negative zero."
+    },
+    {
+        "name": "@stdlib/complex-float32-reim",
+        "description": "Return the real and imaginary components of a single-precision complex floating-point number."
+    },
+    {
+        "name": "@stdlib/math-base-special-sqrt",
+        "description": "Compute the principal square root of a double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/constants-float64-high-word-significand-mask",
+        "description": "High word mask for the significand of a double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/math-base-special-cos",
+        "description": "Compute the cosine of a number."
+    },
+    {
+        "name": "@stdlib/math-base-assert-is-positive-zero",
+        "description": "Test if a double-precision floating-point numeric value is positive zero."
+    },
+    {
+        "name": "haversine-distance",
+        "description": "Haversine formula in Javascript, in meters, nothing else"
+    },
+    {
+        "name": "mathlive",
+        "description": "A web component for math input"
+    },
+    {
+        "name": "@stdlib/math-base-special-sin",
+        "description": "Compute the sine of a number."
+    },
+    {
+        "name": "@stdlib/math-base-special-gammaln",
+        "description": "Natural logarithm of the gamma function."
+    },
+    {
+        "name": "@casbin/expression-eval",
+        "description": "JavaScript expression parsing and evaluation."
+    },
+    {
+        "name": "@stdlib/constants-float64-sqrt-eps",
+        "description": "Square root of double-precision floating-point epsilon."
+    },
+    {
+        "name": "@stdlib/math-base-special-kernel-cos",
+        "description": "Compute the cosine of a double-precision floating-point number on [-π/4, π/4]."
+    },
+    {
+        "name": "@stdlib/constants-float64-two-pi",
+        "description": "2π."
+    },
+    {
+        "name": "@cortex-js/compute-engine",
+        "description": "Symbolic computing and numeric evaluations for JavaScript and Node.js"
+    },
+    {
+        "name": "@stdlib/math-base-special-rempio2",
+        "description": "Compute `x - nπ/2 = r`."
+    },
+    {
+        "name": "ndarray-crout-decomposition",
+        "description": "LU decomposition using the crout algorithm"
+    },
+    {
+        "name": "@stdlib/constants-float64-sqrt-two-pi",
+        "description": "Square root of 2π."
+    },
+    {
+        "name": "nearest-periodic-value",
+        "description": "Find the nearest value of a discrete periodic function, given a point."
+    },
+    {
+        "name": "@stdlib/constants-float64-ln-two",
+        "description": "Natural logarithm of 2."
+    },
+    {
+        "name": "@stdlib/constants-float64-pi",
+        "description": "π."
+    },
+    {
+        "name": "percentile",
+        "description": "Calculate a percentile for given array of values"
+    },
+    {
+        "name": "skipped-periodic-values",
+        "description": "Given a point and a distance, determine how many periodic values were skipped."
+    },
+    {
+        "name": "@stdlib/math-base-special-kernel-sin",
+        "description": "Compute the sine of a double-precision floating-point number on [-π/4, π/4]."
+    },
+    {
+        "name": "@stdlib/constants-float64-eulergamma",
+        "description": "The Euler-Mascheroni constant."
+    },
+    {
+        "name": "@stdlib/math-base-special-gamma1pm1",
+        "description": "Compute gamma(x+1) - 1."
+    },
+    {
+        "name": "contained-periodic-values",
+        "description": "Find how many values of a discrete periodic function are contained in an interval."
+    },
+    {
+        "name": "@stdlib/math-base-special-min",
+        "description": "Return the minimum value."
+    },
+    {
+        "name": "@stdlib/math-base-special-sinpi",
+        "description": "Compute sin(πx)."
+    },
+    {
+        "name": "@stdlib/math-base-special-log1p",
+        "description": "Evaluate the natural logarithm of 1+x."
+    },
+    {
+        "name": "@stdlib/math-base-special-gammainc",
+        "description": "Incomplete gamma function."
+    },
+    {
+        "name": "@stdlib/math-base-tools-sum-series",
+        "description": "Compute the sum of an infinite series."
+    },
+    {
+        "name": "@stdlib/math-base-special-expm1",
+        "description": "Compute exp(x) - 1."
+    },
+    {
+        "name": "@stdlib/constants-float64-gamma-lanczos-g",
+        "description": "Arbitrary constant `g` to be used in Lanczos approximation functions."
+    },
+    {
+        "name": "percom",
+        "description": "A calculation npm module that is to simplify the calculation of permutations and combinations"
+    },
+    {
+        "name": "@stdlib/math-base-tools-evalpoly",
+        "description": "Evaluate a polynomial using double-precision floating-point arithmetic."
+    },
+    {
+        "name": "@stdlib/constants-float64-eps",
+        "description": "Difference between one and the smallest value greater than one that can be represented as a double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/constants-float64-max-ln",
+        "description": "Natural logarithm of the maximum double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/math-base-tools-continued-fraction",
+        "description": "Continued fraction approximation."
+    },
+    {
+        "name": "@stdlib/math-base-special-erfc",
+        "description": "Complementary error function."
+    },
+    {
+        "name": "@stdlib/math-base-special-factorial",
+        "description": "Evaluate a factorial."
+    },
+    {
+        "name": "round-to",
+        "description": "Round a number to a specific number of decimal places: `1.234` → `1.2`"
+    },
+    {
+        "name": "@stdlib/constants-float64-max",
+        "description": "Maximum double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/math-base-special-powm1",
+        "description": "Evaluate bˣ - 1."
+    },
+    {
+        "name": "@stdlib/math-base-special-gamma-lanczos-sum-expg-scaled",
+        "description": "Calculate a scaled Lanczos sum for the approximation of the gamma function."
+    },
+    {
+        "name": "@stdlib/constants-float64-e",
+        "description": "Euler's number."
+    },
+    {
+        "name": "@stdlib/constants-float32-smallest-normal",
+        "description": "Smallest positive normalized single-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/constants-float64-min-ln",
+        "description": "Natural logarithm of the smallest normalized double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/constants-float64-half-ln-two",
+        "description": "One half times the natural logarithm of 2."
+    },
+    {
+        "name": "cidr-split",
+        "description": "Split facility for CIDRs."
+    },
+    {
+        "name": "calc-stats",
+        "description": "Memory-Aware Statistical Calculations"
+    },
+    {
+        "name": "@vscode/markdown-it-katex",
+        "description": "Markdown-it plugin that provides VS Code's KaTeX support"
+    },
+    {
+        "name": "@matejmazur/react-katex",
+        "description": "Display math in TeX with KaTeX and ReactJS"
+    },
+    {
+        "name": "const-pinf-float64",
+        "description": "Positive infinity."
+    },
+    {
+        "name": "@stdlib/blas",
+        "description": "BLAS."
+    },
+    {
+        "name": "xdim",
+        "description": "Multi-Dimensional Functions. Create, Query, and Transform Multi-Dimensional Data."
+    },
+    {
+        "name": "@stdlib/random",
+        "description": "Random numbers."
+    },
+    {
+        "name": "utils",
+        "description": "Fast, generic JavaScript/node.js utility functions."
+    },
+    {
+        "name": "mediana",
+        "description": "A Quick and Precise Library for Calculating the Median Value of an Array of Numbers (Typed or Untyped)"
+    },
+    {
+        "name": "gl-vec4",
+        "description": "gl-matrix's vec4, split into smaller pieces"
+    },
+    {
+        "name": "@stdlib/math",
+        "description": "Standard math."
+    },
+    {
+        "name": "@stdlib/stats",
+        "description": "Standard library statistical functions."
+    },
+    {
+        "name": "gl-quat",
+        "description": "gl-matrix's quaternion, split into smaller pieces"
+    },
+    {
+        "name": "circumcenter",
+        "description": "Computes circumcenters of simplices"
+    },
+    {
+        "name": "faster-median",
+        "description": "🔥 A Quick and Precise Way to get the Median Value of an Array of Numbers (Typed or Untyped)"
+    },
+    {
+        "name": "typed-array-ranges",
+        "description": "Get the Smallest and Largest Possible Numbers for a Typed Array"
+    },
+    {
+        "name": "@stdlib/constants-float64-ln-sqrt-two-pi",
+        "description": "Natural logarithm of the square root of 2π."
+    },
+    {
+        "name": "markdown-it-katex",
+        "description": "Fast math support for markdown-it with KaTeX"
+    },
+    {
+        "name": "cwise",
+        "description": "Component-wise operations on ndarrays"
+    },
+    {
+        "name": "qsu",
+        "description": "qsu is a utility library that contains useful and frequently used functions. Start with your preferred language and the modern development environment."
+    },
+    {
+        "name": "@stdlib/math-base-special-log1pmx",
+        "description": "Evaluate ln(1+x) - x."
+    },
+    {
+        "name": "@stdlib/constants-float64-half-pi",
+        "description": "1/2 times π."
+    },
+    {
+        "name": "polytope-closest-point",
+        "description": "Computes the closest point to a polytope in arbitrary dimensions"
+    },
+    {
+        "name": "@stdlib/constants-float64-fourth-pi",
+        "description": "1/4 times π."
+    },
+    {
+        "name": "cubic-hermite",
+        "description": "Cubic hermite interpolation"
+    },
+    {
+        "name": "complex-esm",
+        "description": "A complex numbers library"
+    },
+    {
+        "name": "@stdlib/math-base-special-gammaincinv",
+        "description": "Inverse incomplete gamma function."
+    },
+    {
+        "name": "@stdlib/math-base-special-betainc",
+        "description": "Incomplete beta function."
+    },
+    {
+        "name": "@stdlib/math-base-special-erfcinv",
+        "description": "Inverse complementary error function."
+    },
+    {
+        "name": "@stdlib/math-base-special-beta",
+        "description": "Beta function."
+    },
+    {
+        "name": "@stdlib/math-base-special-signum",
+        "description": "Evaluate the signum function for a double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/math-base-special-fmod",
+        "description": "Modulus function."
+    },
+    {
+        "name": "random-item",
+        "description": "Get a random item from an array"
+    },
+    {
+        "name": "react-latex-next",
+        "description": "Render LaTeX in React apps"
+    },
+    {
+        "name": "@stdlib/stdlib",
+        "description": "Standard library."
+    },
+    {
+        "name": "@stdlib/math-base-special-maxabs",
+        "description": "Return the maximum absolute value."
+    },
+    {
+        "name": "@stdlib/constants-float32-max",
+        "description": "Maximum single-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/math-base-special-minabs",
+        "description": "Return the minimum absolute value."
+    },
+    {
+        "name": "@stdlib/math-base-special-gamma-delta-ratio",
+        "description": "Compute the ratio of two gamma functions."
+    },
+    {
+        "name": "@stdlib/constants-float64-min-base2-exponent",
+        "description": "The minimum biased base 2 exponent for a normal double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/math-base-special-asin",
+        "description": "Compute the arcsine of a double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/math-base-special-binomcoef",
+        "description": "Compute the binomial coefficient."
+    },
+    {
+        "name": "@stdlib/math-base-special-gamma-lanczos-sum",
+        "description": "Calculate the Lanczos sum for the approximation of the gamma function."
+    },
+    {
+        "name": "@stdlib/math-base-special-kernel-betainc",
+        "description": "Incomplete beta function and its first derivative."
+    },
+    {
+        "name": "@stdlib/complex-realf",
+        "description": "Return the real component of a single-precision complex floating-point number."
+    },
+    {
+        "name": "@stdlib/complex-real",
+        "description": "Return the real component of a double-precision complex floating-point number."
+    },
+    {
+        "name": "@iktakahiro/markdown-it-katex",
+        "description": "Fast math support for markdown-it with KaTeX"
+    },
+    {
+        "name": "chai-bn",
+        "description": "Chai assertions for comparing arbitrary-precision integers using the bignumber.js library"
+    },
+    {
+        "name": "a-calc",
+        "description": "A very powerful and easy-to-use number precision calculation and formatting library."
+    },
+    {
+        "name": "node-red-contrib-calc",
+        "description": "A Node-Red node to perform basic mathematical calculations"
+    },
+    {
+        "name": "@stdlib/constants-float64-sqrt-two",
+        "description": "Square root of 2."
+    },
+    {
+        "name": "@emmetio/math-expression",
+        "description": "Parse and evaluate simple math expressions"
+    },
+    {
+        "name": "@stdlib/complex-imagf",
+        "description": "Return the imaginary component of a single-precision complex floating-point number."
+    },
+    {
+        "name": "eslint-type-tracer",
+        "description": "The type tracer for ESLint rules."
+    },
+    {
+        "name": "@stdlib/complex-imag",
+        "description": "Return the imaginary component of a double-precision complex floating-point number."
+    },
+    {
+        "name": "@homebridge/long",
+        "description": "A Long class for representing a 64-bit two's-complement integer value."
+    },
+    {
+        "name": "@stdlib/math-base-special-acos",
+        "description": "Compute the arccosine of a double-precision floating-point number."
+    },
+    {
+        "name": "markdown-it-mathjax3",
+        "description": "Fast math support for markdown-it with MathJax"
+    },
+    {
+        "name": "@stdlib/random-base-mt19937",
+        "description": "A 32-bit Mersenne Twister pseudorandom number generator."
+    },
+    {
+        "name": "@stdlib/math-base-special-tan",
+        "description": "Evaluate the tangent of a number."
+    },
+    {
+        "name": "@stdlib/math-base-special-gcd",
+        "description": "Compute the greatest common divisor (gcd)."
+    },
+    {
+        "name": "@stdlib/blas-base-gcopy",
+        "description": "Copy values from x into y."
+    },
+    {
+        "name": "@wiris/mathtype-html-integration-devkit",
+        "description": "Allows to integrate MathType Web into any JavaScript HTML WYSIWYG rich text editor."
+    },
+    {
+        "name": "@stdlib/math-base-special-kernel-betaincinv",
+        "description": "Inverse incomplete beta function."
+    },
+    {
+        "name": "@stdlib/constants-float64-smallest-subnormal",
+        "description": "Smallest positive double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/math-base-special-kernel-tan",
+        "description": "Compute the tangent of a double-precision floating-point number on [-π/4, π/4]."
+    },
+    {
+        "name": "cornerstone-math",
+        "description": "Math and computation geometry functionality for cornerstone"
+    },
+    {
+        "name": "rbush-3d",
+        "description": "High-performance 3D spatial index for cuboids (based on R*-tree with bulk loading and bulk insertion algorithms)"
+    },
+    {
+        "name": "micromark-extension-llm-math",
+        "description": "micromark extension to support math (`$C_L$`, `\\(C_L\\)`)"
+    },
+    {
+        "name": "@kwsites/math-sum",
+        "description": "Gets the sum of values"
+    },
+    {
+        "name": "math-sign-x",
+        "description": "Shim for Math.sign."
+    },
+    {
+        "name": "@stdlib/math-base-ops-umul",
+        "description": "Perform C-like multiplication of two unsigned 32-bit integers."
+    },
+    {
+        "name": "@math.gl/proj4",
+        "description": "Proj4js wrapper for conversion between geospatial CRS (coordinate reference systems)"
+    },
+    {
+        "name": "jest-mock-random",
+        "description": "Math.random() as a deterministic jest mock function"
+    },
+    {
+        "name": "@prb/math",
+        "description": "Solidity library for advanced fixed-point math"
+    },
+    {
+        "name": "mathjax-node",
+        "description": "API's for calling MathJax from node.js"
+    },
+    {
+        "name": "@stdlib/constants-float64-max-base10-exponent",
+        "description": "The maximum base 10 exponent for a double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/math-base-assert-is-nonnegative-integer",
+        "description": "Test if a finite double-precision floating-point number is a nonnegative integer."
+    },
+    {
+        "name": "quaternion",
+        "description": "The RAW rotation library using quaternions"
+    },
+    {
+        "name": "@stdlib/constants-float64-min-base10-exponent-subnormal",
+        "description": "The minimum base 10 exponent for a subnormal double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/math-base-special-digamma",
+        "description": "Digamma function."
+    },
+    {
+        "name": "@stdlib/constants-float64-min-base10-exponent",
+        "description": "The minimum base 10 exponent for a normal double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/math-base-special-roundn",
+        "description": "Round a double-precision floating-point number to the nearest multiple of 10^n."
+    },
+    {
+        "name": "@stdlib/math-base-special-betaln",
+        "description": "Natural logarithm of the beta function."
+    },
+    {
+        "name": "@stdlib/blas-ext-base-gsumpw",
+        "description": "Calculate the sum of strided array elements using pairwise summation."
+    },
+    {
+        "name": "remark-docx",
+        "description": "remark plugin to compile markdown to docx (Microsoft Word, Office Open XML)."
+    },
+    {
+        "name": "math-clamp-x",
+        "description": "Clamp a number to limits."
+    },
+    {
+        "name": "tokenize-this",
+        "description": "Turns a string into tokens."
+    },
+    {
+        "name": "@thi.ng/math",
+        "description": "Assorted common math functions & utilities"
+    },
+    {
+        "name": "exact-math",
+        "description": "The exact-math is a set of methods for addition, subtraction, multiplication, division, rounding, ceiling, flooring and powering calculations. It can be used with big number as it handles the floating point problem."
+    },
+    {
+        "name": "@stdlib/math-base-special-erfinv",
+        "description": "Inverse error function."
+    },
+    {
+        "name": "@stdlib/stats-base-variancepn",
+        "description": "Calculate the variance of a strided array using a two-pass algorithm."
+    },
+    {
+        "name": "@stdlib/math-base-special-betaincinv",
+        "description": "Inverse incomplete beta function."
+    },
+    {
+        "name": "react-mathjax",
+        "description": "React component to render math using MathJax"
+    },
+    {
+        "name": "markdown-it-texmath",
+        "description": "markdown-it extension for rendering TeX Math"
+    },
+    {
+        "name": "@stdlib/random-base-exponential",
+        "description": "Exponentially distributed pseudorandom numbers."
+    },
+    {
+        "name": "math-float64-get-high-word",
+        "description": "Returns a 32-bit integer corresponding to the more significant 32 bits of a double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/math-base-special-erf",
+        "description": "Error function."
+    },
+    {
+        "name": "@traptitech/markdown-it-katex",
+        "description": "Fast math support for markdown-it with KaTeX"
+    },
+    {
+        "name": "mathsass",
+        "description": "A Sass implementation of mathematical functions."
+    },
+    {
+        "name": "math-float64-exponent",
+        "description": "Returns an integer corresponding to the unbiased exponent of a double-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/random-base-improved-ziggurat",
+        "description": "Normally distributed pseudorandom numbers using the improved Ziggurat method."
+    },
+    {
+        "name": "@stdlib/stats-base-variance",
+        "description": "Calculate the variance of a strided array."
+    },
+    {
+        "name": "chai-bignumber",
+        "description": "Chai assertions for comparing arbitrary-precision decimals using the bignumber.js library"
+    },
+    {
+        "name": "@stdlib/blas-ext-base-gapxsumpw",
+        "description": "Adds a constant to each strided array element and computes the sum using pairwise summation."
+    },
+    {
+        "name": "subscript",
+        "description": "Fast and tiny expression evaluator with minimal syntax."
+    },
+    {
+        "name": "suncalc2",
+        "description": "A tiny JavaScript library for calculating sun/moon positions and phases."
+    },
+    {
+        "name": "@stdlib/stats-incr-sum",
+        "description": "Compute a sum incrementally."
+    },
+    {
+        "name": "@stdlib/random-base-randu",
+        "description": "Uniformly distributed pseudorandom numbers between 0 and 1."
+    },
+    {
+        "name": "@stdlib/math-base-special-factorialln",
+        "description": "Evaluate the natural logarithm of the factorial function."
+    },
+    {
+        "name": "@stdlib/stats-base-mean",
+        "description": "Calculate the arithmetic mean of a strided array."
+    },
+    {
+        "name": "@stdlib/random-base-beta",
+        "description": "Beta distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/stats-base-meanpn",
+        "description": "Calculate the arithmetic mean of a strided array using a two-pass error correction algorithm."
+    },
+    {
+        "name": "@stdlib/random-sample",
+        "description": "Sample elements from an array-like object."
+    },
+    {
+        "name": "@m2d/math",
+        "description": "Plugin to convert mathematical expressions in Markdown (MDAST) to DOCX using LaTeX-style syntax. Integrates seamlessly with mdast2docx."
+    },
+    {
+        "name": "is-number-even-or-odd",
+        "description": "Check if a number is even or odd"
+    },
+    {
+        "name": "@stdlib/random-base-minstd",
+        "description": "A linear congruential pseudorandom number generator (LCG) based on Park and Miller."
+    },
+    {
+        "name": "@stdlib/random-base-minstd-shuffle",
+        "description": "A linear congruential pseudorandom number generator (LCG) whose output is shuffled."
+    },
+    {
+        "name": "arraytools",
+        "description": "Collection of array processing tools"
+    },
+    {
+        "name": "@stdlib/math-base-assert-is-negative-integer",
+        "description": "Test if a finite double-precision floating-point number is a negative integer."
+    },
+    {
+        "name": "strange",
+        "description": "Range aka interval object. Supports exclusive and infinite ranges. Comes with an interval tree (augmented binary search tree)."
+    },
+    {
+        "name": "@stdlib/random-base-uniform",
+        "description": "Uniformly distributed pseudorandom numbers."
+    },
+    {
+        "name": "@wordpress/latex-to-mathml",
+        "description": "Convert LaTeX math syntax to MathML."
+    },
+    {
+        "name": "@stdlib/math-base-assert-is-positive-integer",
+        "description": "Test if a finite double-precision floating-point number is a positive integer."
+    },
+    {
+        "name": "@thi.ng/binary",
+        "description": "100+ assorted binary / bitwise operations, conversions, utilities, lookup tables"
+    },
+    {
+        "name": "@stdlib/random-base-normal",
+        "description": "Normally distributed pseudorandom numbers."
+    },
+    {
+        "name": "@wiris/mathtype-ckeditor5",
+        "description": "MathType Web for CKEditor5 editor"
+    },
+    {
+        "name": "@stdlib/random-base-discrete-uniform",
+        "description": "Discrete uniform distributed pseudorandom numbers."
+    },
+    {
+        "name": "@phensley/cldr",
+        "description": "Internationalization in Typescript with Unicode CLDR, batteries included"
+    },
+    {
+        "name": "@js-draw/math",
+        "description": "A math library for js-draw. "
+    },
+    {
+        "name": "@stdlib/math-base-utils-absolute-difference",
+        "description": "Compute the absolute difference of two real numbers."
+    },
+    {
+        "name": "@stdlib/stats-ttest2",
+        "description": "Two-sample Student's t-Test."
+    },
+    {
+        "name": "@stdlib/random-base-gamma",
+        "description": "Gamma distributed pseudorandom numbers."
+    },
+    {
+        "name": "@osmonauts/utils",
+        "description": "Utils for Osmosis"
+    },
+    {
+        "name": "@stdlib/random-base-chisquare",
+        "description": "Chi-square distributed pseudorandom numbers."
+    },
+    {
+        "name": "mafs",
+        "description": "React components for interactive, animated math visualizations."
+    },
+    {
+        "name": "@stdlib/random-base-negative-binomial",
+        "description": "Negative binomial distributed pseudorandom numbers."
+    },
+    {
+        "name": "compute-deg2rad",
+        "description": "Converts degrees to radians."
+    },
+    {
+        "name": "nerdamer",
+        "description": "javascript light-weight symbolic math expression evaluator"
+    },
+    {
+        "name": "compute-rad2deg",
+        "description": "Converts radians to degrees."
+    },
+    {
+        "name": "@stdlib/random-base-chi",
+        "description": "Chi distributed pseudorandom numbers."
+    },
+    {
+        "name": "@mathigon/fermat",
+        "description": "Powerful mathematics and statistics library for JavaScript."
+    },
+    {
+        "name": "@stdlib/random-base-lognormal",
+        "description": "Log-normally distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-pareto-type1",
+        "description": "Pareto (Type I) distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/math-base-assert-is-probability",
+        "description": "Test if a double-precision floating-point number is a probability."
+    },
+    {
+        "name": "@stdlib/random-base-triangular",
+        "description": "Triangular distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-f",
+        "description": "F distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-levy",
+        "description": "Lévy distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-frechet",
+        "description": "Fréchet distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-cauchy",
+        "description": "Cauchy distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-randi",
+        "description": "Pseudorandom numbers having integer values."
+    },
+    {
+        "name": "fractional",
+        "description": "fraction arithmetic"
+    },
+    {
+        "name": "@stdlib/random-base-geometric",
+        "description": "Geometric distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-logistic",
+        "description": "Logistic distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-poisson",
+        "description": "Poisson distributed random numbers."
+    },
+    {
+        "name": "@stdlib/random-base-gumbel",
+        "description": "Gumbel distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-erlang",
+        "description": "Erlang distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-cosine",
+        "description": "Raised cosine distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-bernoulli",
+        "description": "Bernoulli distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-invgamma",
+        "description": "Inverse gamma distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-betaprime",
+        "description": "Beta prime distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-weibull",
+        "description": "Weibull distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-randn",
+        "description": "Standard normal pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-hypergeometric",
+        "description": "Hypergeometric distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-box-muller",
+        "description": "Normally distributed pseudorandom numbers using the Box-Muller transform."
+    },
+    {
+        "name": "@stdlib/random-base-arcsine",
+        "description": "Arcsine distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-kumaraswamy",
+        "description": "Kumaraswamy's double bounded distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-t",
+        "description": "Student's t-distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-laplace",
+        "description": "Laplace (double exponential) distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base-binomial",
+        "description": "Binomial distributed pseudorandom numbers."
+    },
+    {
+        "name": "@stdlib/random-base",
+        "description": "Base pseudorandom number generators."
+    },
+    {
+        "name": "simplify-ts",
+        "description": "Simplification of a 2D-polyline or a 3D-polyline."
+    },
+    {
+        "name": "@stdlib/math-base-special-binomcoefln",
+        "description": "Compute the natural logarithm of the binomial coefficient."
+    },
+    {
+        "name": "@stdlib/random-base-rayleigh",
+        "description": "Rayleigh distributed pseudorandom numbers."
+    },
+    {
+        "name": "string-math",
+        "description": "Evaluates the result of the String arithmetical expression"
+    },
+    {
+        "name": "mathpix-markdown-it",
+        "description": "Mathpix-markdown-it is an open source implementation of the mathpix-markdown spec written in Typescript. It relies on the following open source libraries: MathJax v3 (to render math with SVGs), markdown-it (for standard Markdown parsing)"
+    },
+    {
+        "name": "vecti",
+        "description": "A tiny TypeScript library for 2D vector math."
+    },
+    {
+        "name": "@vuepress/plugin-markdown-math",
+        "description": "VuePress plugin - markdown math"
+    },
+    {
+        "name": "satoshi-bitcoin",
+        "description": "Convert Satoshi <-> Bitcoin"
+    },
+    {
+        "name": "@ctx-core/math",
+        "description": "ctx-core math"
+    },
+    {
+        "name": "math-codegen",
+        "description": "Generates code from mathematical expressions"
+    },
+    {
+        "name": "segflip",
+        "description": "Flip the Inside and Outside of Segments on a Single-Dimensional Integer Line"
+    },
+    {
+        "name": "@thi.ng/vectors",
+        "description": "Optimized 2d/3d/4d and arbitrary length vector operations, support for memory mapping/layouts"
+    },
+    {
+        "name": "algebrite",
+        "description": "Computer Algebra System in Coffeescript"
+    },
+    {
+        "name": "quick-scale",
+        "description": "Create a Fast Linear Scaling Function. CPU Optimized. Reversible. Rounding."
+    },
+    {
+        "name": "extract-math",
+        "description": "Extract TeX math environments"
+    },
+    {
+        "name": "compute-quantile",
+        "description": "Computes a quantile for a numeric array."
+    },
+    {
+        "name": "ecma-proposal-math-extensions",
+        "description": "Tests and a polyfill for the ES2017 Math Extensions Proposal"
+    },
+    {
+        "name": "@mapbox/geosimplify-js",
+        "description": "A WGS84 geography feature simplifier, based on simplify-js"
+    },
+    {
+        "name": "geomask",
+        "description": "Low-Level GeoSpatial Masking Functions"
+    },
+    {
+        "name": "typographic-math-symbols",
+        "description": "Use real symbols, not alphabetic characters"
+    },
+    {
+        "name": "glsl-constants",
+        "description": "Common GLSL math constants (with 11 decimals) available both as ES modules strings and as GLSL files for use with glslify."
+    },
+    {
+        "name": "2d-polygon-boolean",
+        "description": "perform boolean operations on arbitrary polygons in 2d"
+    },
+    {
+        "name": "interval-arithmetic",
+        "description": "An implementation of an algebraically closed interval system of the extended real number set"
+    },
+    {
+        "name": "deverything",
+        "description": "Everything you need for Dev"
+    },
+    {
+        "name": "2d-polygon-self-intersections",
+        "description": "This library may not be fast, but it is robust. Robust in the fact that it will find all of the self-intersections in a polygon - minus of course shared endpoints."
+    },
+    {
+        "name": "@mathjax/src",
+        "description": "Beautiful and accessible math in all browsers. MathJax is an open-source JavaScript display engine for LaTeX, MathML, and AsciiMath notation that works in all browsers and in server-side node applications. This package includes the source code as well as "
+    },
+    {
+        "name": "wgpu-matrix",
+        "description": "fast matrix math library for WebGPU"
+    },
+    {
+        "name": "bankers-rounding",
+        "description": "Banker's rounding for Javascript"
+    },
+    {
+        "name": "kalmanjs",
+        "description": "A small library implementing the principle of Kalman filters, without any dependencies, to filter out noise in 1D systems."
+    },
+    {
+        "name": "react-mathjax2",
+        "description": "React component for MathJax"
+    },
+    {
+        "name": "@stdlib/stats-binomial-test",
+        "description": "Exact test for the success probability in a Bernoulli experiment."
+    },
+    {
+        "name": "@yozora/tokenizer-math",
+        "description": "Tokenizer for processing fenced math block (formulas)"
+    },
+    {
+        "name": "react-native-math-view",
+        "description": "Math view for react-native"
+    },
+    {
+        "name": "suncalc3",
+        "description": "A tiny JavaScript library for calculating sun/moon positions and phases."
+    },
+    {
+        "name": "big-rational",
+        "description": "An arbitrary length rational number library for Javascript"
+    },
+    {
+        "name": "postcss-math",
+        "description": "PostCSS plugin for making calculations with math.js"
+    },
+    {
+        "name": "average",
+        "description": "Mathematical average. Sum of all values divided by the number of values provided."
+    },
+    {
+        "name": "normal-distribution",
+        "description": "A small javascript module for working with normal distributions"
+    },
+    {
+        "name": "type-samurai",
+        "description": "Advanced utility types for Typescript"
+    },
+    {
+        "name": "mathkeyboardengine",
+        "description": "MathKeyboardEngine provides the logic - in JavaScript and LaTeX - for a highly customizable virtual math keyboard."
+    },
+    {
+        "name": "interval-arithmetic-eval",
+        "description": "Interprets/evaluates mathematical expressions using interval arithmetic"
+    },
+    {
+        "name": "@pie-lib/math-toolbar",
+        "description": "Math toolbar for editing math equations"
+    },
+    {
+        "name": "trading-signals",
+        "description": "Technical indicators to run technical analysis with JavaScript / TypeScript."
+    },
+    {
+        "name": "eslint-plugin-math",
+        "description": "ESLint plugin related to Math object and Number."
+    },
+    {
+        "name": "@sass-fairy/math",
+        "description": "Provides extended functionality for working with numbers in Sass"
+    },
+    {
+        "name": "get-plane-normal",
+        "description": "gets a plane's normal from 3 points"
+    },
+    {
+        "name": "compute-indexspace",
+        "description": "Generates a linearly spaced index array from a subsequence string."
+    },
+    {
+        "name": "const-ninf-float64",
+        "description": "Negative infinity."
+    },
+    {
+        "name": "jse-eval",
+        "description": "JavaScript expression parsing and evaluation."
+    },
+    {
+        "name": "dstructs-matrix",
+        "description": "Matrices."
+    },
+    {
+        "name": "handlebars-helpers-v2",
+        "description": "Essential Handlebars helpers in TypeScript. A modernized collection of 8 core helper categories with TypeScript support and ESM compatibility."
+    },
+    {
+        "name": "trigonometry-calculator",
+        "description": "Completely solve trigonometry equations for angles and sides"
+    },
+    {
+        "name": "desmos",
+        "description": "Desmos is the dead-simple way to embed rich, interactive math into your web page or web app."
+    },
+    {
+        "name": "bitwise-buffer",
+        "description": "A simple module for bitwise operations on buffers."
+    },
+    {
+        "name": "@equinor/videx-math",
+        "description": "A library with math used by Videx."
+    },
+    {
+        "name": "cli-graph",
+        "description": "Easily draw function graphs in text mode."
+    },
+    {
+        "name": "@stdlib/complex-float64-imag",
+        "description": "Return the imaginary component of a double-precision complex floating-point number."
+    },
+    {
+        "name": "is-natural-number-string",
+        "description": "Check if a given value is a string that represents natural number"
+    },
+    {
+        "name": "compute-median",
+        "description": "Computes the median of an array."
+    },
+    {
+        "name": "math3d",
+        "description": "A nodejs library for 3D transformations similar to Unity3D containing necessary classes and functions for matrices, vectors, quaternions and transforms."
+    },
+    {
+        "name": "@wiris/mathtype-generic",
+        "description": "MathType Web for a generic HTML editor"
+    },
+    {
+        "name": "summations",
+        "description": "Library to enumerate all natural number lists with a target sum."
+    },
+    {
+        "name": "bigdecimal.js",
+        "description": "A BigDecimal implementation with native BigInts"
+    },
+    {
+        "name": "durand-kerner",
+        "description": "Finds multiple roots of polynomials using Weierstrass' method"
+    },
+    {
+        "name": "mr-parser",
+        "description": "parses mathematical expressions and outputs an AST that represents the expression"
+    },
+    {
+        "name": "bigmoney.js",
+        "description": "Library for handling the money values. Based on big.js library for arbitrary-precision decimal arithmetic. Support multiple currencies."
+    },
+    {
+        "name": "three.quarks",
+        "description": "A General-Purpose Particle System for three.js"
+    },
+    {
+        "name": "commons-math-interpolation",
+        "description": "A partial port of the Apache Commons Math Interpolation package, including Akima cubic spline interpolation and LOESS/LOWESS local regression."
+    },
+    {
+        "name": "exactnumber",
+        "description": "Arbitrary-precision decimals. Enables making math calculations with rational numbers, without precision loss."
+    },
+    {
+        "name": "deromanize",
+        "description": "Convert roman numerals to arabic numbers (useful for books, outlines, documentation, slide decks, etc)"
+    },
+    {
+        "name": "mad-utils",
+        "description": "A set of misc utilties I find myself repeatedly re-writing between projects."
+    },
+    {
+        "name": "trigonometry-equations",
+        "description": "Trigonometry rules to solve equations for angles and sides"
+    },
+    {
+        "name": "@jaredwray/fumanchu",
+        "description": "Handlebars + Helpers = Fumanchu"
+    },
+    {
+        "name": "vend-number",
+        "description": "A collection of utility methods for floating point Number operations"
+    },
+    {
+        "name": "meeko",
+        "description": "meeko自用函数"
+    },
+    {
+        "name": "@stdlib/complex-float64-real",
+        "description": "Return the real component of a double-precision complex floating-point number."
+    },
+    {
+        "name": "draft-js-mathjax-plugin",
+        "description": "Math editing support for DraftJS Plugins Editor"
+    },
+    {
+        "name": "@stdlib/stats-base-dmin",
+        "description": "Calculate the minimum value of a double-precision floating-point strided array."
+    },
+    {
+        "name": "@cocalc/frontend",
+        "description": "CoCalc: Collaborative Calculation"
+    },
+    {
+        "name": "@stdlib/stats-base-stdevpn",
+        "description": "Calculate the standard deviation of a strided array using a two-pass algorithm."
+    },
+    {
+        "name": "vector2d",
+        "description": "2D Vector library offering Float32Array, Array or standard Object based vectors."
+    },
+    {
+        "name": "@stdlib/blas-base-dscal",
+        "description": "Multiply a double-precision floating-point vector by a constant."
+    },
+    {
+        "name": "quarks.core",
+        "description": "Core library for Quarks VFX / Particle System Library"
+    },
+    {
+        "name": "math-abs",
+        "description": "Computes an absolute value."
+    },
+    {
+        "name": "myscript-angular",
+        "description": "AngularJs integrations for MyScript by VisionObjects"
+    },
+    {
+        "name": "cos-similarity",
+        "description": "Computes the cosine similarity between two vectors"
+    },
+    {
+        "name": "@stdlib/stats-chi2test",
+        "description": "Perform a chi-square independence test."
+    },
+    {
+        "name": "@wiris/mathtype-tinymce6",
+        "description": "MathType Web for TinyMCE6 editor"
+    },
+    {
+        "name": "ffwasm",
+        "description": "Finite Field Library In Web Assembly"
+    },
+    {
+        "name": "@stdlib/blas-ext-base-dsumpw",
+        "description": "Calculate the sum of double-precision floating-point strided array elements using pairwise summation."
+    },
+    {
+        "name": "@stdlib/blas-ext-base-dapx",
+        "description": "Add a constant to each element in a double-precision floating-point strided array."
+    },
+    {
+        "name": "@stdlib/stats-base-stdev",
+        "description": "Calculate the standard deviation of a strided array."
+    },
+    {
+        "name": "nowjs-core",
+        "description": "NowCanDo Javascript Core [nowjs-core] is a  library written by TypeScript code maintains under Apache 2.0 licence"
+    },
+    {
+        "name": "euclidean-distance",
+        "description": "Calculate the Euclidean distance been two points in 2D/3D/nD space."
+    },
+    {
+        "name": "wmathvector",
+        "description": "Collection of functions for vector math. `MathVector` introduces missing in JavaScript type `VectorAdapter`. Vector adapter is an implementation of the abstract interface, a kind of link that defines how to interpret data as the vector. The adapter could "
+    },
+    {
+        "name": "@quenty/math",
+        "description": "Utility math functions from Nevermore for Roblox"
+    },
+    {
+        "name": "math-exp",
+        "description": "Natural exponential function."
+    },
+    {
+        "name": "@stdlib/math-base-special-atan2",
+        "description": "Compute the angle in the plane (in radians) between the positive x-axis and the ray from (0,0) to the point (x,y)."
+    },
+    {
+        "name": "decimal-eval",
+        "description": "A tiny, safe, fast JavaScript library for decimal arithmetic expressions."
+    },
+    {
+        "name": "@stdlib/stats-base-max",
+        "description": "Calculate the maximum value of a strided array."
+    },
+    {
+        "name": "asciimath2tex",
+        "description": "Library to convert AsciiMath to TeX"
+    },
+    {
+        "name": "stats-accumulator",
+        "description": "A simple tool for calculating incremental stats on numeric streams. Forked from https://github.com/brycebaril/stats-incremental"
+    },
+    {
+        "name": "wmathscalar",
+        "description": "Collection of functions for non-vector math"
+    },
+    {
+        "name": "math-trunc",
+        "description": "ES6 Math.trunc() ponyfill"
+    },
+    {
+        "name": "giac",
+        "description": "Giac, a free computer algebra system"
+    },
+    {
+        "name": "mathsteps",
+        "description": "Step by step math solutions"
+    },
+    {
+        "name": "algebra.js",
+        "description": "Build, display, and solve algebraic equations."
+    },
+    {
+        "name": "@stdlib/math-base-special-atan",
+        "description": "Compute the arctangent of a double-precision floating-point number."
+    },
+    {
+        "name": "prototyped.js",
+        "description": "Common typescript ready prototypes available in both CommonJS and ECMAScript"
+    },
+    {
+        "name": "@cocalc/static",
+        "description": "CoCalc's static frontend Webpack-based build system and framework"
+    },
+    {
+        "name": "vectors",
+        "description": "A grab bag of vector utility functions for 2D and 3D vectors that operate on plain arrays"
+    },
+    {
+        "name": "@stdlib/stats-ranks",
+        "description": "Compute ranks for values of an array-like object."
+    },
+    {
+        "name": "@leverj/sinful-math",
+        "description": "Simple, safe floating point math.  Based on the Math portion of the sinful.js project at https://github.com/guipn/sinful.js"
+    },
+    {
+        "name": "compute-qmean",
+        "description": "Computes the quadratic mean (root mean square)."
+    },
+    {
+        "name": "compute-incrmmean",
+        "description": "Provides a method to compute a moving arithmetic mean incrementally."
+    },
+    {
+        "name": "@stdlib/math-base-assert-is-finite",
+        "description": "Test if a double-precision floating-point numeric value is finite."
+    },
+    {
+        "name": "sinful-math",
+        "description": "Simple, safe floating point math.  Based on the Math portion of the sinful.js project at https://github.com/guipn/sinful.js"
+    },
+    {
+        "name": "@putout/plugin-convert-sqrt-to-hypot",
+        "description": "🐊Putout plugin adds ability to convert 'Math.sqrt()' to 'Math.hypot()'"
+    },
+    {
+        "name": "math-clamp",
+        "description": "Clamp a number"
+    },
+    {
+        "name": "math-sqrt",
+        "description": "Computes the principal square root."
+    },
+    {
+        "name": "sass-math",
+        "description": "Sass math functions."
+    },
+    {
+        "name": "nudged",
+        "description": "Affine transformation estimator e.g. for multi-touch gestures and calibration"
+    },
+    {
+        "name": "@dcl/ecs-math",
+        "description": "Decentraland Ecs Math"
+    },
+    {
+        "name": "geostats",
+        "description": "A tiny and standalone javascript library for classification and basic statistics"
+    },
+    {
+        "name": "@stdlib/ml",
+        "description": "Machine learning algorithms."
+    },
+    {
+        "name": "calculate-correlation",
+        "description": "Calculates the correlation coefficient of two arrays. Simple, with no dependencies"
+    },
+    {
+        "name": "@stdlib/stats-kstest",
+        "description": "One-sample Kolmogorov-Smirnov goodness-of-fit test."
+    },
+    {
+        "name": "animipraesentium",
+        "description": "Safely evaluate JavaScript (estree) expressions, sync and async."
+    },
+    {
+        "name": "mathxyjax3",
+        "description": "MathJax3 with XyJaX-v3 for server side rendering"
+    },
+    {
+        "name": "nesity-statistics",
+        "description": "This package provides a set of functions for statistical analysis."
+    },
+    {
+        "name": "const-smallest-float64",
+        "description": "Smallest positive double-precision floating-point number."
+    },
+    {
+        "name": "react-geogebra",
+        "description": "A react component to add the GeoGebra Math App to your react project."
+    },
+    {
+        "name": "abdk-libraries-solidity",
+        "description": "Open-Source Libraries for Solidity by ABDK Consulting"
+    },
+    {
+        "name": "math-float64-from-words",
+        "description": "Creates a double-precision floating-point number from a higher order word and a lower order word."
+    },
+    {
+        "name": "@stdlib/stats-incr-stdev",
+        "description": "Compute a corrected sample standard deviation incrementally."
+    },
+    {
+        "name": "hexo-filter-mathjax",
+        "description": "Server side MathJax renderer plugin for Hexo."
+    },
+    {
+        "name": "stemcmicro",
+        "description": "Computer Algebra System in TypeScript"
+    },
+    {
+        "name": "math-float64-copysign",
+        "description": "Returns a double-precision floating-point number with the magnitude of x and the sign of y."
+    },
+    {
+        "name": "kalman-filter",
+        "description": "Kalman filter (and Extended Kalman Filter) Multi-dimensional implementation in Javascript"
+    },
+    {
+        "name": "@stdlib/stats-anova1",
+        "description": "Perform a one-way analysis of variance."
+    },
+    {
+        "name": "math-evalpoly",
+        "description": "Evaluates a polynomial."
+    },
+    {
+        "name": "math-float64-normalize",
+        "description": "Returns a normal number `y` and exponent `exp` satisfying `x = y * 2^exp`."
+    },
+    {
+        "name": "convexhull-js",
+        "description": "A high-performance JavaScript 2D convex hull library"
+    },
+    {
+        "name": "math-float64-to-words",
+        "description": "Splits a floating-point number into a higher order word and a lower order word."
+    },
+    {
+        "name": "markdown-it-dollarmath",
+        "description": "A markdown-it plugin for $-delimited math."
+    },
+    {
+        "name": "@stdlib/lapack",
+        "description": "LAPACK routines."
+    },
+    {
+        "name": "@stdlib/stats-wilcoxon",
+        "description": "Wilcoxon signed rank test."
+    },
+    {
+        "name": "random-float",
+        "description": "Generate a random float"
+    },
+    {
+        "name": "sass-math-pow",
+        "description": "Math pow() polyfill/feature detection with non-integer exponents support for (without compass) ruby sass, sass and sass+eyeglass"
+    },
+    {
+        "name": "basic-math-utils",
+        "description": "Basic math utilities for doing some basic math operations"
+    },
+    {
+        "name": "@putout/plugin-convert-imul-to-multiplication",
+        "description": "🐊Putout plugin adds ability to convert 'Math.imul()' to operator '*'"
+    },
+    {
+        "name": "@stdlib/stats-ttest",
+        "description": "One-sample and paired Student's t-Test."
+    },
+    {
+        "name": "mathjslab",
+        "description": "MathJSLab - An interpreter with language syntax like MATLAB®/Octave, ISBN 978-65-00-82338-7."
+    },
+    {
+        "name": "math-float64-ldexp",
+        "description": "Multiplies a double-precision floating-point number by an integer power of two."
+    },
+    {
+        "name": "hexo-math",
+        "description": "Add KaTeX and MathJax support to Hexo"
+    },
+    {
+        "name": "@stdlib/stats-kruskal-test",
+        "description": "Compute the Kruskal-Wallis test for equal medians."
+    },
+    {
+        "name": "helpers-for-handlebars",
+        "description": "More than 130 Handlebars helpers in ~20 categories. Helpers can be used with Assemble, Generate, Verb, Ghost, gulp-handlebars, grunt-handlebars, consolidate, or any node.js/Handlebars project."
+    },
+    {
+        "name": "numenor",
+        "description": "Customizable, safe evaluator of JavaScript-like expressions."
+    },
+    {
+        "name": "@stdlib/random-array-tools-nullary",
+        "description": "Constructor for creating arrays filled with pseudorandom values drawn from a nullary PRNG."
+    },
+    {
+        "name": "linear-interpolator",
+        "description": "Linear interpolation and extrapolation"
+    },
+    {
+        "name": "x-math",
+        "description": "Math library inspired by Google Closure library"
+    },
+    {
+        "name": "wmathspace",
+        "description": "Collection of functions for matrix math. MathSpace introduces class Space which is a multidimensional structure which in the most trivial case is Matrix of scalars. A matrix of specific form could also be classified as a vector. MathSpace heavily relly on"
+    },
+    {
+        "name": "@d3plus/math",
+        "description": "Mathematical functions to aid in calculating visualizations."
+    },
+    {
+        "name": "math-float64-set-low-word",
+        "description": "Sets the less significant 32 bits of a double-precision floating-point number."
+    },
+    {
+        "name": "postcss-automath",
+        "description": "Automatically evaluate mathematical expressions in your CSS source files, like in SASS or LESS. No special function calls needed as with `postcss-mathjs`."
+    },
+    {
+        "name": "chai-decimaljs",
+        "description": "Chai assertions for comparing arbitrary-precision decimals using the decimal.js library"
+    },
+    {
+        "name": "@stdlib/random-array-tools-binary",
+        "description": "Constructor for creating arrays filled with pseudorandom values drawn from a binary PRNG."
+    },
+    {
+        "name": "math.js",
+        "description": "A simple math library written in Javascript."
+    },
+    {
+        "name": "@thi.ng/matrices",
+        "description": "Matrix & quaternion operations for 2D/3D geometry processing"
+    },
+    {
+        "name": "lambert-w-function",
+        "description": "An efficient JavaScript implementation for the Lambert W Function on the principial branch."
+    },
+    {
+        "name": "@stdlib/random-array-tools-binary-factory",
+        "description": "Create a factory function for generating pseudorandom values drawn from a binary PRNG."
+    },
+    {
+        "name": "@teachinglab/omd",
+        "description": "omd"
+    },
+    {
+        "name": "@mathigon/hilbert",
+        "description": "JavaScript expression parsing, MathML rendering and CAS."
+    },
+    {
+        "name": "@thalesrc/js-utils",
+        "description": "Javascript utility functions for web development"
+    },
+    {
+        "name": "@stdlib/math-base-special-abs2",
+        "description": "Compute the squared absolute value of a double-precision floating-point number."
+    },
+    {
+        "name": "reliable-round",
+        "description": "A rounding library for JavaScript that behaves predictably (unlike Math.round, Math.floor, Math.ceil)."
+    },
+    {
+        "name": "@xcmats/js-toolbox",
+        "description": "Useful JS utilities."
+    },
+    {
+        "name": "@oat-sa/expr-eval",
+        "description": "Mathematical expression evaluator"
+    },
+    {
+        "name": "php-round",
+        "description": "A javascript-based library containing functions that match built in `round` function in PHP"
+    },
+    {
+        "name": "linear-algebra",
+        "description": "Efficient, high-performance linear algebra library"
+    },
+    {
+        "name": "compute-argmax",
+        "description": "Computes the maximum value of a numeric array and returns the corresponding array indices."
+    },
+    {
+        "name": "jsxmath",
+        "description": "Computer Algebra System in TypeScript"
+    },
+    {
+        "name": "mathup",
+        "description": "Easy MathML authoring tool with a quick to write syntax"
+    },
+    {
+        "name": "@shgysk8zer0/kazoo",
+        "description": "A JavaScript monorepo for all the things!"
+    },
+    {
+        "name": "stats-incremental",
+        "description": "A simple tool for calculating incremental stats on numeric streams."
+    },
+    {
+        "name": "stats-logscale",
+        "description": "Approximate statistical analysis using logarithmic bins"
+    },
+    {
+        "name": "@immugio/three-math-extensions",
+        "description": "Set of utilities for 2d and 3d line math built on top of three.js"
+    },
+    {
+        "name": "fade-curves",
+        "description": "Utility lib to create common fade curves - linear, exponential, logarithmic, and sCurve"
+    },
+    {
+        "name": "vecn",
+        "description": "A module for creating n-dimensional vector types that support swizzling."
+    },
+    {
+        "name": "ts-metacode",
+        "description": "typescript的元编程工具包"
+    },
+    {
+        "name": "@wiris/mathtype-tinymce5",
+        "description": "MathType Web for TinyMCE5 editor"
+    },
+    {
+        "name": "@alwatr/is-number",
+        "description": "A simple utility to Check the value is number or can convert to a number, for example string ' 123 ' can be converted to 123."
+    },
+    {
+        "name": "@pie-lib/math-evaluator",
+        "description": "Math evaluator tool for comparing expressions for equality"
+    },
+    {
+        "name": "@pie-framework/expression-parser",
+        "description": "A simple math parser/calculator"
+    },
+    {
+        "name": "compute-erf",
+        "description": "Error function."
+    },
+    {
+        "name": "@thi.ng/intervals",
+        "description": "Closed/open/semi-open interval data type, queries & operations"
+    },
+    {
+        "name": "graphdracula",
+        "description": "JavaScript Graph Layouting and Drawing"
+    },
+    {
+        "name": "wmathmatrix",
+        "description": "Abstract implementation of matrix math. MathMatrix introduces class Matrix, which is a multidimensional structure which, in the most trivial case, is a 2D matrix. A matrix of specific form could also be classified as a vector. MathMatrix heavily relly on "
+    },
+    {
+        "name": "@thi.ng/shader-ast-stdlib",
+        "description": "Function collection for modular GPGPU / shader programming with @thi.ng/shader-ast"
+    },
+    {
+        "name": "gauss",
+        "description": "JavaScript statistics, analytics, and set library"
+    },
+    {
+        "name": "rumus-bdr",
+        "description": "Sebuah npm untuk mempermudah anda dalam mempelajari sebuah rumus bangun ruang,rumus bangun datar,dan rumus mtk lainnya"
+    },
+    {
+        "name": "formulize",
+        "description": "formula UI generator"
+    },
+    {
+        "name": "line-intersection",
+        "description": "App that shows the intersection between 2 lines or line segments"
+    },
+    {
+        "name": "const-pi",
+        "description": "Pi."
+    },
+    {
+        "name": "proposal-decimal",
+        "description": "Champion-maintained polyfill for the TC39 decimal proposal"
+    },
+    {
+        "name": "@stdlib/math-base-special-atanh",
+        "description": "Compute the hyperbolic arctangent of a double-precision floating-point number."
+    },
+    {
+        "name": "useless",
+        "description": "Use Less. Do More. JavaScript on steroids."
+    },
+    {
+        "name": "@stdlib/array-linspace",
+        "description": "Generate a linearly spaced array over a specified interval."
+    },
+    {
+        "name": "@stdlib/math-base-special-erfcx",
+        "description": "Scaled complementary error function."
+    },
+    {
+        "name": "math-erf",
+        "description": "Error function."
+    },
+    {
+        "name": "wmathconcepts",
+        "description": "Collection of functions to operate such geometrical concepts as Sphere, Box, Plane, Frustum, Ray, Axis and Angle, Euler's Angles, Quaternion and other. Why MathConcepts? Three reasons. All functions of the module are purely functional. MathConcepts heavil"
+    },
+    {
+        "name": "@math.gl/geoid",
+        "description": "Geoid class for working with irregular Earth surface defined by an earth gravity model file."
+    },
+    {
+        "name": "compute-polynomial",
+        "description": "Evaluates a polynomial."
+    },
+    {
+        "name": "unitmath",
+        "description": "JavaScript library for unit conversion and arithmetic"
+    },
+    {
+        "name": "chromath",
+        "description": "JavaScript color conversion and manipulation functions"
+    },
+    {
+        "name": "@davidwells/postcss-math",
+        "description": "PostCSS plugin for making calculations with math.js"
+    },
+    {
+        "name": "@galacticcouncil/math-stableswap",
+        "description": "Stableswap pool math"
+    },
+    {
+        "name": "@kimseungwon/style",
+        "description": "A package for styling components in a project."
+    },
+    {
+        "name": "math-power",
+        "description": "Exponential function."
+    },
+    {
+        "name": "@stdlib/constants-float64-ln-two-pi",
+        "description": "Natural logarithm of 2π."
+    },
+    {
+        "name": "@stdlib/math-base-special-tanh",
+        "description": "Compute the hyperbolic tangent of a double-precision floating-point number."
+    },
+    {
+        "name": "compute-covariance",
+        "description": "Computes the covariance between one or more numeric arrays."
+    },
+    {
+        "name": "@renbaoshuo/markdown-it-katex",
+        "description": "Fast math support for markdown-it with KaTeX"
+    },
+    {
+        "name": "threejs-math",
+        "description": "Stand-alone version of three.js math with TypeScript support"
+    },
+    {
+        "name": "@galacticcouncil/math-xyk",
+        "description": "XYK pool math"
+    },
+    {
+        "name": "math-helper-functions",
+        "description": "Helper with misc. math functions such as sums, averages, max, min, etc"
+    },
+    {
+        "name": "@galacticcouncil/math-liquidity-mining",
+        "description": "Liquidity mining math"
+    },
+    {
+        "name": "@stdlib/stats-pcorrtest",
+        "description": "Compute a Pearson product-moment correlation test between paired samples."
+    },
+    {
+        "name": "@galacticcouncil/math-lbp",
+        "description": "LBP pool math"
+    },
+    {
+        "name": "numbers",
+        "description": "Advanced Mathematics Library for JavaScript"
+    },
+    {
+        "name": "@wiris/mathtype-froala",
+        "description": "MathType Web for Froala Editor"
+    },
+    {
+        "name": "@galacticcouncil/math-omnipool",
+        "description": "Omnipool math"
+    },
+    {
+        "name": "texsvg",
+        "description": "Converts TeX to SVG."
+    },
+    {
+        "name": "mz-math",
+        "description": "mzMath - a collection of TypeScript-based math helpers."
+    },
+    {
+        "name": "3x3-equation-solver",
+        "description": "Solves systems of 3 equations with three unknowns."
+    },
+    {
+        "name": "@neilsustc/markdown-it-katex",
+        "description": "Fast math support for markdown-it with KaTeX"
+    },
+    {
+        "name": "hexo-renderer-mathjax",
+        "description": "MathJax renderer plugin for Hexo"
+    },
+    {
+        "name": "@stdlib/constants-float64-ln-half",
+        "description": "Natural logarithm of 1/2."
+    },
+    {
+        "name": "mathjax-electron",
+        "description": "A trimmed down version of the MathJax library for use with Electron and modern browsers"
+    },
+    {
+        "name": "@stdlib/random-array-uniform",
+        "description": "Create an array containing pseudorandom numbers drawn from a continuous uniform distribution."
+    },
+    {
+        "name": "math-float64-frexp",
+        "description": "Splits a double-precision floating-point number into a normalized fraction and an integer power of two."
+    },
+    {
+        "name": "@stdlib/stats-base-cumax",
+        "description": "Calculate the cumulative maximum of a strided array."
+    },
+    {
+        "name": "@turbowarp/ancient-hull.js",
+        "description": "Very old version of hull.js with backported security fixes -- do not use in new projects"
+    },
+    {
+        "name": "bankers-round",
+        "description": "Bankers round function to reduce the accumulated error written in TS."
+    },
+    {
+        "name": "@stdlib/stats-base-cumin",
+        "description": "Calculate the cumulative minimum of a strided array."
+    },
+    {
+        "name": "compute-cosine-distance",
+        "description": "Calculate the cosine distance between arrays"
+    },
+    {
+        "name": "math-ceil",
+        "description": "Rounds a numeric value toward positive infinity."
+    },
+    {
+        "name": "generate-pi",
+        "description": "Find PI(π) to the Nth Digit"
+    },
+    {
+        "name": "crypto-random",
+        "description": "A cryptographically strong random number generator. Designed to be a drop-in replacement for Math.random. Can be used with Node or in a browser."
+    },
+    {
+        "name": "useful-handlebars-helpers",
+        "description": "More than 150 Handlebars helpers in 17 categories. Works in browsers and in Node.js."
+    },
+    {
+        "name": "swstats",
+        "description": "Sliding window statistics"
+    },
+    {
+        "name": "@aryth/bound-matrix",
+        "description": "A math util library"
+    },
+    {
+        "name": "@stdlib/stats-padjust",
+        "description": "Adjust supplied p-values for multiple comparisons via a specified method."
+    },
+    {
+        "name": "@aryth/rand",
+        "description": "A math util library"
+    },
+    {
+        "name": "mathlive-tera",
+        "description": "A web component for math input"
+    },
+    {
+        "name": "ku4es-kernel",
+        "description": "kodmunki Utilities for ECMAScript Kernel"
+    },
+    {
+        "name": "@osmonauts/math",
+        "description": "Math calculations for Osmosis"
+    },
+    {
+        "name": "react-mathlive",
+        "description": "An interactive math input for react."
+    },
+    {
+        "name": "@thi.ng/transducers-stats",
+        "description": "Transducers for statistical / technical analysis"
+    },
+    {
+        "name": "@aryth/util-bound",
+        "description": "A math util library"
+    },
+    {
+        "name": "@thi.ng/dsp",
+        "description": "Composable signal generators, oscillators, filters, FFT, spectrum, windowing & related DSP utils"
+    },
+    {
+        "name": "more-rounding",
+        "description": "A library that offers more number rounding options for JavaScript and TypeScript"
+    },
+    {
+        "name": "@aryth/math",
+        "description": "A math util library"
+    },
+    {
+        "name": "@excalidraw/math",
+        "description": "Excalidraw math functions"
+    },
+    {
+        "name": "@stdlib/random-array-discrete-uniform",
+        "description": "Create an array containing pseudorandom numbers drawn from a discrete uniform distribution."
+    },
+    {
+        "name": "@smst/edu-tools",
+        "description": "A comprehensive collection of educational tools and utilities as reusable React components with zero-config auto-discovery"
+    },
+    {
+        "name": "set-utilities",
+        "description": "High performance set theory - functional utilities which operate on arbitrary input sets."
+    },
+    {
+        "name": "package_name",
+        "description": "An example of creating a package"
+    },
+    {
+        "name": "distance-from",
+        "description": "Calculate distance between two coordinates"
+    },
+    {
+        "name": "minimize-golden-section-1d",
+        "description": "minimize-golden-section-1d"
+    },
+    {
+        "name": "spline",
+        "description": "general purpose spline implementations"
+    },
+    {
+        "name": "plotboilerplate",
+        "description": "A simple javascript plotting boilerplate for 2d stuff."
+    },
+    {
+        "name": "equation-editor-react",
+        "description": "Equation editor based on Mathquill for React web apps"
+    },
+    {
+        "name": "@stdlib/stats-base-dmeanpn",
+        "description": "Calculate the arithmetic mean of a double-precision floating-point strided array using a two-pass error correction algorithm."
+    },
+    {
+        "name": "jslib-utils",
+        "description": "A modular javascript utility library."
+    },
+    {
+        "name": "numpy-matrix-js",
+        "description": "A numpy-like Matrix/Array module for Node JS and Browser JS"
+    },
+    {
+        "name": "dataship-frame",
+        "description": "A Data Frame for Javascript. Crunch numbers in node and the browser."
+    },
+    {
+        "name": "@do-while-for-each/math",
+        "description": "Everything related to mathematics"
+    },
+    {
+        "name": "geobuckets",
+        "description": "Lightweight Javascript (TypeScript, really) library for classification. Dependency free, tested, and type safe."
+    },
+    {
+        "name": "@stemcmicro/tree",
+        "description": "Data structure for constructing math expressions"
+    },
+    {
+        "name": "wmathmodels",
+        "description": "Collection of functions to operate such geometrical concepts as Sphere, Box, Plane, Frustum, Ray, Axis and Angle, Euler's Angles, Quaternion and other. Why MathModels? Three reasons. All functions of the module are purely functional. MathModels heavily re"
+    },
+    {
+        "name": "vector",
+        "description": ""
+    },
+    {
+        "name": "pidraw",
+        "description": "A drawing library for teacher :)"
+    },
+    {
+        "name": "get-age",
+        "description": "Calculate the age in years for a birth date"
+    },
+    {
+        "name": "@stdlib/stats-base-dmaxsorted",
+        "description": "Calculate the maximum value of a sorted double-precision floating-point strided array."
+    },
+    {
+        "name": "newton-raphson",
+        "description": "JavaScript implementation of the Newton-Raphson method for approximating roots of a real-valued function"
+    },
+    {
+        "name": "@3r/tool",
+        "description": "🏃‍包含一些常用方法例如对象深克隆、递归调用、一一对比/数组交集、并集、差集/二维向量点乘、叉乘/股票KDJ、MACD、RSI、BOLL/验证为空、车牌号、邮箱、身份证、统一社会信用代码、手机号、版本对比/转换日期、星座、身份证解析、字节/随机颜色、手机号、身份证号码、统一社会信用代码...持续更新整合"
+    },
+    {
+        "name": "zet",
+        "description": "Like Set() but with union, intersect, difference and more built-in"
+    },
+    {
+        "name": "to-decimal",
+        "description": "Convert percent to decimal"
+    },
+    {
+        "name": "@vect/columns-update",
+        "description": "A math util library"
+    },
+    {
+        "name": "@parsify/math",
+        "description": "Parsify plugin for mathematical expressions & unit conversions"
+    },
+    {
+        "name": "@datawrapper/expr-eval",
+        "description": "Mathematical expression evaluator"
+    },
+    {
+        "name": "@stdlib/stats-base-dmax",
+        "description": "Calculate the maximum value of a double-precision floating-point strided array."
+    },
+    {
+        "name": "symbolic-math",
+        "description": "Computer Algebra System in TypeScript"
+    },
+    {
+        "name": "@stemcmicro/atoms",
+        "description": "Atoms for constructing math expressions"
+    },
+    {
+        "name": "compute-gmean",
+        "description": "Computes the geometric mean of an array."
+    },
+    {
+        "name": "function-curve-editor",
+        "description": "A function curve editor widget / web component"
+    },
+    {
+        "name": "@stemcmicro/core",
+        "description": "Computer Algebra System in TypeScript"
+    },
+    {
+        "name": "stround",
+        "description": "Rounding methods for exact numbers using strings."
+    },
+    {
+        "name": "just-modulo",
+        "description": "modulo of a number and a divisor"
+    },
+    {
+        "name": "map-range",
+        "description": "Simple function domain/range conversion"
+    },
+    {
+        "name": "ax-calculator",
+        "description": "Complex Math Calculator"
+    },
+    {
+        "name": "@stdlib/constants-float32-pinf",
+        "description": "Single-precision floating-point positive infinity."
+    },
+    {
+        "name": "@stdlib/stats-base-dmeanors",
+        "description": "Calculate the arithmetic mean of a double-precision floating-point strided array using ordinary recursive summation."
+    },
+    {
+        "name": "datemath-cli",
+        "description": "A beautiful CLI for date calculations in natural language"
+    },
+    {
+        "name": "compute-erfcinv",
+        "description": "Inverse complementary error function."
+    },
+    {
+        "name": "@aryth/bound-column",
+        "description": "A math util library"
+    },
+    {
+        "name": "markdown-it-katex-external",
+        "description": "Fast math support for markdown-it with KaTeX, support external link"
+    },
+    {
+        "name": "@stemcmicro/native",
+        "description": "Provides the meaning of universal mathematics symbols"
+    },
+    {
+        "name": "@vect/vector-update",
+        "description": "A math util library"
+    },
+    {
+        "name": "@stdlib/constants-float32-ninf",
+        "description": "Single-precision floating-point negative infinity."
+    },
+    {
+        "name": "@fav/math.gcd",
+        "description": "Calculates the greatest common divisor of two integers."
+    },
+    {
+        "name": "@stdlib/stats-base-range",
+        "description": "Calculate the range of a strided array."
+    },
+    {
+        "name": "unlerp",
+        "description": "opposite of lerp; get normalized range between two bounds"
+    },
+    {
+        "name": "datafit",
+        "description": "Simple curve-fitting algorithm"
+    },
+    {
+        "name": "@stdlib/stats-base-dmean",
+        "description": "Calculate the arithmetic mean of a double-precision floating-point strided array."
+    },
+    {
+        "name": "@stemcmicro/context",
+        "description": ""
+    },
+    {
+        "name": "morph-expressions",
+        "description": "An extremely efficient and flexible parser for Math or Logical expression using Javascript. It has all the basic functions supported with extensive support for new functions, variable etc."
+    },
+    {
+        "name": "raterec",
+        "description": "A system that calculates an estimation of ratings from other users' ratings"
+    },
+    {
+        "name": "wmath",
+        "description": "Aggregates other math modules in single module."
+    },
+    {
+        "name": "financial-number",
+        "description": "Do math with money! Without risking loss of data to floating point representations!"
+    },
+    {
+        "name": "@tubular/math",
+        "description": "Miscellaneous math functions"
+    },
+    {
+        "name": "intn",
+        "description": "A library for representing and working with arbitrary byte size two's complement integers, signed and unsigned."
+    },
+    {
+        "name": "@stdlib/stats-base-dmeanlipw",
+        "description": "Calculate the arithmetic mean of a double-precision floating-point strided array using a one-pass trial mean algorithm with pairwise summation."
+    },
+    {
+        "name": "@stylize/sass-func",
+        "description": "Sass functions for general usage"
+    },
+    {
+        "name": "financial-arithmetic-functions",
+        "description": "A set of functions for doing math on numbers without floating point numbers"
+    },
+    {
+        "name": "@vect/vector-select",
+        "description": "A math util library"
+    },
+    {
+        "name": "es6-math",
+        "description": "A polyfill for ES6 mathematical and helper functions and constants."
+    },
+    {
+        "name": "@stdlib/stats-base-max-by",
+        "description": "Calculate the maximum value of a strided array via a callback function."
+    },
+    {
+        "name": "@stdlib/stats-base-dmeanli",
+        "description": "Calculate the arithmetic mean of a double-precision floating-point strided array using a one-pass trial mean algorithm."
+    },
+    {
+        "name": "random-extra",
+        "description": "Seedable random number generator supporting many common distributions."
+    },
+    {
+        "name": "latex",
+        "description": "A simple wrapper for LaTeX in node.js"
+    },
+    {
+        "name": "compute-flatten",
+        "description": "Flattens an array."
+    },
+    {
+        "name": "@stdlib/stats-base-dmaxabs",
+        "description": "Calculate the maximum absolute value of a double-precision floating-point strided array."
+    },
+    {
+        "name": "simsimd",
+        "description": "Portable mixed-precision BLAS-like vector math library for x86 and ARM"
+    },
+    {
+        "name": "@stemcmicro/js-parse",
+        "description": "JavaScript parser for math expressions"
+    },
+    {
+        "name": "@stemcmicro/diagnostics",
+        "description": ""
+    },
+    {
+        "name": "bbop-graph-noctua",
+        "description": "A subclass of bbop-graph that layers on a complete annotation and graph editing model for the Noctua set of tools."
+    },
+    {
+        "name": "@stdlib/stats-base-dstdevch",
+        "description": "Calculate the standard deviation of a double-precision floating-point strided array using a one-pass trial mean algorithm."
+    },
+    {
+        "name": "@stdlib/stats-base-dmeanstdev",
+        "description": "Calculate the mean and standard deviation of a double-precision floating-point strided array."
+    },
+    {
+        "name": "@stdlib/stats-base-meankbn",
+        "description": "Calculate the arithmetic mean of a strided array using an improved Kahan–Babuška algorithm."
+    },
+    {
+        "name": "@stdlib/math-base-assert-is-nanf",
+        "description": "Test if a single-precision floating-point numeric value is NaN."
+    },
+    {
+        "name": "@defi.org/chai-bignumber",
+        "description": "Chai assertions for comparing arbitrary-precision decimals using the bignumber.js library"
+    },
+    {
+        "name": "@stdlib/stats-base-dmeanstdevpn",
+        "description": "Calculate the mean and standard deviation of a double-precision floating-point strided array using a two-pass algorithm."
+    },
+    {
+        "name": "@stdlib/stats-base-dnanstdevpn",
+        "description": "Calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values and using a two-pass algorithm."
+    },
+    {
+        "name": "@atom-platform/expr-eval",
+        "description": "Mathematical expression evaluator"
+    },
+    {
+        "name": "@stdlib/stats-base-dmidrange",
+        "description": "Calculate the mid-range of a double-precision floating-point strided array."
+    },
+    {
+        "name": "@stdlib/stats-base-dnanvariance",
+        "description": "Calculate the variance of a double-precision floating-point strided array ignoring NaN values."
+    },
+    {
+        "name": "@stdlib/stats-base-dmediansorted",
+        "description": "Calculate the median value of a sorted double-precision floating-point strided array."
+    },
+    {
+        "name": "@yaffle/expression",
+        "description": "A library to parse expressions, solve and simplify systems of linear equations, find eigenvalues and eigenvectors"
+    },
+    {
+        "name": "@stdlib/constants-float32-eps",
+        "description": "Difference between one and the smallest value greater than one that can be represented as a single-precision floating-point number."
+    },
+    {
+        "name": "@stemcmicro/cs-parse",
+        "description": "Python parser for math expressions"
+    },
+    {
+        "name": "@yayure/ckeditor5-mathlive",
+        "description": "Mathlive feature for CKEditor 5."
+    },
+    {
+        "name": "archi",
+        "description": "Easy math with decimals for Javascript"
+    },
+    {
+        "name": "@thi.ng/date",
+        "description": "Datetime types, relative dates, math, iterators, composable formatters, locales"
+    },
+    {
+        "name": "numlab",
+        "description": "A comprehensive and versatile library for all your mathematical operations and computations."
+    },
+    {
+        "name": "@stdlib/stats-base-dnanrange",
+        "description": "Calculate the range of a double-precision floating-point strided array, ignoring NaN values."
+    },
+    {
+        "name": "is-even-ai-enhanced",
+        "description": "<img src=\"https://www.dictionary.com/e/wp-content/uploads/2018/05/expanding-brain-meme_new3-790x310.jpg\" style=\"width:100%;\">"
+    },
+    {
+        "name": "@stdlib/stats-base-dsnanmean",
+        "description": "Calculate the arithmetic mean of a single-precision floating-point strided array, ignoring NaN values, using extended accumulation, and returning an extended precision result."
+    },
+    {
+        "name": "@stdlib/stats-base-meanwd",
+        "description": "Calculate the arithmetic mean of a strided array using Welford's algorithm."
+    },
+    {
+        "name": "meows",
+        "description": "A kittybin of tools."
+    },
+    {
+        "name": "math-ln",
+        "description": "Natural logarithm."
+    },
+    {
+        "name": "matrixops",
+        "description": "A package for doing matrix arithmetic with JavaScript arrays"
+    },
+    {
+        "name": "@stdlib/stats-base-dstdevyc",
+        "description": "Calculate the standard deviation of a double-precision floating-point strided array using a one-pass algorithm proposed by Youngs and Cramer."
+    },
+    {
+        "name": "math-hypot",
+        "description": "Computes the square root of a sum of squares."
+    },
+    {
+        "name": "@stdlib/stats-base-dmeanpw",
+        "description": "Calculate the arithmetic mean of a double-precision floating-point strided array using pairwise summation."
+    },
+    {
+        "name": "@stdlib/stats-base-dvariancewd",
+        "description": "Calculate the variance of a double-precision floating-point strided array using Welford's algorithm."
+    },
+    {
+        "name": "number-theory",
+        "description": "Number theory functions for javascript."
+    },
+    {
+        "name": "@stemcmicro/helpers",
+        "description": "Helpers for stemcmicro"
+    },
+    {
+        "name": "bbop-graph",
+        "description": "General purpose (mathematical) graph library in JavaScript."
+    },
+    {
+        "name": "@stdlib/stats-base-dsemtk",
+        "description": "Calculate the standard error of the mean for a double-precision floating-point strided array using a one-pass textbook algorithm."
+    },
+    {
+        "name": "@stdlib/stats-base-dsemch",
+        "description": "Calculate the standard error of the mean for a double-precision floating-point strided array using a one-pass trial mean algorithm."
+    },
+    {
+        "name": "@thi.ng/complex",
+        "description": "Array-based complex number algebra"
+    },
+    {
+        "name": "@favware/querystring",
+        "description": "Awesome and robust querystring"
+    },
+    {
+        "name": "polynomial-regression",
+        "description": "Model generator based on the method of least squares."
+    },
+    {
+        "name": "@stdlib/stats-base-nanmeanpn",
+        "description": "Calculate the arithmetic mean of a strided array, ignoring NaN values and using a two-pass error correction algorithm."
+    },
+    {
+        "name": "@jrc03c/js-math-tools",
+        "description": "some math tools for JS"
+    },
+    {
+        "name": "@stdlib/constants-float32-smallest-subnormal",
+        "description": "Smallest positive single-precision floating-point subnormal number."
+    },
+    {
+        "name": "@aryth/bound-vector",
+        "description": "A math util library"
+    },
+    {
+        "name": "math-interval-functions",
+        "description": "A tiny (119 bytes) and blazing fast solution for operations on intervals"
+    },
+    {
+        "name": "@stdlib/stats-base-mediansorted",
+        "description": "Calculate the median value of a sorted strided array."
+    },
+    {
+        "name": "@wiris/mathtype-ckeditor4",
+        "description": "MathType Web for CKEditor4 editor"
+    },
+    {
+        "name": "@stdlib/stats-base-dsmeanwd",
+        "description": "Calculate the arithmetic mean of a single-precision floating-point strided array using Welford's algorithm with extended accumulation and returning an extended precision result."
+    },
+    {
+        "name": "@stdlib/stats-base-dmeanwd",
+        "description": "Calculate the arithmetic mean of a double-precision floating-point strided array using Welford's algorithm."
+    },
+    {
+        "name": "@aryth/distinct-column",
+        "description": "A math util library"
+    },
+    {
+        "name": "@stdlib/stats-base-dnanvariancewd",
+        "description": "Calculate the variance of a double-precision floating-point strided array ignoring NaN values and using Welford's algorithm."
+    },
+    {
+        "name": "@stdlib/stats-base-minsorted",
+        "description": "Calculate the minimum value of a sorted strided array."
+    },
+    {
+        "name": "@stdlib/stats-base-meanors",
+        "description": "Calculate the arithmetic mean of a strided array using ordinary recursive summation."
+    },
+    {
+        "name": "@stdlib/stats-base-drange",
+        "description": "Calculate the range of a double-precision floating-point strided array."
+    },
+    {
+        "name": "@stdlib/stats-base-nanmskmax",
+        "description": "Calculate the maximum value of a strided array according to a mask, ignoring NaN values."
+    },
+    {
+        "name": "jisg",
+        "description": "Implementations of select OEIS integer sequences in JavaScript."
+    },
+    {
+        "name": "meta-math",
+        "description": "Mathematics library for MetaEngine."
+    },
+    {
+        "name": "@aryth/roman",
+        "description": "Parse roman numerals to decimal numbers"
+    },
+    {
+        "name": "typedoc-plugin-katex",
+        "description": "A plugin for TypeDoc to display mathematics with KaTeX using its auto-render extension"
+    },
+    {
+        "name": "@stdlib/stats-base-nanmean",
+        "description": "Calculate the arithmetic mean of a strided array, ignoring NaN values."
+    },
+    {
+        "name": "@stdlib/stats-base-dnanmeanpn",
+        "description": "Calculate the arithmetic mean of a double-precision floating-point strided array, ignoring NaN values and using a two-pass error correction algorithm."
+    },
+    {
+        "name": "@zazzik/mandelbrot-core",
+        "description": "Core library for generating Mandelbrot fractals with Web Worker support for multithreaded rendering."
+    },
+    {
+        "name": "@stdlib/stats-base-dnanvarianceyc",
+        "description": "Calculate the variance of a double-precision floating-point strided array ignoring NaN values and using a one-pass algorithm proposed by Youngs and Cramer."
+    },
+    {
+        "name": "@stdlib/stats-base-dnanmean",
+        "description": "Calculate the arithmetic mean of a double-precision floating-point strided array, ignoring NaN values."
+    },
+    {
+        "name": "@railrunner16/raildash",
+        "description": "Lodash, but better"
+    },
+    {
+        "name": "sobol",
+        "description": "Sobol quasi random sample generator"
+    },
+    {
+        "name": "@minogin/vector",
+        "description": "2D-vector algebra. Vectors are immutable - every operation returns new instance."
+    },
+    {
+        "name": "svelte-katex",
+        "description": "> We are no longer updating this component. Consider using > [Svelte Math](https://www.npmjs.com/package/svelte-math) instead."
+    },
+    {
+        "name": "@stdlib/stats-base-mskrange",
+        "description": "Calculate the range of a strided array according to a mask."
+    },
+    {
+        "name": "@stdlib/stats-base-dnanstdevwd",
+        "description": "Calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values and using Welford's algorithm."
+    },
+    {
+        "name": "@stemcmicro/hilbert",
+        "description": "hilbert function for stemcmicro"
+    },
+    {
+        "name": "hyoka",
+        "description": "A simple math expression parser and evaluator"
+    },
+    {
+        "name": "@stdlib/stats-base-dmskrange",
+        "description": "Calculate the range of a double-precision floating-point strided array according to a mask."
+    },
+    {
+        "name": "datly",
+        "description": "A JavaScript toolkit for data science, statistics, and machine learning in the browser or Node.js."
+    },
+    {
+        "name": "@stdlib/stats-base-dstdevtk",
+        "description": "Calculate the standard deviation of a double-precision floating-point strided array using a one-pass textbook algorithm."
+    },
+    {
+        "name": "@stdlib/stats-base-dnanmin",
+        "description": "Calculate the minimum value of a double-precision floating-point strided array, ignoring NaN values."
+    },
+    {
+        "name": "@stdlib/stats-base-dnanvariancetk",
+        "description": "Calculate the variance of a double-precision floating-point strided array ignoring NaN values and using a one-pass textbook algorithm."
+    },
+    {
+        "name": "@alwatr/random",
+        "description": "A lightweight utility library for generating random numbers, strings, UUIDs and more"
+    },
+    {
+        "name": "algebra",
+        "description": "means completeness and balancing, from the Arabic word الجبر"
+    },
+    {
+        "name": "math-erfc",
+        "description": "Complementary error function."
+    },
+    {
+        "name": "@stdlib/stats-base-dminsorted",
+        "description": "Calculate the minimum value of a sorted double-precision floating-point strided array."
+    },
+    {
+        "name": "@stdlib/stats-base-min",
+        "description": "Calculate the minimum value of a strided array."
+    },
+    {
+        "name": "@stdlib/stats-base-dnanstdev",
+        "description": "Calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values."
+    },
+    {
+        "name": "@stdlib/stats-base-dmskmax",
+        "description": "Calculate the maximum value of a double-precision floating-point strided array according to a mask."
+    },
+    {
+        "name": "@stdlib/stats-base-mskmin",
+        "description": "Calculate the minimum value of a strided array according to a mask."
+    },
+    {
+        "name": "@yetnt/ump",
+        "description": "A very useless math package for your complex javascript projects"
+    },
+    {
+        "name": "@stdlib/stats-base-dnanstdevch",
+        "description": "Calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values and using a one-pass trial mean algorithm."
+    },
+    {
+        "name": "@stdlib/stats-base-dvarianceyc",
+        "description": "Calculate the variance of a double-precision floating-point strided array using a one-pass algorithm proposed by Youngs and Cramer."
+    },
+    {
+        "name": "flatten-shape-geometry",
+        "description": "A library for shape parameters and rendering in canvas."
+    },
+    {
+        "name": "@stdlib/stats-base-dvarm",
+        "description": "Calculate the variance of a double-precision floating-point strided array provided a known mean."
+    },
+    {
+        "name": "brofrong-math",
+        "description": "Super simple project to practice publishing to npm repository."
+    },
+    {
+        "name": "@putkoff/abstract-physics",
+        "description": "A reusable React Physics Calculation component"
+    },
+    {
+        "name": "@stdlib/stats-base-dnanmeanpw",
+        "description": "Calculate the arithmetic mean of a double-precision floating-point strided array, ignoring NaN values and using pairwise summation."
+    },
+    {
+        "name": "mathrry",
+        "description": "Simple Math Module"
+    },
+    {
+        "name": "math-evalrational",
+        "description": "Evaluates a rational function."
+    },
+    {
+        "name": "@stdlib/stats-base-dmskmin",
+        "description": "Calculate the minimum value of a double-precision floating-point strided array according to a mask."
+    },
+    {
+        "name": "@stdlib/stats-base-dsemyc",
+        "description": "Calculate the standard error of the mean for a double-precision floating-point strided array using a one-pass algorithm proposed by Youngs and Cramer."
+    },
+    {
+        "name": "binomial",
+        "description": "A simple binomial coefficient generator with memoization."
+    },
+    {
+        "name": "@stdlib/stats-base-dsnanmeanpn",
+        "description": "Calculate the arithmetic mean of a single-precision floating-point strided array, ignoring NaN values, using a two-pass error correction algorithm with extended accumulation, and returning an extended precision result."
+    },
+    {
+        "name": "@valeera/mathx",
+        "description": "A math library written in TS."
+    },
+    {
+        "name": "@kjerandp/linear-algebra",
+        "description": "Math library for doing basic linear algebra operations"
+    },
+    {
+        "name": "@anhtrieunhu/math-utils",
+        "description": "A simple TypeScript utility library for basic math operations with alpha pre-release support"
+    },
+    {
+        "name": "@stdlib/stats-base-dsnanmeanwd",
+        "description": "Calculate the arithmetic mean of a single-precision floating-point strided array, ignoring NaN values, using Welford's algorithm with extended accumulation, and returning an extended precision result."
+    },
+    {
+        "name": "@vect/columns-select",
+        "description": "A math util library"
+    },
+    {
+        "name": "node-correlation",
+        "description": "A Node.JS script to calculate correlation between two arrays."
+    },
+    {
+        "name": "@stdlib/stats-base-nanmin",
+        "description": "Calculate the minimum value of a strided array, ignoring NaN values."
+    },
+    {
+        "name": "@js-basics/vector",
+        "description": "A 3D Vector lib including arithmetic operator overloading (+ - * / % **)."
+    },
+    {
+        "name": "@stdlib/stats-base-dnanvariancepn",
+        "description": "Calculate the variance of a double-precision floating-point strided array ignoring NaN values and using a two-pass algorithm."
+    },
+    {
+        "name": "ziko",
+        "description": "A versatile JavaScript library offering a rich set of Hyperscript Based UI components, advanced mathematical utilities, interactivity ,animations, client side routing and more ..."
+    },
+    {
+        "name": "@stdlib/stats-base-maxsorted",
+        "description": "Calculate the maximum value of a sorted strided array."
+    },
+    {
+        "name": "@stdlib/stats-base-dsmeanors",
+        "description": "Calculate the arithmetic mean of a single-precision floating-point strided array using ordinary recursive summation with extended accumulation and returning an extended precision result."
+    },
+    {
+        "name": "@stdlib/stats-base-nanmskmin",
+        "description": "Calculate the minimum value of a strided array according to a mask, ignoring NaN values."
+    },
+    {
+        "name": "@stdlib/stats-base-meanpw",
+        "description": "Calculate the arithmetic mean of a strided array using pairwise summation."
+    },
+    {
+        "name": "@stdlib/stats-base-maxabs",
+        "description": "Calculate the maximum absolute value of a strided array."
+    },
+    {
+        "name": "hexo-xmath",
+        "description": "Xmath"
+    },
+    {
+        "name": "@stdlib/blas-ext-base-gfill-by",
+        "description": "Fill a strided array according to a provided callback function."
+    },
+    {
+        "name": "power-radix",
+        "description": "Library for converting numbers from one radix representation (encoding) to another, with optional custom defined encodings. Inspired by rubyworks/radix."
+    },
+    {
+        "name": "shapemath-js",
+        "description": "A JavaScript library of math functions for 2D and 3D shapes."
+    },
+    {
+        "name": "@alwatr/math",
+        "description": "Simple useful Math library written in tiny TypeScript module."
+    },
+    {
+        "name": "@stdlib/stats-base-dstdevwd",
+        "description": "Calculate the standard deviation of a double-precision floating-point strided array using Welford's algorithm."
+    },
+    {
+        "name": "@stdlib/stats-base-meankbn2",
+        "description": "Calculate the arithmetic mean of a strided array using a second-order iterative Kahan–Babuška algorithm."
+    },
+    {
+        "name": "@stdlib/constants-float32-sqrt-eps",
+        "description": "Square root of single-precision floating-point epsilon."
+    },
+    {
+        "name": "@stdlib/stats-base-dnanvariancech",
+        "description": "Calculate the variance of a double-precision floating-point strided array ignoring NaN values and using a one-pass trial mean algorithm."
+    },
+    {
+        "name": "pnt2",
+        "description": "A high-performance TypeScript library for working with 2D points and vectors, supporting Float32Array, Float64Array, and plain arrays."
+    },
+    {
+        "name": "@stdlib/stats-base-nanmin-by",
+        "description": "Calculate the minimum value of a strided array via a callback function, ignoring NaN values."
+    },
+    {
+        "name": "make-matrix",
+        "description": "A simple, type-safe way to create multi-dimensional arrays"
+    },
+    {
+        "name": "@stdlib/stats-incr-kurtosis",
+        "description": "Compute a corrected sample excess kurtosis incrementally."
+    },
+    {
+        "name": "@sakitam-gis/rbush",
+        "description": "High-performance 2D spatial index for rectangles (based on R*-tree with bulk loading and bulk insertion algorithms)"
+    },
+    {
+        "name": "@stdlib/stats-base-dvariance",
+        "description": "Calculate the variance of a double-precision floating-point strided array."
+    },
+    {
+        "name": "@stdlib/stats-base-dsem",
+        "description": "Calculate the standard error of the mean for a double-precision floating-point strided array."
+    },
+    {
+        "name": "@vect/object-select",
+        "description": "Select from object/array"
+    },
+    {
+        "name": "fibonacci",
+        "description": "Calculate fibonacci numbers for endless iterations."
+    },
+    {
+        "name": "@stdlib/constants-float32-cbrt-eps",
+        "description": "Cube root of single-precision floating-point epsilon."
+    },
+    {
+        "name": "@daiji256/rehype-mathml",
+        "description": "rehype plugin to render math with MathML"
+    },
+    {
+        "name": "@stdlib/stats-base-dnanstdevtk",
+        "description": "Calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values and using a one-pass textbook algorithm."
+    },
+    {
+        "name": "@charpeni/one-of",
+        "description": "Type-safe utilities to return a random element from an array or random entry from an object"
+    },
+    {
+        "name": "@stdlib/stats-base-dvariancech",
+        "description": "Calculate the variance of a double-precision floating-point strided array using a one-pass trial mean algorithm."
+    },
+    {
+        "name": "@stdlib/stats-base-nanmax",
+        "description": "Calculate the maximum value of a strided array, ignoring NaN values."
+    },
+    {
+        "name": "@crypto-dex-sdk/math",
+        "description": "Zenlink Math"
+    },
+    {
+        "name": "@aryth/rank",
+        "description": "A math util library"
+    },
+    {
+        "name": "@stemcmicro/engine",
+        "description": "Engine for stemcmicro"
+    },
+    {
+        "name": "@stdlib/stats-base-dnanmskmax",
+        "description": "Calculate the maximum value of a double-precision floating-point strided array according to a mask, ignoring NaN values."
+    },
+    {
+        "name": "@stdlib/constants-float32",
+        "description": "Single-precision floating-point mathematical constants."
+    },
+    {
+        "name": "@phun-ky/angle",
+        "description": "A JavaScript function to calculate the angle between two coordinates"
+    },
+    {
+        "name": "math-exact",
+        "description": "Precision math for JavaScript/TypeScript"
+    },
+    {
+        "name": "@smoovy/utils",
+        "description": "Some basic functionality to make better websites"
+    },
+    {
+        "name": "math-floor",
+        "description": "Rounds a numeric value toward negative infinity."
+    },
+    {
+        "name": "@stdlib/stats-base-dsnanmeanors",
+        "description": "Calculate the arithmetic mean of a single-precision floating-point strided array, ignoring NaN values, using ordinary recursive summation with extended accumulation, and returning an extended precision result."
+    },
+    {
+        "name": "@typed/math",
+        "description": "Common mathematical needs"
+    },
+    {
+        "name": "@stdlib/stats-base-dnanmeanwd",
+        "description": "Calculate the arithmetic mean of a double-precision floating-point strided array, using Welford's algorithm and ignoring NaN values."
+    },
+    {
+        "name": "@stdlib/stats-base-dsmean",
+        "description": "Calculate the arithmetic mean of a single-precision floating-point strided array using extended accumulation and returning an extended precision result."
+    },
+    {
+        "name": "@stdlib/stats-base-nanmeanwd",
+        "description": "Calculate the arithmetic mean of a strided array, ignoring NaN values and using Welford's algorithm."
+    },
+    {
+        "name": "doubloons",
+        "description": "<h1 align='center'>   Doubloons </h1>"
+    },
+    {
+        "name": "@stdlib/stats-base-nanmax-by",
+        "description": "Calculate the maximum value of a strided array via a callback function, ignoring NaN values."
+    },
+    {
+        "name": "@stdlib/stats-base-dvarmpn",
+        "description": "Calculate the variance of a double-precision floating-point strided array provided a known mean and using Neely's correction algorithm."
+    },
+    {
+        "name": "complex-js",
+        "description": "Complex math module for JavaScript"
+    },
+    {
+        "name": "@stdlib/stats-base-dnanmskmin",
+        "description": "Calculate the minimum value of a double-precision floating-point strided array according to a mask, ignoring NaN values."
+    },
+    {
+        "name": "@stdlib/stats-base-dnanmeanors",
+        "description": "Calculate the arithmetic mean of a double-precision floating-point strided array, ignoring NaN values and using ordinary recursive summation."
+    },
+    {
+        "name": "@stemcmicro/directive",
+        "description": "JavaScript parser for math expressions"
+    },
+    {
+        "name": "nerdamer-prime",
+        "description": "javascript light-weight symbolic math library"
+    },
+    {
+        "name": "primitiveprimer",
+        "description": "Bluntly extend String, Array, Number, Object prototypes like a proto-caveman"
+    },
+    {
+        "name": "@stdlib/stats-base-min-by",
+        "description": "Calculate the minimum value of a strided array via a callback function."
+    },
+    {
+        "name": "@stdlib/stats-base-dvarmtk",
+        "description": "Calculate the variance of a double-precision floating-point strided array provided a known mean and using a one-pass textbook algorithm."
+    },
+    {
+        "name": "@stdlib/stats-base-dminabs",
+        "description": "Calculate the minimum absolute value of a double-precision floating-point strided array."
+    },
+    {
+        "name": "@cocalc/project",
+        "description": "CoCalc: project daemon"
+    },
+    {
+        "name": "@1studio/utils",
+        "description": "A collection of useful utilities."
+    },
+    {
+        "name": "@thi.ng/fuzzy",
+        "description": "Fuzzy logic operators & configurable rule inferencing engine"
+    },
+    {
+        "name": "react-katex-component",
+        "description": "A component which renders everything passed to it with Katex."
+    },
+    {
+        "name": "@stdlib/stats-base-dnanmax",
+        "description": "Calculate the maximum value of a double-precision floating-point strided array, ignoring NaN values."
+    },
+    {
+        "name": "@aryth/distinct-matrix",
+        "description": "Return ranks of each element in a 2-d array"
+    },
+    {
+        "name": "numbers-logic",
+        "description": "Tools used to understand or work with numbers in Node.JS, Javascript and derivatives. "
+    },
+    {
+        "name": "jsbi-calculator",
+        "description": "JSBI-Calculator is a calculator utility to perform arbitrary arithmetic computation, with the help of JSBI-based BigDecimal."
+    },
+    {
+        "name": "@stdlib/stats-base-dsmeanpw",
+        "description": "Calculate the arithmetic mean of a single-precision floating-point strided array using pairwise summation with extended accumulation and returning an extended precision result."
+    },
+    {
+        "name": "@stdlib/stats-base-dstdev",
+        "description": "Calculate the standard deviation of a double-precision floating-point strided array."
+    },
+    {
+        "name": "@scicave/math-parser",
+        "description": "A mathematical parser. We mean by mathematical that, e.g., arithmetic operations is considered for example if you pass \"1+2\", the result would by a (add node \"+\") with two children nodes of type number."
+    },
+    {
+        "name": "@stdlib/stats-base-dmeanvarpn",
+        "description": "Calculate the mean and variance of a double-precision floating-point strided array using a two-pass algorithm."
+    },
+    {
+        "name": "@stdlib/stats-base-dsempn",
+        "description": "Calculate the standard error of the mean for a double-precision floating-point strided array using a two-pass algorithm."
+    },
+    {
+        "name": "@stdlib/blas-ext-base-gsumkbn",
+        "description": "Calculate the sum of strided array elements using an improved Kahan–Babuška algorithm."
+    },
+    {
+        "name": "@stdlib/stats-base-nanmskrange",
+        "description": "Calculate the range of a strided array according to a mask, ignoring NaN values."
+    },
+    {
+        "name": "ooi",
+        "description": "JavaScript Utility & Tools Library"
+    },
+    {
+        "name": "@stdlib/stats-base-dvariancetk",
+        "description": "Calculate the variance of a double-precision floating-point strided array using a one-pass textbook algorithm."
+    },
+    {
+        "name": "math-sum",
+        "description": "Sum numbers"
+    },
+    {
+        "name": "@stdlib/constants-float32-precision",
+        "description": "Effective number of bits in the significand of a single-precision floating-point number."
+    },
+    {
+        "name": "extra-math",
+        "description": "Mathematics is the classification and study of all possible patterns."
+    },
+    {
+        "name": "@stdlib/stats-base-dstdevpn",
+        "description": "Calculate the standard deviation of a double-precision floating-point strided array using a two-pass algorithm."
+    },
+    {
+        "name": "@vect/enum-matrix-directions",
+        "description": "A math util library"
+    },
+    {
+        "name": "scipy",
+        "description": "Node wrapper for Python's SciPy library"
+    },
+    {
+        "name": "primes-and-factors",
+        "description": "module with functions relating to the prime factors of a positive integer"
+    },
+    {
+        "name": "wavefuel-utils",
+        "description": "Utility Functions for all Development Purpose"
+    },
+    {
+        "name": "@stdlib/stats-base-minabs",
+        "description": "Calculate the minimum absolute value of a strided array."
+    },
+    {
+        "name": "@aryth/rank-column",
+        "description": "A math util library"
+    },
+    {
+        "name": "@aryth/rank-vector",
+        "description": "A math util library"
+    },
+    {
+        "name": "@thi.ng/dual-algebra",
+        "description": "Multivariate dual number algebra, automatic differentiation"
+    },
+    {
+        "name": "@stdlib/stats-base-nanmaxabs",
+        "description": "Calculate the maximum absolute value of a strided array, ignoring NaN values."
+    },
+    {
+        "name": "@stdlib/stats-base-dsemwd",
+        "description": "Calculate the standard error of the mean for a double-precision floating-point strided array using Welford's algorithm."
+    },
+    {
+        "name": "@stdlib/stats-base-nanstdevpn",
+        "description": "Calculate the standard deviation of a strided array ignoring NaN values and using a two-pass algorithm."
+    },
+    {
+        "name": "@cocalc/hub",
+        "description": "CoCalc: Backend webserver component"
+    },
+    {
+        "name": "markdown-it-katexx",
+        "description": "Fast math support for markdown-it with KaTeX"
+    },
+    {
+        "name": "node-relation",
+        "description": "Manage strings, number, object that are related to each other."
+    },
+    {
+        "name": "@stdlib/constants-float32-exponent-bias",
+        "description": "The bias of a single-precision floating-point number's exponent."
+    },
+    {
+        "name": "@stdlib/stats-base-dsvariancepn",
+        "description": "Calculate the variance of a single-precision floating-point strided array using a two-pass algorithm with extended accumulation and returning an extended precision result."
+    },
+    {
+        "name": "@vect/enum-select-styles",
+        "description": "A math util library"
+    },
+    {
+        "name": "slimdown-js",
+        "description": "A regex-based Markdown parser."
+    },
+    {
+        "name": "@stdlib/stats-base-nanstdev",
+        "description": "Calculate the standard deviation of a strided array ignoring NaN values."
+    },
+    {
+        "name": "@stdlib/stats-base-dmeanvar",
+        "description": "Calculate the mean and variance of a double-precision floating-point strided array."
+    },
+    {
+        "name": "docsify-katex",
+        "description": "KaTeX support for docsify"
+    },
+    {
+        "name": "asmd_operation",
+        "description": "simple application for base level calculation"
+    },
+    {
+        "name": "the-math",
+        "description": "TheMath is an extensive math library for JavaScript and Node.js. It features a flexible expression parser"
+    },
+    {
+        "name": "granite-math-sdk",
+        "description": "Granite math sdk"
+    },
+    {
+        "name": "investment-math",
+        "description": "A node.js package to solve investment calculations."
+    },
+    {
+        "name": "@stdlib/stats-base-nanstdevch",
+        "description": "Calculate the standard deviation of a strided array ignoring NaN values and using a one-pass trial mean algorithm."
+    },
+    {
+        "name": "@stdlib/constants-float32-num-bytes",
+        "description": "Size (in bytes) of a single-precision floating-point number."
+    },
+    {
+        "name": "polygon.clip",
+        "description": "clip a polygon with another"
+    },
+    {
+        "name": "@js-bits/typedef-utils",
+        "description": "Utility types for TypeScript"
+    },
+    {
+        "name": "@stdlib/stats-base-nanrange",
+        "description": "Calculate the range of a strided array, ignoring NaN values."
+    },
+    {
+        "name": "@stdlib/stats-base-nanmeanors",
+        "description": "Calculate the arithmetic mean of a strided array, ignoring NaN values and using ordinary recursive summation."
+    },
+    {
+        "name": "datus.js",
+        "description": "Library for manage date with different methods of custom formatting"
+    },
+    {
+        "name": "graphic-math",
+        "description": "a library to deal with all mathematic need in computer graphic"
+    },
+    {
+        "name": "@stdlib/stats-base-dnanmaxabs",
+        "description": "Calculate the maximum absolute value of a double-precision floating-point strided array, ignoring NaN values."
+    },
+    {
+        "name": "@stdlib/stats-base-dsmeanpn",
+        "description": "Calculate the arithmetic mean of a single-precision floating-point strided array using a two-pass error correction algorithm with extended accumulation and returning an extended precision result."
+    },
+    {
+        "name": "@stdlib/stats-base-nanvariance",
+        "description": "Calculate the variance of a strided array ignoring NaN values."
+    },
+    {
+        "name": "@stdlib/stats-base-dsvariance",
+        "description": "Calculate the variance of a single-precision floating-point strided array using extended accumulation and returning an extended precision result."
+    },
+    {
+        "name": "cayley-dickson",
+        "description": "implements Cayley-Dickson construction to produce a sequence of algebras over a field"
+    },
+    {
+        "name": "@thi.ng/tensors",
+        "description": "0D/1D/2D/3D/4D tensors with extensible polymorphic operations and customizable storage"
+    },
+    {
+        "name": "@aryth/util-distinct",
+        "description": "A math util library"
+    },
+    {
+        "name": "vector2-node",
+        "description": "An object representing a 2D vector."
+    },
+    {
+        "name": "statistical-js",
+        "description": "Simple to use, completely useful"
+    },
+    {
+        "name": "const-pinf-float32",
+        "description": "Positive infinity."
+    },
+    {
+        "name": "@aryth/flopper",
+        "description": "A math util library"
+    },
+    {
+        "name": "@stdlib/stats-base-dnanstdevyc",
+        "description": "Calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values and using a one-pass algorithm proposed by Youngs and Cramer."
+    },
+    {
+        "name": "@stdlib/stats-base-dvariancepn",
+        "description": "Calculate the variance of a double-precision floating-point strided array using a two-pass algorithm."
+    },
+    {
+        "name": "math2d",
+        "description": "Two dimensional vector math library for JavaScript. Built for performance in computation-heavy real-time engines without sacrificing usability. Supports tree shaking and dead code removal to avoid bloating client-side bundles. Zero dependencies."
+    },
+    {
+        "name": "react-native-math",
+        "description": "Render math natively in React Native using Katex for Android and iOS"
+    },
+    {
+        "name": "@inglorious/babel-plugin-inglorious-script",
+        "description": "A Babel plugin for the IngloriousScript language."
+    },
+    {
+        "name": "powerjinja-math",
+        "description": "Powerjinja module for common math operations and number transformations."
+    },
+    {
+        "name": "@aryth/rank-matrix",
+        "description": "Return ranks of each element in a 2-d array"
+    },
+    {
+        "name": "vmath",
+        "description": "Yet another gl-matrix: faster and smaller"
+    },
+    {
+        "name": "vector-object",
+        "description": "A vector class supporting vector operations in n-dimensional space. Useful for word vectors calculation."
+    },
+    {
+        "name": "@cypher_077/math",
+        "description": "A JavaScript library for basic and advanced arithmetic operations, satistical functions, logical functions, factorial and fibonacci functions, random number functions, and trigonometric functions."
+    },
+    {
+        "name": "gitbook-plugin-mathjax",
+        "description": "Insert math and LaTeX equations in your pages."
+    },
+    {
+        "name": "geocluster",
+        "description": "find clusters in coordinates"
+    },
+    {
+        "name": "tensor-contraction",
+        "description": "implements tensor contraction on a single mixed tensor"
+    },
+    {
+        "name": "@tremolo-ui/functions",
+        "description": "functions used in @tremolo-ui/react"
+    },
+    {
+        "name": "written-numbers",
+        "description": "Convert numbers to their word counterparts."
+    },
+    {
+        "name": "@stdlib/stats-base-nanvariancepn",
+        "description": "Calculate the variance of a strided array ignoring NaN values and using a two-pass algorithm."
+    },
+    {
+        "name": "kdim",
+        "description": "Utility data stuctures, math, and types for JS"
+    },
+    {
+        "name": "class-expression",
+        "description": "A handling library for OWL-style class expressions in JavaScript."
+    },
+    {
+        "name": "mnjs",
+        "description": "MATH NODE JS (MNJS): A tiny math library for node.js & JavaScript on browser"
+    },
+    {
+        "name": "@stdlib/stats-base-dists-exponential",
+        "description": "Exponential distribution."
+    },
+    {
+        "name": "@posguru/finance-core",
+        "description": "Universal JavaScript library for finance-related math functions, usable in both Node.js (Express) and React applications."
+    },
+    {
+        "name": "math-base",
+        "description": "MATH BASE: A tiny math library for node.js, deno.js & JavaScript on browser"
+    },
+    {
+        "name": "@stdlib/constants-float64-ln-pi",
+        "description": "Natural logarithm of π."
+    },
+    {
+        "name": "@kkitahara/polytope-algebra",
+        "description": "ECMAScript modules for exactly manipulating set algebra of polytopes on the basis of @kkitahara/linear-algebra."
+    },
+    {
+        "name": "essy-distribution",
+        "description": "Distributions and random sampling."
+    },
+    {
+        "name": "react-native-bignumber",
+        "description": "⚡️ The fastest Big Number library for React Native."
+    },
+    {
+        "name": "@rwk/physics-math",
+        "description": "Math for physics homework problems"
+    },
+    {
+        "name": "@stdlib/stats-base-nanrange-by",
+        "description": "Calculate the range of a strided array via a callback function, ignoring NaN values."
+    },
+    {
+        "name": "@stdlib/stats-base-dmeankbn2",
+        "description": "Calculate the arithmetic mean of a double-precision floating-point strided array using a second-order iterative Kahan–Babuška algorithm."
+    },
+    {
+        "name": "const-ninf-float32",
+        "description": "Negative infinity."
+    },
+    {
+        "name": "ramda-decimal",
+        "description": "Ramda-centric wrapper to decimal.js"
+    },
+    {
+        "name": "@stdlib/math-base-special-logaddexp",
+        "description": "Compute the natural logarithm of exp(x) + exp(y)."
+    },
+    {
+        "name": "fractions-math",
+        "description": "Implementing fractions module from The Python Standard Library on TypeScript"
+    },
+    {
+        "name": "rate-map",
+        "description": "Map a number in the range of 0-1 to a new value with a given range"
+    },
+    {
+        "name": "@stdlib/stats-base-dnanmskrange",
+        "description": "Calculate the range of a double-precision floating-point strided array according to a mask, ignoring NaN values."
+    },
+    {
+        "name": "@baggie/math",
+        "description": "A library of math tools for JavaScript and TypeScript. Calculate percentages, angles, coordinates, time differences, geometry etc."
+    },
+    {
+        "name": "expr-eval-boss",
+        "description": "Mathematical expression evaluator"
+    },
+    {
+        "name": "@saeedha/math-power-dev",
+        "description": "do power 2 digits"
+    },
+    {
+        "name": "fsolve-js",
+        "description": "A numerical solver for non-linear systems of equations, utilizing the n-dimensional Newton-Raphson method."
+    },
+    {
+        "name": "@stdlib/stats-base-nanstdevtk",
+        "description": "Calculate the standard deviation of a strided array ignoring NaN values and using a one-pass textbook algorithm."
+    },
+    {
+        "name": "@mauricioroberto/math-world",
+        "description": "Um mundo simples para a matemática"
+    },
+    {
+        "name": "mammoth-plus",
+        "description": "Convert Word documents from docx to rich HTML and Markdown"
+    },
+    {
+        "name": "@stdlib/stats-lowess",
+        "description": "Locally-weighted polynomial regression via the LOWESS algorithm."
+    },
+    {
+        "name": "cnum",
+        "description": "Represent rational numbers in comfortably numeric way."
+    },
+    {
+        "name": "gitbook-plugin-katex",
+        "description": "Math typesetting using KaTex into GitBook"
+    },
+    {
+        "name": "@nagwa-limited/mathlive",
+        "description": "A web component for math input"
+    },
+    {
+        "name": "@dengfengwang/utils",
+        "description": "Some commonly used utils."
+    },
+    {
+        "name": "@stdlib/stats-base-nanminabs",
+        "description": "Calculate the minimum absolute value of a strided array, ignoring NaN values."
+    },
+    {
+        "name": "@stdlib/stats-incr-min",
+        "description": "Compute a minimum value incrementally."
+    },
+    {
+        "name": "jr-graph",
+        "description": "Web component that creates a graph with a draggable point that can be used as a 2-axis controller"
+    },
+    {
+        "name": "@stdlib/stats-incr-mean",
+        "description": "Compute an arithmetic mean incrementally."
+    },
+    {
+        "name": "@stdlib/stats-base-nanvarianceyc",
+        "description": "Calculate the variance of a strided array ignoring NaN values and using a one-pass algorithm proposed by Youngs and Cramer."
+    },
+    {
+        "name": "@bettaibi/react-blocknote",
+        "description": "A modern, versatile rich text editor component for React applications with an elegant UI and Notion-like functionality. Supports both React 18 and React 19."
+    },
+    {
+        "name": "@stdlib/math-base-napi-ternary",
+        "description": "C APIs for registering a Node-API module exporting an interface for invoking a ternary numerical function."
+    },
+    {
+        "name": "my-package",
+        "description": "This is a sample package"
+    },
+    {
+        "name": "lomind",
+        "description": "Lomind is a tool library deeply inspired by Lodash, yet it's not intended to be a direct replacement for Lodash. The reason lies in Lodash's already proven excellence in performance and reliability. Instead, Lomind aims to assimilate the best practices fr"
+    },
+    {
+        "name": "@stdlib/blas-ext-base-gsum",
+        "description": "Calculate the sum of strided array elements."
+    },
+    {
+        "name": "math-expression-atoms",
+        "description": "Atoms for constructing math expressions"
+    },
+    {
+        "name": "my-lib",
+        "description": "library of recurring, unconnected functions"
+    },
+    {
+        "name": "@util.js/numbers",
+        "description": "JavaScript utility methods for numbers"
+    },
+    {
+        "name": "@princedev/calculate",
+        "description": "Fast, lightweight, and extinsible mathematical and statistical functions."
+    },
+    {
+        "name": "compute-pcorr",
+        "description": "Computes Pearson product-moment correlation coefficients between one or more numeric arrays."
+    },
+    {
+        "name": "@stdlib/stats-bartlett-test",
+        "description": "Bartlett’s test for equal variances."
+    },
+    {
+        "name": "pex-math",
+        "description": "Array-based vector, quaternion and matrix math with utils for PEX."
+    },
+    {
+        "name": "@stdlib/math-base-special-sincos",
+        "description": "Simultaneously compute the sine and cosine of a number."
+    },
+    {
+        "name": "@stdlib/stats-base-dmaxabssorted",
+        "description": "Calculate the maximum absolute value of a sorted double-precision floating-point strided array."
+    },
+    {
+        "name": "@galacticcouncil/math-hsm",
+        "description": "HSM pool math"
+    },
+    {
+        "name": "@stdlib/stats-base-mskmax",
+        "description": "Calculate the maximum value of a strided array according to a mask."
+    },
+    {
+        "name": "compute.io",
+        "description": "Computation library."
+    },
+    {
+        "name": "@aryth/distinct-vector",
+        "description": "A math util library"
+    },
+    {
+        "name": "@commonly/math",
+        "description": "Collection of mathematics utilities."
+    },
+    {
+        "name": "@stdlib/blas-ext-base-gfill",
+        "description": "Fill a strided array with a specified scalar constant."
+    },
+    {
+        "name": "react-tex",
+        "description": "React component using Khan Academy's Katex library"
+    },
+    {
+        "name": "@stdlib/stats-base-nanstdevwd",
+        "description": "Calculate the standard deviation of a strided array ignoring NaN values and using Welford's algorithm."
+    },
+    {
+        "name": "@thi.ng/units",
+        "description": "Extensible SI unit creation, conversions, quantities & calculations (incl. ~170 predefined units & constants)"
+    },
+    {
+        "name": "modulo-x",
+        "description": "modulo - floored division implementation."
+    },
+    {
+        "name": "kairos",
+        "description": "A non date-based time calculator"
+    },
+    {
+        "name": "@stdlib/blas-ext-base-grev",
+        "description": "Reverse a strided array in-place."
+    },
+    {
+        "name": "@anselan/maprange",
+        "description": "Map values from one range to another"
+    },
+    {
+        "name": "@vect/object-update",
+        "description": "Update object"
+    },
+    {
+        "name": "@stdlib/stats-base-nanvariancech",
+        "description": "Calculate the variance of a strided array ignoring NaN values and using a one-pass trial mean algorithm."
+    },
+    {
+        "name": "@osmosis-labs/math",
+        "description": "Math functions related to Osmosis AMM. Useful for estimating state changes to propose reasonable min/max amounts in transactions."
+    },
+    {
+        "name": "math-kit",
+        "description": "Math utilities (random, stats, and more)"
+    },
+    {
+        "name": "@gerhobbelt/mathjax-third-party-extensions",
+        "description": "A list of MathJax extensions provided by third-party contributors"
+    },
+    {
+        "name": "mathador",
+        "description": "a typescript module implementing some vector and matrix math"
+    },
+    {
+        "name": "angular-ts-math",
+        "description": "Angular ts numbers and math!"
+    },
+    {
+        "name": "rulyotano.math",
+        "description": "Math helper for js"
+    },
+    {
+        "name": "@damienmortini/lib",
+        "description": "Helpers library for the web."
+    },
+    {
+        "name": "node-cint64",
+        "description": "Providing native 64-bit integer arithmetic for Node!"
+    },
+    {
+        "name": "@stdlib/stats-base-smediansorted",
+        "description": "Calculate the median value of a sorted single-precision floating-point strided array."
+    },
+    {
+        "name": "math-float32-to-binary-string",
+        "description": "Returns a string giving the literal bit representation of a single-precision floating-point number."
+    },
+    {
+        "name": "@stdlib/stats-base-nanvariancewd",
+        "description": "Calculate the variance of a strided array ignoring NaN values and using Welford's algorithm."
+    },
+    {
+        "name": "@stdlib/blas-base-sdot",
+        "description": "Calculate the dot product of two single-precision floating-point vectors."
+    },
+    {
+        "name": "@stemcmicro/stack",
+        "description": "Provides the meaning of universal mathematics symbols"
+    },
+    {
+        "name": "@stdlib/stats-base-scumax",
+        "description": "Calculate the cumulative maximum of single-precision floating-point strided array elements."
+    },
+    {
+        "name": "vwap",
+        "description": "Calculate the Volume-Weighted Average Price (VWAP)"
+    },
+    {
+        "name": "@gitborlando/utils",
+        "description": "JavaScript/TypeScript 实用工具集合"
+    },
+    {
+        "name": "coons-patch",
+        "description": "Create a Coons patch and access points and curves on its surface"
+    },
+    {
+        "name": "pimath",
+        "description": "A math library for teacher :)"
+    },
+    {
+        "name": "konpeito",
+        "description": "The collection of javascirpt library such as numerical calculation."
+    },
+    {
+        "name": "docx-math-extension",
+        "description": "Easily generate .docx files with JS/TS with a nice declarative API including math equations support. Extended from original docx library. Works for Node and on the Browser."
+    },
+    {
+        "name": "@damienmortini/core",
+        "description": "Helpers library for the web."
+    },
+    {
+        "name": "@zazzik/react-mandelbrot",
+        "description": "React component library for rendering Mandelbrot fractals with Web Worker support"
+    },
+    {
+        "name": "fractions",
+        "description": "A library to help do more precise fractional math"
+    },
+    {
+        "name": "@revoltchat/rehype-katex",
+        "description": "rehype plugin to transform inline and block math with KaTeX"
+    },
+    {
+        "name": "zigante",
+        "description": "Use this package to help on your day by day."
+    },
+    {
+        "name": "wtc-math",
+        "description": "A math library that provides discrete components for common math operations. Includes vectors, matrices and quaternions."
+    },
+    {
+        "name": "mean-average",
+        "description": "Get the mean of an array of numbers."
+    }
+]

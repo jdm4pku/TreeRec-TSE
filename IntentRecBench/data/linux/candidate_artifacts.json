@@ -1,0 +1,570 @@
+[
+    {
+        "name": "Additional Development",
+        "description": "Additional development headers and libraries for building open-source applications."
+    },
+    {
+        "name": "Anaconda Tools",
+        "description": "Anaconda Tools"
+    },
+    {
+        "name": "Backup Client",
+        "description": "Client tools for connecting to a backup server and doing backups."
+    },
+    {
+        "name": "Backup Server",
+        "description": "Software to centralize your infrastructure's backups."
+    },
+    {
+        "name": "Base",
+        "description": "The basic installation of CentOS Linux."
+    },
+    {
+        "name": "CentOS Linux Client product core",
+        "description": "Packages mandatory for the client product."
+    },
+    {
+        "name": "Compatibility Libraries",
+        "description": "Compatibility libraries for applications built on previous versions of CentOS Linux."
+    },
+    {
+        "name": "CentOS Linux ComputeNode product core",
+        "description": "Packages mandatory for the computenode product."
+    },
+    {
+        "name": "Conflicts (Client)",
+        "description": "This group includes packages conflicting with @everything installation on the Client variant."
+    },
+    {
+        "name": "Conflicts (ComputeNode)",
+        "description": "This group includes packages conflicting with @everything installation on the ComputeNode variant."
+    },
+    {
+        "name": "Conflicts (Server)",
+        "description": "This group includes packages conflicting with @everything installation on the Server variant."
+    },
+    {
+        "name": "Conflicts (Workstation)",
+        "description": "This group includes packages conflicting with @everything installation on the Workstation variant."
+    },
+    {
+        "name": "Console Internet Tools",
+        "description": "Console internet access tools"
+    },
+    {
+        "name": "Core",
+        "description": "Smallest possible installation."
+    },
+    {
+        "name": "Debugging Tools",
+        "description": "Tools for debugging misbehaving applications and diagnosing performance problems."
+    },
+    {
+        "name": "Desktop Debugging and Performance Tools",
+        "description": "GUI tools for debugging applications and performance."
+    },
+    {
+        "name": "Development Tools",
+        "description": "A basic development environment."
+    },
+    {
+        "name": "Dial-up Networking Support",
+        "description": "Tools for connecting via WWAN"
+    },
+    {
+        "name": "Directory Client",
+        "description": "Clients for integration into a network managed by a directory service."
+    },
+    {
+        "name": "Directory Server",
+        "description": "Machine and user identity servers."
+    },
+    {
+        "name": "DNS Name Server",
+        "description": "This package group allows you to run a DNS name server (BIND) on the system."
+    },
+    {
+        "name": "Emacs",
+        "description": "The GNU Emacs extensible"
+    },
+    {
+        "name": "File and Storage Server",
+        "description": "CIFS"
+    },
+    {
+        "name": "Fonts",
+        "description": "Fonts for rendering text in a variety of languages and scripts."
+    },
+    {
+        "name": "FTP Server",
+        "description": "Allows the system to act as an FTP server."
+    },
+    {
+        "name": "GNOME Applications",
+        "description": "A set of commonly used GNOME Applications."
+    },
+    {
+        "name": "GNOME",
+        "description": "GNOME is a highly intuitive and user friendly desktop environment."
+    },
+    {
+        "name": "Graphical Administration Tools",
+        "description": "Graphical system administration tools for managing many aspects of a system."
+    },
+    {
+        "name": "Graphics Creation Tools",
+        "description": "Software for creation and manipulation of still images."
+    },
+    {
+        "name": "Guest Agents",
+        "description": "Agents used when running under a hypervisor."
+    },
+    {
+        "name": "Guest Desktop Agents",
+        "description": "Agents used when running as a virtualized desktop."
+    },
+    {
+        "name": "High Availability",
+        "description": "Infrastructure for highly available services and/or shared storage."
+    },
+    {
+        "name": "Hardware Monitoring Utilities",
+        "description": "A set of tools to monitor server hardware."
+    },
+    {
+        "name": "Identity Management Server",
+        "description": "Centralized management of users"
+    },
+    {
+        "name": "Infiniband Support",
+        "description": "Software designed for supporting clustering and grid connectivity using RDMA-based InfiniBand and iWARP fabrics."
+    },
+    {
+        "name": "Input Methods",
+        "description": "Software for the input of international text."
+    },
+    {
+        "name": "Internet Applications",
+        "description": "Email"
+    },
+    {
+        "name": "Internet Browser",
+        "description": "Firefox web browser."
+    },
+    {
+        "name": "Java Platform",
+        "description": "Java support for the CentOS Linux Server and Desktop Platforms."
+    },
+    {
+        "name": "KDE Applications",
+        "description": "A set of commonly used KDE Applications."
+    },
+    {
+        "name": "KDE",
+        "description": "The KDE Plasma Workspaces"
+    },
+    {
+        "name": "KDE Multimedia Support",
+        "description": "Multimedia support for KDE."
+    },
+    {
+        "name": "Large Systems Performance",
+        "description": "Performance support tools for large systems."
+    },
+    {
+        "name": "Legacy UNIX Compatibility",
+        "description": "Compatibility programs for migration from or working with legacy UNIX environments."
+    },
+    {
+        "name": "Legacy X Window System Compatibility",
+        "description": "Compatibility programs for migration from or working with legacy X Window System environments."
+    },
+    {
+        "name": "Load Balancer",
+        "description": "Load balancing support for network traffic."
+    },
+    {
+        "name": "E-mail Server",
+        "description": "Allows the system to act as a SMTP and/or IMAP e-mail server."
+    },
+    {
+        "name": "Mainframe Access",
+        "description": "Tools for accessing mainframe computing resources."
+    },
+    {
+        "name": "MariaDB Database Server",
+        "description": "The MariaDB SQL database server"
+    },
+    {
+        "name": "MariaDB Database Client",
+        "description": "The MariaDB SQL database client"
+    },
+    {
+        "name": "Multimedia",
+        "description": "Audio/video framework common to desktops."
+    },
+    {
+        "name": "Network File System Client",
+        "description": "Enables the system to attach to network storage."
+    },
+    {
+        "name": "Network Infrastructure Server",
+        "description": "Servers for core network protocols and services"
+    },
+    {
+        "name": "Networking Tools",
+        "description": "Tools for configuring and analyzing computer networks."
+    },
+    {
+        "name": "Common NetworkManager submodules",
+        "description": "This group contains NetworkManager submodules that are commonly used"
+    },
+    {
+        "name": "Office Suite and Productivity",
+        "description": "A full-purpose office suite"
+    },
+    {
+        "name": "Performance Tools",
+        "description": "Tools for diagnosing system and application-level performance problems."
+    },
+    {
+        "name": "Perl Support",
+        "description": "Perl interfaces to common libraries and functionality."
+    },
+    {
+        "name": "Perl for Web",
+        "description": "Basic Perl web application support."
+    },
+    {
+        "name": "PHP Support",
+        "description": "PHP web application framework."
+    },
+    {
+        "name": "Platform Development",
+        "description": "Recommended development headers and libraries for developing applications to run on CentOS Linux."
+    },
+    {
+        "name": "KVM platform specific packages",
+        "description": "Virtualization utilities and drivers for KVM"
+    },
+    {
+        "name": "Hyper-v platform specific packages",
+        "description": "Virtualization utilities and drivers for Hyper-v"
+    },
+    {
+        "name": "VMware platform specific packages",
+        "description": "Virtualization utilities and drivers for VMware"
+    },
+    {
+        "name": "PostgreSQL Database Server",
+        "description": "The PostgreSQL SQL database server"
+    },
+    {
+        "name": "PostgreSQL Database Client",
+        "description": "The PostgreSQL SQL database client"
+    },
+    {
+        "name": "Printing Client",
+        "description": "Tools for printing to a local printer or a remote print server."
+    },
+    {
+        "name": "Print Server",
+        "description": "Allows the system to act as a print server."
+    },
+    {
+        "name": "Python",
+        "description": "Basic Python web application support."
+    },
+    {
+        "name": "Remote Desktop Clients",
+        "description": "Remote Desktop Clients"
+    },
+    {
+        "name": "Remote Management for Linux",
+        "description": "Remote management interface for CentOS Linux"
+    },
+    {
+        "name": "Resilient Storage",
+        "description": "Clustered storage"
+    },
+    {
+        "name": "Ruby Support",
+        "description": "Ruby interfaces to common libraries and functionality."
+    },
+    {
+        "name": "Scientific Support",
+        "description": "Tools for mathematical and scientific computations"
+    },
+    {
+        "name": "Security Tools",
+        "description": "Security tools for integrity and trust verification."
+    },
+    {
+        "name": "CentOS Linux Server product core",
+        "description": "Packages mandatory for the server product."
+    },
+    {
+        "name": "Smart Card Support",
+        "description": "Support for using smart card authentication."
+    },
+    {
+        "name": "System Administration Tools",
+        "description": "Utilities useful in system administration."
+    },
+    {
+        "name": "System Management",
+        "description": "Various low-level hardware management frameworks."
+    },
+    {
+        "name": "Technical Writing",
+        "description": "Tools for writing technical documentation."
+    },
+    {
+        "name": "Virtualization Client",
+        "description": "Clients for installing and managing virtualization instances."
+    },
+    {
+        "name": "Virtualization Hypervisor",
+        "description": "Smallest possible virtualization host installation."
+    },
+    {
+        "name": "Virtualization Platform",
+        "description": "Provides an interface for accessing and controlling virtualized guests and containers."
+    },
+    {
+        "name": "Virtualization Tools",
+        "description": "Tools for offline virtual image management."
+    },
+    {
+        "name": "Web Server",
+        "description": "Allows the system to act as a web server"
+    },
+    {
+        "name": "Web Servlet Engine",
+        "description": "Allows the system to host Java servlets."
+    },
+    {
+        "name": "CentOS Linux Workstation product core",
+        "description": "Packages mandatory for the workstation product."
+    },
+    {
+        "name": "X Window System",
+        "description": "X Window System Support."
+    },
+    {
+        "name": "Anolis OS PowerTools",
+        "description": "Anolis OS Devel PowerTools packages."
+    },
+    {
+        "name": "base-x",
+        "description": "Local X.org display server"
+    },
+    {
+        "name": "Conflicts AppStream",
+        "description": "This group includes packages conflicting with an everything installation from the AppStream repo"
+    },
+    {
+        "name": "Fonts",
+        "description": "Fonts packages for rendering text on the desktop."
+    },
+    {
+        "name": "Atomic Host ostree support",
+        "description": "Packages mandatory for ostree support."
+    },
+    {
+        "name": "Standard",
+        "description": "The standard installation of Anolis OS."
+    },
+    {
+        "name": "TeX formatting system",
+        "description": "The TeX system for editing"
+    },
+    {
+        "name": "Conflicts BaseOS",
+        "description": "This group includes packages conflicting with an everything installation from the BaseOS repo"
+    },
+    {
+        "name": "Windows File Server",
+        "description": "This package group allows you to share files between Linux and MS Windows(tm) systems."
+    },
+    {
+        "name": "Deepin New Desktop Environment",
+        "description": "Deepin New Desktop Environment packages."
+    },
+    {
+        "name": "Alibaba dragnonwell",
+        "description": "Alibaba dragnonwell JDK"
+    },
+    {
+        "name": "Keentune Toolkit",
+        "description": "Keentune Toolkit"
+    },
+    {
+        "name": "VMware Platform Support",
+        "description": "Packages to install in VMware virtual machines"
+    },
+    {
+        "name": "Fedora Server product core",
+        "description": "Packages mandatory for the server product."
+    },
+    {
+        "name": "Budgie",
+        "description": "Budgie Desktop is a feature-rich"
+    },
+    {
+        "name": "Cinnamon",
+        "description": "Cinnamon provides a desktop with a traditional layout"
+    },
+    {
+        "name": "Bootloader tools for Cloud images",
+        "description": "Bootloader software for images that run in \"cloud\" environments"
+    },
+    {
+        "name": "Critical Path (anaconda)",
+        "description": "A set of packages that provide the Critical Path functionality for installing Fedora with anaconda"
+    },
+    {
+        "name": "Critical Path (Base)",
+        "description": "A set of packages that provide the shared platform for Critical Path functionality on all Fedora spins"
+    },
+    {
+        "name": "Critical Path (Build)",
+        "description": "A set of packages that provide the Critical Path functionality for building Fedora packages"
+    },
+    {
+        "name": "Critical Path (Compose)",
+        "description": "A set of packages that provide the Critical Path functionality for building Fedora deliverables"
+    },
+    {
+        "name": "Critical Path (KDE)",
+        "description": "A set of packages that provide the Critical Path functionality for the KDE desktop"
+    },
+    {
+        "name": "Critical Path (LXDE)",
+        "description": "A set of packages that provide the Critical Path functionality for the LXDE desktop"
+    },
+    {
+        "name": "Critical Path (standard)",
+        "description": "A set of packages that relate to Critical Path functionality and are in standard but not base"
+    },
+    {
+        "name": "D Development Tools and Libraries",
+        "description": "These include development tools and libraries such as ldc"
+    },
+    {
+        "name": "Design Suite",
+        "description": "These packages are targeted towards professional designers"
+    },
+    {
+        "name": "Editors",
+        "description": "Sometimes called text editors"
+    },
+    {
+        "name": "Fedora Packager",
+        "description": "Tools and utilities needed by a Fedora Packager"
+    },
+    {
+        "name": "Font design and packaging",
+        "description": "This group is a collection of tools used in the design"
+    },
+    {
+        "name": "Extra games for the GNOME Desktop",
+        "description": "A variety of games for the GNOME Desktop"
+    },
+    {
+        "name": "GNOME Software Development",
+        "description": "Install these packages in order to develop GTK+ and GNOME graphical applications."
+    },
+    {
+        "name": "Haskell",
+        "description": "Support for developing programs in the Haskell programming language."
+    },
+    {
+        "name": "i3 window manager",
+        "description": "i3 is a tiling window manager primarily targeted at advanced users and developers. This group is a minimal"
+    },
+    {
+        "name": "i3 window manager (supplemental packages)",
+        "description": "i3 is a tiling window manager primarily targeted at advanced users and developers. This group includes supplemental"
+    },
+    {
+        "name": "KDE Frameworks 5 Software Development",
+        "description": "Install these packages to develop applications using Qt5 and KDE Frameworks 5."
+    },
+    {
+        "name": "Legacy Network Server",
+        "description": "These packages include servers for old network protocols such as rsh and telnet."
+    },
+    {
+        "name": "LXDE",
+        "description": "LXDE is a lightweight X11 desktop environment designed for computers with low hardware specifications like netbooks"
+    },
+    {
+        "name": "Multimedia support for LXDE",
+        "description": "Multimedia support for LXDE"
+    },
+    {
+        "name": "LXQt",
+        "description": "LXQt is a lightweight X11 desktop environment designed for computers with low hardware specifications like netbooks"
+    },
+    {
+        "name": "Translations of LXQt",
+        "description": "Translations of LXQt"
+    },
+    {
+        "name": "Neuron Modelling Simulators",
+        "description": "This group includes simulators used in modelling of neurons and their networks."
+    },
+    {
+        "name": "OCaml",
+        "description": "Support for developing software using the Objective Caml programming language and libraries."
+    },
+    {
+        "name": "Python Science",
+        "description": "Tools used to do science in Python."
+    },
+    {
+        "name": "Additional Sugar Activities",
+        "description": "Additional activities for use with the Sugar Environment."
+    },
+    {
+        "name": "Sway Window Manager",
+        "description": "Sway is a tiling window manager supporting Wayland compositor protocol and i3-compatible configuration. This group is a minimal set of packages to use Sway with other system components."
+    },
+    {
+        "name": "Sway Window Manager (supplemental packages)",
+        "description": "Sway is a tiling window manager supporting Wayland compositor protocol and i3-compatible configuration. This group includes additional set of packages for Fedora Sway spin."
+    },
+    {
+        "name": "Basic Web Server",
+        "description": "These tools allow you to run a Web server on the system."
+    },
+    {
+        "name": "Window Managers",
+        "description": "Simple window managers that aren't part of a larger desktop environment."
+    },
+    {
+        "name": "Fedora Workstation ostree support",
+        "description": "Packages mandatory for the workstation ostree product."
+    },
+    {
+        "name": "Fedora Workstation product core",
+        "description": "Packages mandatory for the workstation product."
+    },
+    {
+        "name": "X Software Development",
+        "description": "These packages allow you to develop applications for the X Window System."
+    },
+    {
+        "name": "Applications for the Xfce Desktop",
+        "description": "A set of commonly used applications for the Xfce Desktop"
+    },
+    {
+        "name": "XMonad",
+        "description": "A tiling window manager"
+    },
+    {
+        "name": "KDE Frameworks 6 Software Development",
+        "description": "Install these packages to develop applications using Qt6 and KDE Frameworks 6."
+    }
+]

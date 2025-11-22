@@ -1,0 +1,3368 @@
+[
+    {
+        "intent": "I want to generate original music tracks from text prompts using JavaScript in a web application.",
+        "gold": "Xenova/musicgen-small",
+        "ranking": [
+            "facebook/musicgen-large",
+            "facebook/musicgen-small",
+            "stabilityai/stable-audio-open-1.0",
+            "suno/bark",
+            "suno/bark-small"
+        ]
+    },
+    {
+        "intent": "I want a model that can understand and generate text and visual content, analyze images and videos, perform spatial reasoning, recognize objects and text in multiple languages, and interact with graphical user interfaces.",
+        "gold": "Qwen/Qwen3-VL-8B-Instruct",
+        "ranking": [
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "prithivMLmods/Phi-4-Empathetic",
+            "zai-org/GLM-4.5V"
+        ]
+    },
+    {
+        "intent": "I want a model that can understand and generate text based on images and videos, perform visual reasoning, recognize objects and text in multiple languages, and handle long documents or videos for tasks like GUI automation, coding from visuals, and multimodal question answering.",
+        "gold": "Qwen/Qwen3-VL-2B-Instruct",
+        "ranking": [
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF"
+        ]
+    },
+    {
+        "intent": "I want a flexible text-to-image model that I can fine-tune for custom generative art or visual content creation.",
+        "gold": "lodestones/Chroma1-HD",
+        "ranking": [
+            "merve/smol-vision",
+            "lrzjason/QwenImage-Rebalance",
+            "microsoft/Phi-3.5-vision-instruct",
+            "Efficient-Large-Model/Sana_1600M_1024px",
+            "unsloth/gemma-3n-E2B-it-GGUF"
+        ]
+    },
+    {
+        "intent": "I want a model that can answer questions and describe images without refusing sensitive or controversial prompts.",
+        "gold": "huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliterated",
+        "ranking": [
+            "WhiteRabbitNeo/WhiteRabbitNeo-13B-v1",
+            "fedric95/Qwen3-4B-Instruct-2507-unc",
+            "WhiteRabbitNeo/Llama-3-WhiteRabbitNeo-8B-v2.0",
+            "WhiteRabbitNeo/Llama-3.1-WhiteRabbitNeo-2-70B",
+            "prithivMLmods/Phi-4-Empathetic"
+        ]
+    },
+    {
+        "intent": "I want to generate 2D images from text prompts that follow the layout of a given semantic image, for use in creating realistic 3D indoor scenes.",
+        "gold": "manycore-research/FLUX.1-Layout-ControlNet",
+        "ranking": [
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "monster-labs/control_v1p_sd15_qrcode_monster",
+            "xinsir/controlnet-union-sdxl-1.0",
+            "cyberdelia/CyberRealistic",
+            "lrzjason/QwenImage-Rebalance"
+        ]
+    },
+    {
+        "intent": "I want to generate original music tracks from text descriptions or audio prompts.",
+        "gold": "facebook/musicgen-large",
+        "ranking": [
+            "suno/bark",
+            "stabilityai/stable-audio-open-1.0",
+            "facebook/musicgen-large",
+            "facebook/musicgen-small",
+            "SonyCSLParis/music2latent"
+        ]
+    },
+    {
+        "intent": "I want to generate detailed 3D representations of a scene—including point clouds, depth maps, camera parameters, and surface normals—using available geometric priors like camera poses and depth information.",
+        "gold": "tencent/HunyuanWorld-Mirror",
+        "ranking": [
+            "lovis93/next-scene-qwen-image-lora-2509",
+            "lovis93/Motion-Lora-Camera-Push-In-Wan-14B-720p-I2V",
+            "purplesmartai/Pony-InternVL2-26B-AWQ",
+            "thedeoxen/refcontrol-flux-kontext-reference-pose-lora",
+            "cyberdelia/CyberRealistic"
+        ]
+    },
+    {
+        "intent": "Intent Description: I want a language model that can follow instructions, generate code, solve math problems, and handle complex reasoning tasks efficiently.",
+        "gold": "inclusionAI/LLaDA2.0-mini-preview",
+        "ranking": [
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF",
+            "Qwen/Qwen2.5-Math-7B-Instruct",
+            "prithivMLmods/Phi-4-Empathetic"
+        ]
+    },
+    {
+        "intent": "Intent Description: I want to convert complex, multilingual document images—including handwritten text, tables, equations, charts, and forms—into structured markdown with semantic tags for easier processing and analysis.",
+        "gold": "nanonets/Nanonets-OCR2-3B",
+        "ranking": [
+            "prithivMLmods/Gliese-OCR-7B-Post2.0-final",
+            "nanonets/Nanonets-OCR2-3B",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "ByteDance/Dolphin-1.5",
+            "ByteDance/Dolphin"
+        ]
+    },
+    {
+        "intent": "I want to generate high-quality multilingual text embeddings for tasks like document retrieval, clustering, classification, or code search.",
+        "gold": "Qwen/Qwen3-Embedding-8B",
+        "ranking": [
+            "onnx-community/embeddinggemma-300m-ONNX",
+            "jinaai/jina-embeddings-v4",
+            "BAAI/bge-m3",
+            "sbintuitions/sarashina-embedding-v2-1b",
+            "Qwen/Qwen3-Embedding-0.6B"
+        ]
+    },
+    {
+        "intent": "I want a large language model for code generation and function calling that uses less memory and is suitable for resource-constrained deployments.",
+        "gold": "cerebras/GLM-4.6-REAP-268B-A32B",
+        "ranking": [
+            "unsloth/phi-4-GGUF",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "PocketDoc/Dans-PersonalityEngine-V1.3.0-24b",
+            "NexaAI/Octopus-v2",
+            "Salesforce/xLAM-1b-fc-r"
+        ]
+    },
+    {
+        "intent": "I want to generate original music tracks from text descriptions or audio prompts.",
+        "gold": "facebook/musicgen-small",
+        "ranking": [
+            "suno/bark",
+            "stabilityai/stable-audio-open-1.0",
+            "facebook/musicgen-large",
+            "facebook/musicgen-small",
+            "SonyCSLParis/music2latent"
+        ]
+    },
+    {
+        "intent": "I want to automatically detect and extract sensitive information like names, phone numbers, and account details from text, with the ability to specify custom entity types for privacy compliance.",
+        "gold": "knowledgator/gliner-pii-large-v1.0",
+        "ranking": [
+            "NetoAISolutions/TSLAM-4B",
+            "microsoft/OmniParser",
+            "knowledgator/gliner-pii-large-v1.0",
+            "WhiteRabbitNeo/WhiteRabbitNeo-13B-v1",
+            "nvidia/nemoretriever-table-structure-v1"
+        ]
+    },
+    {
+        "intent": "I want a language model that excels at complex reasoning, math, and coding tasks, and is available in a distilled, efficient version for research or deployment.",
+        "gold": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+        "ranking": [
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF",
+            "Qwen/Qwen2.5-Math-7B",
+            "MiniMaxAI/MiniMax-M1-80k",
+            "MiniMaxAI/MiniMax-M1-40k"
+        ]
+    },
+    {
+        "intent": "I want to automatically identify who is speaking and when in an audio recording.",
+        "gold": "pyannote/speaker-diarization-3.1",
+        "ranking": [
+            "asif00/Kokoro-Conversational",
+            "sphiratrioth666/Lorebooks_as_ACTIVE_scenario_and_character_guidance_tool",
+            "goonsai-com/civitaiprompts",
+            "ArliAI/Qwen2.5-32B-ArliAI-RPMax-v1.3",
+            "jondurbin/bagel-dpo-34b-v0.5"
+        ]
+    },
+    {
+        "intent": "I want to generate a 3D scene from a single image.",
+        "gold": "haoningwu/SceneGen",
+        "ranking": [
+            "vita-video-gen/svi-model",
+            "flymy-ai/qwen-image-edit-2509-inscene-lora",
+            "dx8152/White_to_Scene",
+            "MiaoshouAI/Florence-2-large-PromptGen-v2.0",
+            "mistral-community/pixtral-12b"
+        ]
+    },
+    {
+        "intent": "I want a general-purpose large language model for tasks like text generation, summarization, and question answering.",
+        "gold": "meta-llama/Llama-3.1-8B",
+        "ranking": [
+            "MBZUAI/LaMini-Flan-T5-783M",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "medalpaca/medalpaca-7b",
+            "raidium/MQG",
+            "utter-project/TowerVideo-9B"
+        ]
+    },
+    {
+        "intent": "I want a large language model for code generation, function calling, and agentic workflows that is memory-efficient and suitable for deployment in resource-constrained environments.",
+        "gold": "cerebras/GLM-4.6-REAP-218B-A32B",
+        "ranking": [
+            "MiniMaxAI/MiniMax-M1-80k",
+            "MiniMaxAI/MiniMax-M1-40k",
+            "Salesforce/xLAM-1b-fc-r",
+            "Salesforce/Llama-xLAM-2-8b-fc-r",
+            "janhq/Jan-v1-edge-gguf"
+        ]
+    },
+    {
+        "intent": "I want to generate both images and corresponding depth maps from text prompts.",
+        "gold": "Intel/ldm3d",
+        "ranking": [
+            "xinsir/controlnet-scribble-sdxl-1.0",
+            "CompVis/stable-diffusion-v1-4",
+            "xinsir/controlnet-union-sdxl-1.0",
+            "lrzjason/QwenImage-Rebalance",
+            "stabilityai/stable-diffusion-x4-upscaler"
+        ]
+    },
+    {
+        "intent": "I want a multilingual language model that can handle complex reasoning, follow instructions, generate code, and support agent-based tasks.",
+        "gold": "Qwen/Qwen3-4B",
+        "ranking": [
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to detect and estimate human body keypoints in images for pose estimation tasks.",
+        "gold": "usyd-community/vitpose-base-simple",
+        "ranking": [
+            "usyd-community/vitpose-base-simple",
+            "usyd-community/vitpose-plus-base",
+            "teemosliang/SDPose-Body",
+            "teemosliang/SDPose-Wholebody",
+            "keras-io/deeplabv3p-resnet50"
+        ]
+    },
+    {
+        "intent": "I want to generate high-quality stereo audio clips from text prompts.",
+        "gold": "stabilityai/stable-audio-open-1.0",
+        "ranking": [
+            "openbmb/VoxCPM-0.5B",
+            "suno/bark",
+            "vita-video-gen/svi-model",
+            "OuteAI/Llama-OuteTTS-1.0-1B",
+            "facebook/encodec_24khz"
+        ]
+    },
+    {
+        "intent": "Intent Description: I want a model that can understand and reason about video content, providing explanations or answers based on what happens in the video.",
+        "gold": "QiWang98/VideoRFT",
+        "ranking": [
+            "jondurbin/bagel-dpo-34b-v0.5",
+            "CharGen/CharGen-v3-mini",
+            "WhiteRabbitNeo/WhiteRabbitNeo-13B-v1",
+            "goonsai-com/civitaiprompts",
+            "CohereLabs/c4ai-command-r-plus-08-2024"
+        ]
+    },
+    {
+        "intent": "I want to process and understand extremely long text sequences by converting them into images and using a vision-language model for inference.",
+        "gold": "zai-org/Glyph",
+        "ranking": [
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "starvector/starvector-8b-im2svg",
+            "HuggingFaceTB/SmolVLM-500M-Instruct",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "tencent/HunyuanImage-2.1"
+        ]
+    },
+    {
+        "intent": "I want to generate text embeddings for search, retrieval, or semantic similarity tasks that can run efficiently on devices with limited resources and support multiple languages.",
+        "gold": "google/embeddinggemma-300m",
+        "ranking": [
+            "onnx-community/embeddinggemma-300m-ONNX",
+            "LiquidAI/LFM2-ColBERT-350M",
+            "google/embeddinggemma-300m",
+            "BAAI/bge-m3",
+            "microsoft/Phi-4-multimodal-instruct"
+        ]
+    },
+    {
+        "intent": "I want a multilingual language model that can handle complex reasoning, follow instructions, generate code, and support agent-based tasks.",
+        "gold": "Qwen/Qwen3-30B-A3B",
+        "ranking": [
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to detect and estimate detailed human body, face, hand, and foot keypoints in high-resolution images.",
+        "gold": "facebook/sapiens-pose-1b-torchscript",
+        "ranking": [
+            "Anzhc/Anzhcs_YOLOs",
+            "usyd-community/vitpose-base-simple",
+            "usyd-community/vitpose-plus-base",
+            "LyliaEngine/nsfwPonyWildcards_v11",
+            "ND911/SD_1.5_for_reals"
+        ]
+    },
+    {
+        "intent": "I want to extract and recognize text, tables, formulas, and charts from documents in multiple languages.",
+        "gold": "PaddlePaddle/PaddleOCR-VL",
+        "ranking": [
+            "PleIAs/Segmentext",
+            "prithivMLmods/Gliese-OCR-7B-Post2.0-final",
+            "microsoft/OmniParser",
+            "microsoft/OmniParser-v2.0",
+            "microsoft/Phi-4-multimodal-instruct"
+        ]
+    },
+    {
+        "intent": "I want to detect and classify emotions like happy, sad, angry, or surprised from audio recordings of speech.",
+        "gold": "firdhokk/speech-emotion-recognition-with-openai-whisper-large-v3",
+        "ranking": [
+            "fishaudio/openaudio-s1-mini",
+            "ai4bharat/indic-parler-tts",
+            "openbmb/VoxCPM-0.5B",
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "NandemoGHS/Anime-Llasa-3B-Captions"
+        ]
+    },
+    {
+        "intent": "I want a model that can interpret language and visual inputs to control humanoid robots for manipulation tasks in different environments.",
+        "gold": "nvidia/GR00T-N1.5-3B",
+        "ranking": [
+            "lerobot/pi05_base",
+            "prithivMLmods/Phi-4-Empathetic",
+            "microsoft/OmniParser",
+            "microsoft/Phi-4-multimodal-instruct",
+            "microsoft/Phi-3.5-vision-instruct"
+        ]
+    },
+    {
+        "intent": "I want to generate or edit videos in real time using text prompts or existing video input, with the ability to interactively control and restyle the output during generation.",
+        "gold": "krea/krea-realtime-video",
+        "ranking": [
+            "vita-video-gen/svi-model",
+            "monster-labs/control_v1p_sd15_qrcode_monster",
+            "numz/wav2lip_studio",
+            "xinsir/controlnet-union-sdxl-1.0",
+            "Skywork/Matrix-3D"
+        ]
+    },
+    {
+        "intent": "I want to detect specific spoken keywords in audio recordings.",
+        "gold": "superb/wav2vec2-base-superb-ks",
+        "ranking": [
+            "openai/whisper-medium",
+            "openai/whisper-base",
+            "openai/whisper-small",
+            "openai/whisper-large-v2",
+            "openai/whisper-tiny"
+        ]
+    },
+    {
+        "intent": "I want a language model that can follow instructions and process extremely long text inputs, up to hundreds of thousands of tokens.",
+        "gold": "Qwen/Qwen3-Next-80B-A3B-Instruct",
+        "ranking": [
+            "HuggingFaceTB/SmolVLM-500M-Instruct",
+            "google/gemma-7b-aps-it",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "google/gemma-3n-E2B-it",
+            "google/gemma-3n-E4B-it"
+        ]
+    },
+    {
+        "intent": "I want to generate embeddings for text, images, and visually complex documents in multiple languages to improve search and retrieval across different content types.",
+        "gold": "jinaai/jina-embeddings-v4",
+        "ranking": [
+            "onnx-community/embeddinggemma-300m-ONNX",
+            "google/embeddinggemma-300m",
+            "microsoft/Phi-4-multimodal-instruct",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "prithivMLmods/Gliese-OCR-7B-Post2.0-final"
+        ]
+    },
+    {
+        "intent": "I want to estimate depth information from images.",
+        "gold": "prs-eth/marigold-depth-v1-0",
+        "ranking": [
+            "depth-anything/Depth-Anything-V2-Large-hf",
+            "apple/DepthPro-hf",
+            "apple/DepthPro",
+            "xinsir/controlnet-union-sdxl-1.0",
+            "xinsir/controlnet-scribble-sdxl-1.0"
+        ]
+    },
+    {
+        "intent": "I want a model that can understand and answer questions about video content, including detailed analysis of long and complex videos.",
+        "gold": "OpenGVLab/InternVideo2_5_Chat_8B",
+        "ranking": [
+            "prithivMLmods/Phi-4-Empathetic",
+            "vita-video-gen/svi-model",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "microsoft/OmniParser"
+        ]
+    },
+    {
+        "intent": "I want to automatically transcribe spoken audio into text in multiple European languages, with features like language detection, punctuation, and timestamps.",
+        "gold": "nvidia/parakeet-tdt-0.6b-v3",
+        "ranking": [
+            "nvidia/canary-1b-v2",
+            "bond005/whisper-podlodka-turbo",
+            "openai/whisper-base",
+            "openai/whisper-small",
+            "openai/whisper-tiny"
+        ]
+    },
+    {
+        "intent": "I want to generate a 3D character model from a single image.",
+        "gold": "zjpshadow/CharacterGen",
+        "ranking": [
+            "MiaoshouAI/Florence-2-large-PromptGen-v2.0",
+            "Falconsai/nsfw_image_detection",
+            "shreyanshu09/block_diagram_global_information",
+            "ostris/qwen_image_detail_slider",
+            "fancyfeast/llama-joycaption-beta-one-hf-llava"
+        ]
+    },
+    {
+        "intent": "I want to generate coherent English text based on a given prompt.",
+        "gold": "openai-community/gpt2",
+        "ranking": [
+            "NandemoGHS/Anime-Llasa-3B-Captions",
+            "CohereLabs/c4ai-command-r-v01",
+            "CohereLabs/c4ai-command-r-plus-08-2024",
+            "jondurbin/bagel-dpo-34b-v0.5",
+            "microsoft/Phi-4-multimodal-instruct"
+        ]
+    },
+    {
+        "intent": "I want a model that can understand and describe videos, images, and text in multiple languages, including tasks like captioning, summarization, and answering questions about visual content.",
+        "gold": "utter-project/TowerVideo-9B",
+        "ranking": [
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "prithivMLmods/Gliese-OCR-7B-Post2.0-final",
+            "prithivMLmods/Qwen3-VL-8B-Instruct-abliterated",
+            "microsoft/Phi-4-multimodal-instruct"
+        ]
+    },
+    {
+        "intent": "I want to generate high-quality images from text prompts using an open-source model.",
+        "gold": "black-forest-labs/FLUX.1-schnell",
+        "ranking": [
+            "tencent/HunyuanImage-2.1",
+            "Open-Bee/Bee-8B-SFT",
+            "Open-Bee/Bee-8B-RL",
+            "fancyfeast/llama-joycaption-beta-one-hf-llava",
+            "fancyfeast/llama-joycaption-alpha-two-hf-llava"
+        ]
+    },
+    {
+        "intent": "I want a model that can help robots perceive their environment, reason about spatial and temporal tasks, and plan actions for complex real-world scenarios.",
+        "gold": "BAAI/RoboBrain2.0-7B",
+        "ranking": [
+            "ucd-dare/CarDreamer",
+            "lerobot/pi05_base",
+            "prithivMLmods/Phi-4-Empathetic",
+            "microsoft/OmniParser",
+            "purplesmartai/pony-v7-base"
+        ]
+    },
+    {
+        "intent": "I want to generate natural-sounding speech audio from text, with options to control speaker identity, speech speed, and add expressive elements like laughter.",
+        "gold": "2Noise/ChatTTS",
+        "ranking": [
+            "openbmb/VoxCPM-0.5B",
+            "ai4bharat/indic-parler-tts",
+            "OuteAI/Llama-OuteTTS-1.0-1B",
+            "OuteAI/OuteTTS-0.2-500M",
+            "asif00/Kokoro-Conversational"
+        ]
+    },
+    {
+        "intent": "I want a model that can transcribe speech (including dialects), generate and edit images with high fidelity, perform voice cloning, and support multimodal tasks like video conversations.",
+        "gold": "inclusionAI/Ming-flash-omni-Preview",
+        "ranking": [
+            "openbmb/VoxCPM-0.5B",
+            "ICTNLP/stream-omni-8b",
+            "tarun7r/vibevoice-hindi-7b",
+            "microsoft/Phi-4-multimodal-instruct",
+            "OuteAI/Llama-OuteTTS-1.0-1B"
+        ]
+    },
+    {
+        "intent": "I want to answer questions about the content of documents, including scanned images and PDFs.",
+        "gold": "impira/layoutlm-document-qa",
+        "ranking": [
+            "CohereLabs/c4ai-command-r-plus-08-2024",
+            "microsoft/OmniParser",
+            "jondurbin/bagel-dpo-34b-v0.5",
+            "CohereLabs/c4ai-command-r-v01",
+            "PleIAs/Segmentext"
+        ]
+    },
+    {
+        "intent": "I want a multilingual language model that can handle complex reasoning, code generation, and general conversation, with the ability to switch between efficient dialogue and advanced problem-solving modes.",
+        "gold": "Qwen/Qwen3-1.7B",
+        "ranking": [
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "MiniMaxAI/MiniMax-M1-40k",
+            "MiniMaxAI/MiniMax-M1-80k",
+            "zai-org/GLM-4.1V-9B-Base"
+        ]
+    },
+    {
+        "intent": "I want to estimate the depth of each pixel in a single image to create detailed, high-resolution depth maps without needing camera information.",
+        "gold": "apple/DepthPro-hf",
+        "ranking": [
+            "thedeoxen/refcontrol-flux-kontext-reference-pose-lora",
+            "xinsir/controlnet-union-sdxl-1.0",
+            "lovis93/next-scene-qwen-image-lora-2509",
+            "purplesmartai/Pony-InternVL2-26B-AWQ",
+            "xinsir/controlnet-scribble-sdxl-1.0"
+        ]
+    },
+    {
+        "intent": "I want to generate expressive, natural-sounding speech from text in multiple languages, with control over emotion and voice style.",
+        "gold": "ResembleAI/chatterbox",
+        "ranking": [
+            "ai4bharat/indic-parler-tts",
+            "openbmb/VoxCPM-0.5B",
+            "NandemoGHS/Anime-Llasa-3B-Captions",
+            "OuteAI/Llama-OuteTTS-1.0-1B",
+            "ResembleAI/chatterbox"
+        ]
+    },
+    {
+        "intent": "I want to automatically generate concise summaries of long documents or articles.",
+        "gold": "Falconsai/text_summarization",
+        "ranking": [
+            "CohereLabs/c4ai-command-r-v01",
+            "CohereLabs/c4ai-command-r-plus-08-2024",
+            "prithivMLmods/Phi-4-Empathetic",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "WhiteRabbitNeo/WhiteRabbitNeo-13B-v1"
+        ]
+    },
+    {
+        "intent": "I want to generate vector embeddings for sentences or paragraphs to use in tasks like semantic search or clustering.",
+        "gold": "sentence-transformers/all-mpnet-base-v2",
+        "ranking": [
+            "hkunlp/instructor-base",
+            "hkunlp/instructor-xl",
+            "RepresentLM/RepresentLM-v1",
+            "FinLang/finance-embeddings-investopedia",
+            "onnx-community/embeddinggemma-300m-ONNX"
+        ]
+    },
+    {
+        "intent": "I want a language model that can handle very long inputs and perform complex reasoning tasks like coding, mathematics, and software engineering.",
+        "gold": "MiniMaxAI/MiniMax-M1-80k",
+        "ranking": [
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "prithivMLmods/Phi-4-Empathetic",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF"
+        ]
+    },
+    {
+        "intent": "I want a language model that can analyze single-cell RNA sequencing data to predict cell types, classify tissues, generate gene expression profiles, and assist with biological research tasks like cell atlas annotation and biomarker discovery.",
+        "gold": "vandijklab/C2S-Scale-Gemma-2-27B",
+        "ranking": [
+            "vandijklab/C2S-Scale-Gemma-2-27B",
+            "ctheodoris/Geneformer",
+            "Ruben-F/bloodcelldiff",
+            "google/cxr-foundation",
+            "alana89/TabSTAR"
+        ]
+    },
+    {
+        "intent": "I want to adjust the lighting in an image to create a relit effect using prompts.",
+        "gold": "dx8152/Relight",
+        "ranking": [
+            "ostris/qwen_image_detail_slider",
+            "goonsai-com/civitaiprompts",
+            "monster-labs/control_v1p_sd15_qrcode_monster",
+            "pharmapsychotic/sugar-glider",
+            "purplesmartai/Pony-InternVL2-40B-AWQ"
+        ]
+    },
+    {
+        "intent": "I want a small language model for generating and understanding text that I can use for building chatbots or other natural language applications.",
+        "gold": "meta-llama/Llama-3.2-1B-Instruct",
+        "ranking": [
+            "lapa-llm/lapa-12b-pt",
+            "UBC-NLP/cheetah-base",
+            "microsoft/OmniParser",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "prithivMLmods/Phi-4-Empathetic"
+        ]
+    },
+    {
+        "intent": "I want to estimate depth maps from single images for computer vision tasks.",
+        "gold": "depth-anything/Depth-Anything-V2-Large",
+        "ranking": [
+            "depth-anything/Depth-Anything-V2-Large-hf",
+            "apple/DepthPro",
+            "apple/DepthPro-hf",
+            "xinsir/controlnet-union-sdxl-1.0",
+            "magic-leap-community/superglue_outdoor"
+        ]
+    },
+    {
+        "intent": "I want a general-purpose AI chatbot that can be fully customized and does not restrict or censor responses.",
+        "gold": "dphn/Dolphin-Mistral-24B-Venice-Edition",
+        "ranking": [
+            "WhiteRabbitNeo/Llama-3-WhiteRabbitNeo-8B-v2.0",
+            "WhiteRabbitNeo/Llama-3.1-WhiteRabbitNeo-2-70B",
+            "microsoft/OmniParser",
+            "WhiteRabbitNeo/WhiteRabbitNeo-13B-v1",
+            "DeepHat/DeepHat-V1-7B"
+        ]
+    },
+    {
+        "intent": "I want a large language model that can perform advanced natural language reasoning and inference across a wide range of tasks, including complex problem solving and deep reasoning.",
+        "gold": "inclusionAI/Ring-1T",
+        "ranking": [
+            "zai-org/GLM-4.1V-9B-Base",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF",
+            "arcee-ai/SuperNova-Medius-GGUF",
+            "prithivMLmods/FastThink-0.5B-Tiny"
+        ]
+    },
+    {
+        "intent": "I want a language model that can assist with complex coding tasks, especially frontend development, and handle very long code or text inputs.",
+        "gold": "moonshotai/Kimi-K2-Instruct-0905",
+        "ranking": [
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "prithivMLmods/Phi-4-Empathetic",
+            "microsoft/Phi-4-mini-instruct",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "microsoft/phi-2"
+        ]
+    },
+    {
+        "intent": "I want to generate 3D models from images using a pretrained model.",
+        "gold": "microsoft/TRELLIS-image-large",
+        "ranking": [
+            "google/derm-foundation",
+            "AdamCodd/vit-base-nsfw-detector",
+            "microsoft/distilled_decoding",
+            "flax-community/clip-rsicd-v2",
+            "shreyanshu09/block_diagram_global_information"
+        ]
+    },
+    {
+        "intent": "I want to match videos with relevant text descriptions or classify videos based on their content using text queries.",
+        "gold": "microsoft/xclip-base-patch32",
+        "ranking": [
+            "onnx-community/embeddinggemma-300m-ONNX",
+            "CohereLabs/c4ai-command-r-plus-08-2024",
+            "CohereLabs/c4ai-command-r-v01",
+            "NetoAISolutions/TSLAM-4B",
+            "microsoft/OmniParser"
+        ]
+    },
+    {
+        "intent": "I want to automatically remove backgrounds from images and generate alpha mattes for precise foreground extraction.",
+        "gold": "briaai/RMBG-2.0",
+        "ranking": [
+            "lrzjason/QwenImage-Rebalance",
+            "magic-leap-community/superglue_outdoor",
+            "peteromallet/Qwen-Image-Edit-InStyle",
+            "xinsir/controlnet-scribble-sdxl-1.0",
+            "xinsir/controlnet-union-sdxl-1.0"
+        ]
+    },
+    {
+        "intent": "I want to generate high-resolution 3D objects from images or text prompts quickly.",
+        "gold": "ashawkey/LGM",
+        "ranking": [
+            "xinsir/controlnet-scribble-sdxl-1.0",
+            "xinsir/controlnet-union-sdxl-1.0",
+            "cyberdelia/CyberRealistic",
+            "xinsir/controlnet-canny-sdxl-1.0",
+            "monster-labs/control_v1p_sd15_qrcode_monster"
+        ]
+    },
+    {
+        "intent": "I want a language model for interactive story writing, roleplaying, and assistant-style conversations that can handle both safe-for-work and adult content with good instruction following and multi-turn coherence.",
+        "gold": "Sao10K/L3-8B-Stheno-v3.2",
+        "ranking": [
+            "prithivMLmods/Phi-4-Empathetic",
+            "CharGen/CharGen-v3-mini",
+            "jondurbin/bagel-dpo-34b-v0.5",
+            "Sao10K/L3-8B-Stheno-v3.2",
+            "Salesforce/FARE-8B"
+        ]
+    },
+    {
+        "intent": "I want to generate high-quality 3D assets with realistic PBR materials from images.",
+        "gold": "tencent/Hunyuan3D-2.1",
+        "ranking": [
+            "cyberdelia/CyberRealistic",
+            "xinsir/controlnet-scribble-sdxl-1.0",
+            "peteromallet/Qwen-Image-Edit-InStyle",
+            "xinsir/controlnet-canny-sdxl-1.0",
+            "xinsir/controlnet-union-sdxl-1.0"
+        ]
+    },
+    {
+        "intent": "I want to find specific answers to questions by extracting relevant text spans from English documents.",
+        "gold": "deepset/roberta-base-squad2",
+        "ranking": [
+            "sentence-transformers/multi-qa-MiniLM-L6-dot-v1",
+            "CohereLabs/c4ai-command-r-plus-08-2024",
+            "CohereLabs/c4ai-command-r-v01",
+            "medalpaca/medalpaca-7b",
+            "FinLang/finance-embeddings-investopedia"
+        ]
+    },
+    {
+        "intent": "I want a language model that can generate role-playing dialogue in English and Chinese, accurately portraying different characters’ personalities, emotions, and speaking styles.",
+        "gold": "yuyouyu/Mistral-Nemo-BD-RP",
+        "ranking": [
+            "yuyouyu/Mistral-Nemo-BD-RP",
+            "ai4bharat/indic-parler-tts",
+            "microsoft/Phi-4-multimodal-instruct",
+            "prithivMLmods/Phi-4-Empathetic",
+            "CharGen/CharGen-v3-mini"
+        ]
+    },
+    {
+        "intent": "I want to extract text, math equations, and tables from scanned documents and PDFs using OCR, including handling complex layouts and old scans.",
+        "gold": "allenai/olmOCR-2-7B-1025",
+        "ranking": [
+            "prithivMLmods/Gliese-OCR-7B-Post2.0-final",
+            "PaddlePaddle/PaddleOCR-VL",
+            "nanonets/Nanonets-OCR2-3B",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to translate text between English, Chinese, Japanese, Korean, Arabic, Estonian, Serbian (Latin), Russian, Ukrainian, Czech, Bhojpuri, and German with high fluency and accuracy.",
+        "gold": "AIDC-AI/Marco-MT-Algharb",
+        "ranking": [
+            "google/mt5-small",
+            "google/mt5-base",
+            "google/umt5-xxl",
+            "Unbabel/wmt22-comet-da",
+            "facebook/m2m100_1.2B"
+        ]
+    },
+    {
+        "intent": "I want a language model that can follow instructions and generate helpful responses in a conversational format.",
+        "gold": "mistralai/Mistral-7B-Instruct-v0.2",
+        "ranking": [
+            "CohereLabs/c4ai-command-r-v01",
+            "CohereLabs/c4ai-command-r-plus-08-2024",
+            "prithivMLmods/Phi-4-Empathetic",
+            "ServiceNow-AI/Apriel-1.5-15b-Thinker",
+            "Salesforce/FARE-8B"
+        ]
+    },
+    {
+        "intent": "I want to automatically generate concise summaries of Korean text, such as articles, books, or reports.",
+        "gold": "eenzeenee/t5-base-korean-summarization",
+        "ranking": [
+            "PleIAs/Segmentext",
+            "microsoft/phi-2",
+            "medalpaca/medalpaca-7b",
+            "jondurbin/bagel-dpo-34b-v0.5",
+            "NandemoGHS/Anime-Llasa-3B-Captions"
+        ]
+    },
+    {
+        "intent": "I want a model that can understand and reason about both text and images, handling high-resolution images and following instructions in English.",
+        "gold": "LiquidAI/LFM2-VL-3B",
+        "ranking": [
+            "Qwen/Qwen-Image-Edit",
+            "lrzjason/QwenImage-Rebalance",
+            "microsoft/Phi-4-multimodal-instruct",
+            "starvector/starvector-8b-im2svg",
+            "tencent/HunyuanImage-2.1"
+        ]
+    },
+    {
+        "intent": "I want to detect whether a video or image is a deepfake.",
+        "gold": "Naman712/Deep-fake-detection",
+        "ranking": [
+            "moondream/moondream3-preview",
+            "dima806/deepfake_vs_real_image_detection",
+            "thedeoxen/refcontrol-flux-kontext-reference-pose-lora",
+            "umm-maybe/AI-image-detector",
+            "xinsir/controlnet-union-sdxl-1.0"
+        ]
+    },
+    {
+        "intent": "I want to match images with relevant text descriptions or perform zero-shot image classification using natural language prompts.",
+        "gold": "openai/clip-vit-large-patch14",
+        "ranking": [
+            "geolocal/StreetCLIP",
+            "google/paligemma-3b-pt-224",
+            "google/paligemma-3b-ft-tallyqa-224",
+            "google/paligemma-3b-ft-textvqa-448",
+            "google/owlv2-base-patch16-ensemble"
+        ]
+    },
+    {
+        "intent": "I want to detect and estimate 17 human body keypoints in images, including challenging or artistic styles like paintings or sketches.",
+        "gold": "teemosliang/SDPose-Body",
+        "ranking": [
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "purplesmartai/Pony-InternVL2-26B-AWQ",
+            "angusleung100/bad-anatomy-realism-classifier",
+            "Minthy/RouWei-0.8",
+            "thedeoxen/refcontrol-flux-kontext-reference-pose-lora"
+        ]
+    },
+    {
+        "intent": "I want a multilingual AI model that can follow instructions, reason logically, write code, answer questions, and understand very long texts.",
+        "gold": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+        "ranking": [
+            "CohereLabs/c4ai-command-r-plus-08-2024",
+            "CohereLabs/c4ai-command-r-v01",
+            "Salesforce/FARE-8B",
+            "jondurbin/bagel-dpo-34b-v0.5",
+            "prithivMLmods/FastThink-0.5B-Tiny"
+        ]
+    },
+    {
+        "intent": "I want to generate 3D models or assets from text prompts.",
+        "gold": "openai/shap-e",
+        "ranking": [
+            "suno/bark",
+            "suno/bark-small",
+            "fancyfeast/llama-joycaption-beta-one-hf-llava",
+            "stabilityai/stable-audio-open-1.0",
+            "fancyfeast/llama-joycaption-alpha-two-hf-llava"
+        ]
+    },
+    {
+        "intent": "Intent Description: I want a lightweight chatbot model for generating conversational responses.",
+        "gold": "HarleyCooper/nanochat-AquaRat",
+        "ranking": [
+            "yangbh217/SimsChat-Llama-3-8B",
+            "prithivMLmods/Phi-4-Empathetic",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "katanemo/Arch-Router-1.5B",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF"
+        ]
+    },
+    {
+        "intent": "I want a general-purpose large language model for building chatbots or conversational AI applications.",
+        "gold": "meta-llama/Llama-2-7b-chat-hf",
+        "ranking": [
+            "EpistemeAI/Reasoning-Llama-3.2-1B-Instruct-v1.3-plus",
+            "authormist/authormist-originality",
+            "nineninesix/kani-tts-370m-expo2025-osaka-ja",
+            "prithivMLmods/Phi-4-Empathetic",
+            "PocketDoc/Dans-PersonalityEngine-V1.3.0-24b"
+        ]
+    },
+    {
+        "intent": "I want to generate images of fictional characters in various styles and species using text prompts.",
+        "gold": "purplesmartai/pony-v7-base",
+        "ranking": [
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "purplesmartai/pony-v7-base",
+            "LyliaEngine/Pony_Diffusion_V6_XL",
+            "Minthy/RouWei-0.8",
+            "NandemoGHS/Anime-Llasa-3B-Captions"
+        ]
+    },
+    {
+        "intent": "I want to generate photorealistic images of cosplay and real-world scenes with natural textures and detailed control over style, composition, and lighting.",
+        "gold": "lrzjason/QwenImage-Rebalance",
+        "ranking": [
+            "purplesmartai/Pony-InternVL2-26B-AWQ",
+            "cyberdelia/CyberRealistic",
+            "valiantcat/Qwen-Image-Edit-MeiTu",
+            "ND911/SD_1.5_for_reals",
+            "lovis93/next-scene-qwen-image-lora-2509"
+        ]
+    },
+    {
+        "intent": "I want to generate a 3D model from a single image quickly.",
+        "gold": "stabilityai/TripoSR",
+        "ranking": [
+            "MiaoshouAI/Florence-2-large-PromptGen-v2.0",
+            "Falconsai/nsfw_image_detection",
+            "fancyfeast/llama-joycaption-beta-one-hf-llava",
+            "suno/bark-small",
+            "fancyfeast/llama-joycaption-alpha-two-hf-llava"
+        ]
+    },
+    {
+        "intent": "I want to classify human actions or activities in video clips.",
+        "gold": "nateraw/videomae-base-finetuned-ucf101-subset",
+        "ranking": [
+            "WhiteRabbitNeo/WhiteRabbitNeo-13B-v1",
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "PKU-Alignment/beaver-7b-v1.0",
+            "sphiratrioth666/Lorebooks_as_ACTIVE_scenario_and_character_guidance_tool",
+            "MeiGen-AI/InfiniteTalk"
+        ]
+    },
+    {
+        "intent": "I want to automatically generate concise summaries of long English news articles.",
+        "gold": "facebook/bart-large-cnn",
+        "ranking": [
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "NandemoGHS/Anime-Llasa-3B-Captions",
+            "prithivMLmods/Phi-4-Empathetic",
+            "PleIAs/Segmentext",
+            "microsoft/Phi-4-multimodal-instruct"
+        ]
+    },
+    {
+        "intent": "I want to automatically place objects from white background images into realistic scenes.",
+        "gold": "dx8152/White_to_Scene",
+        "ranking": [
+            "LyliaEngine/nsfwPonyWildcards_v11",
+            "lovis93/Motion-Lora-Camera-Push-In-Wan-14B-720p-I2V",
+            "purplesmartai/Pony-InternVL2-26B-AWQ",
+            "thedeoxen/refcontrol-flux-kontext-reference-pose-lora",
+            "purplesmartai/Pony-InternVL2-40B-AWQ"
+        ]
+    },
+    {
+        "intent": "I want to generate natural-sounding speech from text in multiple languages with support for different emotions, tones, and special vocal effects.",
+        "gold": "fishaudio/openaudio-s1-mini",
+        "ranking": [
+            "ai4bharat/indic-parler-tts",
+            "OuteAI/Llama-OuteTTS-1.0-1B",
+            "openbmb/VoxCPM-0.5B",
+            "NandemoGHS/Anime-Llasa-3B-Captions",
+            "kenpath/svara-tts-v1"
+        ]
+    },
+    {
+        "intent": "I want a large language model for code generation, function calling, and agentic workflows that is memory-efficient and suitable for deployment in resource-constrained environments.",
+        "gold": "cerebras/GLM-4.6-REAP-218B-A32B-FP8",
+        "ranking": [
+            "MiniMaxAI/MiniMax-M1-80k",
+            "MiniMaxAI/MiniMax-M1-40k",
+            "Salesforce/xLAM-1b-fc-r",
+            "Salesforce/Llama-xLAM-2-8b-fc-r",
+            "janhq/Jan-v1-edge-gguf"
+        ]
+    },
+    {
+        "intent": "I want to automatically detect multiple chest conditions, such as pneumonia and pleural effusion, from X-ray images for research or educational purposes.",
+        "gold": "itsomk/chexpert-densenet121",
+        "ranking": [
+            "adibvafa/BLIP-MIMIC-CXR",
+            "microsoft/maira-2",
+            "google/medgemma-4b-it",
+            "google/medgemma-27b-it",
+            "google/cxr-foundation"
+        ]
+    },
+    {
+        "intent": "I want a general-purpose large language model for tasks like text generation, summarization, and question answering.",
+        "gold": "meta-llama/Llama-2-7b-hf",
+        "ranking": [
+            "MBZUAI/LaMini-Flan-T5-783M",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "medalpaca/medalpaca-7b",
+            "raidium/MQG",
+            "utter-project/TowerVideo-9B"
+        ]
+    },
+    {
+        "intent": "I want to generate original music tracks from text descriptions, remix songs, or perform style transfer for music production.",
+        "gold": "ACE-Step/ACE-Step-v1-3.5B",
+        "ranking": [
+            "facebook/musicgen-small",
+            "facebook/musicgen-large",
+            "stabilityai/stable-audio-open-1.0",
+            "openbmb/VoxCPM-0.5B",
+            "NandemoGHS/Anime-Llasa-3B-Captions"
+        ]
+    },
+    {
+        "intent": "I want to automatically split multilingual text into semantically meaningful segments for use in retrieval-augmented generation or embedding-based retrieval systems.",
+        "gold": "mirth/chonky_mmbert_small_multilingual_1",
+        "ranking": [
+            "onnx-community/embeddinggemma-300m-ONNX",
+            "BAAI/bge-m3",
+            "sbintuitions/sarashina-embedding-v2-1b",
+            "nvidia/llama-3.2-nv-embedqa-1b-v2",
+            "nvidia/llama-3.2-nv-rerankqa-1b-v2"
+        ]
+    },
+    {
+        "intent": "I want a multilingual AI assistant that can follow instructions, handle long conversations, generate code, solve math problems, and work with structured data like tables and JSON.",
+        "gold": "Qwen/Qwen2.5-7B-Instruct",
+        "ranking": [
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "Salesforce/FARE-8B",
+            "nvidia/Nemotron-H-4B-Instruct-128K",
+            "Nanbeige/CoSineVerifier-Tool-4B",
+            "openchat/openchat-3.5-0106"
+        ]
+    },
+    {
+        "intent": "I want a model that can perform classification or regression on tabular data that includes text features.",
+        "gold": "alana89/TabSTAR",
+        "ranking": [
+            "MoritzLaurer/deberta-v3-large-zeroshot-v2.0",
+            "alana89/TabSTAR",
+            "flax-community/clip-rsicd-v2",
+            "dima806/deepfake_vs_real_image_detection",
+            "google/derm-foundation"
+        ]
+    },
+    {
+        "intent": "I want to detect unusual patterns or anomalies in time series data.",
+        "gold": "keras-io/timeseries-anomaly-detection",
+        "ranking": [
+            "dima806/deepfake_vs_real_image_detection",
+            "ArliAI/Qwen2.5-32B-ArliAI-RPMax-v1.3",
+            "sphiratrioth666/Lorebooks_as_ACTIVE_scenario_and_character_guidance_tool",
+            "CharGen/CharGen-v3-mini",
+            "NetoAISolutions/TSLAM-4B"
+        ]
+    },
+    {
+        "intent": "I want to generate speech in multiple languages that sounds like a specific person using a short audio sample for voice cloning.",
+        "gold": "coqui/XTTS-v2",
+        "ranking": [
+            "openbmb/VoxCPM-0.5B",
+            "asif00/Kokoro-Conversational",
+            "OuteAI/Llama-OuteTTS-1.0-1B",
+            "tarun7r/vibevoice-hindi-7b",
+            "bosonai/higgs-audio-v2-generation-3B-base"
+        ]
+    },
+    {
+        "intent": "I want a compact open-source model that can handle complex coding tasks, automate developer workflows, and act as an intelligent agent for tool use, web browsing, and multi-step problem solving.",
+        "gold": "MiniMaxAI/MiniMax-M2",
+        "ranking": [
+            "MiniMaxAI/MiniMax-M1-40k",
+            "MiniMaxAI/MiniMax-M1-80k",
+            "Nanbeige/CoSineVerifier-Tool-4B",
+            "MiniMaxAI/MiniMax-M2",
+            "zai-org/GLM-4.6"
+        ]
+    },
+    {
+        "intent": "I want a multilingual language model that can follow instructions, answer questions, write creatively, solve math and science problems, and help with coding tasks, especially for long-context inputs.",
+        "gold": "Qwen/Qwen3-4B-Instruct-2507",
+        "ranking": [
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "openchat/openchat-3.5-0106",
+            "Nanbeige/CoSineVerifier-Tool-4B",
+            "Qwen/Qwen2.5-Math-7B-Instruct",
+            "microsoft/Phi-4-mini-instruct"
+        ]
+    },
+    {
+        "intent": "I want to estimate detailed human body keypoints, including both standard and anatomical markers, from images for motion analysis or biomechanics applications.",
+        "gold": "stanfordmimi/synthpose-vitpose-base-hf",
+        "ranking": [
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "usyd-community/vitpose-base-simple",
+            "usyd-community/vitpose-plus-base",
+            "purplesmartai/Pony-InternVL2-26B-AWQ",
+            "lrzjason/QwenImage-Rebalance"
+        ]
+    },
+    {
+        "intent": "I want a language model that can handle long conversations, support both fast and detailed reasoning, and interact with external tools or agents.",
+        "gold": "deepseek-ai/DeepSeek-V3.1",
+        "ranking": [
+            "prithivMLmods/Phi-4-Empathetic",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "MiniMaxAI/MiniMax-M1-80k",
+            "MiniMaxAI/MiniMax-M1-40k",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to generate image embeddings for tasks like image search or multimodal retrieval with text and images.",
+        "gold": "nomic-ai/nomic-embed-vision-v1.5",
+        "ranking": [
+            "Alibaba-NLP/gme-Qwen2-VL-2B-Instruct",
+            "Luke-Bergen/Mineral-Nano-1",
+            "onnx-community/embeddinggemma-300m-ONNX",
+            "starvector/starvector-8b-im2svg",
+            "HuggingFaceTB/SmolVLM-Instruct"
+        ]
+    },
+    {
+        "intent": "I want to detect emotions like happy, sad, or angry from English speech recordings.",
+        "gold": "ehcalabres/wav2vec2-lg-xlsr-en-speech-emotion-recognition",
+        "ranking": [
+            "fishaudio/openaudio-s1-mini",
+            "ai4bharat/indic-parler-tts",
+            "ResembleAI/chatterbox",
+            "openbmb/VoxCPM-0.5B",
+            "bond005/whisper-podlodka-turbo"
+        ]
+    },
+    {
+        "intent": "I want to generate high-quality images from detailed text prompts, including accurate typography and complex scene descriptions.",
+        "gold": "stabilityai/stable-diffusion-3.5-large",
+        "ranking": [
+            "cyberdelia/CyberRealistic",
+            "lrzjason/QwenImage-Rebalance",
+            "cyberdelia/CyberRealisticPony",
+            "valiantcat/Qwen-Image-Edit-MeiTu",
+            "prithivMLmods/Qwen3-VL-8B-Instruct-abliterated"
+        ]
+    },
+    {
+        "intent": "I want to rank search results or documents by how relevant they are to a user’s query in multiple languages.",
+        "gold": "BAAI/bge-reranker-v2-m3",
+        "ranking": [
+            "LiquidAI/LFM2-ColBERT-350M",
+            "CohereLabs/c4ai-command-r-v01",
+            "CohereLabs/c4ai-command-r-plus-08-2024",
+            "onnx-community/embeddinggemma-300m-ONNX",
+            "deepseek-ai/DeepSeek-V3-0324"
+        ]
+    },
+    {
+        "intent": "I want to detect and classify emotions like joy, anger, sadness, and surprise in English text.",
+        "gold": "j-hartmann/emotion-english-distilroberta-base",
+        "ranking": [
+            "j-hartmann/emotion-english-distilroberta-base",
+            "fishaudio/openaudio-s1-mini",
+            "arpanghoshal/EmoRoBERTa",
+            "SamLowe/roberta-base-go_emotions",
+            "oliverguhr/fullstop-punctuation-multilang-large"
+        ]
+    },
+    {
+        "intent": "I want a language model that can handle very long inputs, generate high-quality code, perform advanced reasoning, and integrate with agent frameworks for tool use.",
+        "gold": "zai-org/GLM-4.6-FP8",
+        "ranking": [
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "MiniMaxAI/MiniMax-M1-80k",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to detect whether an audio recording contains a synthetic or artificially generated voice.",
+        "gold": "MattyB95/AST-ASVspoof5-Synthetic-Voice-Detection",
+        "ranking": [
+            "openbmb/VoxCPM-0.5B",
+            "tarun7r/vibevoice-hindi-7b",
+            "NandemoGHS/Anime-Llasa-3B-Captions",
+            "tarun7r/vibevoice-hindi-lora",
+            "bosonai/higgs-audio-v2-generation-3B-base"
+        ]
+    },
+    {
+        "intent": "I want to generate full-length songs from lyrics and a short audio style prompt.",
+        "gold": "CypressYang/SongBloom",
+        "ranking": [
+            "vita-video-gen/svi-model",
+            "openbmb/VoxCPM-0.5B",
+            "svjack/Qwen_Image_Edit_2509_Sref_Lora",
+            "NandemoGHS/Anime-Llasa-3B-Captions",
+            "numz/wav2lip_studio"
+        ]
+    },
+    {
+        "intent": "I want a model that can understand and reason over both text and images or videos, perform OCR in multiple languages, recognize objects and scenes, generate code or diagrams from visuals, and handle long documents or videos for tasks like answering questions, extracting information, or automating GUI interactions.",
+        "gold": "Qwen/Qwen3-VL-4B-Instruct",
+        "ranking": [
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "microsoft/OmniParser",
+            "microsoft/OmniParser-v2.0",
+            "prithivMLmods/Phi-4-Empathetic",
+            "microsoft/Phi-3.5-vision-instruct"
+        ]
+    },
+    {
+        "intent": "I want a text-to-image model that works efficiently on various GPUs, including older hardware.",
+        "gold": "spooknik/Fluxmania-SVDQ",
+        "ranking": [
+            "warp-ai/wuerstchen",
+            "OmniGen2/OmniGen2-EditScore7B-v1.1",
+            "DragonLLM/Dragon-3B-Base-alpha",
+            "purplesmartai/pony-v7-base",
+            "google/derm-foundation"
+        ]
+    },
+    {
+        "intent": "Intent Description: I want a model that can understand and reason over both text and images or videos, perform complex visual tasks like GUI automation, generate code from visuals, recognize diverse objects and text in multiple languages, and handle long documents or extended video content.",
+        "gold": "Qwen/Qwen3-VL-32B-Thinking",
+        "ranking": [
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to generate high-quality images from text prompts using an open-source model.",
+        "gold": "black-forest-labs/FLUX.1-dev",
+        "ranking": [
+            "tencent/HunyuanImage-2.1",
+            "Open-Bee/Bee-8B-SFT",
+            "Open-Bee/Bee-8B-RL",
+            "fancyfeast/llama-joycaption-beta-one-hf-llava",
+            "fancyfeast/llama-joycaption-alpha-two-hf-llava"
+        ]
+    },
+    {
+        "intent": "I want to search and retrieve technical documents in multiple languages using screenshots that contain text, images, and layout.",
+        "gold": "racineai/QwenAmann-4B-dse",
+        "ranking": [
+            "onnx-community/embeddinggemma-300m-ONNX",
+            "google/embeddinggemma-300m",
+            "LiquidAI/LFM2-ColBERT-350M",
+            "microsoft/OmniParser",
+            "nvidia/nemoretriever-page-elements-v3"
+        ]
+    },
+    {
+        "intent": "I want to detect and classify multiple emotions expressed in English text, including cases where more than one emotion is present.",
+        "gold": "SamLowe/roberta-base-go_emotions",
+        "ranking": [
+            "PygmalionAI/pygmalion-1.3b",
+            "CharGen/CharGen-v3-mini",
+            "PleIAs/Segmentext",
+            "Nasserelsaman/microsoft-finetuned-personality",
+            "pszemraj/flan-t5-large-grammar-synthesis"
+        ]
+    },
+    {
+        "intent": "I want to automatically detect and extract tables, charts, infographics, titles, headers, footers, and text from document pages for enterprise document analysis and processing.",
+        "gold": "nvidia/nemoretriever-page-elements-v3",
+        "ranking": [
+            "prithivMLmods/Gliese-OCR-7B-Post2.0-final",
+            "nanonets/Nanonets-OCR2-3B",
+            "PaddlePaddle/PaddleOCR-VL",
+            "ByteDance/Dolphin-1.5",
+            "ByteDance/Dolphin"
+        ]
+    },
+    {
+        "intent": "I want to generate sentence embeddings for Vietnamese text to improve search and document retrieval.",
+        "gold": "AITeamVN/Vietnamese_Embedding_v2",
+        "ranking": [
+            "BAAI/bge-m3",
+            "jinaai/jina-embeddings-v4",
+            "LiquidAI/LFM2-ColBERT-350M",
+            "sbintuitions/sarashina-embedding-v2-1b",
+            "onnx-community/embeddinggemma-300m-ONNX"
+        ]
+    },
+    {
+        "intent": "I want a compact language model for efficient on-device tasks like question answering, summarization, and tool use, with support for long context windows.",
+        "gold": "facebook/MobileLLM-Pro",
+        "ranking": [
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "MiniMaxAI/MiniMax-M1-40k"
+        ]
+    },
+    {
+        "intent": "I want a language model that can understand and generate code, handle very long programming contexts, and assist with repository-scale coding tasks.",
+        "gold": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+        "ranking": [
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "MiniMaxAI/MiniMax-M1-40k",
+            "MiniMaxAI/MiniMax-M1-80k",
+            "microsoft/Phi-4-mini-instruct",
+            "prithivMLmods/Phi-4-Empathetic"
+        ]
+    },
+    {
+        "intent": "I want to detect emotions in speech audio files.",
+        "gold": "speechbrain/emotion-recognition-wav2vec2-IEMOCAP",
+        "ranking": [
+            "openbmb/VoxCPM-0.5B",
+            "pyannote/segmentation-3.0",
+            "nvidia/diar_sortformer_4spk-v1",
+            "pyannote/speaker-diarization-3.1",
+            "bosonai/higgs-audio-v2-generation-3B-base"
+        ]
+    },
+    {
+        "intent": "I want a language model that can generate text, perform reasoning, and handle agent-like tasks such as function calling or code execution, with the flexibility to run locally and be fine-tuned for my specific use case.",
+        "gold": "openai/gpt-oss-20b",
+        "ranking": [
+            "EpistemeAI/Polypsyche-Llama-3.1-8B-Instruct-Agent-0.0031-128K-code-ds-auto-Logic",
+            "microsoft/Phi-4-mini-instruct",
+            "unsloth/Phi-4-mini-instruct-GGUF",
+            "Salesforce/xLAM-1b-fc-r",
+            "microsoft/Phi-3-mini-4k-instruct"
+        ]
+    },
+    {
+        "intent": "I want a general-purpose language model for tasks like text generation, summarization, and question answering.",
+        "gold": "meta-llama/Llama-3.2-3B-Instruct",
+        "ranking": [
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "medalpaca/medalpaca-7b",
+            "MBZUAI/LaMini-Flan-T5-783M",
+            "raidium/MQG",
+            "utter-project/TowerVideo-9B"
+        ]
+    },
+    {
+        "intent": "I want to generate a sequence of images that visually tell a story, with each frame smoothly transitioning to the next like scenes in a movie.",
+        "gold": "lovis93/next-scene-qwen-image-lora-2509",
+        "ranking": [
+            "sphiratrioth666/Lorebooks_as_ACTIVE_scenario_and_character_guidance_tool",
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "jondurbin/bagel-dpo-34b-v0.5",
+            "1-800-BAD-CODE/punctuation_fullstop_truecase_english",
+            "CharGen/CharGen-v3-mini"
+        ]
+    },
+    {
+        "intent": "I want a model that can reason about and generate step-by-step actions for a robot to perform manipulation tasks based on visual and textual instructions.",
+        "gold": "allenai/MolmoAct-7B-D-0812",
+        "ranking": [
+            "microsoft/OmniParser",
+            "microsoft/OmniParser-v2.0",
+            "ACE-Step/ACE-Step-v1-3.5B",
+            "weidawang/Chem-R-8B",
+            "Salesforce/FARE-8B"
+        ]
+    },
+    {
+        "intent": "I want a language model that can perform complex, multi-step research tasks and answer deep information-seeking questions.",
+        "gold": "Alibaba-NLP/Tongyi-DeepResearch-30B-A3B",
+        "ranking": [
+            "medalpaca/medalpaca-7b",
+            "Nanbeige/CoSineVerifier-Tool-4B",
+            "Salesforce/FARE-8B",
+            "PokeeAI/pokee_research_7b",
+            "Go4miii/DISC-FinLLM"
+        ]
+    },
+    {
+        "intent": "I want a multilingual base language model for generating and understanding long-form text, code, and structured data.",
+        "gold": "Qwen/Qwen2.5-0.5B",
+        "ranking": [
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "MaLA-LM/emma-500-llama2-7b"
+        ]
+    },
+    {
+        "intent": "I want a general-purpose language model for generating and understanding text, suitable for building chatbots or other natural language applications.",
+        "gold": "meta-llama/Meta-Llama-3-8B-Instruct",
+        "ranking": [
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "prithivMLmods/Phi-4-Empathetic",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "lapa-llm/lapa-12b-pt"
+        ]
+    },
+    {
+        "intent": "I want a compact language model that can follow instructions, handle long contexts, and perform strong reasoning tasks like math and logic, suitable for multilingual applications and resource-limited environments.",
+        "gold": "microsoft/Phi-4-mini-instruct",
+        "ranking": [
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "prithivMLmods/Phi-4-Empathetic",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to translate text between English and Japanese using a large language model.",
+        "gold": "pfnet/plamo-2-translate",
+        "ranking": [
+            "ModelSpace/GemmaX2-28-9B-v0.1",
+            "ModelSpace/GemmaX2-28-2B-v0.1",
+            "minhtoan/t5-translate-lao-english",
+            "minhtoan/t5-translate-english-lao",
+            "tencent/Hunyuan-MT-7B"
+        ]
+    },
+    {
+        "intent": "I want a multilingual large language model for building chatbots, AI agents, or RAG systems that can handle long context and follow instructions in multiple languages.",
+        "gold": "nvidia/Nemotron-H-4B-Instruct-128K",
+        "ranking": [
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "microsoft/Phi-4-mini-instruct",
+            "PocketDoc/Dans-PersonalityEngine-V1.3.0-24b",
+            "unsloth/Phi-4-mini-instruct-GGUF",
+            "microsoft/Phi-4-multimodal-instruct"
+        ]
+    },
+    {
+        "intent": "I want to extract and understand text, tables, forms, and math notation from scanned documents or PDFs, including complex layouts and European languages.",
+        "gold": "lightonai/LightOnOCR-1B-1025",
+        "ranking": [
+            "prithivMLmods/Gliese-OCR-7B-Post2.0-final",
+            "PaddlePaddle/PaddleOCR-VL",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "PleIAs/Segmentext"
+        ]
+    },
+    {
+        "intent": "I want to automatically identify human actions in short video clips.",
+        "gold": "nateraw/videomae-base-finetuned-ucf101",
+        "ranking": [
+            "sphiratrioth666/Lorebooks_as_ACTIVE_scenario_and_character_guidance_tool",
+            "jondurbin/bagel-dpo-34b-v0.5",
+            "numz/wav2lip_studio",
+            "wi-lab/lwm",
+            "CharGen/CharGen-v3-mini"
+        ]
+    },
+    {
+        "intent": "I want a model that can generate embeddings for both text and images to enable cross-modal retrieval and search, especially for English and Vietnamese content.",
+        "gold": "5CD-AI/Vintern-Embedding-1B",
+        "ranking": [
+            "google/embeddinggemma-300m",
+            "onnx-community/embeddinggemma-300m-ONNX",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "Alibaba-NLP/gme-Qwen2-VL-2B-Instruct",
+            "microsoft/Phi-4-multimodal-instruct"
+        ]
+    },
+    {
+        "intent": "I want to detect whether financial news or reports express positive, negative, or neutral sentiment.",
+        "gold": "ProsusAI/finbert",
+        "ranking": [
+            "hkunlp/instructor-xl",
+            "hkunlp/instructor-base",
+            "cardiffnlp/twitter-roberta-base-topic-sentiment-latest",
+            "soob3123/amoral-gemma3-4B-v2",
+            "ProsusAI/finbert"
+        ]
+    },
+    {
+        "intent": "I want a multilingual model that can understand both text and images and generate text responses for tasks like question answering, summarization, and reasoning, with support for long input contexts and efficient deployment on resource-limited devices.",
+        "gold": "google/gemma-3-1b-it",
+        "ranking": [
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF"
+        ]
+    },
+    {
+        "intent": "I want a language model that can generate detailed and uncensored creative writing, including fiction, storytelling, and roleplay, with customizable prose style and context length.",
+        "gold": "DavidAU/L3.2-Rogue-Creative-Instruct-Uncensored-Abliterated-7B-GGUF",
+        "ranking": [
+            "prithivMLmods/Phi-4-Empathetic",
+            "beyoru/Luna-Fusion-RP",
+            "NyxKrage/Chronomaid-Storytelling-13b",
+            "DavidAU/Qwen3-42B-A3B-2507-Thinking-Abliterated-uncensored-TOTAL-RECALL-v2-Medium-MASTER-CODER",
+            "bunnycore/Phi-4-Stock-RP"
+        ]
+    },
+    {
+        "intent": "I want a chatbot that can answer questions and provide information about medical topics using a comprehensive medical reference.",
+        "gold": "ThisIs-Developer/Llama-2-GGML-Medical-Chatbot",
+        "ranking": [
+            "medalpaca/medalpaca-7b",
+            "lakhera2023/devops-slm-v1",
+            "MayaPH/FinOPT-Franklin",
+            "abhinand/MedEmbed-large-v0.1",
+            "abhinand/MedEmbed-base-v0.1"
+        ]
+    },
+    {
+        "intent": "I want a multilingual language model that can handle complex reasoning, follow instructions, generate code, and support agent-based tasks and long conversations.",
+        "gold": "Qwen/Qwen3-8B",
+        "ranking": [
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "prithivMLmods/FastThink-0.5B-Tiny"
+        ]
+    },
+    {
+        "intent": "I want to extract the underlying data from images of charts or plots for further analysis or question answering.",
+        "gold": "google/deplot",
+        "ranking": [
+            "microsoft/OmniParser",
+            "PleIAs/Segmentext",
+            "medalpaca/medalpaca-7b",
+            "microsoft/OmniParser-v2.0",
+            "microsoft/Phi-3.5-vision-instruct"
+        ]
+    },
+    {
+        "intent": "I want to generate object segmentation masks in images using prompts like points or bounding boxes.",
+        "gold": "facebook/sam-vit-base",
+        "ranking": [
+            "apple/coreml-detr-semantic-segmentation",
+            "magic-leap-community/superglue_outdoor",
+            "facebook/detr-resnet-50",
+            "magic-leap-community/superpoint",
+            "google/owlv2-large-patch14"
+        ]
+    },
+    {
+        "intent": "I want a conversational AI model that can generate helpful and natural responses in English for chat applications.",
+        "gold": "HuggingFaceH4/zephyr-7b-beta",
+        "ranking": [
+            "prithivMLmods/Phi-4-Empathetic",
+            "ServiceNow-AI/Apriel-1.5-15b-Thinker",
+            "nvidia/Nemotron-Mini-4B-Instruct",
+            "EpistemeAI/Reasoning-Llama-3.2-1B-Instruct-v1.3-plus",
+            "lapa-llm/lapa-12b-pt"
+        ]
+    },
+    {
+        "intent": "I want a model that can control a Franka robot arm to perform tasks based on visual input and natural language instructions.",
+        "gold": "INSAIT-Institute/spear1-franka",
+        "ranking": [
+            "microsoft/OmniParser-v2.0",
+            "nvidia/GR00T-N1.5-3B",
+            "microsoft/Phi-4-multimodal-instruct",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "microsoft/OmniParser"
+        ]
+    },
+    {
+        "intent": "I want to generate and edit images from text prompts, with accurate text rendering in both English and Chinese.",
+        "gold": "Qwen/Qwen-Image",
+        "ranking": [
+            "tencent/HunyuanImage-2.1",
+            "Qwen/Qwen-Image-Edit",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "valiantcat/Qwen-Image-Edit-MeiTu",
+            "lrzjason/QwenImage-Rebalance"
+        ]
+    },
+    {
+        "intent": "I want to generate accurate, high-resolution depth maps from a single image without needing camera information.",
+        "gold": "apple/DepthPro",
+        "ranking": [
+            "xinsir/controlnet-union-sdxl-1.0",
+            "xinsir/controlnet-scribble-sdxl-1.0",
+            "lovis93/next-scene-qwen-image-lora-2509",
+            "cyberdelia/CyberRealistic",
+            "thedeoxen/refcontrol-flux-kontext-reference-pose-lora"
+        ]
+    },
+    {
+        "intent": "I want a model that can understand and reason over both text and images or videos, extract information from visual content, perform OCR in multiple languages, and assist with tasks like GUI automation, code generation from visuals, and spatial or temporal analysis.",
+        "gold": "Qwen/Qwen3-VL-32B-Instruct",
+        "ranking": [
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "Qwen/Qwen-Image-Edit",
+            "microsoft/OmniParser",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "microsoft/OmniParser-v2.0"
+        ]
+    },
+    {
+        "intent": "I want a code generation model that can run efficiently on my hardware using llama.cpp quantized formats.",
+        "gold": "bartowski/cerebras_Qwen3-Coder-REAP-25B-A3B-GGUF",
+        "ranking": [
+            "MaziyarPanahi/Mistral-7B-Instruct-Aya-101-GGUF",
+            "TheBloke/CodeLlama-70B-Instruct-GGUF",
+            "neuralcrew/neutrino-instruct",
+            "Hasaranga85/Llama-3.2-3B-Instruct-abliterated-Q4_K_M-GGUF",
+            "TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to estimate detailed human body keypoints from images for motion capture or biomechanical analysis.",
+        "gold": "stanfordmimi/synthpose-vitpose-huge-hf",
+        "ranking": [
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "purplesmartai/Pony-InternVL2-26B-AWQ",
+            "usyd-community/vitpose-base-simple",
+            "usyd-community/vitpose-plus-base",
+            "angusleung100/bad-anatomy-realism-classifier"
+        ]
+    },
+    {
+        "intent": "I want to automatically identify when different people are speaking in an audio recording and segment the audio by speaker.",
+        "gold": "pyannote/speaker-diarization-community-1",
+        "ranking": [
+            "asif00/Kokoro-Conversational",
+            "openbmb/VoxCPM-0.5B",
+            "bosonai/higgs-audio-v2-generation-3B-base",
+            "OuteAI/Llama-OuteTTS-1.0-1B",
+            "openai/whisper-medium"
+        ]
+    },
+    {
+        "intent": "I want to generate explorable 3D worlds with 360-degree panoramic views from text or image prompts.",
+        "gold": "Skywork/Matrix-3D",
+        "ranking": [
+            "vita-video-gen/svi-model",
+            "monster-labs/control_v1p_sd15_qrcode_monster",
+            "xinsir/controlnet-scribble-sdxl-1.0",
+            "mistral-community/pixtral-12b",
+            "moondream/moondream3-preview"
+        ]
+    },
+    {
+        "intent": "I want to rerank search results to improve the relevance of retrieved documents across domains like finance, legal, code, STEM, medical, and conversational data.",
+        "gold": "zeroentropy/zerank-1",
+        "ranking": [
+            "zeroentropy/zerank-1",
+            "onnx-community/embeddinggemma-300m-ONNX",
+            "nvidia/llama-3.2-nv-rerankqa-1b-v2",
+            "LiquidAI/LFM2-ColBERT-350M",
+            "Intelligent-Internet/II-Medical-8B"
+        ]
+    },
+    {
+        "intent": "I want an open-source large language model for reasoning, agent tasks, and function calling that I can run locally, fine-tune, and use for custom applications.",
+        "gold": "unsloth/gpt-oss-20b-GGUF",
+        "ranking": [
+            "Salesforce/xLAM-1b-fc-r",
+            "Salesforce/Llama-xLAM-2-8b-fc-r",
+            "MiniMaxAI/MiniMax-M1-80k",
+            "MiniMaxAI/MiniMax-M1-40k",
+            "LiquidAI/LFM2-1.2B-RAG"
+        ]
+    },
+    {
+        "intent": "I want to automatically identify and separate speech segments by speaker in audio recordings with up to four speakers.",
+        "gold": "nvidia/diar_sortformer_4spk-v1",
+        "ranking": [
+            "pyannote/segmentation-3.0",
+            "pyannote/speaker-diarization-3.1",
+            "OuteAI/OuteTTS-0.2-500M",
+            "OuteAI/Llama-OuteTTS-1.0-1B",
+            "nvidia/diar_streaming_sortformer_4spk-v2"
+        ]
+    },
+    {
+        "intent": "I want an efficient model for editing images based on text instructions, suitable for use on a variety of GPUs.",
+        "gold": "nunchaku-tech/nunchaku-qwen-image-edit-2509",
+        "ranking": [
+            "lrzjason/QwenImage-Rebalance",
+            "NexaAI/OmniVLM-968M",
+            "google/derm-foundation",
+            "purplesmartai/pony-v7-base",
+            "tencent/HunyuanImage-2.1"
+        ]
+    },
+    {
+        "intent": "I want to generate detailed pixel-wise predictions for images using a diffusion-based model.",
+        "gold": "jingheya/lotus-depth-d-v1-1",
+        "ranking": [
+            "CompVis/stable-diffusion-v1-4",
+            "prithivMLmods/Deep-Fake-Detector-v2-Model",
+            "CompVis/stable-diffusion-v1-1",
+            "stabilityai/stable-diffusion-x4-upscaler",
+            "stable-diffusion-v1-5/stable-diffusion-v1-5"
+        ]
+    },
+    {
+        "intent": "I want a model that enables robots to understand visual scenes, interpret language instructions, and perform actions based on those inputs.",
+        "gold": "InternRobotics/InternVLA-M1",
+        "ranking": [
+            "microsoft/OmniParser",
+            "microsoft/OmniParser-v2.0",
+            "prithivMLmods/Phi-4-Empathetic",
+            "microsoft/Phi-4-multimodal-instruct",
+            "microsoft/Phi-3.5-vision-instruct"
+        ]
+    },
+    {
+        "intent": "I want a language model that can generate text and compose content based on given instructions.",
+        "gold": "internlm/internlm-xcomposer2d5-ol-7b",
+        "ranking": [
+            "ServiceNow-AI/Apriel-1.5-15b-Thinker",
+            "CohereLabs/c4ai-command-r-v01",
+            "katanemo/Arch-Router-1.5B",
+            "CohereLabs/c4ai-command-r-plus-08-2024",
+            "google/codegemma-7b-it"
+        ]
+    },
+    {
+        "intent": "I want a model that controls two robot arms to pick up and transfer a cube in a simulated environment.",
+        "gold": "lerobot/act_aloha_sim_transfer_cube_human",
+        "ranking": [
+            "NetoAISolutions/TSLAM-4B",
+            "artificialguybr/FollowCam-Redmond-WAN2-T2V-14B",
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "LyliaEngine/nsfwPonyWildcards_v11",
+            "ucd-dare/CarDreamer"
+        ]
+    },
+    {
+        "intent": "I want to generate a textured 3D mesh of an object from a single image for use in game development or rendering.",
+        "gold": "stabilityai/stable-fast-3d",
+        "ranking": [
+            "moondream/moondream3-preview",
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "Skywork/Matrix-3D",
+            "xinsir/controlnet-union-sdxl-1.0",
+            "lovis93/next-scene-qwen-image-lora-2509"
+        ]
+    },
+    {
+        "intent": "I want to detect and describe keypoints in images for tasks like image matching or homography estimation.",
+        "gold": "magic-leap-community/superpoint",
+        "ranking": [
+            "magic-leap-community/superglue_outdoor",
+            "magic-leap-community/superpoint",
+            "usyd-community/vitpose-plus-base",
+            "usyd-community/vitpose-base-simple",
+            "purplesmartai/Pony-InternVL2-40B-AWQ"
+        ]
+    },
+    {
+        "intent": "I want to detect when speech occurs and identify which speakers are talking, including cases where multiple people speak at the same time, in short audio clips.",
+        "gold": "pyannote/segmentation-3.0",
+        "ranking": [
+            "asif00/Kokoro-Conversational",
+            "CharGen/CharGen-v3-mini",
+            "sphiratrioth666/Lorebooks_as_ACTIVE_scenario_and_character_guidance_tool",
+            "jondurbin/bagel-dpo-34b-v0.5",
+            "1-800-BAD-CODE/punctuation_fullstop_truecase_english"
+        ]
+    },
+    {
+        "intent": "I want to generate realistic English dialogue audio from transcripts, including control over speaker emotion, tone, and nonverbal sounds like laughter or coughing, and optionally clone voices using audio prompts.",
+        "gold": "nari-labs/Dia-1.6B",
+        "ranking": [
+            "ai4bharat/indic-parler-tts",
+            "openbmb/VoxCPM-0.5B",
+            "OuteAI/Llama-OuteTTS-1.0-1B",
+            "pyannote/segmentation-3.0",
+            "OuteAI/OuteTTS-0.2-500M"
+        ]
+    },
+    {
+        "intent": "I want to classify images into one of 1,000 common categories using a pretrained model.",
+        "gold": "microsoft/resnet-50",
+        "ranking": [
+            "openai/clip-vit-base-patch16",
+            "openai/clip-vit-base-patch32",
+            "openai/clip-vit-large-patch14",
+            "google/derm-foundation",
+            "prithivMLmods/Deep-Fake-Detector-v2-Model"
+        ]
+    },
+    {
+        "intent": "I want to generate high-quality embeddings for Japanese text for tasks like semantic search, clustering, or classification.",
+        "gold": "cl-nagoya/ruri-v3-310m",
+        "ranking": [
+            "sbintuitions/sarashina-embedding-v2-1b",
+            "onnx-community/embeddinggemma-300m-ONNX",
+            "hkunlp/instructor-base",
+            "BAAI/bge-m3",
+            "hkunlp/instructor-xl"
+        ]
+    },
+    {
+        "intent": "I want a large language model for code generation, function calling, and agentic workflows that is memory-efficient and suitable for resource-constrained deployments.",
+        "gold": "cerebras/GLM-4.5-Air-REAP-82B-A12B",
+        "ranking": [
+            "MiniMaxAI/MiniMax-M1-80k",
+            "MiniMaxAI/MiniMax-M1-40k",
+            "Salesforce/xLAM-1b-fc-r",
+            "Salesforce/Llama-xLAM-2-8b-fc-r",
+            "arcee-ai/SuperNova-Medius-GGUF"
+        ]
+    },
+    {
+        "intent": "I want a chatbot that can understand and answer questions about both images and videos.",
+        "gold": "llava-hf/LLaVA-NeXT-Video-7B-hf",
+        "ranking": [
+            "teknium/Mistral-Trismegistus-7B",
+            "purplesmartai/pony-v7-base",
+            "prithivMLmods/Phi-4-Empathetic",
+            "ServiceNow-AI/Apriel-1.5-15b-Thinker",
+            "goonsai-com/civitaiprompts"
+        ]
+    },
+    {
+        "intent": "I want a general-purpose large language model for tasks like text generation, summarization, and question answering.",
+        "gold": "meta-llama/Meta-Llama-3-8B",
+        "ranking": [
+            "MBZUAI/LaMini-Flan-T5-783M",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "medalpaca/medalpaca-7b",
+            "raidium/MQG",
+            "utter-project/TowerVideo-9B"
+        ]
+    },
+    {
+        "intent": "I want a model that can interpret and generate images or descriptions based on camera viewpoints, enabling tasks like cross-view scene understanding, spatial imagination, and photography guidance.",
+        "gold": "KangLiao/Puffin",
+        "ranking": [
+            "KangLiao/Puffin",
+            "lovis93/next-scene-qwen-image-lora-2509",
+            "Qwen/Qwen-Image-Edit",
+            "vita-video-gen/svi-model",
+            "lrzjason/QwenImage-Rebalance"
+        ]
+    },
+    {
+        "intent": "I want to generate images from text prompts using a diffusion-based model.",
+        "gold": "stabilityai/stable-diffusion-xl-base-1.0",
+        "ranking": [
+            "CompVis/stable-diffusion-v1-4",
+            "stabilityai/stable-diffusion-xl-base-1.0",
+            "CompVis/stable-diffusion-v1-1",
+            "stabilityai/stable-diffusion-xl-refiner-1.0",
+            "stabilityai/stable-diffusion-x4-upscaler"
+        ]
+    },
+    {
+        "intent": "I want a code generation model that can handle large codebases, understand long contexts, and support tool use and function calling for agentic coding tasks.",
+        "gold": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+        "ranking": [
+            "Salesforce/Llama-xLAM-2-8b-fc-r",
+            "MiniMaxAI/MiniMax-M1-40k",
+            "MiniMaxAI/MiniMax-M1-80k",
+            "Salesforce/xLAM-1b-fc-r",
+            "prithivMLmods/FastThink-0.5B-Tiny"
+        ]
+    },
+    {
+        "intent": "I want to automatically identify song sections and transcribe lyrics from audio recordings.",
+        "gold": "tencent/SongPrep-7B",
+        "ranking": [
+            "openai/whisper-base",
+            "openai/whisper-medium",
+            "openai/whisper-small",
+            "openai/whisper-large-v2",
+            "openai/whisper-tiny"
+        ]
+    },
+    {
+        "intent": "I want a model that can answer questions about video content and generate captions for videos.",
+        "gold": "DAMO-NLP-SG/VideoLLaMA2-7B",
+        "ranking": [
+            "vita-video-gen/svi-model",
+            "CohereLabs/c4ai-command-r-v01",
+            "CohereLabs/c4ai-command-r-plus-08-2024",
+            "ServiceNow-AI/Apriel-1.5-15b-Thinker",
+            "prithivMLmods/Phi-4-Empathetic"
+        ]
+    },
+    {
+        "intent": "I want a compact English language model for generating text, answering questions, and summarizing content that can run on devices with limited resources.",
+        "gold": "google/gemma-2b-it",
+        "ranking": [
+            "lapa-llm/lapa-12b-pt",
+            "medalpaca/medalpaca-7b",
+            "microsoft/Phi-4-multimodal-instruct",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "unsloth/gemma-3n-E2B-it-GGUF"
+        ]
+    },
+    {
+        "intent": "I want a language model that can efficiently handle long text inputs using sparse attention for tasks like reasoning, question answering, and code generation.",
+        "gold": "deepseek-ai/DeepSeek-V3.2-Exp",
+        "ranking": [
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF"
+        ]
+    },
+    {
+        "intent": "I want a fast, lightweight text-to-speech model that can be used in production or personal projects and supports multiple languages and voices.",
+        "gold": "hexgrad/Kokoro-82M",
+        "ranking": [
+            "aoi-ot/VibeVoice-Large",
+            "microsoft/Phi-4-multimodal-instruct",
+            "tarun7r/vibevoice-hindi-7b",
+            "OuteAI/Llama-OuteTTS-1.0-1B",
+            "aoi-ot/VibeVoice-1.5B"
+        ]
+    },
+    {
+        "intent": "Intent Description: I want a model that can understand and generate text and analyze images or videos, perform visual reasoning, recognize objects and text in multiple languages, and interact with graphical user interfaces for tasks like coding or tool invocation.",
+        "gold": "Qwen/Qwen3-VL-235B-A22B-Instruct",
+        "ranking": [
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "microsoft/OmniParser",
+            "prithivMLmods/Phi-4-Empathetic",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "microsoft/Phi-4-multimodal-instruct"
+        ]
+    },
+    {
+        "intent": "Intent Description: I want a language model that can generate code, solve math problems, and handle complex reasoning tasks efficiently, with support for tool use and agent-based workflows.",
+        "gold": "inclusionAI/LLaDA2.0-flash-preview",
+        "ranking": [
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "MiniMaxAI/MiniMax-M1-80k",
+            "MiniMaxAI/MiniMax-M1-40k",
+            "prithivMLmods/FastThink-0.5B-Tiny"
+        ]
+    },
+    {
+        "intent": "I want to generate text embeddings for Russian and English sentences to perform tasks like semantic search, paraphrase detection, sentiment analysis, topic classification, and textual entailment.",
+        "gold": "ai-forever/FRIDA",
+        "ranking": [
+            "robzchhangte/MizBERT",
+            "sdadas/byt5-text-correction",
+            "dangvantuan/vietnamese-embedding",
+            "sbintuitions/sarashina-embedding-v2-1b",
+            "Lajavaness/bilingual-embedding-large"
+        ]
+    },
+    {
+        "intent": "I want to detect and track human face, hands, and torso positions in real-time images or video on mobile devices.",
+        "gold": "qualcomm/MediaPipe-Pose-Estimation",
+        "ranking": [
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "Anzhc/Anzhcs_YOLOs",
+            "angusleung100/bad-anatomy-realism-classifier",
+            "TMElyralab/MuseTalk",
+            "usyd-community/vitpose-plus-base"
+        ]
+    },
+    {
+        "intent": "I want to detect when speech starts and ends in audio recordings.",
+        "gold": "funasr/fsmn-vad-onnx",
+        "ranking": [
+            "asif00/Kokoro-Conversational",
+            "openbmb/VoxCPM-0.5B",
+            "openai/whisper-medium",
+            "openai/whisper-base",
+            "openai/whisper-tiny"
+        ]
+    },
+    {
+        "intent": "I want to automatically route user queries to the most suitable language model based on the query’s topic and intended action, using customizable domain and action preferences.",
+        "gold": "katanemo/Arch-Router-1.5B",
+        "ranking": [
+            "microsoft/OmniParser",
+            "katanemo/Arch-Router-1.5B",
+            "google/embeddinggemma-300m",
+            "microsoft/OmniParser-v2.0",
+            "microsoft/UserLM-8b"
+        ]
+    },
+    {
+        "intent": "I want a model that can understand and respond to text, images, and audio in multiple languages for tasks like conversation, question answering, translation, and visual or speech analysis.",
+        "gold": "microsoft/Phi-4-multimodal-instruct",
+        "ranking": [
+            "microsoft/Phi-4-multimodal-instruct",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "microsoft/Phi-3.5-vision-instruct",
+            "prithivMLmods/FastThink-0.5B-Tiny"
+        ]
+    },
+    {
+        "intent": "I want to generate high-quality, aesthetically pleasing images from text prompts for creative or artistic projects.",
+        "gold": "black-forest-labs/FLUX.1-Krea-dev",
+        "ranking": [
+            "cyberdelia/CyberRealistic",
+            "cyberdelia/CyberRealisticPony",
+            "Minthy/RouWei-0.8",
+            "peteromallet/Qwen-Image-Edit-InStyle",
+            "lrzjason/QwenImage-Rebalance"
+        ]
+    },
+    {
+        "intent": "I want a model that can understand and reason about both text and images or videos, extract information from visual content, perform OCR in multiple languages, and generate code or structured data from visual inputs.",
+        "gold": "Qwen/Qwen3-VL-32B-Instruct-FP8",
+        "ranking": [
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "microsoft/Phi-3.5-vision-instruct",
+            "microsoft/OmniParser",
+            "microsoft/Phi-4-multimodal-instruct",
+            "prithivMLmods/Gliese-OCR-7B-Post2.0-final"
+        ]
+    },
+    {
+        "intent": "I want a lightweight model that can understand both text and images, generate text responses, and handle tasks like question answering, summarization, and reasoning in multiple languages, suitable for use on devices with limited resources.",
+        "gold": "google/gemma-3-270m",
+        "ranking": [
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "microsoft/Phi-4-multimodal-instruct",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "google/gemma-3-12b-it"
+        ]
+    },
+    {
+        "intent": "I want to transcribe English speech to text with punctuation and capitalization, and also be able to summarize or answer questions about the transcript.",
+        "gold": "nvidia/canary-qwen-2.5b",
+        "ranking": [
+            "openai/whisper-small",
+            "openai/whisper-medium",
+            "openai/whisper-base",
+            "openai/whisper-large-v2",
+            "openai/whisper-tiny"
+        ]
+    },
+    {
+        "intent": "I want to generate realistic, multi-speaker conversational audio from text for long-form content like podcasts.",
+        "gold": "microsoft/VibeVoice-1.5B",
+        "ranking": [
+            "openbmb/VoxCPM-0.5B",
+            "OuteAI/OuteTTS-0.2-500M",
+            "vita-video-gen/svi-model",
+            "OuteAI/Llama-OuteTTS-1.0-1B",
+            "bosonai/higgs-audio-v2-generation-3B-base"
+        ]
+    },
+    {
+        "intent": "I want to estimate high-resolution, accurate depth maps from images using LiDAR data as a prompt, for applications like 3D reconstruction or robotic grasping.",
+        "gold": "depth-anything/prompt-depth-anything-vitl-hf",
+        "ranking": [
+            "xinsir/controlnet-union-sdxl-1.0",
+            "lrzjason/QwenImage-Rebalance",
+            "spacepxl/Wan2.1-VAE-upscale2x",
+            "stabilityai/stable-diffusion-2-inpainting",
+            "CompVis/stable-diffusion-v1-4"
+        ]
+    },
+    {
+        "intent": "I want a model that can estimate the poses of objects or assemble shapes from unaligned or noisy 3D point clouds.",
+        "gold": "gradient-spaces/Rectified-Point-Flow",
+        "ranking": [
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "purplesmartai/Pony-InternVL2-26B-AWQ",
+            "spacepxl/Wan2.1-VAE-upscale2x",
+            "LyliaEngine/nsfwPonyWildcards_v11",
+            "angusleung100/bad-anatomy-realism-classifier"
+        ]
+    },
+    {
+        "intent": "I want a large language model for generating and understanding natural language text that I can use for building chatbots, virtual assistants, or other AI applications.",
+        "gold": "meta-llama/Llama-3.3-70B-Instruct",
+        "ranking": [
+            "authormist/authormist-originality",
+            "lapa-llm/lapa-12b-pt",
+            "prithivMLmods/Phi-4-Empathetic",
+            "Falconsai/text_summarization",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to convert documents containing both images and text into structured formats like HTML or Markdown, accurately recognizing elements such as mathematical equations and document structure.",
+        "gold": "ibm-granite/granite-docling-258M",
+        "ranking": [
+            "prithivMLmods/Gliese-OCR-7B-Post2.0-final",
+            "inference-net/Schematron-3B",
+            "inference-net/Schematron-8B",
+            "nanonets/Nanonets-OCR2-3B",
+            "microsoft/OmniParser"
+        ]
+    },
+    {
+        "intent": "I want to generate high-quality speech audio from text using an efficient 8-bit quantized model that works on GPUs with limited VRAM.",
+        "gold": "FabioSarracino/VibeVoice-Large-Q8",
+        "ranking": [
+            "FabioSarracino/VibeVoice-Large-Q8",
+            "suno/bark-small",
+            "phazei/HunyuanVideo-Foley",
+            "OuteAI/Llama-OuteTTS-1.0-1B",
+            "chetwinlow1/Ovi"
+        ]
+    },
+    {
+        "intent": "I want a model that can automatically answer NEET-style multiple-choice biology questions by selecting the correct option.",
+        "gold": "Neural-Hacker/NEET_BioBERT",
+        "ranking": [
+            "weidawang/Chem-R-8B",
+            "Neural-Hacker/NEET_BioBERT",
+            "jondurbin/bagel-dpo-34b-v0.5",
+            "CohereLabs/c4ai-command-r-plus-08-2024",
+            "CohereLabs/c4ai-command-r-v01"
+        ]
+    },
+    {
+        "intent": "I want to generate vector embeddings for sentences or paragraphs to use in tasks like semantic search or clustering.",
+        "gold": "sentence-transformers/all-MiniLM-L6-v2",
+        "ranking": [
+            "hkunlp/instructor-base",
+            "hkunlp/instructor-xl",
+            "RepresentLM/RepresentLM-v1",
+            "FinLang/finance-embeddings-investopedia",
+            "onnx-community/embeddinggemma-300m-ONNX"
+        ]
+    },
+    {
+        "intent": "I want a resource-efficient text-to-image diffusion model that can quickly generate high-quality 512px images from prompts.",
+        "gold": "amd/Nitro-E",
+        "ranking": [
+            "tencent/HunyuanImage-2.1",
+            "google/ddpm-celebahq-256",
+            "cyberdelia/CyberRealistic",
+            "peteromallet/Qwen-Image-Edit-InStyle",
+            "xinsir/controlnet-union-sdxl-1.0"
+        ]
+    },
+    {
+        "intent": "I want to identify overlapping or duplicate content within text data.",
+        "gold": "LeeHarrold/detect_overlap_model",
+        "ranking": [
+            "WhiteRabbitNeo/WhiteRabbitNeo-13B-v1",
+            "microsoft/OmniParser",
+            "jondurbin/bagel-dpo-34b-v0.5",
+            "PleIAs/Segmentext",
+            "microsoft/phi-2"
+        ]
+    },
+    {
+        "intent": "I want a large open-weight language model for advanced reasoning, agentic tasks like function calling and code execution, and general-purpose text generation that can run on a single high-memory GPU.",
+        "gold": "openai/gpt-oss-120b",
+        "ranking": [
+            "MiniMaxAI/MiniMax-M1-40k",
+            "MiniMaxAI/MiniMax-M1-80k",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to generate realistic images from text descriptions.",
+        "gold": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+        "ranking": [
+            "peteromallet/Qwen-Image-Edit-InStyle",
+            "xinsir/controlnet-scribble-sdxl-1.0",
+            "MiaoshouAI/Florence-2-large-PromptGen-v2.0",
+            "NandemoGHS/Anime-Llasa-3B-Captions",
+            "vita-video-gen/svi-model"
+        ]
+    },
+    {
+        "intent": "I want to generate images based on spatial or layout information.",
+        "gold": "manycore-research/SpatialGen-1.0",
+        "ranking": [
+            "microsoft/OmniParser",
+            "lrzjason/QwenImage-Rebalance",
+            "xinsir/controlnet-union-sdxl-1.0",
+            "stabilityai/stable-diffusion-x4-upscaler",
+            "black-forest-labs/FLUX.1-schnell"
+        ]
+    },
+    {
+        "intent": "I want a language model that understands cybersecurity concepts and terminology for tasks like threat detection, vulnerability assessment, incident report summarization, and building AI-powered security tools.",
+        "gold": "fdtn-ai/Foundation-Sec-8B",
+        "ranking": [
+            "ZySec-AI/SecurityLLM",
+            "fdtn-ai/Foundation-Sec-8B",
+            "fdtn-ai/Foundation-Sec-8B-Instruct",
+            "authormist/authormist-originality",
+            "PokeeAI/pokee_research_7b"
+        ]
+    },
+    {
+        "intent": "I want to generate descriptive captions for user interface widgets from images.",
+        "gold": "google/pix2struct-widget-captioning-large",
+        "ranking": [
+            "fancyfeast/llama-joycaption-beta-one-hf-llava",
+            "fancyfeast/llama-joycaption-alpha-two-hf-llava",
+            "CohereLabs/c4ai-command-r-v01",
+            "CohereLabs/c4ai-command-r-plus-08-2024",
+            "katanemo/Arch-Router-1.5B"
+        ]
+    },
+    {
+        "intent": "I want a compact, open-source language model that can handle long documents, support multiple languages, and follow instructions for tasks like reasoning, coding, and answering questions.",
+        "gold": "HuggingFaceTB/SmolLM3-3B",
+        "ranking": [
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF"
+        ]
+    },
+    {
+        "intent": "I want a language model that can handle long context windows, generate and understand code, perform advanced reasoning, and support agent-based tasks and tool use.",
+        "gold": "unsloth/GLM-4.6-GGUF",
+        "ranking": [
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to generate realistic user responses for testing and evaluating conversational AI assistants.",
+        "gold": "microsoft/UserLM-8b",
+        "ranking": [
+            "prithivMLmods/Phi-4-Empathetic",
+            "lakhera2023/devops-slm-v1",
+            "ServiceNow-AI/Apriel-1.5-15b-Thinker",
+            "fdtn-ai/Foundation-Sec-8B-Instruct",
+            "ArmurAI/Pentest_AI"
+        ]
+    },
+    {
+        "intent": "I want a quantized version of the GLM-4.5-Air-REAP-82B-A12B large language model that can run efficiently with llama.cpp or LM Studio on different hardware configurations.",
+        "gold": "bartowski/cerebras_GLM-4.5-Air-REAP-82B-A12B-GGUF",
+        "ranking": [
+            "MaziyarPanahi/Mistral-7B-Instruct-Aya-101-GGUF",
+            "TheBloke/CodeLlama-70B-Instruct-GGUF",
+            "zai-org/GLM-4.5",
+            "TheBloke/Llama-2-7B-Chat-GGUF",
+            "TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to edit or combine multiple images, such as people, products, or scenes, and make consistent changes to faces, objects, or text in the images.",
+        "gold": "Qwen/Qwen-Image-Edit-2509",
+        "ranking": [
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "purplesmartai/Pony-InternVL2-26B-AWQ",
+            "microsoft/OmniParser",
+            "LyliaEngine/Pony_Diffusion_V6_XL",
+            "DeepFloyd/IF-I-XL-v1.0"
+        ]
+    },
+    {
+        "intent": "I want to generate synthetic instruction-following data from long and high-resolution videos to improve video understanding models.",
+        "gold": "TIGER-Lab/VISTA-Mantis",
+        "ranking": [
+            "TIGER-Lab/VISTA-Mantis",
+            "Skywork/SkyReels-V2-DF-14B-720P",
+            "vita-video-gen/svi-model",
+            "tencent/HunyuanImage-2.1",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF"
+        ]
+    },
+    {
+        "intent": "I want a model that can answer questions about the content of images.",
+        "gold": "Salesforce/blip-vqa-base",
+        "ranking": [
+            "CohereLabs/c4ai-command-r-v01",
+            "CohereLabs/c4ai-command-r-plus-08-2024",
+            "jondurbin/bagel-dpo-34b-v0.5",
+            "WhiteRabbitNeo/WhiteRabbitNeo-13B-v1",
+            "goonsai-com/civitaiprompts"
+        ]
+    },
+    {
+        "intent": "I want to generate interactive 3D environments from text descriptions or images.",
+        "gold": "tencent/HunyuanWorld-1",
+        "ranking": [
+            "suno/bark",
+            "prithivMLmods/Phi-4-Empathetic",
+            "black-forest-labs/FLUX.1-schnell",
+            "fancyfeast/llama-joycaption-beta-one-hf-llava",
+            "fancyfeast/llama-joycaption-alpha-two-hf-llava"
+        ]
+    },
+    {
+        "intent": "I want a model that can understand and describe content from video, audio, images, and text in a single system.",
+        "gold": "nvidia/omnivinci",
+        "ranking": [
+            "Qwen/Qwen2.5-VL-32B-Instruct",
+            "vita-video-gen/svi-model",
+            "Qwen/Qwen2.5-VL-3B-Instruct",
+            "Qwen/Qwen2.5-VL-7B-Instruct",
+            "Qwen/Qwen2.5-VL-72B-Instruct"
+        ]
+    },
+    {
+        "intent": "I want to generate 3D models or assets from text descriptions.",
+        "gold": "tencent/Hunyuan3D-1",
+        "ranking": [
+            "suno/bark",
+            "stabilityai/stable-audio-open-1.0",
+            "dreamlike-art/dreamlike-photoreal-2.0",
+            "suno/bark-small",
+            "NandemoGHS/Anime-Llasa-3B-Captions"
+        ]
+    },
+    {
+        "intent": "I want to generate high-resolution, textured 3D models from images or custom mesh inputs.",
+        "gold": "tencent/Hunyuan3D-2",
+        "ranking": [
+            "CompVis/stable-diffusion-v1-4",
+            "xinsir/controlnet-scribble-sdxl-1.0",
+            "xinsir/controlnet-union-sdxl-1.0",
+            "xinsir/controlnet-canny-sdxl-1.0",
+            "fancyfeast/llama-joycaption-alpha-two-hf-llava"
+        ]
+    },
+    {
+        "intent": "I want a model that can quickly edit images or generate new images from text prompts, with support for both safe-for-work and not-safe-for-work content.",
+        "gold": "Phr00t/Qwen-Image-Edit-Rapid-AIO",
+        "ranking": [
+            "purplesmartai/pony-v7-base",
+            "LyliaEngine/Pony_Diffusion_V6_XL",
+            "goonsai-com/civitaiprompts",
+            "angusleung100/bad-anatomy-realism-classifier",
+            "AstraliteHeart/pony-diffusion-v2"
+        ]
+    },
+    {
+        "intent": "I want to generate multilingual sentence embeddings for tasks like semantic search or clustering.",
+        "gold": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+        "ranking": [
+            "RepresentLM/RepresentLM-v1",
+            "hkunlp/instructor-base",
+            "hkunlp/instructor-xl",
+            "FinLang/finance-embeddings-investopedia",
+            "sbintuitions/sarashina-embedding-v2-1b"
+        ]
+    },
+    {
+        "intent": "I want to search and retrieve documents or product information across multiple languages using semantic search, for applications like multilingual e-commerce, enterprise knowledge assistants, or on-device file retrieval.",
+        "gold": "LiquidAI/LFM2-ColBERT-350M",
+        "ranking": [
+            "onnx-community/embeddinggemma-300m-ONNX",
+            "LiquidAI/LFM2-ColBERT-350M",
+            "google/embeddinggemma-300m",
+            "nvidia/llama-3.2-nv-rerankqa-1b-v2",
+            "fdtn-ai/Foundation-Sec-8B"
+        ]
+    },
+    {
+        "intent": "I want a language model that can help generate and analyze offensive cybersecurity scenarios, including vulnerability assessments, exploit reasoning, red-team plans, and attack trace summaries, while enforcing safety constraints.",
+        "gold": "AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUF",
+        "ranking": [
+            "fdtn-ai/Foundation-Sec-8B",
+            "prithivMLmods/Phi-4-Empathetic",
+            "fdtn-ai/Foundation-Sec-8B-Instruct",
+            "NousResearch/Meta-Llama-3.1-70B",
+            "Trendyol/Trendyol-Cybersecurity-LLM-v2-70B-Q4_K_M"
+        ]
+    },
+    {
+        "intent": "I want a memory-efficient large language model for code generation, function calling, and agentic coding tasks that can be deployed easily in resource-constrained environments.",
+        "gold": "cerebras/Qwen3-Coder-REAP-25B-A3B",
+        "ranking": [
+            "MiniMaxAI/MiniMax-M1-80k",
+            "MiniMaxAI/MiniMax-M1-40k",
+            "Salesforce/xLAM-1b-fc-r",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "Salesforce/Llama-xLAM-2-8b-fc-r"
+        ]
+    },
+    {
+        "intent": "Intent Description: I want a model that can understand and reason over both text and images or videos, perform complex visual tasks like GUI interaction and coding from visuals, handle long documents and videos, recognize a wide range of objects and text in multiple languages, and provide detailed multimodal analysis and answers.",
+        "gold": "Qwen/Qwen3-VL-8B-Thinking",
+        "ranking": [
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF"
+        ]
+    },
+    {
+        "intent": "I want a language model that can handle long context documents, generate and understand code, perform advanced reasoning, and support integration with agent frameworks and tool use.",
+        "gold": "zai-org/GLM-4.6",
+        "ranking": [
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF"
+        ]
+    },
+    {
+        "intent": "I want a transformer-based model for processing and classifying video data.",
+        "gold": "google/vivit-b-16x2-kinetics400",
+        "ranking": [
+            "starvector/starvector-8b-im2svg",
+            "nvidia/GR00T-N1.5-3B",
+            "TIGER-Lab/VISTA-Mantis",
+            "MCG-NJU/videomae-large",
+            "kyutai/moshiko-pytorch-bf16"
+        ]
+    },
+    {
+        "intent": "I want a pretrained Vision Transformer model for extracting image features that I can use for downstream computer vision tasks.",
+        "gold": "facebook/dinov2-base",
+        "ranking": [
+            "recursionpharma/OpenPhenom",
+            "MCG-NJU/videomae-large",
+            "starvector/starvector-8b-im2svg",
+            "facebook/dino-vitb8",
+            "facebook/dino-vits16"
+        ]
+    },
+    {
+        "intent": "I want to identify and separate who is speaking in real-time audio streams with up to four speakers.",
+        "gold": "nvidia/diar_streaming_sortformer_4spk-v2",
+        "ranking": [
+            "asif00/Kokoro-Conversational",
+            "1-800-BAD-CODE/punctuation_fullstop_truecase_english",
+            "sphiratrioth666/Lorebooks_as_ACTIVE_scenario_and_character_guidance_tool",
+            "nyrahealth/CrisperWhisper",
+            "Anzhc/Anzhcs_YOLOs"
+        ]
+    },
+    {
+        "intent": "I want to automatically remove backgrounds from images for use in e-commerce, advertising, or content creation.",
+        "gold": "briaai/RMBG-1.4",
+        "ranking": [
+            "WhiteRabbitNeo/Llama-3.1-WhiteRabbitNeo-2-70B",
+            "WhiteRabbitNeo/Llama-3-WhiteRabbitNeo-8B-v2.0",
+            "microsoft/OmniParser",
+            "WhiteRabbitNeo/WhiteRabbitNeo-13B-v1",
+            "DeepHat/DeepHat-V1-7B"
+        ]
+    },
+    {
+        "intent": "I want to edit images to improve their visual quality, consistency, and realism while preserving details and structure across various subjects like portraits, products, and environments.",
+        "gold": "valiantcat/Qwen-Image-Edit-MeiTu",
+        "ranking": [
+            "valiantcat/Qwen-Image-Edit-MeiTu",
+            "lrzjason/QwenImage-Rebalance",
+            "Shakker-Labs/majicflus_v1",
+            "peteromallet/Qwen-Image-Edit-InSubject",
+            "Qwen/Qwen-Image-Edit"
+        ]
+    },
+    {
+        "intent": "I want to generate text summaries that describe the information shown in charts or plots.",
+        "gold": "google/matcha-chart2text-pew",
+        "ranking": [
+            "microsoft/OmniParser",
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "microsoft/phi-2",
+            "jondurbin/bagel-dpo-34b-v0.5",
+            "NetoAISolutions/TSLAM-4B"
+        ]
+    },
+    {
+        "intent": "I want a language model that can handle complex reasoning, solve math and science problems, write code, follow instructions, and process very long text inputs.",
+        "gold": "Qwen/Qwen3-4B-Thinking-2507",
+        "ranking": [
+            "Qwen/Qwen2.5-Math-7B-Instruct",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "prithivMLmods/Phi-4-Empathetic",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to extract and recognize text, tables, formulas, and layout elements from multilingual document images, preserving reading order and structure.",
+        "gold": "rednote-hilab/dots.ocr",
+        "ranking": [
+            "ByteDance/Dolphin",
+            "ByteDance/Dolphin-1.5",
+            "prithivMLmods/Gliese-OCR-7B-Post2.0-final",
+            "PaddlePaddle/PaddleOCR-VL",
+            "kha-white/manga-ocr-base"
+        ]
+    },
+    {
+        "intent": "I want to automatically detect and filter out NSFW or explicit images from user-uploaded content.",
+        "gold": "Falconsai/nsfw_image_detection",
+        "ranking": [
+            "LyliaEngine/Pony_Diffusion_V6_XL",
+            "microsoft/OmniParser",
+            "fedric95/Qwen3-4B-Instruct-2507-unc",
+            "WhiteRabbitNeo/Llama-3.1-WhiteRabbitNeo-2-70B",
+            "WhiteRabbitNeo/Llama-3-WhiteRabbitNeo-8B-v2.0"
+        ]
+    },
+    {
+        "intent": "I want to translate text directly between any two of 50 different languages.",
+        "gold": "facebook/mbart-large-50-many-to-many-mmt",
+        "ranking": [
+            "dennlinger/roberta-cls-consec",
+            "pszemraj/flan-t5-large-grammar-synthesis",
+            "sphiratrioth666/Lorebooks_as_ACTIVE_scenario_and_character_guidance_tool",
+            "jondurbin/bagel-dpo-34b-v0.5",
+            "PygmalionAI/pygmalion-1.3b"
+        ]
+    },
+    {
+        "intent": "I want to simulate and predict Atari game environments using visual world models.",
+        "gold": "eloialonso/diamond",
+        "ranking": [
+            "lerobot/pi05_base",
+            "ucd-dare/CarDreamer",
+            "wi-lab/lwm",
+            "WoW-world-model/WoW-1-Wan-14B-600k",
+            "Skywork/Matrix-3D"
+        ]
+    },
+    {
+        "intent": "I want to estimate the absolute depth of objects in indoor images.",
+        "gold": "depth-anything/Depth-Anything-V2-Metric-Indoor-Small-hf",
+        "ranking": [
+            "xinsir/controlnet-union-sdxl-1.0",
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "thedeoxen/refcontrol-flux-kontext-reference-pose-lora",
+            "xinsir/controlnet-canny-sdxl-1.0",
+            "xinsir/controlnet-scribble-sdxl-1.0"
+        ]
+    },
+    {
+        "intent": "I want to generate high-quality, long videos from text prompts, images, or by continuing existing videos.",
+        "gold": "meituan-longcat/LongCat-Video",
+        "ranking": [
+            "vita-video-gen/svi-model",
+            "Skywork/SkyReels-V2-DF-14B-720P",
+            "tencent/HunyuanImage-2.1",
+            "lrzjason/QwenImage-Rebalance",
+            "cyberdelia/CyberRealistic"
+        ]
+    },
+    {
+        "intent": "I want a multilingual model to generate text embeddings and perform dense, sparse, or hybrid retrieval for both short and long documents.",
+        "gold": "BAAI/bge-m3",
+        "ranking": [
+            "BAAI/bge-m3",
+            "Qwen/Qwen3-Embedding-0.6B",
+            "Qwen/Qwen3-Embedding-8B",
+            "Qwen/Qwen3-Embedding-4B",
+            "Alibaba-NLP/gte-multilingual-base"
+        ]
+    },
+    {
+        "intent": "I want a lightweight model that can process and generate text, images, and audio on mobile or edge devices.",
+        "gold": "google/gemma-3n-E4B-it-litert-lm",
+        "ranking": [
+            "HuggingFaceTB/SmolVLM-500M-Instruct",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "HuggingFaceTB/SmolVLM-Instruct",
+            "microsoft/OmniParser-v2.0",
+            "google/magenta-realtime"
+        ]
+    },
+    {
+        "intent": "I want to convert audio recordings into accurate text transcriptions or translate spoken language from audio files.",
+        "gold": "openai/whisper-large-v3",
+        "ranking": [
+            "jordand/whisper-d-v1a",
+            "openai/whisper-base",
+            "openai/whisper-medium",
+            "openai/whisper-small",
+            "openai/whisper-large-v2"
+        ]
+    },
+    {
+        "intent": "I want a compact language model that can handle reasoning, coding, and intelligent agent tasks efficiently.",
+        "gold": "zai-org/GLM-4.5-Air",
+        "ranking": [
+            "zai-org/GLM-4.1V-9B-Base",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF"
+        ]
+    },
+    {
+        "intent": "I want a general-purpose language model for generating and understanding text.",
+        "gold": "meta-llama/Llama-3.2-1B",
+        "ranking": [
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF",
+            "prithivMLmods/FastThink-0.5B-Tiny"
+        ]
+    },
+    {
+        "intent": "I want a language model that can handle very long inputs and perform complex reasoning, including logic, math, science, and coding tasks.",
+        "gold": "Qwen/Qwen3-30B-A3B-Thinking-2507",
+        "ranking": [
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "prithivMLmods/Phi-4-Empathetic"
+        ]
+    },
+    {
+        "intent": "I want a language model that can efficiently process and generate long-form text with high speed and accuracy, supporting very large context windows.",
+        "gold": "inclusionAI/Ring-flash-linear-2.0-128k",
+        "ranking": [
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "DragonLLM/Dragon-3B-Base-alpha",
+            "OuteAI/Llama-OuteTTS-1.0-1B",
+            "asif00/Kokoro-Conversational",
+            "microsoft/Phi-4-multimodal-instruct"
+        ]
+    },
+    {
+        "intent": "I want a Russian-language large language model for generating text, answering questions, and following instructions, optimized for both Russian and English.",
+        "gold": "AvitoTech/avibe",
+        "ranking": [
+            "utter-project/TowerVideo-9B",
+            "MaLA-LM/emma-500-llama2-7b",
+            "ModelSpace/GemmaX2-28-9B-v0.1",
+            "ModelSpace/GemmaX2-28-2B-v0.1",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to estimate depth or generate disparity maps from images.",
+        "gold": "jingheya/lotus-depth-g-v2-1-disparity",
+        "ranking": [
+            "xinsir/controlnet-scribble-sdxl-1.0",
+            "xinsir/controlnet-union-sdxl-1.0",
+            "xinsir/controlnet-canny-sdxl-1.0",
+            "depth-anything/Depth-Anything-V2-Large-hf",
+            "apple/DepthPro-hf"
+        ]
+    },
+    {
+        "intent": "I want a large language model for tasks like reasoning, coding, and building intelligent agents.",
+        "gold": "zai-org/GLM-4.5",
+        "ranking": [
+            "zai-org/GLM-4.1V-9B-Base",
+            "zai-org/GLM-4.6",
+            "MiniMaxAI/MiniMax-M1-40k",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to perform interactive segmentation on images or videos using Core ML, allowing users to select and segment any object.",
+        "gold": "apple/coreml-sam2.1-tiny",
+        "ranking": [
+            "Skywork/Matrix-3D",
+            "microsoft/OmniParser-v2.0",
+            "kitsumed/yolov8m_seg-speech-bubble",
+            "lrzjason/QwenImage-Rebalance",
+            "microsoft/OmniParser"
+        ]
+    },
+    {
+        "intent": "I want to detect and segment speech regions, including overlapping speakers, in audio recordings.",
+        "gold": "pyannote/segmentation",
+        "ranking": [
+            "pyannote/segmentation-3.0",
+            "bond005/whisper-podlodka-turbo",
+            "openbmb/VoxCPM-0.5B",
+            "nvidia/diar_streaming_sortformer_4spk-v2",
+            "nvidia/diar_sortformer_4spk-v1"
+        ]
+    },
+    {
+        "intent": "I want a multilingual text embedding model for tasks like semantic search, document retrieval, reranking, or text classification, including support for cross-lingual applications and integration into Retrieval-Augmented Generation systems.",
+        "gold": "nvidia/llama-embed-nemotron-8b",
+        "ranking": [
+            "BAAI/bge-m3",
+            "maidalun1020/bce-reranker-base_v1",
+            "Qwen/Qwen3-Embedding-0.6B-GGUF",
+            "Qwen/Qwen3-Embedding-4B-GGUF",
+            "Qwen/Qwen3-Embedding-8B-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to detect and estimate human body joint positions in images for pose analysis.",
+        "gold": "usyd-community/vitpose-plus-base",
+        "ranking": [
+            "usyd-community/vitpose-base-simple",
+            "usyd-community/vitpose-plus-base",
+            "teemosliang/SDPose-Body",
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "teemosliang/SDPose-Wholebody"
+        ]
+    },
+    {
+        "intent": "I want to match images with relevant text descriptions or perform zero-shot image classification using natural language prompts.",
+        "gold": "openai/clip-vit-base-patch32",
+        "ranking": [
+            "geolocal/StreetCLIP",
+            "google/paligemma-3b-pt-224",
+            "google/paligemma-3b-ft-tallyqa-224",
+            "google/paligemma-3b-ft-textvqa-448",
+            "google/owlv2-base-patch16-ensemble"
+        ]
+    },
+    {
+        "intent": "I want a text-to-image model that can generate images from prompts and is optimized for different GPU types.",
+        "gold": "spooknik/Jib-Mix-Flux-SVDQ",
+        "ranking": [
+            "MiaoshouAI/Florence-2-large-PromptGen-v2.0",
+            "AstraliteHeart/pony-diffusion-v2",
+            "fancyfeast/llama-joycaption-beta-one-hf-llava",
+            "fancyfeast/llama-joycaption-alpha-two-hf-llava",
+            "CompVis/stable-diffusion-v1-4"
+        ]
+    },
+    {
+        "intent": "I want a model that can edit images using text prompts, including support for NSFW content.",
+        "gold": "Phil2Sat/Qwen-Image-Edit-Rapid-AIO-GGUF",
+        "ranking": [
+            "LyliaEngine/Pony_Diffusion_V6_XL",
+            "purplesmartai/pony-v7-base",
+            "peteromallet/Qwen-Image-Edit-InStyle",
+            "Phr00t/Qwen-Image-Edit-Rapid-AIO",
+            "AstraliteHeart/pony-diffusion-v2"
+        ]
+    },
+    {
+        "intent": "I want a compact language model that can solve math, coding, and reasoning tasks with strong performance.",
+        "gold": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+        "ranking": [
+            "zai-org/GLM-4.1V-9B-Base",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF",
+            "MiniMaxAI/MiniMax-M1-40k",
+            "MiniMaxAI/MiniMax-M1-80k"
+        ]
+    },
+    {
+        "intent": "I want to detect positive, neutral, or negative sentiment in text across multiple languages.",
+        "gold": "lxyuan/distilbert-base-multilingual-cased-sentiments-student",
+        "ranking": [
+            "khaledsoudy/arabic-sentiment-bert-model",
+            "SamLowe/roberta-base-go_emotions",
+            "oliverguhr/german-sentiment-bert",
+            "PleIAs/Segmentext",
+            "hkunlp/instructor-xl"
+        ]
+    },
+    {
+        "intent": "I want to classify images and text together for multimodal tasks.",
+        "gold": "HFatemeH/vilt_finetuned_200",
+        "ranking": [
+            "google/cxr-foundation",
+            "starvector/starvector-8b-im2svg",
+            "google/paligemma-3b-pt-224",
+            "google/paligemma-3b-ft-textvqa-448",
+            "google/paligemma-3b-ft-tallyqa-224"
+        ]
+    },
+    {
+        "intent": "I want a model that lets a robot understand visual scenes and follow language instructions to perform actions.",
+        "gold": "lerobot/smolvla_base",
+        "ranking": [
+            "microsoft/OmniParser",
+            "microsoft/OmniParser-v2.0",
+            "purplesmartai/pony-v7-base",
+            "NetoAISolutions/TSLAM-4B",
+            "lerobot/pi05_base"
+        ]
+    },
+    {
+        "intent": "I want to retrieve and compare information across text, images, audio, and video using a single model that supports multimodal search and embedding.",
+        "gold": "nvidia/omni-embed-nemotron-3b",
+        "ranking": [
+            "Alibaba-NLP/gme-Qwen2-VL-2B-Instruct",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "nvidia/omni-embed-nemotron-3b",
+            "google/embeddinggemma-300m",
+            "starvector/starvector-8b-im2svg"
+        ]
+    },
+    {
+        "intent": "I want to automatically generate concise summaries of medical documents, research papers, or clinical notes.",
+        "gold": "Falconsai/medical_summarization",
+        "ranking": [
+            "nvidia/NV-Reason-CXR-3B",
+            "abhinand/MedEmbed-large-v0.1",
+            "abhinand/MedEmbed-base-v0.1",
+            "paige-ai/Virchow2",
+            "prithivMLmods/Phi-4-Empathetic"
+        ]
+    },
+    {
+        "intent": "I want a curated collection of essential models and workflows for image generation, editing, and control in ComfyUI.",
+        "gold": "MaxedOut/ComfyUI-Starter-Packs",
+        "ranking": [
+            "lrzjason/QwenImage-Rebalance",
+            "valiantcat/Qwen-Image-Edit-MeiTu",
+            "Shakker-Labs/majicflus_v1",
+            "QingyanBai/Ditto_models",
+            "Qwen/Qwen-Image-Edit"
+        ]
+    },
+    {
+        "intent": "I want to detect and estimate detailed human body, face, hand, and foot keypoints in high-resolution images.",
+        "gold": "facebook/sapiens-pose-1b",
+        "ranking": [
+            "Anzhc/Anzhcs_YOLOs",
+            "usyd-community/vitpose-base-simple",
+            "usyd-community/vitpose-plus-base",
+            "LyliaEngine/nsfwPonyWildcards_v11",
+            "ND911/SD_1.5_for_reals"
+        ]
+    },
+    {
+        "intent": "I want to generate high-quality, photorealistic images from text prompts using an open-source model.",
+        "gold": "tencent/HunyuanImage-3.0",
+        "ranking": [
+            "peteromallet/Qwen-Image-Edit-InStyle",
+            "tencent/HunyuanImage-2.1",
+            "cyberdelia/CyberRealistic",
+            "fancyfeast/llama-joycaption-beta-one-hf-llava",
+            "Open-Bee/Bee-8B-SFT"
+        ]
+    },
+    {
+        "intent": "I want a quantized large language model for general-purpose text generation and understanding.",
+        "gold": "noctrex/GLM-4.5-Air-REAP-82B-A12B-MXFP4_MOE-GGUF",
+        "ranking": [
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "dicta-il/dictalm2.0-GGUF",
+            "ViraIntelligentDataMining/PersianLLaMA-13B",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to generate segmentation masks for any object in an image using prompts like points or bounding boxes.",
+        "gold": "facebook/sam-vit-large",
+        "ranking": [
+            "apple/coreml-detr-semantic-segmentation",
+            "moondream/moondream3-preview",
+            "facebook/detr-resnet-50",
+            "magic-leap-community/superglue_outdoor",
+            "magic-leap-community/superpoint"
+        ]
+    },
+    {
+        "intent": "I want a large language model that generates uncensored, creative, and unrestricted text for a wide range of applications.",
+        "gold": "DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf",
+        "ranking": [
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "prithivMLmods/Phi-4-Empathetic",
+            "lapa-llm/lapa-12b-pt",
+            "purplesmartai/pony-v7-base",
+            "arcee-ai/SuperNova-Medius-GGUF"
+        ]
+    },
+    {
+        "intent": "I want a model that can understand complex instructions, perform advanced reasoning, and generate high-quality front-end code and visually appealing outputs.",
+        "gold": "inclusionAI/Ling-1T",
+        "ranking": [
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "prithivMLmods/Phi-4-Empathetic",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "prithivMLmods/FastThink-0.5B-Tiny"
+        ]
+    },
+    {
+        "intent": "I want to recognize specific spoken commands from audio recordings.",
+        "gold": "Xenova/ast-finetuned-speech-commands-v2",
+        "ranking": [
+            "openbmb/VoxCPM-0.5B",
+            "suno/bark",
+            "saheedniyi/YarnGPT",
+            "openai/whisper-medium",
+            "openai/whisper-base"
+        ]
+    },
+    {
+        "intent": "I want to identify and classify names of people, organizations, locations, and miscellaneous entities in English text.",
+        "gold": "dslim/bert-base-NER",
+        "ranking": [
+            "knowledgator/gliner-multitask-large-v0.5",
+            "microsoft/OmniParser",
+            "PleIAs/Segmentext",
+            "knowledgator/UTC-DeBERTa-large-v2",
+            "hkunlp/instructor-base"
+        ]
+    },
+    {
+        "intent": "I want to estimate depth maps from a single image with high detail and efficiency.",
+        "gold": "MackinationsAi/Depth-Anything-V2_Safetensors",
+        "ranking": [
+            "apple/DepthPro",
+            "xinsir/controlnet-union-sdxl-1.0",
+            "apple/DepthPro-hf",
+            "xinsir/controlnet-scribble-sdxl-1.0",
+            "thedeoxen/refcontrol-flux-kontext-reference-pose-lora"
+        ]
+    },
+    {
+        "intent": "I want a lightweight multimodal model that can understand and interact with images and videos in both English and Chinese, and is efficient enough to run on mobile devices.",
+        "gold": "openbmb/MiniCPM-V",
+        "ranking": [
+            "purplesmartai/pony-v7-base",
+            "HuggingFaceTB/SmolVLM-500M-Instruct",
+            "zai-org/GLM-4.5V",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "microsoft/OmniParser-v2.0"
+        ]
+    },
+    {
+        "intent": "I want to generate high-quality images from text prompts using a fast diffusion model compatible with the Diffusers library.",
+        "gold": "lightx2v/Qwen-Image-Lightning",
+        "ranking": [
+            "stabilityai/stable-diffusion-xl-base-1.0",
+            "google/ddpm-celebahq-256",
+            "gpustack/stable-diffusion-v2-1-turbo-GGUF",
+            "stabilityai/sd-turbo",
+            "stabilityai/stable-diffusion-xl-refiner-1.0"
+        ]
+    },
+    {
+        "intent": "I want to extract text, including math equations and tables, from complex or scanned document images using OCR.",
+        "gold": "allenai/olmOCR-2-7B-1025-FP8",
+        "ranking": [
+            "prithivMLmods/Gliese-OCR-7B-Post2.0-final",
+            "nanonets/Nanonets-OCR2-3B",
+            "nanonets/Nanonets-OCR-s",
+            "GnanaPrasath/ocr_tamil",
+            "PaddlePaddle/PaddleOCR-VL"
+        ]
+    },
+    {
+        "intent": "I want a general-purpose large language model for tasks like text generation, summarization, and question answering.",
+        "gold": "meta-llama/Llama-3.1-8B-Instruct",
+        "ranking": [
+            "MBZUAI/LaMini-Flan-T5-783M",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "medalpaca/medalpaca-7b",
+            "raidium/MQG",
+            "utter-project/TowerVideo-9B"
+        ]
+    },
+    {
+        "intent": "I want to generate segmentation masks for objects in images using JavaScript in a web application.",
+        "gold": "Xenova/sam-vit-base",
+        "ranking": [
+            "moondream/moondream3-preview",
+            "kitsumed/yolov8m_seg-speech-bubble",
+            "keras-io/deeplabv3p-resnet50",
+            "magic-leap-community/superglue_outdoor",
+            "Falconsai/nsfw_image_detection"
+        ]
+    },
+    {
+        "intent": "I want to automatically identify when different speakers are talking in single-channel audio recordings.",
+        "gold": "BUT-FIT/diarizen-wavlm-large-s80-md",
+        "ranking": [
+            "nvidia/diar_streaming_sortformer_4spk-v2",
+            "nvidia/diar_sortformer_4spk-v1",
+            "asif00/Kokoro-Conversational",
+            "OuteAI/Llama-OuteTTS-1.0-1B",
+            "bosonai/higgs-audio-v2-generation-3B-base"
+        ]
+    },
+    {
+        "intent": "I want to classify English sentences as having positive or negative sentiment.",
+        "gold": "distilbert/distilbert-base-uncased-finetuned-sst-2-english",
+        "ranking": [
+            "khaledsoudy/arabic-sentiment-bert-model",
+            "christian-phu/bert-finetuned-japanese-sentiment",
+            "hkunlp/instructor-xl",
+            "hkunlp/instructor-base",
+            "savasy/bert-base-turkish-sentiment-cased"
+        ]
+    },
+    {
+        "intent": "I want to segment and track objects in complex video scenes, especially where multiple objects and challenging scenarios are involved.",
+        "gold": "OpenIXCLab/SeC-4B",
+        "ranking": [
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "lrzjason/QwenImage-Rebalance",
+            "microsoft/OmniParser",
+            "Qwen/Qwen-Image-Edit",
+            "microsoft/OmniParser-v2.0"
+        ]
+    },
+    {
+        "intent": "I want a language model that can follow instructions, generate code, and solve math problems for enterprise applications.",
+        "gold": "arcee-ai/AFM-4.5B-Base",
+        "ranking": [
+            "nvidia/Nemotron-H-4B-Instruct-128K",
+            "EpistemeAI/Polypsyche-Llama-3.1-8B-Instruct-Agent-0.0031-128K-code-ds-auto-Logic",
+            "microsoft/Phi-4-mini-instruct",
+            "openchat/openchat-3.5-0106",
+            "ServiceNow-AI/Apriel-1.5-15b-Thinker"
+        ]
+    },
+    {
+        "intent": "I want a model that can understand and answer questions about video content in English or Chinese.",
+        "gold": "lmms-lab/LLaVA-Video-7B-Qwen2",
+        "ranking": [
+            "CohereLabs/c4ai-command-r-plus-08-2024",
+            "CohereLabs/c4ai-command-r-v01",
+            "OuteAI/Lite-Mistral-150M-v2-Instruct-GGUF",
+            "teknium/Mistral-Trismegistus-7B",
+            "microsoft/phi-2"
+        ]
+    },
+    {
+        "intent": "I want to detect and track detailed human body, hand, face, and foot keypoints in images, including in artistic or out-of-domain styles.",
+        "gold": "teemosliang/SDPose-Wholebody",
+        "ranking": [
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "purplesmartai/Pony-InternVL2-26B-AWQ",
+            "LyliaEngine/nsfwPonyWildcards_v11",
+            "Anzhc/Anzhcs_YOLOs",
+            "ND911/SD_1.5_for_reals"
+        ]
+    },
+    {
+        "intent": "I want to generate natural-sounding speech from text on my local device, with the ability to instantly clone a speaker’s voice using a short audio sample.",
+        "gold": "neuphonic/neutts-air",
+        "ranking": [
+            "openbmb/VoxCPM-0.5B",
+            "OuteAI/OuteTTS-0.2-500M",
+            "saheedniyi/YarnGPT",
+            "neuphonic/neutts-air-q4-gguf",
+            "jadechoghari/VoiceRestore"
+        ]
+    },
+    {
+        "intent": "I want a pretrained model to forecast future values in time series data.",
+        "gold": "google/timesfm-2.5-200m-pytorch",
+        "ranking": [
+            "google/timesfm-1.0-200m",
+            "NeoQuasar/Kronos-base",
+            "ibm-granite/granite-timeseries-ttm-r1",
+            "ibm-granite/granite-timeseries-patchtst",
+            "Datadog/Toto-Open-Base-1.0"
+        ]
+    },
+    {
+        "intent": "I want a lightweight conversational AI model for building chatbots that can run efficiently on limited hardware.",
+        "gold": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+        "ranking": [
+            "nari-labs/Dia-1.6B",
+            "DragonLLM/Dragon-3B-Base-alpha",
+            "nineninesix/kani-tts-370m-expo2025-osaka-ja",
+            "microsoft/Phi-3-mini-4k-instruct-gguf",
+            "asif00/Kokoro-Conversational"
+        ]
+    },
+    {
+        "intent": "I want a model that can search the live web, gather information from multiple sources, and generate detailed, citation-rich reports in response to complex research questions.",
+        "gold": "FractalAIResearch/Fathom-Search-4B",
+        "ranking": [
+            "deepseek-ai/DeepSeek-V3-0324",
+            "CohereLabs/c4ai-command-r-plus-08-2024",
+            "microsoft/UserLM-8b",
+            "medalpaca/medalpaca-7b",
+            "microsoft/phi-2"
+        ]
+    },
+    {
+        "intent": "I want to generate high-quality songs with both vocals and accompaniment in multiple languages.",
+        "gold": "tencent/SongGeneration",
+        "ranking": [
+            "ai4bharat/indic-parler-tts",
+            "Minthy/RouWei-0.8",
+            "OuteAI/Llama-OuteTTS-1.0-1B",
+            "LyliaEngine/Pony_Diffusion_V6_XL",
+            "microsoft/Phi-4-multimodal-instruct"
+        ]
+    },
+    {
+        "intent": "I want a model that can perform a variety of NLP tasks like translation, summarization, question answering, and text classification using a unified text-to-text approach.",
+        "gold": "google-t5/t5-small",
+        "ranking": [
+            "robzchhangte/MizBERT",
+            "MBZUAI/LaMini-Flan-T5-783M",
+            "WoW-world-model/WoW-1-Wan-14B-600k",
+            "medalpaca/medalpaca-7b",
+            "utter-project/TowerVideo-9B"
+        ]
+    },
+    {
+        "intent": "I want to estimate depth maps from a single image using a fast and accurate monocular depth estimation model.",
+        "gold": "depth-anything/Depth-Anything-V2-Large-hf",
+        "ranking": [
+            "apple/DepthPro",
+            "apple/DepthPro-hf",
+            "depth-anything/Depth-Anything-V2-Large-hf",
+            "depth-anything/Depth-Anything-V2-Metric-Indoor-Small-hf",
+            "depth-anything/prompt-depth-anything-vitl-hf"
+        ]
+    },
+    {
+        "intent": "I want to predict and alert for potential collisions or near-miss threats specifically involving my own vehicle using dashcam footage.",
+        "gold": "nexar-ai/BADAS-Open",
+        "ranking": [
+            "NetoAISolutions/TSLAM-4B",
+            "Falconsai/medical_summarization",
+            "WhiteRabbitNeo/WhiteRabbitNeo-13B-v1",
+            "Nasserelsaman/microsoft-finetuned-personality",
+            "CharGen/CharGen-v3-mini"
+        ]
+    },
+    {
+        "intent": "I want a memory-efficient large language model for code generation, function calling, and agentic coding tasks that can be deployed easily in resource-constrained environments.",
+        "gold": "cerebras/Qwen3-Coder-REAP-246B-A35B-FP8",
+        "ranking": [
+            "MiniMaxAI/MiniMax-M1-80k",
+            "MiniMaxAI/MiniMax-M1-40k",
+            "Salesforce/xLAM-1b-fc-r",
+            "prithivMLmods/FastThink-0.5B-Tiny",
+            "Salesforce/Llama-xLAM-2-8b-fc-r"
+        ]
+    },
+    {
+        "intent": "I want a model that can understand and generate responses based on both images and text, supporting multimodal reasoning and conversation.",
+        "gold": "internlm/Spark-VL-7B",
+        "ranking": [
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "prithivMLmods/Phi-4-Empathetic",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to determine whether a person's voice is male or female from an audio recording.",
+        "gold": "JaesungHuh/voice-gender-classifier",
+        "ranking": [
+            "openbmb/VoxCPM-0.5B",
+            "asif00/Kokoro-Conversational",
+            "ai4bharat/indic-parler-tts",
+            "purplesmartai/Pony-InternVL2-40B-AWQ",
+            "gguf-org/vibevoice-gguf"
+        ]
+    },
+    {
+        "intent": "I want to shrink, optimize, and fine-tune vision and multimodal AI models for faster inference, lower memory usage, and deployment on limited hardware.",
+        "gold": "merve/smol-vision",
+        "ranking": [
+            "merve/smol-vision",
+            "pixasocial/survival-uncensored-gemma-270m-v2",
+            "Efficient-Large-Model/NVILA-15B",
+            "unsloth/Llama-3.2-1B",
+            "unsloth/Llama-3.2-3B-Instruct-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to analyze sentiment in text across multiple languages, including English, Chinese, Spanish, Arabic, and others.",
+        "gold": "tabularisai/multilingual-sentiment-analysis",
+        "ranking": [
+            "google/umt5-xxl",
+            "ModelSpace/GemmaX2-28-2B-v0.1",
+            "ModelSpace/GemmaX2-28-9B-v0.1",
+            "utter-project/TowerVideo-9B",
+            "google/mt5-base"
+        ]
+    },
+    {
+        "intent": "I want to generate multilingual text embeddings for tasks like text retrieval, classification, clustering, or code search.",
+        "gold": "Qwen/Qwen3-Embedding-0.6B",
+        "ranking": [
+            "jinaai/jina-embeddings-v4",
+            "sbintuitions/sarashina-embedding-v2-1b",
+            "onnx-community/embeddinggemma-300m-ONNX",
+            "jinaai/jina-embeddings-v3",
+            "BAAI/bge-m3"
+        ]
+    },
+    {
+        "intent": "I want to search and retrieve documents using both text and visual features from images or scanned pages.",
+        "gold": "vidore/colpali",
+        "ranking": [
+            "prithivMLmods/Gliese-OCR-7B-Post2.0-final",
+            "google/embeddinggemma-300m",
+            "onnx-community/embeddinggemma-300m-ONNX",
+            "ncbi/MedCPT-Query-Encoder",
+            "microsoft/OmniParser"
+        ]
+    },
+    {
+        "intent": "I want a language model that excels at complex reasoning, math, and coding tasks, with performance comparable to leading models like OpenAI's, and is available for open-source use.",
+        "gold": "deepseek-ai/DeepSeek-R1",
+        "ranking": [
+            "zai-org/GLM-4.1V-9B-Base",
+            "MiniMaxAI/MiniMax-M1-80k",
+            "MiniMaxAI/MiniMax-M1-40k",
+            "MiniMaxAI/MiniMax-M2",
+            "zai-org/GLM-4.6"
+        ]
+    },
+    {
+        "intent": "I want to convert messy or complex HTML from web pages into clean, structured JSON that matches a specific schema.",
+        "gold": "inference-net/Schematron-3B",
+        "ranking": [
+            "inference-net/Schematron-8B",
+            "inference-net/Schematron-3B",
+            "jinaai/ReaderLM-v2",
+            "nanonets/Nanonets-OCR2-3B",
+            "nanonets/Nanonets-OCR-s"
+        ]
+    },
+    {
+        "intent": "I want an AI assistant that can automatically handle the entire data science workflow, from data preparation to analysis, modeling, visualization, and generating research reports on various data formats.",
+        "gold": "RUC-DataLab/DeepAnalyze-8B",
+        "ranking": [
+            "RUC-DataLab/DeepAnalyze-8B",
+            "PleIAs/Segmentext",
+            "lerobot/pi05_base",
+            "microsoft/UserLM-8b",
+            "wi-lab/lwm"
+        ]
+    },
+    {
+        "intent": "I want a chat assistant that provides helpful responses while avoiding harmful or unsafe content.",
+        "gold": "PKU-Alignment/beaver-7b-v1.0",
+        "ranking": [
+            "Qwen/Qwen3Guard-Gen-0.6B",
+            "Qwen/Qwen3Guard-Gen-8B",
+            "prithivMLmods/Phi-4-Empathetic",
+            "fedric95/Qwen3-4B-Instruct-2507-unc",
+            "Salesforce/FARE-8B"
+        ]
+    },
+    {
+        "intent": "I want to automatically detect the language of a text, including support for thousands of languages and scripts.",
+        "gold": "cis-lmu/glotlid",
+        "ranking": [
+            "PleIAs/Segmentext",
+            "microsoft/OmniParser",
+            "microsoft/OmniParser-v2.0",
+            "nickmalhotra/ProjectIndus",
+            "microsoft/Phi-4-multimodal-instruct"
+        ]
+    },
+    {
+        "intent": "I want a pretrained video model to extract features or representations for downstream tasks like video classification.",
+        "gold": "MCG-NJU/videomae-large",
+        "ranking": [
+            "WoW-world-model/WoW-1-Wan-14B-600k",
+            "microsoft/xclip-base-patch32",
+            "vita-video-gen/svi-model",
+            "starvector/starvector-8b-im2svg",
+            "MCG-NJU/videomae-large"
+        ]
+    },
+    {
+        "intent": "I want to extract text and layout information from images or PDFs, including handwriting, tables, forms, and diagrams, and convert the results to markdown, HTML, or JSON.",
+        "gold": "datalab-to/chandra",
+        "ranking": [
+            "inference-net/Schematron-3B",
+            "microsoft/OmniParser",
+            "inference-net/Schematron-8B",
+            "nanonets/Nanonets-OCR2-3B",
+            "microsoft/OmniParser-v2.0"
+        ]
+    },
+    {
+        "intent": "I want a small language model optimized for fast inference and deployment on Android, iOS, or web using LiteRT or MediaPipe.",
+        "gold": "litert-community/Gemma3-1B-IT",
+        "ranking": [
+            "pixasocial/survival-uncensored-gemma-270m-v2",
+            "TEN-framework/ten-vad",
+            "microsoft/Phi-3-mini-128k-instruct-onnx",
+            "Banafo/Kroko-ASR",
+            "janhq/Jan-v1-edge-gguf"
+        ]
+    },
+    {
+        "intent": "I want to find answers to questions based on a given English text passage.",
+        "gold": "distilbert/distilbert-base-cased-distilled-squad",
+        "ranking": [
+            "medalpaca/medalpaca-7b",
+            "sentence-transformers/multi-qa-MiniLM-L6-dot-v1",
+            "jondurbin/bagel-dpo-34b-v0.5",
+            "CohereLabs/c4ai-command-r-plus-08-2024",
+            "CohereLabs/c4ai-command-r-v01"
+        ]
+    },
+    {
+        "intent": "I want to classify images into one of the 1,000 ImageNet categories using a pretrained vision transformer model.",
+        "gold": "google/vit-base-patch16-224",
+        "ranking": [
+            "google/vit-base-patch16-224",
+            "google/vit-large-patch16-224",
+            "google/vit-base-patch16-384",
+            "google/vit-large-patch16-384",
+            "microsoft/beit-base-finetuned-ade-640-640"
+        ]
+    },
+    {
+        "intent": "I want a quantized large language model that can follow instructions and generate text for general-purpose tasks, optimized for efficient inference on GPUs or MacOS.",
+        "gold": "lefromage/Qwen3-Next-80B-A3B-Instruct-GGUF",
+        "ranking": [
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "DragonLLM/Dragon-3B-Base-alpha",
+            "microsoft/bitnet-b1.58-2B-4T",
+            "PocketDoc/Dans-PersonalityEngine-V1.3.0-24b",
+            "NexaAI/OmniVLM-968M"
+        ]
+    },
+    {
+        "intent": "I want a model that can understand and reason about both text and images or videos, perform OCR in multiple languages, recognize objects and scenes, generate code or diagrams from visuals, and handle long documents or videos for tasks like answering questions, extracting information, or automating GUI interactions.",
+        "gold": "Qwen/Qwen3-VL-2B-Thinking",
+        "ranking": [
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "microsoft/OmniParser",
+            "microsoft/Phi-3.5-vision-instruct",
+            "prithivMLmods/Phi-4-Empathetic",
+            "microsoft/OmniParser-v2.0"
+        ]
+    },
+    {
+        "intent": "I want an AI agent that can autonomously research complex topics, retrieve information from multiple sources, and synthesize accurate, well-cited answers.",
+        "gold": "PokeeAI/pokee_research_7b",
+        "ranking": [
+            "microsoft/OmniParser",
+            "prithivMLmods/Phi-4-Empathetic",
+            "microsoft/OmniParser-v2.0",
+            "fdtn-ai/Foundation-Sec-8B",
+            "fdtn-ai/Foundation-Sec-8B-Instruct"
+        ]
+    },
+    {
+        "intent": "I want a multilingual language model that can handle complex reasoning, follow instructions, generate code, and support both conversational and agent-based tasks.",
+        "gold": "Qwen/Qwen3-0.6B",
+        "ranking": [
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Instruct-GGUF",
+            "NexaAI/Qwen3-VL-8B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-4B-Thinking-GGUF",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF"
+        ]
+    },
+    {
+        "intent": "Intent Description: I want a model that can understand and generate text and analyze images or videos, including recognizing objects, reading text in multiple languages, reasoning about spatial relationships, and interacting with graphical user interfaces.",
+        "gold": "Qwen/Qwen3-VL-30B-A3B-Instruct",
+        "ranking": [
+            "prithivMLmods/Phi-4-Empathetic",
+            "NexaAI/Qwen3-VL-2B-Instruct-GGUF",
+            "microsoft/OmniParser",
+            "NexaAI/Qwen3-VL-4B-Instruct-GGUF",
+            "microsoft/Phi-4-multimodal-instruct"
+        ]
+    },
+    {
+        "intent": "I want to detect and extract the structure of tables—including rows, columns, and cells—from images for use in document processing or data extraction.",
+        "gold": "nvidia/nemoretriever-table-structure-v1",
+        "ranking": [
+            "nvidia/nemoretriever-page-elements-v3",
+            "nvidia/nemoretriever-table-structure-v1",
+            "PleIAs/Segmentext",
+            "nvidia/nemoretriever-graphic-elements-v1",
+            "microsoft/OmniParser"
+        ]
+    },
+    {
+        "intent": "I want to find answers to questions based on a given passage of English text.",
+        "gold": "google-bert/bert-large-uncased-whole-word-masking-finetuned-squad",
+        "ranking": [
+            "medalpaca/medalpaca-7b",
+            "jondurbin/bagel-dpo-34b-v0.5",
+            "naver/xprovence-reranker-bgem3-v1",
+            "CohereLabs/c4ai-command-r-plus-08-2024",
+            "sentence-transformers/multi-qa-MiniLM-L6-dot-v1"
+        ]
+    },
+    {
+        "intent": "I want to extract and convert text from images or documents using OCR, including formatting results as markdown.",
+        "gold": "deepseek-ai/DeepSeek-OCR",
+        "ranking": [
+            "nanonets/Nanonets-OCR2-3B",
+            "nanonets/Nanonets-OCR-s",
+            "rednote-hilab/dots.ocr",
+            "prithivMLmods/Gliese-OCR-7B-Post2.0-final",
+            "GnanaPrasath/ocr_tamil"
+        ]
+    }
+]

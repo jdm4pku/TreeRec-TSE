@@ -1,0 +1,4002 @@
+[
+    {
+        "name": "ansi-styles",
+        "description": "ANSI escape codes for styling strings in the terminal"
+    },
+    {
+        "name": "commander",
+        "description": "the complete solution for node.js command-line programs"
+    },
+    {
+        "name": "supports-color",
+        "description": "Detect whether a terminal supports color"
+    },
+    {
+        "name": "ansi-regex",
+        "description": "Regular expression for matching ANSI escape codes"
+    },
+    {
+        "name": "string-width",
+        "description": "Get the visual width of a string - the number of columns required to display it"
+    },
+    {
+        "name": "chalk",
+        "description": "Terminal string styling done right"
+    },
+    {
+        "name": "wrap-ansi",
+        "description": "Wordwrap a string with ANSI escape codes"
+    },
+    {
+        "name": "has-flag",
+        "description": "Check if argv has a specific flag"
+    },
+    {
+        "name": "argparse",
+        "description": "CLI arguments parser. Native port of python's argparse."
+    },
+    {
+        "name": "yargs",
+        "description": "yargs the modern, pirate-themed, successor to optimist."
+    },
+    {
+        "name": "picocolors",
+        "description": "The tiniest and the fastest library for terminal output formatting with ANSI colors"
+    },
+    {
+        "name": "jackspeak",
+        "description": "A very strict and proper argument parser."
+    },
+    {
+        "name": "restore-cursor",
+        "description": "Gracefully restore the CLI cursor on exit"
+    },
+    {
+        "name": "cliui",
+        "description": "easily create complex multi-column command-line-interfaces"
+    },
+    {
+        "name": "npm-run-path",
+        "description": "Get your PATH prepended with locally installed binaries"
+    },
+    {
+        "name": "yargs-parser",
+        "description": "the mighty option parser used by yargs"
+    },
+    {
+        "name": "@isaacs/cliui",
+        "description": "easily create complex multi-column command-line-interfaces"
+    },
+    {
+        "name": "rimraf",
+        "description": "A deep deletion module for node (like `rm -rf`)"
+    },
+    {
+        "name": "ansi-escapes",
+        "description": "ANSI escape codes for manipulating the terminal"
+    },
+    {
+        "name": "log-symbols",
+        "description": "Colored symbols for various log levels. Example: `✔︎ Success`"
+    },
+    {
+        "name": "ora",
+        "description": "Elegant terminal spinner"
+    },
+    {
+        "name": "ansi-colors",
+        "description": "Easily add ANSI colors to your text and symbols in the terminal. A faster drop-in replacement for chalk, kleur and turbocolor (without the dependencies and rendering bugs)."
+    },
+    {
+        "name": "slice-ansi",
+        "description": "Slice a string with ANSI escape codes"
+    },
+    {
+        "name": "kleur",
+        "description": "The fastest Node.js library for formatting terminal text with ANSI colors~!"
+    },
+    {
+        "name": "optionator",
+        "description": "option parsing and help generation"
+    },
+    {
+        "name": "figures",
+        "description": "Unicode symbols with fallbacks for older terminals"
+    },
+    {
+        "name": "cli-spinners",
+        "description": "Spinners for use in the terminal"
+    },
+    {
+        "name": "prompts",
+        "description": "Lightweight, beautiful and user-friendly prompts"
+    },
+    {
+        "name": "meow",
+        "description": "CLI app helper"
+    },
+    {
+        "name": "cli-cursor",
+        "description": "Toggle the CLI cursor"
+    },
+    {
+        "name": "import-local",
+        "description": "Let a globally installed package use a locally installed version of itself if available"
+    },
+    {
+        "name": "uglify-js",
+        "description": "JavaScript parser, mangler/compressor and beautifier toolkit"
+    },
+    {
+        "name": "dashdash",
+        "description": "A light, featureful and explicit option parsing library."
+    },
+    {
+        "name": "inquirer",
+        "description": "A collection of common interactive command line user interfaces."
+    },
+    {
+        "name": "jake",
+        "description": "JavaScript build tool, similar to Make or Rake"
+    },
+    {
+        "name": "cli-truncate",
+        "description": "Truncate a string to a specific width in the terminal"
+    },
+    {
+        "name": "listr2",
+        "description": "Terminal task list reborn! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive."
+    },
+    {
+        "name": "log-update",
+        "description": "Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc."
+    },
+    {
+        "name": "progress",
+        "description": "Flexible ascii progress bar"
+    },
+    {
+        "name": "yn",
+        "description": "Parse yes/no like values"
+    },
+    {
+        "name": "consola",
+        "description": "Elegant Console Wrapper"
+    },
+    {
+        "name": "cli-table3",
+        "description": "Pretty unicode tables for the command line. Based on the original cli-table."
+    },
+    {
+        "name": "@inquirer/confirm",
+        "description": "Inquirer confirm prompt"
+    },
+    {
+        "name": "boxen",
+        "description": "Create boxes in the terminal"
+    },
+    {
+        "name": "widest-line",
+        "description": "Get the visual width of the widest line in a string - the number of columns required to display it"
+    },
+    {
+        "name": "cli-boxes",
+        "description": "Boxes for use in the terminal"
+    },
+    {
+        "name": "enquirer",
+        "description": "Stylish, intuitive and user-friendly prompt system. Fast and lightweight enough for small projects, powerful and extensible enough for the most advanced use cases."
+    },
+    {
+        "name": "tsx",
+        "description": "TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM files"
+    },
+    {
+        "name": "mri",
+        "description": "Quickly scan for CLI flags and arguments"
+    },
+    {
+        "name": "@inquirer/core",
+        "description": "Core Inquirer prompt API"
+    },
+    {
+        "name": "@inquirer/input",
+        "description": "Inquirer input text prompt"
+    },
+    {
+        "name": "yoctocolors-cjs",
+        "description": "CommonJS version - The smallest and fastest command-line coloring package on the internet"
+    },
+    {
+        "name": "supports-hyperlinks",
+        "description": "Detect whether a terminal supports hyperlinks"
+    },
+    {
+        "name": "dargs",
+        "description": "Reverse minimist. Convert an object of options into an array of command-line arguments."
+    },
+    {
+        "name": "@inquirer/editor",
+        "description": "Inquirer multiline editor prompt"
+    },
+    {
+        "name": "@inquirer/type",
+        "description": "Inquirer core TS types"
+    },
+    {
+        "name": "@inquirer/external-editor",
+        "description": "Edit a string with the users preferred text editor using $VISUAL or $ENVIRONMENT"
+    },
+    {
+        "name": "@inquirer/password",
+        "description": "Inquirer password prompt"
+    },
+    {
+        "name": "@inquirer/checkbox",
+        "description": "Inquirer checkbox prompt"
+    },
+    {
+        "name": "@inquirer/prompts",
+        "description": "Inquirer prompts, combined in a single package"
+    },
+    {
+        "name": "ansis",
+        "description": "ANSI color lib"
+    },
+    {
+        "name": "nodemon",
+        "description": "Simple monitor script for use during development of a Node.js app."
+    },
+    {
+        "name": "is-installed-globally",
+        "description": "Check if your package was installed globally"
+    },
+    {
+        "name": "@inquirer/rawlist",
+        "description": "Inquirer rawlist prompt"
+    },
+    {
+        "name": "next",
+        "description": "The React Framework"
+    },
+    {
+        "name": "@inquirer/figures",
+        "description": "Vendored version of figures, for CJS compatibility"
+    },
+    {
+        "name": "@inquirer/number",
+        "description": "Inquirer number prompt"
+    },
+    {
+        "name": "@inquirer/search",
+        "description": "Inquirer search prompt"
+    },
+    {
+        "name": "html-minifier-terser",
+        "description": "Highly configurable, well-tested, JavaScript-based HTML minifier."
+    },
+    {
+        "name": "ansi-align",
+        "description": "align-text with ANSI support for CLIs"
+    },
+    {
+        "name": "@npmcli/node-gyp",
+        "description": "Tools for dealing with node-gyp packages"
+    },
+    {
+        "name": "webpack-cli",
+        "description": "CLI for webpack & friends"
+    },
+    {
+        "name": "@inquirer/ansi",
+        "description": "A lightweight package providing ANSI escape sequences for terminal cursor manipulation and screen clearing."
+    },
+    {
+        "name": "@inquirer/select",
+        "description": "Inquirer select/list prompt"
+    },
+    {
+        "name": "sade",
+        "description": "Smooth (CLI) operator 🎶"
+    },
+    {
+        "name": "@inquirer/expand",
+        "description": "Inquirer checkbox prompt"
+    },
+    {
+        "name": "@commitlint/cli",
+        "description": "Lint your commit messages"
+    },
+    {
+        "name": "command-exists",
+        "description": "check whether a command line command exists in the current environment"
+    },
+    {
+        "name": "cli-highlight",
+        "description": "Syntax highlighting in your terminal"
+    },
+    {
+        "name": "update-notifier",
+        "description": "Update notifications for your CLI app"
+    },
+    {
+        "name": "@oclif/core",
+        "description": "base library for oclif CLIs"
+    },
+    {
+        "name": "json-to-pretty-yaml",
+        "description": "A node module to convert JSON to YAML"
+    },
+    {
+        "name": "optimist",
+        "description": "Light-weight option parsing with an argv hash. No optstrings attached."
+    },
+    {
+        "name": "@npmcli/map-workspaces",
+        "description": "Retrieves a name:pathname Map for a given workspaces config"
+    },
+    {
+        "name": "cli-progress",
+        "description": "easy to use progress-bar for command-line/terminal applications"
+    },
+    {
+        "name": "cli-table",
+        "description": "Pretty unicode tables for the CLI"
+    },
+    {
+        "name": "command-line-args",
+        "description": "A mature, feature-complete library to parse command-line options."
+    },
+    {
+        "name": "http-server",
+        "description": "A simple zero-configuration command-line http server"
+    },
+    {
+        "name": "cli-color",
+        "description": "Colors, formatting and other tools for the console"
+    },
+    {
+        "name": "yoctocolors",
+        "description": "The smallest and fastest command-line coloring package on the internet"
+    },
+    {
+        "name": "wait-on",
+        "description": "wait-on is a cross platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available"
+    },
+    {
+        "name": "pm2",
+        "description": "Production process manager for Node.JS applications with a built-in load balancer."
+    },
+    {
+        "name": "knip",
+        "description": "Find and fix unused dependencies, exports and files in your TypeScript and JavaScript projects"
+    },
+    {
+        "name": "@clack/prompts",
+        "description": "Effortlessly build beautiful command-line apps 🪄 [Try the demo](https://stackblitz.com/edit/clack-prompts?file=index.js)"
+    },
+    {
+        "name": "direction",
+        "description": "Detect the direction of text: left-to-right, right-to-left, or neutral"
+    },
+    {
+        "name": "ncp",
+        "description": "Asynchronous recursive file copy utility."
+    },
+    {
+        "name": "@clack/core",
+        "description": "Clack contains low-level primitives for implementing your own command-line applications."
+    },
+    {
+        "name": "npm-run-all",
+        "description": "A CLI tool to run multiple npm-scripts in parallel or sequential."
+    },
+    {
+        "name": "@listr2/prompt-adapter-inquirer",
+        "description": "Listr2 prompt adapter for inquirer."
+    },
+    {
+        "name": "ansi-gray",
+        "description": "The color gray, in ansi."
+    },
+    {
+        "name": "password-prompt",
+        "description": "cross-platform masked or hidden prompt"
+    },
+    {
+        "name": "ink",
+        "description": "React for CLI"
+    },
+    {
+        "name": "subarg",
+        "description": "parse arguments with recursive contexts"
+    },
+    {
+        "name": "clipanion",
+        "description": "Type-safe CLI library / framework with no runtime dependencies"
+    },
+    {
+        "name": "elegant-spinner",
+        "description": "Elegant spinner for interactive CLI apps"
+    },
+    {
+        "name": "is-in-ci",
+        "description": "Check if the process is running in a Continuous Integration (CI) environment"
+    },
+    {
+        "name": "gradient-string",
+        "description": "Beautiful color gradients in terminal output"
+    },
+    {
+        "name": "promptly",
+        "description": "Simple command line prompting utility"
+    },
+    {
+        "name": "html-minifier",
+        "description": "Highly configurable, well-tested, JavaScript-based HTML minifier."
+    },
+    {
+        "name": "easy-table",
+        "description": "Nice text table for the CLI"
+    },
+    {
+        "name": "conventional-changelog",
+        "description": "Generate a changelog from git metadata."
+    },
+    {
+        "name": "hyperlinker",
+        "description": "Write hyperlinks in the terminal."
+    },
+    {
+        "name": "cli-tableau",
+        "description": "Pretty unicode tables for the CLI"
+    },
+    {
+        "name": "getopts",
+        "description": "Parse CLI arguments."
+    },
+    {
+        "name": "@swc/cli",
+        "description": "CLI for the swc project"
+    },
+    {
+        "name": "@expo/cli",
+        "description": "The Expo CLI"
+    },
+    {
+        "name": "ansi-fragments",
+        "description": "A tiny library with builders to help making logs/CLI pretty with a nice DX."
+    },
+    {
+        "name": "readline2",
+        "description": "Readline Façade fixing bugs and issues found in releases 0.8 and 0.10"
+    },
+    {
+        "name": "simple-bin-help",
+        "description": "Simple help and sanity checks for Node CLI bin scripts"
+    },
+    {
+        "name": "prettyjson",
+        "description": "Package for formatting JSON data in a coloured YAML-style, perfect for CLI output"
+    },
+    {
+        "name": "args",
+        "description": "Minimal toolkit for building CLIs"
+    },
+    {
+        "name": "readline-sync",
+        "description": "Synchronous Readline for interactively running to have a conversation with the user via a console(TTY)."
+    },
+    {
+        "name": "wrangler",
+        "description": "Command-line interface for all things Cloudflare Workers"
+    },
+    {
+        "name": "env-cmd",
+        "description": "Executes a command using the environment variables in an env file"
+    },
+    {
+        "name": "listr",
+        "description": "Terminal task list"
+    },
+    {
+        "name": "ansi-cyan",
+        "description": "The color cyan, in ansi."
+    },
+    {
+        "name": "inquirer-checkbox-plus-prompt",
+        "description": "Checkbox with autocomplete and other additions for Inquirer"
+    },
+    {
+        "name": "inquirer-autocomplete-prompt",
+        "description": "Autocomplete prompt for inquirer"
+    },
+    {
+        "name": "cli-columns",
+        "description": "Columnated lists for the CLI."
+    },
+    {
+        "name": "shx",
+        "description": "Portable Shell Commands for Node"
+    },
+    {
+        "name": "@storybook/cli",
+        "description": "Storybook CLI: Develop, document, and test UI components in isolation"
+    },
+    {
+        "name": "npm-run-all2",
+        "description": "A CLI tool to run multiple npm-scripts in parallel or sequential. (Maintenance fork)"
+    },
+    {
+        "name": "cli",
+        "description": "A tool for rapidly building command line apps"
+    },
+    {
+        "name": "logkitty",
+        "description": "Display pretty Android and iOS logs without Android Studio or Console.app, with intuitive Command Line Interface."
+    },
+    {
+        "name": "firebase-tools",
+        "description": "Command-Line Interface for Firebase"
+    },
+    {
+        "name": "yocto-spinner",
+        "description": "Tiny terminal spinner"
+    },
+    {
+        "name": "native-run",
+        "description": "A CLI for running apps on iOS/Android devices and simulators/emulators"
+    },
+    {
+        "name": "sequelize-cli",
+        "description": "The Sequelize CLI"
+    },
+    {
+        "name": "clap",
+        "description": "Command line argument parser"
+    },
+    {
+        "name": "nanospinner",
+        "description": "The simplest and tiniest terminal spinner for Node.js"
+    },
+    {
+        "name": "license-checker",
+        "description": "Check license info for a package"
+    },
+    {
+        "name": "lsofi",
+        "description": "Find processes occupying a given port"
+    },
+    {
+        "name": "tap",
+        "description": "A Test-Anything-Protocol library for JavaScript"
+    },
+    {
+        "name": "libnpmfund",
+        "description": "Programmatic API for npm fund"
+    },
+    {
+        "name": "libnpmdiff",
+        "description": "The registry diff"
+    },
+    {
+        "name": "@formatjs/cli",
+        "description": "A CLI for formatjs."
+    },
+    {
+        "name": "svelte-check",
+        "description": "Svelte Code Checker Terminal Interface"
+    },
+    {
+        "name": "ansi-red",
+        "description": "The color red, in ansi."
+    },
+    {
+        "name": "json-2-csv",
+        "description": "A JSON to CSV and CSV to JSON converter that natively supports sub-documents and auto-generates the CSV heading."
+    },
+    {
+        "name": "flow-bin",
+        "description": "Binary wrapper for Flow - A static type checker for JavaScript"
+    },
+    {
+        "name": "yeoman-generator",
+        "description": "Rails-inspired generator system that provides scaffolding for your apps"
+    },
+    {
+        "name": "yeoman-environment",
+        "description": "Handles the lifecyle and bootstrapping of generators in a specific environment"
+    },
+    {
+        "name": "@netlify/zip-it-and-ship-it",
+        "description": "Zip it and ship it"
+    },
+    {
+        "name": "postcss-cli",
+        "description": "CLI for PostCSS"
+    },
+    {
+        "name": "beeper",
+        "description": "Make your terminal beep"
+    },
+    {
+        "name": "@stdlib/assert-has-tostringtag-support",
+        "description": "Detect native Symbol.toStringTag support."
+    },
+    {
+        "name": "@vue/cli-plugin-vuex",
+        "description": "Vuex plugin for vue-cli"
+    },
+    {
+        "name": "netlify",
+        "description": "Netlify command line tool"
+    },
+    {
+        "name": "@stdlib/assert-has-float32array-support",
+        "description": "Detect native Float32Array support."
+    },
+    {
+        "name": "conventional-changelog-cli",
+        "description": "Generate a changelog from git metadata."
+    },
+    {
+        "name": "grunt",
+        "description": "The JavaScript Task Runner"
+    },
+    {
+        "name": "@vue/cli-shared-utils",
+        "description": "shared utilities for vue-cli packages"
+    },
+    {
+        "name": "cli-sprintf-format",
+        "description": "sprintf formatting targetted for CLI"
+    },
+    {
+        "name": "@wdio/cli",
+        "description": "WebdriverIO testrunner command line interface"
+    },
+    {
+        "name": "update-notifier-cjs",
+        "description": "Update notifications for your CLI app, maintained in CommonJS (CJS)"
+    },
+    {
+        "name": "@vue/cli-service",
+        "description": "local service for vue-cli projects"
+    },
+    {
+        "name": "chokidar-cli",
+        "description": "Ultra-fast cross-platform command line utility to watch file system changes."
+    },
+    {
+        "name": "@vue/babel-preset-app",
+        "description": "babel-preset-app for vue-cli"
+    },
+    {
+        "name": "@semantic-release/exec",
+        "description": "semantic-release plugin to run custom shell commands"
+    },
+    {
+        "name": "@stdlib/assert-has-node-buffer-support",
+        "description": "Detect native Buffer support."
+    },
+    {
+        "name": "@xterm/headless",
+        "description": "A headless terminal component that runs in Node.js"
+    },
+    {
+        "name": "libnpmexec",
+        "description": "npm exec (npx) programmatic API"
+    },
+    {
+        "name": "@stdlib/assert-has-float64array-support",
+        "description": "Detect native Float64Array support."
+    },
+    {
+        "name": "@stdlib/assert-is-big-endian",
+        "description": "Check if an environment is big endian."
+    },
+    {
+        "name": "@vue/cli-plugin-eslint",
+        "description": "eslint plugin for vue-cli"
+    },
+    {
+        "name": "@stdlib/assert-is-little-endian",
+        "description": "Check if an environment is little endian."
+    },
+    {
+        "name": "secretlint",
+        "description": "Secretlint CLI that scan secret/credential data."
+    },
+    {
+        "name": "@stdlib/assert-has-uint16array-support",
+        "description": "Detect native Uint16Array support."
+    },
+    {
+        "name": "cypress-terminal-report",
+        "description": "Better terminal and file output for cypress test logs."
+    },
+    {
+        "name": "ava",
+        "description": "Node.js test runner that lets you develop with confidence."
+    },
+    {
+        "name": "@stdlib/assert-has-uint8array-support",
+        "description": "Detect native Uint8Array support."
+    },
+    {
+        "name": "xo",
+        "description": "JavaScript/TypeScript linter (ESLint wrapper) with great defaults"
+    },
+    {
+        "name": "del-cli",
+        "description": "Delete files and directories - Cross-platform"
+    },
+    {
+        "name": "@vue/cli-overlay",
+        "description": "error overlay & dev server middleware for vue-cli"
+    },
+    {
+        "name": "cli-spinner",
+        "description": "A simple spinner"
+    },
+    {
+        "name": "@angular-builders/custom-webpack",
+        "description": "Custom webpack builders for Angular build facade. Allow to modify Angular build configuration without ejecting it"
+    },
+    {
+        "name": "@compodoc/live-server",
+        "description": "Simple development http server with live reload capability"
+    },
+    {
+        "name": "@oclif/table",
+        "description": "Display table in terminal"
+    },
+    {
+        "name": "@vue/cli-plugin-babel",
+        "description": "babel plugin for vue-cli"
+    },
+    {
+        "name": "markdownlint-cli",
+        "description": "MarkdownLint Command Line Interface"
+    },
+    {
+        "name": "minimisted",
+        "description": "Handy wrapper of `minimist`"
+    },
+    {
+        "name": "@stdlib/cli-ctor",
+        "description": "Command-line interface."
+    },
+    {
+        "name": "config-file-ts",
+        "description": "Use Typescript for configuration files. Types for safety. Compiled for speed."
+    },
+    {
+        "name": "yeoman-character",
+        "description": "The Yeoman character in your CLI. Like wat."
+    },
+    {
+        "name": "size-limit",
+        "description": "CLI tool for Size Limit"
+    },
+    {
+        "name": "exeunt",
+        "description": "exiting a node.js process *and flushing stdout and stderr*"
+    },
+    {
+        "name": "ts-command-line-args",
+        "description": "A Typescript wrapper around command-line-args with additional support for markdown usage guide generation"
+    },
+    {
+        "name": "json-schema-to-zod",
+        "description": "Converts JSON schema objects or files into Zod schemas"
+    },
+    {
+        "name": "nanocolors",
+        "description": "4x times faster than chalk and use 5x less space in node_modules"
+    },
+    {
+        "name": "toastify-react-native",
+        "description": "🎉 toastify-react-native allows you to add notifications to your react-native app (ios, android) with ease. No more nonsense!"
+    },
+    {
+        "name": "commitlint",
+        "description": "Lint your commit messages"
+    },
+    {
+        "name": "strip-color",
+        "description": "Strip ANSI color codes from a string. No dependencies."
+    },
+    {
+        "name": "@vue/cli-plugin-router",
+        "description": "router plugin for vue-cli"
+    },
+    {
+        "name": "log-utils",
+        "description": "Tiny wrapper around ansi-colors to add colored symbols and a timestamp."
+    },
+    {
+        "name": "@svgr/cli",
+        "description": "SVGR command line."
+    },
+    {
+        "name": "ink-testing-library",
+        "description": "Utilities for testing Ink apps"
+    },
+    {
+        "name": "@xterm/xterm",
+        "description": "Full xterm terminal, in your browser"
+    },
+    {
+        "name": "yosay",
+        "description": "Tell Yeoman what to say"
+    },
+    {
+        "name": "eas-cli",
+        "description": "EAS command line tool"
+    },
+    {
+        "name": "@sanity/cli",
+        "description": "Sanity CLI tool for managing Sanity installations, managing plugins, schemas and datasets"
+    },
+    {
+        "name": "pmx",
+        "description": "PM2/Keymetrics advanced API"
+    },
+    {
+        "name": "glslify",
+        "description": "A node.js-style module system for GLSL!"
+    },
+    {
+        "name": "@lingui/cli",
+        "description": "CLI for working wit message catalogs"
+    },
+    {
+        "name": "@stdlib/assert-has-symbol-support",
+        "description": "Detect native Symbol support."
+    },
+    {
+        "name": "yo",
+        "description": "CLI tool for running Yeoman generators"
+    },
+    {
+        "name": "magicli",
+        "description": "Automagically generates command-line interfaces (CLI) for any module. Expected options and help sections are created automatically based on parameters names, with support to async. It can be installed globally, in order to *execute* any module, or .js fil"
+    },
+    {
+        "name": "@vscode/test-cli",
+        "description": "Command-line runner for VS Code extension tests"
+    },
+    {
+        "name": "cpy-cli",
+        "description": "Copy files"
+    },
+    {
+        "name": "@stdlib/assert-has-uint32array-support",
+        "description": "Detect native Uint32Array support."
+    },
+    {
+        "name": "create-storybook",
+        "description": "Storybook installer: Develop, document, and test UI components in isolation"
+    },
+    {
+        "name": "success-symbol",
+        "description": "Cross-platform success symbol."
+    },
+    {
+        "name": "cpx",
+        "description": "Copy file globs, watching for changes."
+    },
+    {
+        "name": "taketalk",
+        "description": "Ever wanted a bin for your node module?"
+    },
+    {
+        "name": "remark-cli",
+        "description": "CLI to process markdown with remark"
+    },
+    {
+        "name": "yesno",
+        "description": "A simple library for asking boolean questions in cli programs"
+    },
+    {
+        "name": "npm-check",
+        "description": "Check for outdated, incorrect, and unused dependencies."
+    },
+    {
+        "name": "@currents/commit-info",
+        "description": "Collects Git commit info from CI or from CLI"
+    },
+    {
+        "name": "shlex",
+        "description": "Node.js port of Python's shlex shell-like lexer"
+    },
+    {
+        "name": "@vue/cli-plugin-typescript",
+        "description": "typescript plugin for vue-cli"
+    },
+    {
+        "name": "pa11y",
+        "description": "Pa11y is your automated accessibility testing pal"
+    },
+    {
+        "name": "arrgv",
+        "description": "Parsing string to array of args like node on bash do."
+    },
+    {
+        "name": "yaml-lint",
+        "description": "A simple (CLI) tool to lint YAML files"
+    },
+    {
+        "name": "unified-args",
+        "description": "create CLIs for unified processors"
+    },
+    {
+        "name": "deglob",
+        "description": "Take a list of glob patterns and return an array of file locations, respecting `.gitignore` and allowing for ignore patterns via `package.json`."
+    },
+    {
+        "name": "yeoman-doctor",
+        "description": "Detect potential issues with users system that could prevent Yeoman from working correctly"
+    },
+    {
+        "name": "ansi-dim",
+        "description": "The color dim, in ansi."
+    },
+    {
+        "name": "yargonaut",
+        "description": "Decorate yargs content with chalk styles and figlet fonts"
+    },
+    {
+        "name": "levenshtein-edit-distance",
+        "description": "Levenshtein edit distance"
+    },
+    {
+        "name": "parse-help",
+        "description": "Parse CLI help output"
+    },
+    {
+        "name": "hugo-extended",
+        "description": "✏️ Plug-and-play binary wrapper for Hugo Extended, the awesomest static-site generator."
+    },
+    {
+        "name": "ansi-grey",
+        "description": "The color grey, in ansi."
+    },
+    {
+        "name": "@typespec/compiler",
+        "description": "TypeSpec Compiler Preview"
+    },
+    {
+        "name": "ansi-bgyellow",
+        "description": "The color bgyellow, in ansi."
+    },
+    {
+        "name": "@grafana/e2e-selectors",
+        "description": "Grafana End-to-End Test Selectors Library"
+    },
+    {
+        "name": "@stacksjs/clapp",
+        "description": "A toolkit for building CLI prompts in TypeScript."
+    },
+    {
+        "name": "sherif",
+        "description": "Opinionated, zero-config linter for JavaScript monorepos"
+    },
+    {
+        "name": "ansi-italic",
+        "description": "The color italic, in ansi."
+    },
+    {
+        "name": "@vue/cli-plugin-unit-jest",
+        "description": "unit-jest plugin for vue-cli"
+    },
+    {
+        "name": "ansi-bold",
+        "description": "The color bold, in ansi."
+    },
+    {
+        "name": "ansi-bgblack",
+        "description": "The color bgblack, in ansi."
+    },
+    {
+        "name": "ansi-reset",
+        "description": "The color reset, in ansi."
+    },
+    {
+        "name": "nest-commander",
+        "description": "A module for making CLI applications with NestJS. Decorators for running commands and separating out config parsers included. This package works on top of commander."
+    },
+    {
+        "name": "ansi-black",
+        "description": "The color black, in ansi."
+    },
+    {
+        "name": "ansi-strikethrough",
+        "description": "The color strikethrough, in ansi."
+    },
+    {
+        "name": "@catladder/cli",
+        "description": "Panter cli tool for cloud CI/CD and DevOps"
+    },
+    {
+        "name": "ansi-magenta",
+        "description": "The color magenta, in ansi."
+    },
+    {
+        "name": "ansi-bgblue",
+        "description": "The color bgblue, in ansi."
+    },
+    {
+        "name": "info-symbol",
+        "description": "Cross-platform info symbol."
+    },
+    {
+        "name": "ansi-yellow",
+        "description": "The color yellow, in ansi."
+    },
+    {
+        "name": "ansi-white",
+        "description": "The color white, in ansi."
+    },
+    {
+        "name": "netlify-cli",
+        "description": "Netlify command line tool"
+    },
+    {
+        "name": "@jercle/yargonaut",
+        "description": "Decorate yargs content with chalk styles and figlet fonts"
+    },
+    {
+        "name": "tfunk",
+        "description": "Multi-colour console output from chalk with added awesome"
+    },
+    {
+        "name": "terminal-kit",
+        "description": "256 colors, keys and mouse, input field, progress bars, screen buffer (including 32-bit composition and image loading), text buffer, and many more... Whether you just need colors and styles, build a simple interactive command line tool or a complexe termi"
+    },
+    {
+        "name": "cdk8s-cli",
+        "description": "This is the command line tool for Cloud Development Kit (CDK) for Kubernetes (cdk8s)."
+    },
+    {
+        "name": "ansi-bgred",
+        "description": "The color bgred, in ansi."
+    },
+    {
+        "name": "ansi-inverse",
+        "description": "The color inverse, in ansi."
+    },
+    {
+        "name": "warning-symbol",
+        "description": "Cross-platform warning symbol."
+    },
+    {
+        "name": "prompts-ncu",
+        "description": "Lightweight, beautiful and user-friendly prompts"
+    },
+    {
+        "name": "argue-cli",
+        "description": "A thin and strongly typed CLI arguments parser for Node.js."
+    },
+    {
+        "name": "sherif-linux-x64",
+        "description": "Opinionated, zero-config linter for JavaScript monorepos"
+    },
+    {
+        "name": "ansi-bgwhite",
+        "description": "The color bgwhite, in ansi."
+    },
+    {
+        "name": "@graphql-inspector/cli",
+        "description": "Tooling for GraphQL. Compare GraphQL Schemas, check documents, find breaking changes, find similar types."
+    },
+    {
+        "name": "markdownlint-cli2",
+        "description": "A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the `markdownlint` library"
+    },
+    {
+        "name": "console-clear",
+        "description": "Clear the console, cross-platform"
+    },
+    {
+        "name": "@jsdevtools/ez-spawn",
+        "description": "Simple, consistent sync or async process spawning"
+    },
+    {
+        "name": "oclif",
+        "description": "oclif: create your own CLI"
+    },
+    {
+        "name": "ansi-blue",
+        "description": "The color blue, in ansi."
+    },
+    {
+        "name": "ansi-green",
+        "description": "The color green, in ansi."
+    },
+    {
+        "name": "ts-pkgx",
+        "description": "A library & CLI for managing packages"
+    },
+    {
+        "name": "ansi-bgcyan",
+        "description": "The color bgcyan, in ansi."
+    },
+    {
+        "name": "@moonrepo/cli",
+        "description": "moon command line and core system."
+    },
+    {
+        "name": "ink-table",
+        "description": "A table component for Ink."
+    },
+    {
+        "name": "inquirer-autocomplete-standalone",
+        "description": "Standalone autocomplete cli prompt based on inquirer core"
+    },
+    {
+        "name": "@napi-rs/cli",
+        "description": "Cli tools for napi-rs"
+    },
+    {
+        "name": "bugsnag-build-reporter",
+        "description": "A tool for reporting your application’s builds to Bugsnag"
+    },
+    {
+        "name": "swagger-cli",
+        "description": "Swagger 2.0 and OpenAPI 3.0 command-line tool"
+    },
+    {
+        "name": "cliff",
+        "description": "Your CLI formatting friend."
+    },
+    {
+        "name": "@oclif/multi-stage-output",
+        "description": "Terminal output for oclif commands with multiple stages"
+    },
+    {
+        "name": "docopt",
+        "description": "a command line option parser that will make you smile"
+    },
+    {
+        "name": "cpx2",
+        "description": "Copy file globs, watching for changes."
+    },
+    {
+        "name": "ember-cli",
+        "description": "Command line tool for developing ambitious ember.js apps"
+    },
+    {
+        "name": "bun-git-hooks",
+        "description": "A modern, zero dependency tool for managing git hooks in Bun projects."
+    },
+    {
+        "name": "@stacksjs/bumpx",
+        "description": "Automatically bump your versions."
+    },
+    {
+        "name": "open-cli",
+        "description": "Open stuff like URLs, files, executables. Cross-platform."
+    },
+    {
+        "name": "@tapjs/run",
+        "description": "Command-line interface for the node-tap runner"
+    },
+    {
+        "name": "director",
+        "description": "A client Side/Server Side Router"
+    },
+    {
+        "name": "tree-cli",
+        "description": "List contents of directories in tree-like format."
+    },
+    {
+        "name": "ora-classic",
+        "description": "Elegant terminal spinner"
+    },
+    {
+        "name": "license-checker-rseidelsohn",
+        "description": "Extract NPM package licenses - Feature enhanced version of the original license-checker v25.0.1"
+    },
+    {
+        "name": "typeorm-extension",
+        "description": "A library to create/drop database, simple seeding data sets, ..."
+    },
+    {
+        "name": "eslint-watch",
+        "description": "Run eslint with watch mode"
+    },
+    {
+        "name": "@terrazzo/parser",
+        "description": "Parser/validator for the Design Tokens Community Group (DTCG) standard."
+    },
+    {
+        "name": "openapi-merge-cli",
+        "description": "A cli tool for the openapi-merge library."
+    },
+    {
+        "name": "single-line-log",
+        "description": "Keep writing to the same line in the terminal. Very useful when you write progress bars, or a status message during longer operations"
+    },
+    {
+        "name": "ansi-underline",
+        "description": "The color underline, in ansi."
+    },
+    {
+        "name": "ansi-hidden",
+        "description": "The color hidden, in ansi."
+    },
+    {
+        "name": "ansi-bgmagenta",
+        "description": "The color bgmagenta, in ansi."
+    },
+    {
+        "name": "prettyoutput",
+        "description": "Librarie to format js/json objects into a YAML-style colored output. Especially useful to pretty print logs. Performant (benchmarks)"
+    },
+    {
+        "name": "ansi-bggreen",
+        "description": "The color bggreen, in ansi."
+    },
+    {
+        "name": "error-symbol",
+        "description": "Cross-platform error symbol."
+    },
+    {
+        "name": "prismjs-terminal",
+        "description": "PrismaJS syntax highlighting for the terminal"
+    },
+    {
+        "name": "log-update-async-hook",
+        "description": "log-update fork that uses async-exit-hook internally"
+    },
+    {
+        "name": "@mahdiarjangi/phetch-cli",
+        "description": "A CLI directory manager that can be used to create directories, list directory contents and create files"
+    },
+    {
+        "name": "@terrazzo/token-tools",
+        "description": "Various utilities for token types"
+    },
+    {
+        "name": "colors-option",
+        "description": "Let users toggle colors"
+    },
+    {
+        "name": "inline-source-map-comment",
+        "description": "Create an inline source map comment from a source map"
+    },
+    {
+        "name": "live-server",
+        "description": "simple development http server with live reload capability"
+    },
+    {
+        "name": "fx-runner",
+        "description": "A node cli to control Firefox"
+    },
+    {
+        "name": "retire",
+        "description": "Retire is a tool for detecting use of vulnerable libraries"
+    },
+    {
+        "name": "image-dimensions",
+        "description": "Get the dimensions of an image"
+    },
+    {
+        "name": "@stacksjs/cli",
+        "description": "TypeScript framework for CLI artisans. Build beautiful console apps with ease."
+    },
+    {
+        "name": "disparity",
+        "description": "Colorized string diff ideal for text/code that spans through multiple lines"
+    },
+    {
+        "name": "@formatjs/cli-lib",
+        "description": "Lib for CLI for formatjs."
+    },
+    {
+        "name": "np",
+        "description": "A better `npm publish`"
+    },
+    {
+        "name": "@angular-builders/jest",
+        "description": "Jest runner for Angular build facade. Allows ng test run with Jest instead of Karma"
+    },
+    {
+        "name": "@memlab/cli",
+        "description": "command line interface for memlab"
+    },
+    {
+        "name": "@web/test-runner",
+        "description": "Test runner for web applications"
+    },
+    {
+        "name": "array-treeify",
+        "description": "Simple text tree diagrams from arrays."
+    },
+    {
+        "name": "@terrazzo/cli",
+        "description": "CLI for managing design tokens using the Design Tokens Community Group (DTCG) standard and generating code for any platform via plugins."
+    },
+    {
+        "name": "command-exists-promise",
+        "description": "Checks whether a command line command exists in the current environment."
+    },
+    {
+        "name": "babar",
+        "description": "CLI bar charts"
+    },
+    {
+        "name": "cli-table2",
+        "description": "Pretty unicode tables for the command line. Based on the original cli-table."
+    },
+    {
+        "name": "pa11y-ci",
+        "description": "Pa11y CI is a CI-centric accessibility test runner, built using Pa11y"
+    },
+    {
+        "name": "milkee",
+        "description": "A simple CoffeeScript build tool with coffee.config.cjs"
+    },
+    {
+        "name": "typed-scss-modules",
+        "description": "TypeScript type definition generator for SCSS CSS Modules"
+    },
+    {
+        "name": "grunt-shell",
+        "description": "Run shell commands"
+    },
+    {
+        "name": "forever",
+        "description": "A simple CLI tool for ensuring that a given node script runs continuously (i.e. forever)"
+    },
+    {
+        "name": "@usebruno/cli",
+        "description": "With Bruno CLI, you can now run your API collections with ease using simple command line commands."
+    },
+    {
+        "name": "@devexpress/bin-v8-flags-filter",
+        "description": "Filters out v8 flags for your Node.js CLIs."
+    },
+    {
+        "name": "json-mask",
+        "description": "Tiny language and engine for selecting specific parts of a JS object, hiding the rest."
+    },
+    {
+        "name": "node-fzf",
+        "description": "fzf ( junegunn/fzf ) inspired cli utility for node"
+    },
+    {
+        "name": "@quasar/app-vite",
+        "description": "Quasar Framework App CLI with Vite"
+    },
+    {
+        "name": "z-ai-web-dev-sdk",
+        "description": "SDK for Z AI Web Dev"
+    },
+    {
+        "name": "all-node-versions",
+        "description": "List all available Node.js versions"
+    },
+    {
+        "name": "type-flag",
+        "description": "Typed command-line arguments parser"
+    },
+    {
+        "name": "the-argv",
+        "description": "The part of argv you want"
+    },
+    {
+        "name": "ip6",
+        "description": "IPv6 address helper utilities."
+    },
+    {
+        "name": "@web/dev-server",
+        "description": "Dev server for web applications"
+    },
+    {
+        "name": "hercai",
+        "description": "A powerful library for interacting with the Herc.ai API"
+    },
+    {
+        "name": "@mintlify/cli",
+        "description": "The Mintlify CLI"
+    },
+    {
+        "name": "emojic",
+        "description": "Emoji in your Node.js command line apps."
+    },
+    {
+        "name": "electron-vite",
+        "description": "Electron build tooling based on Vite"
+    },
+    {
+        "name": "@strapi/cloud-cli",
+        "description": "Commands to interact with the Strapi Cloud"
+    },
+    {
+        "name": "node-version-alias",
+        "description": "Resolve Node.js version aliases like 'latest', 'lts' or 'erbium'"
+    },
+    {
+        "name": "@auto-it/bot-list",
+        "description": "A list of bots for auto plugins to ignore"
+    },
+    {
+        "name": "@11ty/eleventy-dev-server",
+        "description": "A minimal, modern, generic, hot-reloading local web server to help web developers."
+    },
+    {
+        "name": "recursive-fs",
+        "description": "Asynchronous recursive file system operations"
+    },
+    {
+        "name": "cliss",
+        "description": "CLI Simple, Stupid. Automatic discovery of parameters names. Provides an easy and minimal setup by passing in only a function reference without the need of declaring all expected options names or create a help section by hand. Support to sync / async. Sup"
+    },
+    {
+        "name": "backport",
+        "description": "A CLI tool that automates the process of backporting commits"
+    },
+    {
+        "name": "@gcornut/valibot-json-schema",
+        "description": "> [!CAUTION] > This project is now deprecated as Valibot now has an official JSON schema converter in the [@valibot/to-json-schema](https://github.com/fabian-hiller/valibot/tree/main/packages/to-json-schema). > The command line interface is moved to the p"
+    },
+    {
+        "name": "openapi-format",
+        "description": "Format an OpenAPI document by ordering, formatting and filtering fields."
+    },
+    {
+        "name": "mastra",
+        "description": "cli for mastra"
+    },
+    {
+        "name": "tree-node-cli",
+        "description": "Lists the contents of directories in a tree-like format, similar to the Linux tree command."
+    },
+    {
+        "name": "normalize-node-version",
+        "description": "Normalize and validate Node.js versions"
+    },
+    {
+        "name": "progress-estimator",
+        "description": "Animated progress bars with estimated durations"
+    },
+    {
+        "name": "bin-v8-flags-filter",
+        "description": "Filters out v8 flags for your Node.js CLIs."
+    },
+    {
+        "name": "auth0-deploy-cli",
+        "description": "A command line tool for deploying updates to your Auth0 tenant"
+    },
+    {
+        "name": "is-ci-cli",
+        "description": "Run different npm scripts in a CI environment"
+    },
+    {
+        "name": "@n8n/json-schema-to-zod",
+        "description": "Converts JSON schema objects into Zod schemas"
+    },
+    {
+        "name": "pretty-repl",
+        "description": "Extends repl.REPLServer to allow for a colorize function"
+    },
+    {
+        "name": "indexifier",
+        "description": "Generate an index from a directory"
+    },
+    {
+        "name": "trpc-cli",
+        "description": "Turn a tRPC router into a type-safe, fully-functional, documented CLI"
+    },
+    {
+        "name": "terminal-columns",
+        "description": "Render a readable table in the terminal"
+    },
+    {
+        "name": "fetch-node-website",
+        "description": "Fetch releases on nodejs.org"
+    },
+    {
+        "name": "@auto-it/package-json-utils",
+        "description": "Shared utilities for parsing information from a package.json"
+    },
+    {
+        "name": "colors-cli",
+        "description": "Terminal string styling done right"
+    },
+    {
+        "name": "blessed-tab-container",
+        "description": "A CLI Multi-Tab Container Utilizing Labels For Blessed"
+    },
+    {
+        "name": "@vue/cli-plugin-e2e-cypress",
+        "description": "e2e-cypress plugin for vue-cli"
+    },
+    {
+        "name": "question-cache",
+        "description": "A wrapper around inquirer that makes it easy to create and selectively reuse questions."
+    },
+    {
+        "name": "imagemin-cli",
+        "description": "Minify images seamlessly"
+    },
+    {
+        "name": "cypress-repeat",
+        "description": "Run Cypress multiple times in a row"
+    },
+    {
+        "name": "nest-commander-testing",
+        "description": "A testing utility for nest-commander. It builds on top of ideas from @nestjs/testing and is not tied to any test framework directly."
+    },
+    {
+        "name": "ansicolor",
+        "description": "A JavaScript ANSI color/style management. ANSI parsing. ANSI to CSS. Small, clean, no dependencies."
+    },
+    {
+        "name": "fastify-cli",
+        "description": "Run a fastify route with one command!"
+    },
+    {
+        "name": "@aws-amplify/amplify-cli-shared-interfaces",
+        "description": "API interfaces to be shared across different amplfy-cli packages"
+    },
+    {
+        "name": "prompt-choices",
+        "description": "Create an array of multiple choice objects for use in prompts."
+    },
+    {
+        "name": "prompt-question",
+        "description": "Question object, used by Enquirer and prompt plugins."
+    },
+    {
+        "name": "ngx-deploy-npm",
+        "description": "Publish your libraries to NPM with just one command"
+    },
+    {
+        "name": "fast-string-truncated-width",
+        "description": "A fast function for calculating where a string should be truncated, given an optional width limit and an ellipsis string."
+    },
+    {
+        "name": "@aws-amplify/cli-extensibility-helper",
+        "description": "Amplify CLI Extensibility Helper utility package"
+    },
+    {
+        "name": "auto",
+        "description": "CLI tools to help facilitate semantic versioning based on GitHub PR labels"
+    },
+    {
+        "name": "json2yaml",
+        "description": "A commandline utility to convert JSON to YAML / YML"
+    },
+    {
+        "name": "cz-git",
+        "description": "A better customizable and git support commitizen adapter"
+    },
+    {
+        "name": "@brillout/picocolors",
+        "description": "The tiniest and the fastest library for terminal output formatting with ANSI colors"
+    },
+    {
+        "name": "spinnies",
+        "description": "Create and manage multiple spinners in command-line interface programs"
+    },
+    {
+        "name": "mintlify",
+        "description": "The Mintlify CLI"
+    },
+    {
+        "name": "rsync",
+        "description": "Rsync cli wrapper"
+    },
+    {
+        "name": "wgc",
+        "description": "The official CLI tool to manage the GraphQL Federation Platform Cosmo"
+    },
+    {
+        "name": "@amplitude/ampli",
+        "description": "Amplitude CLI"
+    },
+    {
+        "name": "@stdlib/utils-eval",
+        "description": "Alias for eval global."
+    },
+    {
+        "name": "stdio",
+        "description": "Standard input/output manager for Node.js"
+    },
+    {
+        "name": "prompt-base",
+        "description": "Base prompt module used for creating custom prompts."
+    },
+    {
+        "name": "@graphql-inspector/ci",
+        "description": "Tooling for GraphQL. Compare GraphQL Schemas, check documents, find breaking changes, find similar types."
+    },
+    {
+        "name": "tiny-colors",
+        "description": "A tiny library providing the basic ANSI colors for the terminal."
+    },
+    {
+        "name": "get-port-cli",
+        "description": "Get an available port"
+    },
+    {
+        "name": "readline-ui",
+        "description": "Create a readline interface with default settings to use in prompts."
+    },
+    {
+        "name": "specialist",
+        "description": "A library that helps you write tiny, fast and beautiful CLI apps that can automatically check for updates."
+    },
+    {
+        "name": "@quasar/cli",
+        "description": "Quasar Framework - the Global CLI"
+    },
+    {
+        "name": "command-join",
+        "description": "Escape and join command-line arguments, cross-platform."
+    },
+    {
+        "name": "biome",
+        "description": "A simple way to manage environment variables on a per-project basis"
+    },
+    {
+        "name": "cleye",
+        "description": "The intuitive CLI development tool"
+    },
+    {
+        "name": "oauth2-mock-server",
+        "description": "OAuth 2 mock server"
+    },
+    {
+        "name": "process.argv",
+        "description": "light-weight CLI arguments parser"
+    },
+    {
+        "name": "git-branch-is",
+        "description": "Assert that the name of the current branch of a git repository has a particular value."
+    },
+    {
+        "name": "rocha",
+        "description": "Runs Mocha unit tests but randomizes their order"
+    },
+    {
+        "name": "ovsx",
+        "description": "Command line interface for Eclipse Open VSX"
+    },
+    {
+        "name": "nestjs-command",
+        "description": "nest.js command tool"
+    },
+    {
+        "name": "detect-file-encoding-and-language",
+        "description": "Charset Detector - Detect the encoding and language of text files - Use it in the browser, with Node.js, or via CLI"
+    },
+    {
+        "name": "kysely-ctl",
+        "description": "Command-line tool for Kysely"
+    },
+    {
+        "name": "serverless-scriptable-plugin",
+        "description": "Add scripts(nodejs) support to serverless 1.x"
+    },
+    {
+        "name": "genversion",
+        "description": "A command line utility to read version from package.json and attach it into your module as a property"
+    },
+    {
+        "name": "@caporal/core",
+        "description": "A full-featured framework for building command line applications (cli) with node.js"
+    },
+    {
+        "name": "generate-changelog",
+        "description": "Generate a changelog from git commits."
+    },
+    {
+        "name": "@stdlib/assert-has-generator-support",
+        "description": "Detect native generator function support."
+    },
+    {
+        "name": "docsify-cli",
+        "description": "A magical documentation generator."
+    },
+    {
+        "name": "@adonisjs/ace",
+        "description": "A CLI framework for Node.js"
+    },
+    {
+        "name": "@minimistjs/subarg",
+        "description": "parse arguments with recursive contexts"
+    },
+    {
+        "name": "dot-json",
+        "description": "Easily edit a json file from the CLI or NodeJS"
+    },
+    {
+        "name": "geojson-validation",
+        "description": "A GeoJSON Validation Library"
+    },
+    {
+        "name": "workbox-cli",
+        "description": "workbox-cli is the command line interface for Workbox."
+    },
+    {
+        "name": "@aws-amplify/amplify-prompts",
+        "description": "Utility functions for Amplify CLI terminal I/O"
+    },
+    {
+        "name": "csso-cli",
+        "description": "Command line interface for CSSO"
+    },
+    {
+        "name": "@nguniversal/builders",
+        "description": "Angular Universal builders package"
+    },
+    {
+        "name": "codesandbox",
+        "description": "The CLI used for communicating with CodeSandbox"
+    },
+    {
+        "name": "cli-table-redemption",
+        "description": "Pretty unicode tables for the CLI"
+    },
+    {
+        "name": "gulp-spawn",
+        "description": "spawn plugin for gulp"
+    },
+    {
+        "name": "alex",
+        "description": "Catch insensitive, inconsiderate writing"
+    },
+    {
+        "name": "executioner",
+        "description": "Executes provided shell commands with supplied arguments. Supports parallel and templated commands"
+    },
+    {
+        "name": "graphql-cli",
+        "description": "Command line tool for common GraphQL development workflows"
+    },
+    {
+        "name": "chalk-animation",
+        "description": "Colorful animations in terminal output"
+    },
+    {
+        "name": "vorpal",
+        "description": "Node's first framework for building immersive CLI apps."
+    },
+    {
+        "name": "@vue/cli-plugin-pwa",
+        "description": "pwa plugin for vue-cli"
+    },
+    {
+        "name": "rulesync",
+        "description": "Unified AI rules management CLI tool that generates configuration files for various AI development tools"
+    },
+    {
+        "name": "prompt-confirm",
+        "description": "Confirm (yes/no) prompt. Can be used standalone or with a prompt system like [Enquirer]."
+    },
+    {
+        "name": "terminal-paginator",
+        "description": "Paginator used for rendering lists or choices for prompts in the terminal."
+    },
+    {
+        "name": "sharp-cli",
+        "description": "CLI for sharp."
+    },
+    {
+        "name": "get-current-package",
+        "description": "Get the package.json of the currently executing bin."
+    },
+    {
+        "name": "base-config-process",
+        "description": "Commonly used config mappings for the base-config plugin. Also pre-processes the given object with base-config-schema before calling `.process()`"
+    },
+    {
+        "name": "bash-color",
+        "description": "a simple tool for wrapping strings in bash color codes. Used to color console output."
+    },
+    {
+        "name": "clear-npx-cache",
+        "description": "Clears your NPX cache."
+    },
+    {
+        "name": "@vue/cli",
+        "description": "Command line interface for rapid Vue.js development"
+    },
+    {
+        "name": "@visulima/boxen",
+        "description": "Util.format-like string formatting utility."
+    },
+    {
+        "name": "password-hash",
+        "description": "Password hashing and verification for node.js"
+    },
+    {
+        "name": "swagger-to-mock",
+        "description": "mock data generator from Swagger (OpenAPI 3)"
+    },
+    {
+        "name": "codeowners-generator",
+        "description": "CODEOWNERS generator for mono-repos"
+    },
+    {
+        "name": "storyblok",
+        "description": "Storyblok CLI"
+    },
+    {
+        "name": "to-choices",
+        "description": "Easily create a normalized inquirer choices question. Supports all of the `choices` question types: checkbox, list, rawlist, expand"
+    },
+    {
+        "name": "choices-separator",
+        "description": "Separator for choices arrays in prompts. Based on the Separator from inquirer."
+    },
+    {
+        "name": "nash",
+        "description": "Craft command-line Masterpieces"
+    },
+    {
+        "name": "radio-symbol",
+        "description": "Unicode radio button symbol, for toggling on/off in prompts."
+    },
+    {
+        "name": "prompt-list",
+        "description": "List-style prompt. Can be used as a standalone prompt, or with a prompt system like [enquirer]."
+    },
+    {
+        "name": "argh",
+        "description": "light weight option/argv parser for node, it only parses options, nothing more then that."
+    },
+    {
+        "name": "csv-streamify",
+        "description": "Streaming CSV Parser. Made entirely out of streams."
+    },
+    {
+        "name": "@trufflesuite/chromafi",
+        "description": "🦅  cli syntax highlighting: any function - any object - 176 languages"
+    },
+    {
+        "name": "nestjs-console",
+        "description": "A NestJS module that provide a cli"
+    },
+    {
+        "name": "cordova",
+        "description": "Cordova command line interface tool"
+    },
+    {
+        "name": "amplify-prompts",
+        "description": "Utility functions for Amplify CLI terminal I/O"
+    },
+    {
+        "name": "@kubb/cli",
+        "description": "Command-line interface for Kubb, enabling easy generation of TypeScript, React-Query, Zod, and other code from OpenAPI specifications."
+    },
+    {
+        "name": "@axe-core/cli",
+        "description": "A CLI for accessibility testing using axe-core"
+    },
+    {
+        "name": "@jsverse/transloco-keys-manager",
+        "description": "Extract translatable keys from projects that uses Transloco"
+    },
+    {
+        "name": "@better-auth/cli",
+        "description": "The CLI for Better Auth"
+    },
+    {
+        "name": "@sentry/wizard",
+        "description": "Sentry wizard helping you to configure your project"
+    },
+    {
+        "name": "taskr",
+        "description": "Generator & Coroutine-based task runner. Fasten your seatbelt."
+    },
+    {
+        "name": "stdin-blocker",
+        "description": "A tiny library for blocking stdin keypresses, except for Ctrl+C. Useful while displaying animations."
+    },
+    {
+        "name": "stop-only",
+        "description": "Detects '.only' left in the code accidentally"
+    },
+    {
+        "name": "ember-cli-deploy-progress",
+        "description": "Flexible ascii progress bar (ember-cli-deploy fork incorporating cursor feature)"
+    },
+    {
+        "name": "@cypress/commit-info",
+        "description": "Collects Git commit info from CI or from CLI"
+    },
+    {
+        "name": "jsome",
+        "description": "Make your JSON look AWESOME!"
+    },
+    {
+        "name": "@stdlib/assert-has-uint8clampedarray-support",
+        "description": "Detect native Uint8ClampedArray support."
+    },
+    {
+        "name": "@prisma/cli-init",
+        "description": "Init CLI for Prisma"
+    },
+    {
+        "name": "group-args",
+        "description": "My praiseworthy module"
+    },
+    {
+        "name": "md-to-pdf",
+        "description": "CLI tool for converting Markdown files to PDF."
+    },
+    {
+        "name": "czg",
+        "description": "Interactive Commitizen CLI that generate standardized git commit message"
+    },
+    {
+        "name": "fast-string-width",
+        "description": "A fast function for calculating the visual width of a string once printed to the terminal."
+    },
+    {
+        "name": "inquirer-prompt-suggest",
+        "description": "Inquirer.js prompt for your less creative users"
+    },
+    {
+        "name": "@transifex/cli",
+        "description": "i18n CLI tool for Transifex Native"
+    },
+    {
+        "name": "@stdlib/cli",
+        "description": "Command-line interface."
+    },
+    {
+        "name": "wasm-pack",
+        "description": "📦✨ your favorite rust -> wasm workflow tool!"
+    },
+    {
+        "name": "npm-license",
+        "description": "Check license info for a module"
+    },
+    {
+        "name": "path-exists-cli",
+        "description": "Check if a path exists"
+    },
+    {
+        "name": "assemble-render-file",
+        "description": "Assemble plugin for rendering views in a vinyl pipeline."
+    },
+    {
+        "name": "assemble-streams",
+        "description": "Assemble pipeline plugin for pushing views into a vinyl stream."
+    },
+    {
+        "name": "@asyncapi/modelina-cli",
+        "description": "CLI to work with Modelina"
+    },
+    {
+        "name": "@stdlib/assert-has-int8array-support",
+        "description": "Detect native Int8Array support."
+    },
+    {
+        "name": "xycolors",
+        "description": "A tiny and fast package for adding colors to your terminal output."
+    },
+    {
+        "name": "cli-box",
+        "description": "A library to generate ASCII boxes via NodeJS"
+    },
+    {
+        "name": "@dotenv-run/core",
+        "description": "core library to load environment variables with monorepo support"
+    },
+    {
+        "name": "trash-cli",
+        "description": "Move files and folders to the trash"
+    },
+    {
+        "name": "base-cli",
+        "description": "Plugin for base-methods that maps built-in methods to CLI args (also supports methods from a few plugins, like 'base-store', 'base-options' and 'base-data'."
+    },
+    {
+        "name": "@salesforce/cli-plugins-testkit",
+        "description": "Provides test utilities to assist Salesforce CLI plug-in authors with writing non-unit tests (NUT)."
+    },
+    {
+        "name": "@quasar/babel-preset-app",
+        "description": "Babel preset for Quasar CLI"
+    },
+    {
+        "name": "move-file-cli",
+        "description": "Move a file on the command-line"
+    },
+    {
+        "name": "@stdlib/assert-has-int16array-support",
+        "description": "Detect native Int16Array support."
+    },
+    {
+        "name": "@wagmi/cli",
+        "description": "Manage and generate code from Ethereum ABIs"
+    },
+    {
+        "name": "binary-version-check",
+        "description": "Check whether a binary version satisfies a semver range"
+    },
+    {
+        "name": "command-line-commands",
+        "description": "Add a git-like command interface to your app."
+    },
+    {
+        "name": "@stdlib/assert-has-int32array-support",
+        "description": "Detect native Int32Array support."
+    },
+    {
+        "name": "@hapi/bossy",
+        "description": "Command line options parser"
+    },
+    {
+        "name": "@procore/core-scripts",
+        "description": "A CLI to enhance your development experience"
+    },
+    {
+        "name": "tiny-bin",
+        "description": "A library for building tiny and beautiful command line apps."
+    },
+    {
+        "name": "cliclopts",
+        "description": "Command line options helper and usage printer"
+    },
+    {
+        "name": "caporal",
+        "description": "A full-featured framework for building command line applications (cli) with node.js"
+    },
+    {
+        "name": "locize-cli",
+        "description": "locize cli to import locales"
+    },
+    {
+        "name": "node-credstasher",
+        "description": "A TypeScript implementation of credstash for storing and retrieving secrets using AWS KMS and DynamoDB."
+    },
+    {
+        "name": "@commitlint/travis-cli",
+        "description": "Lint all relevant commits for a change or PR on Travis CI"
+    },
+    {
+        "name": "@antora/cli",
+        "description": "The command line interface for Antora."
+    },
+    {
+        "name": "tiny-cursor",
+        "description": "A tiny library for hiding and showing the cursor in the terminal."
+    },
+    {
+        "name": "elm-test",
+        "description": "Run elm-test suites."
+    },
+    {
+        "name": "base-cli-process",
+        "description": "Normalizers for common argv commands handled by the base-cli plugin. Also pre-processes the given object with base-cli-schema before calling `.process()`"
+    },
+    {
+        "name": "tiny-spinner",
+        "description": "A simple, yet beautiful, CLI spinner."
+    },
+    {
+        "name": "concat-cli",
+        "description": "Command line implementation of concat module"
+    },
+    {
+        "name": "jscrambler",
+        "description": "Jscrambler Code Integrity API client."
+    },
+    {
+        "name": "micromist",
+        "description": "A minimal argument parser"
+    },
+    {
+        "name": "influxdb-lite",
+        "description": "A light-weight library to write data to InfluxDB"
+    },
+    {
+        "name": "sails-stringfile",
+        "description": "translated/localized stringfiles containing messages from Sails core and dependencies"
+    },
+    {
+        "name": "cloudflared",
+        "description": "Cloudflared in Node. Which allows you to easily create HTTPS tunnels using Cloudflare's cloudflared. It provides a typed API for creating tunnels and managing the cloudflared binary installation."
+    },
+    {
+        "name": "assemble-fs",
+        "description": "Light wrapper for vinyl-fs to add streams support in a way that plays nice with Assemble middleware."
+    },
+    {
+        "name": "@mocks-server/main",
+        "description": "Mock Server supporting multiple route variants and mocks"
+    },
+    {
+        "name": "binary-version",
+        "description": "Get the version of a binary in semver format"
+    },
+    {
+        "name": "@dotenv-run/webpack",
+        "description": "Run your scripts with dotenv variables"
+    },
+    {
+        "name": "devextreme-cli",
+        "description": "DevExtreme CLI"
+    },
+    {
+        "name": "file-utils",
+        "description": "Sync file utility for Node.js command line tools"
+    },
+    {
+        "name": "node-cmd",
+        "description": "Simple commandline/terminal/shell interface to allow you to run cli or bash style commands as if you were in the terminal."
+    },
+    {
+        "name": "question-store",
+        "description": "Ask questions, persist the answers. Basic support for i18n and storing answers based on current working directory."
+    },
+    {
+        "name": "@metaplex-foundation/rustbin",
+        "description": "Synchronizes a Rust binary version with the related Rust crate"
+    },
+    {
+        "name": "base-questions",
+        "description": "Plugin for base-methods that adds methods for prompting the user and storing the answers on a project-by-project basis."
+    },
+    {
+        "name": "module",
+        "description": "Generate the minimal skeleton for a new node.js module/package."
+    },
+    {
+        "name": "webpack-dashboard",
+        "description": "a CLI dashboard for webpack dev server"
+    },
+    {
+        "name": "assemble-handle",
+        "description": "Assemble pipeline plugin for handling custom middleware stages."
+    },
+    {
+        "name": "picospinner",
+        "description": "A lightweight, no dependency, pluggable CLI spinner library."
+    },
+    {
+        "name": "opt-cli",
+        "description": "Execute CLI Statements based upon Opt-In / Opt-Out Rules."
+    },
+    {
+        "name": "base-argv",
+        "description": "Plugin that post-processes the object returned from [yargs-parser] so that values can be passed over to base-cli"
+    },
+    {
+        "name": "webpack-addons",
+        "description": "Utility suite for webpack-cli"
+    },
+    {
+        "name": "@stdlib/assert-has-iterator-symbol-support",
+        "description": "Detect native Symbol.iterator support."
+    },
+    {
+        "name": "graphqurl",
+        "description": "cURL for GraphQL - CLI and JS library for making GraphQL queries"
+    },
+    {
+        "name": "http-message-parser",
+        "description": "HTTP message parser in JavaScript."
+    },
+    {
+        "name": "ultra-runner",
+        "description": "Smart and beautiful script runner that hijacks any `npm run`, `yarn` and `npx` calls for ultra fast execution"
+    },
+    {
+        "name": "@mocks-server/config",
+        "description": "Modular configuration provider. Read it from file, environment and arguments"
+    },
+    {
+        "name": "assemble-loader",
+        "description": "Assemble plugin (^0.6.0) for loading globs of views onto custom view collections. Also works with verb or other Templates.js based applications."
+    },
+    {
+        "name": "prompt-checkbox",
+        "description": "Multiple-choice/checkbox prompt. Can be used standalone or with a prompt system like [Enquirer]."
+    },
+    {
+        "name": "gulp-execa",
+        "description": "Gulp.js command execution for humans"
+    },
+    {
+        "name": "claude-flow",
+        "description": "Enterprise-grade AI agent orchestration with WASM-powered ReasoningBank memory and AgentDB vector database (always uses latest agentic-flow)"
+    },
+    {
+        "name": "cli-high",
+        "description": "tiny cli highlighter"
+    },
+    {
+        "name": "whelk",
+        "description": "Run a JavaScript function as a shell script."
+    },
+    {
+        "name": "@easyai/cli",
+        "description": "AI development tool with CLI and dashboard"
+    },
+    {
+        "name": "generate-license-file",
+        "description": "Generates a text file containing all of the licenses for your production dependencies"
+    },
+    {
+        "name": "assemble-core",
+        "description": "The core assemble application with no presets or defaults. All configuration is left to the implementor."
+    },
+    {
+        "name": "expand-args",
+        "description": "Expand parsed command line arguments using expand-object."
+    },
+    {
+        "name": "@deboxsoft/cpx",
+        "description": "Copy file globs, watching for changes."
+    },
+    {
+        "name": "coffee",
+        "description": "Test command line on Node.js."
+    },
+    {
+        "name": "hexo-cli",
+        "description": "Command line interface for Hexo"
+    },
+    {
+        "name": "inquirer2",
+        "description": "Lighter, faster alternative to inquirer. A collection of common interactive command line user interfaces."
+    },
+    {
+        "name": "@treehouses/cli",
+        "description": "Thin command-line interface for Raspberry Pi low level configuration."
+    },
+    {
+        "name": "file-crypt-cli",
+        "description": "仅需一个命令，即可对你的文件进行加密或解密"
+    },
+    {
+        "name": "base-cli-schema",
+        "description": "Schema for the base-cli plugin, used for normalizing argv values before passing them to cli.process()."
+    },
+    {
+        "name": "@vuepress/cli",
+        "description": "CLI package of VuePress"
+    },
+    {
+        "name": "webfont",
+        "description": "Generator of fonts from svg icons, svg icons to svg font, svg font to ttf, ttf to eot, ttf to woff, ttf to woff2"
+    },
+    {
+        "name": "argv-tools",
+        "description": "Some useful tools for working with process.argv"
+    },
+    {
+        "name": "can-npm-publish",
+        "description": "A command line tool that check to see if `npm publish` is possible."
+    },
+    {
+        "name": "dns-zonefile",
+        "description": "A DNS zone file parser and generator."
+    },
+    {
+        "name": "syllable",
+        "description": "Count syllables in English words"
+    },
+    {
+        "name": "strip-json-comments-cli",
+        "description": "Strip comments from JSON. Lets you use comments in your JSON files!"
+    },
+    {
+        "name": "terminal-table",
+        "description": "View a table in the terminal."
+    },
+    {
+        "name": "@listr2/prompt-adapter-enquirer",
+        "description": "Listr2 prompt adapter for enquirer."
+    },
+    {
+        "name": "nopt-defaults",
+        "description": "Default options for nopt"
+    },
+    {
+        "name": "inquirer-sortable-checkbox",
+        "description": "Inquirer sortable checkbox prompt"
+    },
+    {
+        "name": "jq.node",
+        "description": "no description was provided"
+    },
+    {
+        "name": "@donmccurdy/caporal",
+        "description": "A full-featured framework for building command line applications (cli) with node.js"
+    },
+    {
+        "name": "gzip-size-cli",
+        "description": "Get the gzipped size of a file or stdin"
+    },
+    {
+        "name": "github-release-from-changelog",
+        "description": "Create GitHub releases from CHANGELOG.md"
+    },
+    {
+        "name": "@zkochan/boxen",
+        "description": "Create boxes in the terminal"
+    },
+    {
+        "name": "sywac",
+        "description": "So you want a CLI..."
+    },
+    {
+        "name": "unicons",
+        "description": "Cross-platform unicode icon toolkit"
+    },
+    {
+        "name": "dice-coefficient",
+        "description": "Sørensen–Dice coefficient"
+    },
+    {
+        "name": "sherif-linux-arm64",
+        "description": "Opinionated, zero-config linter for JavaScript monorepos"
+    },
+    {
+        "name": "installed-check",
+        "description": "Verifies that installed modules comply with the requirements specified in package.json"
+    },
+    {
+        "name": "@mocks-server/plugin-inquirer-cli",
+        "description": "Mocks server plugin providing an interactive CLI"
+    },
+    {
+        "name": "nix-clap",
+        "description": "Simple, lightweight, flexible, and comprehensive Un*x Command Line Argument Parsing for NodeJS"
+    },
+    {
+        "name": "typeorm-fixtures-cli",
+        "description": "[![CircleCI](https://circleci.com/gh/RobinCK/typeorm-fixtures.svg?style=svg)](https://circleci.com/gh/RobinCK/typeorm-fixtures) ![GitHub CI](https://github.com/RobinCK/typeorm-fixtures/workflows/Build%20CI/badge.svg?branch=master) [![OpenCollective](https"
+    },
+    {
+        "name": "wiredep-cli",
+        "description": "Wiredep CLI interface."
+    },
+    {
+        "name": "@esm2cjs/npm-run-path",
+        "description": "Get your PATH prepended with locally installed binaries. This is a fork of sindresorhus/npm-run-path, but with CommonJS support."
+    },
+    {
+        "name": "pkg-install",
+        "description": "A wrapper making installation of Node.js packages from code easier"
+    },
+    {
+        "name": "xslt3",
+        "description": "SaxonJS XSLT 3.0 processor: command line interface to SaxonJS"
+    },
+    {
+        "name": "stemmer",
+        "description": "Porter Stemmer algorithm"
+    },
+    {
+        "name": "innosetup",
+        "description": "Node wrapper to compile inno setup scripts (.iss)"
+    },
+    {
+        "name": "inquirer-select-pro",
+        "description": "An inquirer select that supports multiple selections and filtering."
+    },
+    {
+        "name": "@angular-builders/custom-esbuild",
+        "description": "Custom esbuild builders for Angular build facade. Allow to modify Angular build configuration without ejecting it"
+    },
+    {
+        "name": "detox-cli",
+        "description": "Optional wrapper for Detox CLI, meant to be installed globally"
+    },
+    {
+        "name": "@xarc/run",
+        "description": "concurrent or serial run npm scripts, javascript tasks, and more"
+    },
+    {
+        "name": "mad-logs",
+        "description": "Winston-lite-esque Log lib for terminal and browser debugging, with piles of unignorable log tags and marker styles."
+    },
+    {
+        "name": "make-dir-cli",
+        "description": "Make directories and their parents if needed - Like `mkdir -p`, but cross-platform"
+    },
+    {
+        "name": "bar-horizontal",
+        "description": "Create beautiful horizontal charts, that fit your terminal."
+    },
+    {
+        "name": "@intlayer/cli",
+        "description": "Provides uniform command-line interface scripts for Intlayer, used in packages like intlayer-cli and intlayer."
+    },
+    {
+        "name": "elm-review",
+        "description": "Run elm-review from Node.js"
+    },
+    {
+        "name": "mint",
+        "description": "The Mintlify CLI"
+    },
+    {
+        "name": "ai-sdk-provider-claude-code",
+        "description": "AI SDK v5 provider for Claude via Claude Agent SDK (use Pro/Max subscription)"
+    },
+    {
+        "name": "echo-cli",
+        "description": "A cross-platform CLI for outputting text to the command line. Supports escape sequences"
+    },
+    {
+        "name": "cli-select",
+        "description": "Simple and interactive solution to provide a list of selectable items on the command line"
+    },
+    {
+        "name": "mprocs",
+        "description": "Run multiple processes in parallel"
+    },
+    {
+        "name": "loading-cli",
+        "description": "Terminal loading effect."
+    },
+    {
+        "name": "mrm",
+        "description": "Codemods for your project config files"
+    },
+    {
+        "name": "yarn-run-all",
+        "description": "A CLI tool to run multiple npm-scripts in parallel or sequential."
+    },
+    {
+        "name": "stdout-update",
+        "description": "Updates the previous output in the terminal. Useful for correct rendering progress bars, animations, etc."
+    },
+    {
+        "name": "dotenv-mono",
+        "description": "This package permit to have a centralized dotenv on a monorepo. It also includes some extra features such as manipulation and saving of changes to the dotenv file, a default centralized file, and a file loader with ordering and priorities."
+    },
+    {
+        "name": "ttab",
+        "description": "OSX CLI for opening a new terminal tab/window, optionally with a command to execute and/or display settings"
+    },
+    {
+        "name": "devmoji",
+        "description": "Enhance your conventional commits with gitmoji"
+    },
+    {
+        "name": "npmrc-replace-env",
+        "description": "A utility for generating .npmrc files based on configuration template and environment variables."
+    },
+    {
+        "name": "i18next-cli",
+        "description": "A unified, high-performance i18next CLI."
+    },
+    {
+        "name": "replace-in-files-cli",
+        "description": "Replace matching strings and regexes in files"
+    },
+    {
+        "name": "@stacksjs/bunpress",
+        "description": "Modern documentation engine. Powered by Bun."
+    },
+    {
+        "name": "@mocks-server/core",
+        "description": "Pluggable mock server supporting multiple route variants and mocks"
+    },
+    {
+        "name": "@bitwarden/cli",
+        "description": "A secure and free password manager for all of your devices."
+    },
+    {
+        "name": "pastel",
+        "description": "Framework for effortlessly building Ink apps"
+    },
+    {
+        "name": "@ngneat/elf-cli-ng",
+        "description": "Angular adapter for elf store cli"
+    },
+    {
+        "name": "longest-value",
+        "description": "Get the longest value for the given property from an array of objects, or the longest value in an object. Useful for aligning values for text tables, CLI help, etc."
+    },
+    {
+        "name": "npm-failsafe",
+        "description": "Executes a sequence of npm scripts."
+    },
+    {
+        "name": "clickhouse-migrations",
+        "description": "ClickHouse Migrations"
+    },
+    {
+        "name": "@vue/cli-plugin-e2e-nightwatch",
+        "description": "e2e-nightwatch plugin for vue-cli"
+    },
+    {
+        "name": "@unlighthouse/cli",
+        "description": "CLI for Unlighthouse"
+    },
+    {
+        "name": "chrome-webstore-upload-cli",
+        "description": "CLI tool to upload Chrome Extensions to the Chrome Web Store"
+    },
+    {
+        "name": "prompt-radio",
+        "description": "Radio prompt. Can be used as a standalone prompt, or as a plugin for [Enquirer]."
+    },
+    {
+        "name": "@quasar/app-webpack",
+        "description": "Quasar Framework App CLI with Webpack"
+    },
+    {
+        "name": "preferred-node-version",
+        "description": "Get the preferred Node.js version of a project or user"
+    },
+    {
+        "name": "@infisical/cli",
+        "description": "<h1 align=\"center\">Infisical CLI</h1> <p align=\"center\">   <p align=\"center\"><b>Embrace shift-left security with the Infisical CLI and strengthen your DevSecOps practices by seamlessly managing secrets across your workflows, pipelines, and applications.</"
+    },
+    {
+        "name": "gemini-mcp-tool",
+        "description": "MCP server for Gemini CLI integration"
+    },
+    {
+        "name": "release",
+        "description": "Generate changelogs with a single command"
+    },
+    {
+        "name": "@capgo/cli",
+        "description": "A CLI to upload to capgo servers"
+    },
+    {
+        "name": "yargs-interactive",
+        "description": "Build interactive command line tools without worring to parse the arguments (or ask them)."
+    },
+    {
+        "name": "console-log-colors",
+        "description": "Console log colors helper for simple lightweight useage, no external dependencies."
+    },
+    {
+        "name": "acme-dns-01-cli",
+        "description": "A manual (interactive CLI) dns-based strategy for Greenlock / Let's Encrypt / ACME DNS-01 challenges"
+    },
+    {
+        "name": "simple-output",
+        "description": "Output messages to stdout/stderr, zero deps."
+    },
+    {
+        "name": "bpmnlint",
+        "description": "Validate your BPMN diagrams based on configurable lint rules"
+    },
+    {
+        "name": "inquirer-ordinal-prompt",
+        "description": "Inquirer prompt for ordered multiselect choices"
+    },
+    {
+        "name": "cline",
+        "description": "Autonomous coding agent CLI - capable of creating/editing files, running commands, using the browser, and more"
+    },
+    {
+        "name": "ts-lint",
+        "description": "An extensible static analysis linter for the TypeScript language"
+    },
+    {
+        "name": "prompt-password",
+        "description": "Password prompt. Can be used as a standalone prompt, or as a plugin for [Enquirer]."
+    },
+    {
+        "name": "jpeg-autorotate",
+        "description": "Rotate JPEG images based on EXIF orientation"
+    },
+    {
+        "name": "fix-esm-import-path",
+        "description": "Auto fix import path for esm compatibility."
+    },
+    {
+        "name": "@argos-ci/cli",
+        "description": "Command-line (CLI) for visual testing with Argos."
+    },
+    {
+        "name": "sequelize-mig",
+        "description": "Sequelize migration generator and es6 init tool"
+    },
+    {
+        "name": "npm-dts",
+        "description": "Simple DTS single-file generation utility for TypeScript bundles"
+    },
+    {
+        "name": "merge-drivers",
+        "description": "Merge Drivers CLI: A command-line interface to conveniently manage custom git merge drivers"
+    },
+    {
+        "name": "subfont",
+        "description": "Speeds up your pages initial paint by automatically subsetting local or Google fonts and loading them optimally"
+    },
+    {
+        "name": "verbalize",
+        "description": "A pluggable logging utility with built-in colors, styles, and modes."
+    },
+    {
+        "name": "@skeletonlabs/tw-plugin",
+        "description": "Core plugin for Skeleton."
+    },
+    {
+        "name": "@stdlib/assert-has-function-name-support",
+        "description": "Detect native function name support."
+    },
+    {
+        "name": "@expo/commander",
+        "description": "the complete solution for node.js command-line programs"
+    },
+    {
+        "name": "@coveo/create-atomic-component-project",
+        "description": "Initialize a Coveo Atomic Library Project"
+    },
+    {
+        "name": "npkill",
+        "description": "List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space."
+    },
+    {
+        "name": "nlf",
+        "description": "Find licenses for a node application and its node_module dependencies"
+    },
+    {
+        "name": "antora",
+        "description": "A meta package for Antora that installs both the CLI and site generator."
+    },
+    {
+        "name": "rmx-cli",
+        "description": "A CLI for remix-run"
+    },
+    {
+        "name": "loggerr",
+        "description": "A simple logger to console or file"
+    },
+    {
+        "name": "ngx-translate-lint",
+        "description": "Simple tools for check `ngx-translate` keys in app"
+    },
+    {
+        "name": "yaml-cli",
+        "description": "A simple CLI for querying and updating YAML files"
+    },
+    {
+        "name": "eslint-cli",
+        "description": "The local eslint executor."
+    },
+    {
+        "name": "@figma-export/cli",
+        "description": "Command line for @figma-export"
+    },
+    {
+        "name": "straightforward",
+        "description": "A straightforward forward-proxy."
+    },
+    {
+        "name": "ts-migrate-mongoose",
+        "description": "A migration framework for Mongoose, built with TypeScript."
+    },
+    {
+        "name": "get-node",
+        "description": "Download a specific version of Node.js"
+    },
+    {
+        "name": "envar",
+        "description": "Library to read environment variables, including npm package config, custom config file, command line and default object"
+    },
+    {
+        "name": "ngx-spec",
+        "description": "A missing schematics for creating missing / recreating Angular 6+ specs"
+    },
+    {
+        "name": "json-sort-cli",
+        "description": "Command line app to deep sort JSON files, retains package.json special key order"
+    },
+    {
+        "name": "gift",
+        "description": "a Git wrapper library"
+    },
+    {
+        "name": "@settlemint/sdk-cli",
+        "description": "Command-line interface for SettleMint SDK, providing development tools and project management capabilities"
+    },
+    {
+        "name": "bump-cli",
+        "description": "The Bump CLI is used to interact with your API documentation hosted on Bump.sh by using the API of developers.bump.sh"
+    },
+    {
+        "name": "ntl",
+        "description": "Interactive cli tool to list and run package scripts"
+    },
+    {
+        "name": "ethereum-checksum-address",
+        "description": "Convert Ethereum address to a checksummed address"
+    },
+    {
+        "name": "stylint",
+        "description": "A linter for stylus"
+    },
+    {
+        "name": "prompt-expand",
+        "description": "Expand prompt. Can be used as a standalone prompt, or with a prompt system like [Enquirer]."
+    },
+    {
+        "name": "ansi-256-colors",
+        "description": "256 xterm color codes"
+    },
+    {
+        "name": "esc-exit",
+        "description": "Exit the process when the `esc` key is pressed"
+    },
+    {
+        "name": "@trufflesuite/spinnies",
+        "description": "Create and manage multiple spinners in command-line interface programs"
+    },
+    {
+        "name": "chalk-string",
+        "description": "Chalk with style strings"
+    },
+    {
+        "name": "@putout/cli-ruler",
+        "description": "toggle rules in .putout.json"
+    },
+    {
+        "name": "fontello-cli",
+        "description": "Command line interface for Fontello."
+    },
+    {
+        "name": "purescript",
+        "description": "PureScript wrapper that makes it available as a local dependency"
+    },
+    {
+        "name": "vorpal-autocomplete-fs",
+        "description": "File System autocompletion for Vorpal"
+    },
+    {
+        "name": "@ethersproject/hardware-wallets",
+        "description": "Hardware Wallet support for ethers."
+    },
+    {
+        "name": "eslint-bankruptcy",
+        "description": "Codemod to eslint-disable all instances of a rule violation in a codebase"
+    },
+    {
+        "name": "@quantco/pnpm-licenses",
+        "description": "Generate third party license disclaimers in pnpm-based projects"
+    },
+    {
+        "name": "@ayonli/jsext",
+        "description": "A JavaScript extension package for building strong and modern applications."
+    },
+    {
+        "name": "cash",
+        "description": "Cross-platform Linux commands in pure ES6."
+    },
+    {
+        "name": "@heroku-cli/plugin-ps-exec",
+        "description": "Heroku Exec CLI"
+    },
+    {
+        "name": "handle-cli-error",
+        "description": "💣 Error handler for CLI applications 💥"
+    },
+    {
+        "name": "exec-promise",
+        "description": "Testable CLIs with promises"
+    },
+    {
+        "name": "@inquirer/testing",
+        "description": "Inquirer testing utilities"
+    },
+    {
+        "name": "sleep-ms",
+        "description": "Halt execution for a specific time period"
+    },
+    {
+        "name": "operetta",
+        "description": "The Node Option Parser That Sings!"
+    },
+    {
+        "name": "lazycommitt",
+        "description": "Writes your git commit messages for you with AI using Groq"
+    },
+    {
+        "name": "json-to-zod",
+        "description": "Converts JSON objects or files into simple Zod schemas."
+    },
+    {
+        "name": "@react-docgen/cli",
+        "description": "A CLI to extract information from React components for documentation generation."
+    },
+    {
+        "name": "cli-simple-table",
+        "description": "CLI simple table"
+    },
+    {
+        "name": "@bahmutov/print-env",
+        "description": "Prints all environment variables that start with given string"
+    },
+    {
+        "name": "tasuku",
+        "description": "タスク — The minimal task runner"
+    },
+    {
+        "name": "auth",
+        "description": "The CLI tool by Auth.js to supercharge your authentication workflows."
+    },
+    {
+        "name": "keq-cli",
+        "description": "Transform Swagger 3.0 to the function that send request by keq"
+    },
+    {
+        "name": "directus-sdk-typegen",
+        "description": "CLI and library to generate TypeScript types from Directus collections for use with Directus SDK."
+    },
+    {
+        "name": "github-app-installation-token",
+        "description": "npm/script and binary 📦 to get a token from a GitHub App"
+    },
+    {
+        "name": "argly",
+        "description": "A concise command line arguments parser with robust type handling"
+    },
+    {
+        "name": "vue-cli-plugin-webpack-bundle-analyzer",
+        "description": "vue-cli plugin to visualize size of webpack output files"
+    },
+    {
+        "name": "@datocms/cli",
+        "description": "CLI to interact with DatoCMS APIs"
+    },
+    {
+        "name": "webpack-nano",
+        "description": "A teensy, squeaky 🐤 clean Webpack CLI"
+    },
+    {
+        "name": "gh",
+        "description": "Boost your productivity & automate tasks when working with GitHub, all from the comfort of your CLI."
+    },
+    {
+        "name": "branch-name-lint",
+        "description": "Lint your branch names"
+    },
+    {
+        "name": "@wkovacs64/add-icon",
+        "description": "CLI tool to download and transform icons from Iconify"
+    },
+    {
+        "name": "pad-stdio",
+        "description": "Pad stdout and stderr"
+    },
+    {
+        "name": "grunt-shell-spawn",
+        "description": "Grunt task to run shell commands"
+    },
+    {
+        "name": "i18nexus-cli",
+        "description": "Command line interface (CLI) for accessing the i18nexus API"
+    },
+    {
+        "name": "npm-deprecated-check",
+        "description": "Check for deprecated packages"
+    },
+    {
+        "name": "carrot-scan",
+        "description": "Command-line tool for detecting vulnerabilities in files and directories."
+    },
+    {
+        "name": "@launchdarkly/ldcli",
+        "description": "The official command line interface for managing LaunchDarkly feature flags."
+    },
+    {
+        "name": "@magidoc/cli",
+        "description": "Magidoc CLI application responsible for generating GraphQL documentation websites."
+    },
+    {
+        "name": "@moleculer/vorpal",
+        "description": "Node's first framework for building immersive CLI apps."
+    },
+    {
+        "name": "xyz",
+        "description": "Publish npm packages with fewer screw-ups"
+    },
+    {
+        "name": "linux-command",
+        "description": "Linux Command"
+    },
+    {
+        "name": "hpal",
+        "description": "hapi pal CLI"
+    },
+    {
+        "name": "double-metaphone",
+        "description": "Double Metaphone algorithm"
+    },
+    {
+        "name": "elegant-status",
+        "description": "Create elegant task status for CLI."
+    },
+    {
+        "name": "@clerc/plugin-version",
+        "description": "Clerc plugin version"
+    },
+    {
+        "name": "interactive-commander",
+        "description": "Commander.js with integrated interactive prompts"
+    },
+    {
+        "name": "zod2md",
+        "description": "Generate Markdown docs from Zod schemas"
+    },
+    {
+        "name": "daytona-drizzle-proxy",
+        "description": "A proxy server CLI to fix CORS issues when accessing Drizzle Studio from Daytona preview URLs"
+    },
+    {
+        "name": "@inkeep/create-agents",
+        "description": "Create an Inkeep Agent Framework project"
+    },
+    {
+        "name": "prompt-input",
+        "description": "Basic text input prompt. This can be used standalone, but it's also included in [enquirer] by default."
+    },
+    {
+        "name": "cli-util",
+        "description": "Utility functions for the cli toolkit"
+    },
+    {
+        "name": "cash-true",
+        "description": "Cross-platform implementation of the Unix 'true' command."
+    },
+    {
+        "name": "ipt",
+        "description": "iPipeTo - The Node.js cli interactive workflow"
+    },
+    {
+        "name": "download-cli",
+        "description": "Download and extract files"
+    },
+    {
+        "name": "@odata2ts/odata2ts",
+        "description": "Flexible generator to produce various TypeScript artefacts (from simple model interfaces to complete odata clients) from OData metadata files"
+    },
+    {
+        "name": "cli-logger",
+        "description": "Logger implementation for command line interfaces"
+    },
+    {
+        "name": "@chainlink/evm-gauntlet-ocr",
+        "description": "EVM Gauntlet OCR"
+    },
+    {
+        "name": "@contentstack/cli-cm-export",
+        "description": "Contentstack CLI plugin to export content from stack"
+    },
+    {
+        "name": "cjstoesm",
+        "description": "A tool that can transform CommonJS to ESM"
+    },
+    {
+        "name": "@allurereport/plugin-progress",
+        "description": "Allure Plugin to show generation progress in console"
+    },
+    {
+        "name": "@dotenv-run/esbuild",
+        "description": "Run your scripts with dotenv variables"
+    },
+    {
+        "name": "circular-dependency-scanner",
+        "description": "Out-of-box and zero configuration circular dependencies detector, with both JavaScript API and Command Line Tool."
+    },
+    {
+        "name": "run-pty",
+        "description": "Run several commands concurrently. Show output for one command at a time. Kill all at once."
+    },
+    {
+        "name": "inquirer-confirm",
+        "description": "Simple confirm yes/no question for CLI node applications, returns a promise, built on top of inquirer"
+    },
+    {
+        "name": "dependency-insight",
+        "description": "A CLI tool to audit and analyze your project's dependencies."
+    },
+    {
+        "name": "@auto-canary/auto",
+        "description": "CLI tools to help facilitate semantic versioning based on GitHub PR labels"
+    },
+    {
+        "name": "@allurereport/plugin-log",
+        "description": "Allure Plugin to write report in stdout"
+    },
+    {
+        "name": "ai-sdk-provider-codex-cli",
+        "description": "AI SDK v5 provider for OpenAI Codex CLI with native JSON Schema support"
+    },
+    {
+        "name": "@contentstack/cli",
+        "description": "Command-line tool (CLI) to interact with Contentstack"
+    },
+    {
+        "name": "spawn-npm-install",
+        "description": "programmatically install npm dependencies"
+    },
+    {
+        "name": "@clerc/plugin-help",
+        "description": "Clerc plugin help"
+    },
+    {
+        "name": "angular-cli-ghpages",
+        "description": "Deploy your Angular app to GitHub Pages or Cloudflare Pages directly from the Angular CLI (ng deploy)"
+    },
+    {
+        "name": "sfpowerkit",
+        "description": "This project is currently being deprecated. Some of the existing functionality is already migrated to [sfpowerscripts](https://github.com/dxatscale/sfpowerscripts) and rest of them  will be available as standalone libraries / sfp-cli in a short span. Stay"
+    },
+    {
+        "name": "check-outdated",
+        "description": "Light-weight CLI tool to ensure that your dependencies are up to date, otherwise the process is terminated with status code 1."
+    },
+    {
+        "name": "@dxos/cli",
+        "description": "DXOS CLI"
+    },
+    {
+        "name": "vue-cli-plugin-quasar",
+        "description": "Quasar Framework v2 plugin for Vue CLI v5"
+    },
+    {
+        "name": "@ngx-rocket/scripts",
+        "description": "Support scripts for ngX-Rocket projects"
+    },
+    {
+        "name": "@cparra/apexdocs",
+        "description": "Library with CLI capabilities to generate documentation for Salesforce Apex classes."
+    },
+    {
+        "name": "preact-cli",
+        "description": "Start building a Preact Progressive Web App in seconds."
+    },
+    {
+        "name": "clix",
+        "description": "A tiny utility to make easy to create command line tools that require a config file in an easy way. It uses [optionator](https://www.npmjs.com/package/optionator) to parse the arguments "
+    },
+    {
+        "name": "@putout/cli-cache",
+        "description": "The cache of Places found by 🐊Putout"
+    },
+    {
+        "name": "auditboard-cli",
+        "description": "Changing the world one cli at a time"
+    },
+    {
+        "name": "@contentstack/cli-cm-import",
+        "description": "Contentstack CLI plugin to import content into stack"
+    },
+    {
+        "name": "@umbrelladocs/rdformat-validator",
+        "description": "Validate and fix Reviewdog Diagnostic Format (RD Format) - A comprehensive library and CLI tool for validating JSON data against the Reviewdog Diagnostic Format specification"
+    },
+    {
+        "name": "@inkeep/agents-cli",
+        "description": "Inkeep CLI tool"
+    },
+    {
+        "name": "vue-cli-plugin-tailwind",
+        "description": "vue-cli plugin for Tailwind CSS"
+    },
+    {
+        "name": "@contentstack/cli-config",
+        "description": "Contentstack CLI plugin for configuration"
+    },
+    {
+        "name": "@contentstack/cli-cm-migrate-rte",
+        "description": "Contentstack CLI plugin to migrate HTML RTE to JSON RTE"
+    },
+    {
+        "name": "prompt-rawlist",
+        "description": "Rawlist prompt. Can be used as a standalone prompt, or with a prompt system like [Enquirer]."
+    },
+    {
+        "name": "raptor-args",
+        "description": "A concise command line arguments parser with robust type handling"
+    },
+    {
+        "name": "openmrs",
+        "description": ""
+    },
+    {
+        "name": "@sap/cli-core",
+        "description": "Command-Line Interface (CLI) Core Module"
+    },
+    {
+        "name": "@codama/cli",
+        "description": "A CLI for setting up and managing Codama IDLs"
+    },
+    {
+        "name": "@tencent-ai/codebuddy-code",
+        "description": "Use CodeBuddy, Tencent's AI assistant, right from your terminal. CodeBuddy can understand your codebase, edit files, run terminal commands, and handle entire workflows for you."
+    },
+    {
+        "name": "@clerc/core",
+        "description": "Clerc core"
+    },
+    {
+        "name": "opted",
+        "description": "Stringify an object to command line options"
+    },
+    {
+        "name": "@lambdatest/smartui-cli",
+        "description": "A command line interface (CLI) to run SmartUI tests on LambdaTest"
+    },
+    {
+        "name": "aurelia-cli",
+        "description": "The command line tooling for Aurelia."
+    },
+    {
+        "name": "fkill-cli",
+        "description": "Fabulously kill processes. Cross-platform."
+    },
+    {
+        "name": "is-node-modern",
+        "description": "Detects if node is modern, with helpful command line tools"
+    },
+    {
+        "name": "@leanup/cli-vue",
+        "description": "This package contains the Vue framework extension for the @leanup/cli."
+    },
+    {
+        "name": "json-to-plain-text",
+        "description": "Convert JSON or JavaScript objects into clean, human-readable plain text format."
+    },
+    {
+        "name": "@contentstack/cli-cm-bootstrap",
+        "description": "Bootstrap contentstack apps"
+    },
+    {
+        "name": "lcov-total",
+        "description": "Parsing lcov.info and returning total of the summary intended to use inside CI to exit if threshold not reach"
+    },
+    {
+        "name": "node-license-validator",
+        "description": "Validate the licenses of your dependencies against a list"
+    },
+    {
+        "name": "@catladder/pipeline",
+        "description": "Panter workflow for cloud CI/CD and DevOps"
+    },
+    {
+        "name": "delay-cli",
+        "description": "Delay execution for a given amount of seconds"
+    },
+    {
+        "name": "cli-gh",
+        "description": "A CLI tool to interact with Github"
+    },
+    {
+        "name": "@controlplane/cli",
+        "description": "Control Plane Corporation CLI"
+    },
+    {
+        "name": "simple-cli",
+        "description": "A simple wrapper for grunt implementations of command line APIs"
+    },
+    {
+        "name": "suppress-exit-code",
+        "description": "Cross-platform CLI wrapper that runs any command and exits with zero"
+    },
+    {
+        "name": "vorpal-less",
+        "description": "Less implementation for Vorpal.js"
+    },
+    {
+        "name": "@membranehq/cli",
+        "description": "A command-line interface for working with Membrane in your local development environment."
+    },
+    {
+        "name": "cash-cp",
+        "description": "Cross-platform implementation of the Unix 'cp' command."
+    },
+    {
+        "name": "getarg",
+        "description": "Quick CLI argv parser and validator"
+    },
+    {
+        "name": "utils-is-little-endian",
+        "description": "Check if an environment is little endian."
+    },
+    {
+        "name": "riot-cli",
+        "description": "Riot command line utility"
+    },
+    {
+        "name": "validate-element-name",
+        "description": "Validate the name of a custom element"
+    },
+    {
+        "name": "@leanup/cli-inferno",
+        "description": "This package contains the Inferno framework extension for the @leanup/cli."
+    },
+    {
+        "name": "yaml-sort",
+        "description": "Sort YAML files alphabetically"
+    },
+    {
+        "name": "@sap/appfront-cli",
+        "description": "Application Frontend service CLI"
+    },
+    {
+        "name": "sb",
+        "description": "Storybook CLI: Develop, document, and test UI components in isolation"
+    },
+    {
+        "name": "conventional-cli",
+        "description": "Conventional for CLI tools"
+    },
+    {
+        "name": "@chainlink/evm-gauntlet-token",
+        "description": "EVM Gauntlet Token"
+    },
+    {
+        "name": "@marp-team/marp-cli",
+        "description": "A CLI interface for Marp and Marpit based converters"
+    },
+    {
+        "name": "nve",
+        "description": "Run any command on specific Node.js versions"
+    },
+    {
+        "name": "move-cli",
+        "description": "The CLI implementation for andrewrk/node-mv. Like `fs.rename`, but works across devices, and works with directories. Think of the unix utility `mv`."
+    },
+    {
+        "name": "@chainlink/evm-gauntlet-mcm",
+        "description": "EVM Gauntlet Many Chain Multisig"
+    },
+    {
+        "name": "@chainlink/evm-gauntlet-vrfv2plus",
+        "description": "EVM Gauntlet VRFV2Plus"
+    },
+    {
+        "name": "@contentstack/cli-cm-seed",
+        "description": "create a Stack from existing content types, entries, assets, etc."
+    },
+    {
+        "name": "prompt-promise",
+        "description": "Sane CLI user-input (command prompt, confirm, multiline, password) as promises, it can be used with co@4"
+    },
+    {
+        "name": "@chainlink/evm-gauntlet-mercury",
+        "description": "EVM Gauntlet Mercury"
+    },
+    {
+        "name": "@clerc/utils",
+        "description": "Clerc utils"
+    },
+    {
+        "name": "ink-checkbox",
+        "description": "Checkbox component for Ink"
+    },
+    {
+        "name": "globstar",
+        "description": "Run programs with glob/globstar support, especially on Windows within npm scripts."
+    },
+    {
+        "name": "ipull",
+        "description": "The only file downloader you'll ever need. For node.js and the browser, CLI and library for fast and reliable file downloads."
+    },
+    {
+        "name": "@dramaorg/delectus-culpa-reprehenderit",
+        "description": "[![github actions][actions-image]][actions-url] [![coverage][codecov-image]][codecov-url] [![dependency status][deps-svg]][deps-url] [![dev dependency status][dev-deps-svg]][dev-deps-url] [![License][license-image]][license-url] [![Downloads][downloads-im"
+    },
+    {
+        "name": "press-any-key",
+        "description": "Press any key to continue..."
+    },
+    {
+        "name": "@leanup/cli-aurelia",
+        "description": "This package contains the Aurelia framework extension for the @leanup/cli."
+    },
+    {
+        "name": "anypoint-cli-v4",
+        "description": "Display and interact with the Anypoint Platform from the command line."
+    },
+    {
+        "name": "vorpal-grep",
+        "description": "Grep implementation for Vorpal.js"
+    },
+    {
+        "name": "neodoc",
+        "description": "Beautiful, handcrafted command line interfaces"
+    },
+    {
+        "name": "qunit-extras",
+        "description": "Extends QUnit with extra features and CLI support."
+    },
+    {
+        "name": "sherif-darwin-arm64",
+        "description": "Opinionated, zero-config linter for JavaScript monorepos"
+    },
+    {
+        "name": "generate-react-cli",
+        "description": "A simple React CLI to generate components instantly and more."
+    },
+    {
+        "name": "@clerc/plugin-completions",
+        "description": "Clerc plugin completions"
+    },
+    {
+        "name": "sherif-darwin-x64",
+        "description": "Opinionated, zero-config linter for JavaScript monorepos"
+    },
+    {
+        "name": "langium-cli",
+        "description": "CLI for Langium - the language engineering tool"
+    },
+    {
+        "name": "cypress-expect",
+        "description": "Cypress CLI wrapper where you can specify the total number of expected tests"
+    },
+    {
+        "name": "@sourcemeta/jsonschema",
+        "description": "The CLI for working with JSON Schema. Covers formatting, linting, testing, and much more for both local development and CI/CD pipelines"
+    },
+    {
+        "name": "@chainlink/evm-gauntlet-ledger",
+        "description": "EVM Gauntlet Ledger"
+    },
+    {
+        "name": "@coveo/create-atomic-component",
+        "description": "Initialize a Coveo Atomic Component"
+    },
+    {
+        "name": "uglifyjs-folder",
+        "description": "Run terser on a folder and minify the result in a single file"
+    },
+    {
+        "name": "exitzero",
+        "description": "make a CLI command always return an exit status of 0. This can be useful in combination with a `watch` process to ensure things keep running."
+    },
+    {
+        "name": "@angular-builders/dev-server",
+        "description": "Dev server generic builder for Angular build facade. Allows to run custom builder in serve target"
+    },
+    {
+        "name": "license-compliance",
+        "description": "License compliance checker"
+    },
+    {
+        "name": "if-node-version",
+        "description": "Run commands if on specified node version."
+    },
+    {
+        "name": "angular-leaflet-directive",
+        "description": "angular-leaflet-directive - An AngularJS directive to easily interact with Leaflet maps"
+    },
+    {
+        "name": "@leanup/cli",
+        "description": "This CLI brings along all required tools to serve, test and build multi framework SPAs"
+    },
+    {
+        "name": "nestia",
+        "description": "Nestia CLI tool"
+    },
+    {
+        "name": "chalk-cli",
+        "description": "Terminal string styling done right"
+    },
+    {
+        "name": "@leanup/cli-react",
+        "description": "This package contains the React framework extension for the @leanup/cli."
+    },
+    {
+        "name": "boilerplate-update",
+        "description": "Update boilerplate code between versions"
+    },
+    {
+        "name": "@sap/datasphere-cli",
+        "description": "Command-Line Interface for SAP Datasphere."
+    },
+    {
+        "name": "@contentstack/cli-command",
+        "description": "Contentstack CLI plugin for configuration"
+    },
+    {
+        "name": "terminal-overwrite",
+        "description": "Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc."
+    },
+    {
+        "name": "@lcov-viewer/cli",
+        "description": "LCOV viewer CLI to convert coverage to grouped HTML report. Generates code coverage report grouped by directory."
+    },
+    {
+        "name": "@stackbit/cli",
+        "description": "Stackbit CLI"
+    },
+    {
+        "name": "sendak-usage",
+        "description": "A command-line parser/usage generator wrapping nopt"
+    },
+    {
+        "name": "@design-systems/plugin",
+        "description": "Plugin structure for the @design-systems CLI"
+    },
+    {
+        "name": "@mablhq/mabl-cli",
+        "description": "The official mabl command line interface tool"
+    },
+    {
+        "name": "@leanup/cli-angularjs",
+        "description": "This package contains the AngularJS framework extension for the @leanup/cli."
+    },
+    {
+        "name": "poku",
+        "description": "🐷 Poku makes testing easy for Node.js, Bun, Deno, and you at the same time."
+    },
+    {
+        "name": "optparse",
+        "description": "Command-line option parser"
+    },
+    {
+        "name": "@heroku-cli/plugin-container-registry-v5",
+        "description": "Use containers to build and deploy Heroku apps"
+    },
+    {
+        "name": "@contentstack/cli-auth",
+        "description": "Contentstack CLI plugin for authentication activities"
+    },
+    {
+        "name": "ololog",
+        "description": "Logging. Colors. Terminals & browsers. Show call locations. Pretty prints objects, Errors, anything!"
+    },
+    {
+        "name": "bull-repl",
+        "description": "Bull / BullMQ queue command line REPL"
+    },
+    {
+        "name": "@leanup/cli-vue3",
+        "description": "This package contains the Vue3 framework extension for the @leanup/cli."
+    },
+    {
+        "name": "postgrator-cli",
+        "description": "Command line interface for Postgrator"
+    },
+    {
+        "name": "@jcubic/lily",
+        "description": "Very simple option parser inspired by YARGS with no dependencies"
+    },
+    {
+        "name": "predict-v8-randomness",
+        "description": "Predict the output of Math.random"
+    },
+    {
+        "name": "@ngneat/tailwind",
+        "description": "A schematic that adds TailwindCSS to Angular applications"
+    },
+    {
+        "name": "@settlemint/sdk-mcp",
+        "description": "MCP interface for SettleMint SDK, providing development tools and project management capabilities"
+    },
+    {
+        "name": "yarpm",
+        "description": "CLI tool to run npm scripts with either npm, pnpm or yarn, depending on how it was started"
+    },
+    {
+        "name": "coverage",
+        "description": "A command-line tool to collect and report code coverage of a JavaScript program"
+    },
+    {
+        "name": "firebase-tools-with-isolate",
+        "description": "Command-Line Interface for Firebase with monorepo support"
+    },
+    {
+        "name": "@contentstack/cli-cm-clone",
+        "description": "Contentstack stack clone plugin"
+    },
+    {
+        "name": "@intlify/cli",
+        "description": "CLI Tooling for i18n development"
+    },
+    {
+        "name": "plylog",
+        "description": "A logger for the Polymer CLI toolchain"
+    },
+    {
+        "name": "shell",
+        "description": "Command line arguments parser and stringifier"
+    },
+    {
+        "name": "recursive-copy-cli",
+        "description": "CLI for [recursive-copy](https://github.com/timkendrick/recursive-copy)"
+    },
+    {
+        "name": "velite",
+        "description": "Turns Markdown / MDX, YAML, JSON, or other files into app's data layer with type-safe schema."
+    },
+    {
+        "name": "@oriflame/lumos",
+        "description": "Centralized CLI for JavaScript and TypeScript dev tools."
+    },
+    {
+        "name": "nvexeca",
+        "description": "nvm + execa = nvexeca"
+    },
+    {
+        "name": "foreach-cli",
+        "description": "CLI util to execute a command for each file matching a glob"
+    },
+    {
+        "name": "@chainlink/evm-gauntlet-example",
+        "description": "EVM Gauntlet Example"
+    },
+    {
+        "name": "anypoint-cli",
+        "description": "Display and interact with the Anypoint Platform from the command line. Supports interactive shell and standard CLI modes."
+    },
+    {
+        "name": "@contentstack/cli-cm-branches",
+        "description": "Contentstack CLI plugin to do branches operations"
+    },
+    {
+        "name": "isom",
+        "description": "Command line task runner"
+    },
+    {
+        "name": "go-npm-next",
+        "description": "Distribute and install Go binaries via NPM"
+    },
+    {
+        "name": "@chainlink/evm-gauntlet-common",
+        "description": "EVM Gauntlet Common Contracts"
+    },
+    {
+        "name": "npmpub",
+        "description": "`npm publish` on steroid"
+    },
+    {
+        "name": "@design-systems/cli-utils",
+        "description": "Utility functions for the @design-systems CLI"
+    },
+    {
+        "name": "cherri",
+        "description": "Automated cherry-picking for PRs"
+    },
+    {
+        "name": "zodcli",
+        "description": "A CLI parser built with Zod."
+    },
+    {
+        "name": "@graphql-markdown/cli",
+        "description": "NodeJS CLI for generating Markdown documentation from a GraphQL schema."
+    },
+    {
+        "name": "minify-xml",
+        "description": "Fast XML minifier / compressor / uglifier with a command-line"
+    },
+    {
+        "name": "package-options",
+        "description": "The single point to load options for your node package"
+    },
+    {
+        "name": "nest-commander-schematics",
+        "description": "A set of schematics for generating questions and commands with the NestJS CLI."
+    },
+    {
+        "name": "imgurify",
+        "description": "Browserify tranform to turn images into base64 data uri"
+    },
+    {
+        "name": "@rajzik/lumos",
+        "description": "Centralized CLI for JavaScript and TypeScript dev tools."
+    },
+    {
+        "name": "@coveo/create-atomic-result-component",
+        "description": "Initialize a Coveo Atomic Result Component"
+    },
+    {
+        "name": "sol2uml",
+        "description": "Solidity contract visualisation tool."
+    },
+    {
+        "name": "csvwriter",
+        "description": "Create CSV from complex JSON objects with CLI or API"
+    },
+    {
+        "name": "solpp",
+        "description": "A solidity preprocessor and flattener CLI and library"
+    },
+    {
+        "name": "@kayvan/markdown-tree-parser",
+        "description": "A powerful JavaScript library and CLI tool for parsing and manipulating markdown files as tree structures using the remark/unified ecosystem"
+    },
+    {
+        "name": "transifex",
+        "description": "NodeJS Transifex API Client"
+    },
+    {
+        "name": "ccstatusline",
+        "description": "A customizable status line formatter for Claude Code CLI"
+    },
+    {
+        "name": "icon-set-creator",
+        "description": "Android & iOS icon generator for React Native"
+    },
+    {
+        "name": "commitlint-azure-pipelines-cli",
+        "description": "Lint relevant commits for a branch or PR in Azure Pipelines"
+    },
+    {
+        "name": "le-table",
+        "description": "Another NodeJS module for creating ASCII tables."
+    },
+    {
+        "name": "@zendesk/zcli",
+        "description": "Zendesk CLI is a single command line tool for all your zendesk needs"
+    },
+    {
+        "name": "tanstack",
+        "description": "A CLI tool to create TanStack applications"
+    },
+    {
+        "name": "@putout/cli-filesystem",
+        "description": "API to help lint filesystem"
+    },
+    {
+        "name": "find-unused-exports",
+        "description": "A CLI and equivalent JS API to find unused ECMAScript module exports in a project."
+    },
+    {
+        "name": "@melkeydev/go-blueprint",
+        "description": "A CLI for scaffolding Go projects with modern tooling"
+    },
+    {
+        "name": "node-console-colors",
+        "description": "ANSI colors for your cli with no dependencies"
+    },
+    {
+        "name": "@adonisjs/cli",
+        "description": "Command line tool for Adonisjs"
+    },
+    {
+        "name": "swpm",
+        "description": "Switch Package Manager"
+    },
+    {
+        "name": "html-minifier-next",
+        "description": "Highly configurable, well-tested, JavaScript-based HTML minifier"
+    },
+    {
+        "name": "codemod-cli",
+        "description": "a command line tool for generating, testing, and publishing codemods"
+    },
+    {
+        "name": "server-cli-only",
+        "description": "The server-cli-only package is designed to restrict the import of modules exclusively to React Server Components or scripts running on the CLI."
+    },
+    {
+        "name": "simple-scaffold",
+        "description": "Generate any file structure - from single components to entire app boilerplates, with a single command."
+    },
+    {
+        "name": "bun-repl",
+        "description": "Experimental REPL for Bun"
+    },
+    {
+        "name": "@chainlink/evm-gauntlet-ccip",
+        "description": "EVM Gauntlet CCIP"
+    },
+    {
+        "name": "@auto-canary/bot-list",
+        "description": "A list of bots for auto plugins to ignore"
+    },
+    {
+        "name": "@contentstack/cli-cm-bulk-publish",
+        "description": "Contentstack CLI plugin for bulk publish actions"
+    },
+    {
+        "name": "@contentstack/cli-cm-export-to-csv",
+        "description": "Export entities to csv"
+    },
+    {
+        "name": "@leanup/cli-svelte",
+        "description": "This package contains the Svelte framework extension for the @leanup/cli."
+    },
+    {
+        "name": "rust-just",
+        "description": "🤖 Just a command runner"
+    },
+    {
+        "name": "@toptal/davinci-bootstrap",
+        "description": "Creates application from davinci template"
+    },
+    {
+        "name": "@kibibit/dev-tools",
+        "description": "some useful scripts"
+    },
+    {
+        "name": "eol-converter-cli",
+        "description": "Newline converter CLI for simple CRLF -> LF (and reverse) convertions of multiple files."
+    },
+    {
+        "name": "cli-argv-util",
+        "description": "Simple utility to parse command line parameters and flags (arguments vector)"
+    },
+    {
+        "name": "@shopware/api-gen",
+        "description": "Shopware CLI for API client generation."
+    },
+    {
+        "name": "rust-just-linux-x64",
+        "description": "🤖 Just a command runner"
+    },
+    {
+        "name": "destiny",
+        "description": "Prettier for file structures"
+    },
+    {
+        "name": "create-better-t-stack",
+        "description": "A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations"
+    },
+    {
+        "name": "@contentstack/cli-cm-import-setup",
+        "description": "Contentstack CLI plugin to setup the mappers and configurations for the import command"
+    },
+    {
+        "name": "broccoli-cli",
+        "description": "The broccoli command line interface"
+    },
+    {
+        "name": "lqip",
+        "description": "Low Quality Image Placeholders (LQIP) Module for Node"
+    },
+    {
+        "name": "@causal/compiler",
+        "description": "Causal command line compiler for FDL files."
+    },
+    {
+        "name": "@chainlink/evm-gauntlet-functions",
+        "description": "EVM Gauntlet Functions"
+    },
+    {
+        "name": "strip-ansi-cli",
+        "description": "Strip ANSI escape codes"
+    },
+    {
+        "name": "@chainlink/gauntlet-contracts-link",
+        "description": "LINK Token Contracts"
+    },
+    {
+        "name": "semantic-release-yaml",
+        "description": "semantic-release plugin to edit yaml files"
+    },
+    {
+        "name": "cssnano-cli",
+        "description": "A CLI for modular minifier cssnano."
+    },
+    {
+        "name": "servez",
+        "description": "A simple command line server to replace http-server"
+    },
+    {
+        "name": "ts-mocker",
+        "description": "ts-mocker is a performance-focused and lightweight faker/data mocking library for TypeScript."
+    },
+    {
+        "name": "@aigne/json-schema-to-zod",
+        "description": "Converts JSON schema objects into Zod schemas"
+    },
+    {
+        "name": "@promptbook/remote-client",
+        "description": "Promptbook: Turn your company's scattered knowledge into AI ready books"
+    },
+    {
+        "name": "@leanup/cli-vanilla",
+        "description": "This package contains the VanillaJS extension for the @leanup/cli."
+    },
+    {
+        "name": "rollup-plugin-add-shebang",
+        "description": "Rollup plugin that adds shebangs to output files"
+    },
+    {
+        "name": "gtx-cli",
+        "description": "CLI tool for AI-powered i18n"
+    },
+    {
+        "name": "sherif-windows-x64",
+        "description": "Opinionated, zero-config linter for JavaScript monorepos"
+    },
+    {
+        "name": "@design-systems/core",
+        "description": "The core structure of the @design-systems CLI"
+    },
+    {
+        "name": "decentraland",
+        "description": "Decentraland CLI developer tool."
+    },
+    {
+        "name": "term-to-html",
+        "description": "Stream terminal output with ansi codes into nicely formatted HTML"
+    },
+    {
+        "name": "ethereum-private-key-to-address",
+        "description": "Convert an Ethereum private key to a public address"
+    },
+    {
+        "name": "@dxatscale/sfpowerscripts.core",
+        "description": "Core Module used by sfpowerscripts"
+    },
+    {
+        "name": "gnomon",
+        "description": "Utility to annotate console logging statements with timestamps and find slow processes"
+    },
+    {
+        "name": "lintspaces-cli",
+        "description": "CLI for the lintspaces module"
+    },
+    {
+        "name": "@chainlink/evm-gauntlet",
+        "description": "Gauntlet EVM"
+    },
+    {
+        "name": "jangular-cli",
+        "description": "A powerful CLI tool for rapidly bootstrapping enterprise-grade Angular 17 & Spring Boot (Java 21) applications with integrated security, authentication, database management, and Docker support."
+    },
+    {
+        "name": "@adobe/inquirer-table-checkbox",
+        "description": "A checkbox prompt (as a multi-column table) for Inquirer"
+    },
+    {
+        "name": "@comunica/runner-cli",
+        "description": "A comunica runner that sends an 'init' event from a commandline process."
+    },
+    {
+        "name": "cli-testing-library",
+        "description": "Simple and complete CLI testing utilities that encourage good testing practices."
+    },
+    {
+        "name": "chalkercli",
+        "description": "Colorful animations in terminal output"
+    },
+    {
+        "name": "npm-upgrade",
+        "description": "Interactive CLI utility to easily update outdated NPM dependencies"
+    },
+    {
+        "name": "gluestack-ui",
+        "description": "A CLI tool for easily adding components from gluestack to your projects."
+    },
+    {
+        "name": "print-colors",
+        "description": "Print colors to the console with nice and easy to use syntax"
+    },
+    {
+        "name": "@boost/cli",
+        "description": "An interactive command line program builder, powered by React and Ink."
+    },
+    {
+        "name": "nc",
+        "description": "Porting Netcat in Node.js"
+    },
+    {
+        "name": "capitano",
+        "description": "Powerful, non opitionated command line parser for serious applications"
+    },
+    {
+        "name": "@prisma/cli-dev",
+        "description": "Dev CLI for Prisma"
+    },
+    {
+        "name": "@automattic/vip",
+        "description": "The VIP Javascript library & CLI"
+    },
+    {
+        "name": "@jkt48connect-corp/sdk",
+        "description": "CLI dan modul untuk mengakses data dari API JKT48Connect, termasuk data member, teater, event, pembayaran, dan lainnya."
+    },
+    {
+        "name": "@adinsure-ops/ops-cli",
+        "description": "Operations CLI for working with AdInsure"
+    },
+    {
+        "name": "@pattern-lab/live-server",
+        "description": "simple development http server with live reload capability"
+    },
+    {
+        "name": "cli-step",
+        "description": "Module to create yarn like steps for your cli app"
+    },
+    {
+        "name": "@squiz/dxp",
+        "description": "The common dxp library for cli commands"
+    },
+    {
+        "name": "sherif-windows-arm64",
+        "description": "Opinionated, zero-config linter for JavaScript monorepos"
+    },
+    {
+        "name": "@gridsome/cli",
+        "description": "A command line tool for creating new Gridsome projects."
+    },
+    {
+        "name": "jsonlint-cli",
+        "description": "cli wrapper for jsonlint"
+    },
+    {
+        "name": "git-authors-cli",
+        "description": "Print all contributors and add it into package.json"
+    },
+    {
+        "name": "xpm",
+        "description": "The xPack project manager command line tool"
+    },
+    {
+        "name": "realpath",
+        "description": "Expands symbolic links and prints the resolved absolute filepath"
+    },
+    {
+        "name": "@zombienet/orchestrator",
+        "description": "ZombieNet aim to be a testing framework for substrate based blockchains, providing a simple cli tool that allow users to spawn and test ephemeral Substrate based networks"
+    },
+    {
+        "name": "@chainlink/gauntlet-contracts-ocr2",
+        "description": "OCR2 Contracts"
+    },
+    {
+        "name": "ervy",
+        "description": "Bring charts to terminal."
+    },
+    {
+        "name": "npm-cli-adduser",
+        "description": "A script to perform `npm adduser` without having to interact with the shell"
+    },
+    {
+        "name": "kafka-console",
+        "description": "Kafka CLI tool"
+    },
+    {
+        "name": "ethereum-private-key-to-public-key",
+        "description": "Convert an Ethereum private key to a public key"
+    },
+    {
+        "name": "license-cop",
+        "description": "Yet another license checker tool for your dependencies; focused on simplicity."
+    },
+    {
+        "name": "postmark-cli",
+        "description": "A CLI tool for managing templates, sending emails, and fetching servers on Postmark."
+    },
+    {
+        "name": "@wheatstalk/aws-cdk-exec",
+        "description": "An AWS CDK Cloud Assembly-aware command to help find and execute lambda functions and state machines"
+    },
+    {
+        "name": "cursor2claude",
+        "description": "CLI that syncs Cursor rules into Claude Code’s CLAUDE.md"
+    },
+    {
+        "name": "@chainlink/evm-gauntlet-safe",
+        "description": "EVM Gauntlet Safe"
+    },
+    {
+        "name": "claude-code-templates",
+        "description": "CLI tool to setup Claude Code configurations with framework-specific commands, automation hooks and MCP Servers for your projects"
+    },
+    {
+        "name": "stylelint-cli",
+        "description": "Global CLI wrapper to execute a local stylelint"
+    },
+    {
+        "name": "find-up-cli",
+        "description": "Find a file by walking up parent directories"
+    },
+    {
+        "name": "0xweb",
+        "description": "Contract package manager and other web3 tools"
+    },
+    {
+        "name": "flatlint",
+        "description": "JavaScript tokens-based linter"
+    }
+]

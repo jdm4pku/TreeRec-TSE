@@ -1,0 +1,2 @@
+2025-10-30 07:09:13 | linux    | Total:     0.94s | Avg/query:   0.0066s
+2025-11-05 11:00:07 | linux    | Total:     1.20s | Avg/query:   0.0085s

@@ -1,0 +1,920 @@
+[
+    {
+        "name": "Xenova/musicgen-small"
+    },
+    {
+        "name": "Qwen/Qwen3-VL-8B-Instruct"
+    },
+    {
+        "name": "Qwen/Qwen3-VL-2B-Instruct"
+    },
+    {
+        "name": "lodestones/Chroma1-HD"
+    },
+    {
+        "name": "huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliterated"
+    },
+    {
+        "name": "manycore-research/FLUX.1-Layout-ControlNet"
+    },
+    {
+        "name": "facebook/musicgen-large"
+    },
+    {
+        "name": "tencent/HunyuanWorld-Mirror"
+    },
+    {
+        "name": "inclusionAI/LLaDA2.0-mini-preview"
+    },
+    {
+        "name": "nanonets/Nanonets-OCR2-3B"
+    },
+    {
+        "name": "Qwen/Qwen3-Embedding-8B"
+    },
+    {
+        "name": "cerebras/GLM-4.6-REAP-268B-A32B"
+    },
+    {
+        "name": "facebook/musicgen-small"
+    },
+    {
+        "name": "knowledgator/gliner-pii-large-v1.0"
+    },
+    {
+        "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B"
+    },
+    {
+        "name": "pyannote/speaker-diarization-3.1"
+    },
+    {
+        "name": "haoningwu/SceneGen"
+    },
+    {
+        "name": "meta-llama/Llama-3.1-8B"
+    },
+    {
+        "name": "cerebras/GLM-4.6-REAP-218B-A32B"
+    },
+    {
+        "name": "Intel/ldm3d"
+    },
+    {
+        "name": "Qwen/Qwen3-4B"
+    },
+    {
+        "name": "usyd-community/vitpose-base-simple"
+    },
+    {
+        "name": "stabilityai/stable-audio-open-1.0"
+    },
+    {
+        "name": "QiWang98/VideoRFT"
+    },
+    {
+        "name": "zai-org/Glyph"
+    },
+    {
+        "name": "google/embeddinggemma-300m"
+    },
+    {
+        "name": "Qwen/Qwen3-30B-A3B"
+    },
+    {
+        "name": "facebook/sapiens-pose-1b-torchscript"
+    },
+    {
+        "name": "PaddlePaddle/PaddleOCR-VL"
+    },
+    {
+        "name": "firdhokk/speech-emotion-recognition-with-openai-whisper-large-v3"
+    },
+    {
+        "name": "nvidia/GR00T-N1.5-3B"
+    },
+    {
+        "name": "krea/krea-realtime-video"
+    },
+    {
+        "name": "superb/wav2vec2-base-superb-ks"
+    },
+    {
+        "name": "Qwen/Qwen3-Next-80B-A3B-Instruct"
+    },
+    {
+        "name": "jinaai/jina-embeddings-v4"
+    },
+    {
+        "name": "prs-eth/marigold-depth-v1-0"
+    },
+    {
+        "name": "OpenGVLab/InternVideo2_5_Chat_8B"
+    },
+    {
+        "name": "nvidia/parakeet-tdt-0.6b-v3"
+    },
+    {
+        "name": "zjpshadow/CharacterGen"
+    },
+    {
+        "name": "openai-community/gpt2"
+    },
+    {
+        "name": "utter-project/TowerVideo-9B"
+    },
+    {
+        "name": "black-forest-labs/FLUX.1-schnell"
+    },
+    {
+        "name": "BAAI/RoboBrain2.0-7B"
+    },
+    {
+        "name": "2Noise/ChatTTS"
+    },
+    {
+        "name": "inclusionAI/Ming-flash-omni-Preview"
+    },
+    {
+        "name": "impira/layoutlm-document-qa"
+    },
+    {
+        "name": "Qwen/Qwen3-1.7B"
+    },
+    {
+        "name": "apple/DepthPro-hf"
+    },
+    {
+        "name": "ResembleAI/chatterbox"
+    },
+    {
+        "name": "Falconsai/text_summarization"
+    },
+    {
+        "name": "sentence-transformers/all-mpnet-base-v2"
+    },
+    {
+        "name": "MiniMaxAI/MiniMax-M1-80k"
+    },
+    {
+        "name": "vandijklab/C2S-Scale-Gemma-2-27B"
+    },
+    {
+        "name": "dx8152/Relight"
+    },
+    {
+        "name": "meta-llama/Llama-3.2-1B-Instruct"
+    },
+    {
+        "name": "depth-anything/Depth-Anything-V2-Large"
+    },
+    {
+        "name": "dphn/Dolphin-Mistral-24B-Venice-Edition"
+    },
+    {
+        "name": "inclusionAI/Ring-1T"
+    },
+    {
+        "name": "moonshotai/Kimi-K2-Instruct-0905"
+    },
+    {
+        "name": "microsoft/TRELLIS-image-large"
+    },
+    {
+        "name": "microsoft/xclip-base-patch32"
+    },
+    {
+        "name": "briaai/RMBG-2.0"
+    },
+    {
+        "name": "ashawkey/LGM"
+    },
+    {
+        "name": "Sao10K/L3-8B-Stheno-v3.2"
+    },
+    {
+        "name": "tencent/Hunyuan3D-2.1"
+    },
+    {
+        "name": "deepset/roberta-base-squad2"
+    },
+    {
+        "name": "yuyouyu/Mistral-Nemo-BD-RP"
+    },
+    {
+        "name": "allenai/olmOCR-2-7B-1025"
+    },
+    {
+        "name": "AIDC-AI/Marco-MT-Algharb"
+    },
+    {
+        "name": "mistralai/Mistral-7B-Instruct-v0.2"
+    },
+    {
+        "name": "eenzeenee/t5-base-korean-summarization"
+    },
+    {
+        "name": "LiquidAI/LFM2-VL-3B"
+    },
+    {
+        "name": "Naman712/Deep-fake-detection"
+    },
+    {
+        "name": "openai/clip-vit-large-patch14"
+    },
+    {
+        "name": "teemosliang/SDPose-Body"
+    },
+    {
+        "name": "Qwen/Qwen3-30B-A3B-Instruct-2507"
+    },
+    {
+        "name": "openai/shap-e"
+    },
+    {
+        "name": "HarleyCooper/nanochat-AquaRat"
+    },
+    {
+        "name": "meta-llama/Llama-2-7b-chat-hf"
+    },
+    {
+        "name": "purplesmartai/pony-v7-base"
+    },
+    {
+        "name": "lrzjason/QwenImage-Rebalance"
+    },
+    {
+        "name": "stabilityai/TripoSR"
+    },
+    {
+        "name": "nateraw/videomae-base-finetuned-ucf101-subset"
+    },
+    {
+        "name": "facebook/bart-large-cnn"
+    },
+    {
+        "name": "dx8152/White_to_Scene"
+    },
+    {
+        "name": "fishaudio/openaudio-s1-mini"
+    },
+    {
+        "name": "cerebras/GLM-4.6-REAP-218B-A32B-FP8"
+    },
+    {
+        "name": "itsomk/chexpert-densenet121"
+    },
+    {
+        "name": "meta-llama/Llama-2-7b-hf"
+    },
+    {
+        "name": "ACE-Step/ACE-Step-v1-3.5B"
+    },
+    {
+        "name": "mirth/chonky_mmbert_small_multilingual_1"
+    },
+    {
+        "name": "Qwen/Qwen2.5-7B-Instruct"
+    },
+    {
+        "name": "alana89/TabSTAR"
+    },
+    {
+        "name": "keras-io/timeseries-anomaly-detection"
+    },
+    {
+        "name": "coqui/XTTS-v2"
+    },
+    {
+        "name": "MiniMaxAI/MiniMax-M2"
+    },
+    {
+        "name": "Qwen/Qwen3-4B-Instruct-2507"
+    },
+    {
+        "name": "stanfordmimi/synthpose-vitpose-base-hf"
+    },
+    {
+        "name": "deepseek-ai/DeepSeek-V3.1"
+    },
+    {
+        "name": "nomic-ai/nomic-embed-vision-v1.5"
+    },
+    {
+        "name": "ehcalabres/wav2vec2-lg-xlsr-en-speech-emotion-recognition"
+    },
+    {
+        "name": "stabilityai/stable-diffusion-3.5-large"
+    },
+    {
+        "name": "BAAI/bge-reranker-v2-m3"
+    },
+    {
+        "name": "j-hartmann/emotion-english-distilroberta-base"
+    },
+    {
+        "name": "zai-org/GLM-4.6-FP8"
+    },
+    {
+        "name": "MattyB95/AST-ASVspoof5-Synthetic-Voice-Detection"
+    },
+    {
+        "name": "CypressYang/SongBloom"
+    },
+    {
+        "name": "Qwen/Qwen3-VL-4B-Instruct"
+    },
+    {
+        "name": "spooknik/Fluxmania-SVDQ"
+    },
+    {
+        "name": "Qwen/Qwen3-VL-32B-Thinking"
+    },
+    {
+        "name": "black-forest-labs/FLUX.1-dev"
+    },
+    {
+        "name": "racineai/QwenAmann-4B-dse"
+    },
+    {
+        "name": "SamLowe/roberta-base-go_emotions"
+    },
+    {
+        "name": "nvidia/nemoretriever-page-elements-v3"
+    },
+    {
+        "name": "AITeamVN/Vietnamese_Embedding_v2"
+    },
+    {
+        "name": "facebook/MobileLLM-Pro"
+    },
+    {
+        "name": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF"
+    },
+    {
+        "name": "speechbrain/emotion-recognition-wav2vec2-IEMOCAP"
+    },
+    {
+        "name": "openai/gpt-oss-20b"
+    },
+    {
+        "name": "meta-llama/Llama-3.2-3B-Instruct"
+    },
+    {
+        "name": "lovis93/next-scene-qwen-image-lora-2509"
+    },
+    {
+        "name": "allenai/MolmoAct-7B-D-0812"
+    },
+    {
+        "name": "Alibaba-NLP/Tongyi-DeepResearch-30B-A3B"
+    },
+    {
+        "name": "Qwen/Qwen2.5-0.5B"
+    },
+    {
+        "name": "meta-llama/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "name": "microsoft/Phi-4-mini-instruct"
+    },
+    {
+        "name": "pfnet/plamo-2-translate"
+    },
+    {
+        "name": "nvidia/Nemotron-H-4B-Instruct-128K"
+    },
+    {
+        "name": "lightonai/LightOnOCR-1B-1025"
+    },
+    {
+        "name": "nateraw/videomae-base-finetuned-ucf101"
+    },
+    {
+        "name": "5CD-AI/Vintern-Embedding-1B"
+    },
+    {
+        "name": "ProsusAI/finbert"
+    },
+    {
+        "name": "google/gemma-3-1b-it"
+    },
+    {
+        "name": "DavidAU/L3.2-Rogue-Creative-Instruct-Uncensored-Abliterated-7B-GGUF"
+    },
+    {
+        "name": "ThisIs-Developer/Llama-2-GGML-Medical-Chatbot"
+    },
+    {
+        "name": "Qwen/Qwen3-8B"
+    },
+    {
+        "name": "google/deplot"
+    },
+    {
+        "name": "facebook/sam-vit-base"
+    },
+    {
+        "name": "HuggingFaceH4/zephyr-7b-beta"
+    },
+    {
+        "name": "INSAIT-Institute/spear1-franka"
+    },
+    {
+        "name": "Qwen/Qwen-Image"
+    },
+    {
+        "name": "apple/DepthPro"
+    },
+    {
+        "name": "Qwen/Qwen3-VL-32B-Instruct"
+    },
+    {
+        "name": "bartowski/cerebras_Qwen3-Coder-REAP-25B-A3B-GGUF"
+    },
+    {
+        "name": "stanfordmimi/synthpose-vitpose-huge-hf"
+    },
+    {
+        "name": "pyannote/speaker-diarization-community-1"
+    },
+    {
+        "name": "Skywork/Matrix-3D"
+    },
+    {
+        "name": "zeroentropy/zerank-1"
+    },
+    {
+        "name": "unsloth/gpt-oss-20b-GGUF"
+    },
+    {
+        "name": "nvidia/diar_sortformer_4spk-v1"
+    },
+    {
+        "name": "nunchaku-tech/nunchaku-qwen-image-edit-2509"
+    },
+    {
+        "name": "jingheya/lotus-depth-d-v1-1"
+    },
+    {
+        "name": "InternRobotics/InternVLA-M1"
+    },
+    {
+        "name": "internlm/internlm-xcomposer2d5-ol-7b"
+    },
+    {
+        "name": "lerobot/act_aloha_sim_transfer_cube_human"
+    },
+    {
+        "name": "stabilityai/stable-fast-3d"
+    },
+    {
+        "name": "magic-leap-community/superpoint"
+    },
+    {
+        "name": "pyannote/segmentation-3.0"
+    },
+    {
+        "name": "nari-labs/Dia-1.6B"
+    },
+    {
+        "name": "microsoft/resnet-50"
+    },
+    {
+        "name": "cl-nagoya/ruri-v3-310m"
+    },
+    {
+        "name": "cerebras/GLM-4.5-Air-REAP-82B-A12B"
+    },
+    {
+        "name": "llava-hf/LLaVA-NeXT-Video-7B-hf"
+    },
+    {
+        "name": "meta-llama/Meta-Llama-3-8B"
+    },
+    {
+        "name": "KangLiao/Puffin"
+    },
+    {
+        "name": "stabilityai/stable-diffusion-xl-base-1.0"
+    },
+    {
+        "name": "Qwen/Qwen3-Coder-30B-A3B-Instruct"
+    },
+    {
+        "name": "tencent/SongPrep-7B"
+    },
+    {
+        "name": "DAMO-NLP-SG/VideoLLaMA2-7B"
+    },
+    {
+        "name": "google/gemma-2b-it"
+    },
+    {
+        "name": "deepseek-ai/DeepSeek-V3.2-Exp"
+    },
+    {
+        "name": "hexgrad/Kokoro-82M"
+    },
+    {
+        "name": "Qwen/Qwen3-VL-235B-A22B-Instruct"
+    },
+    {
+        "name": "inclusionAI/LLaDA2.0-flash-preview"
+    },
+    {
+        "name": "ai-forever/FRIDA"
+    },
+    {
+        "name": "qualcomm/MediaPipe-Pose-Estimation"
+    },
+    {
+        "name": "funasr/fsmn-vad-onnx"
+    },
+    {
+        "name": "katanemo/Arch-Router-1.5B"
+    },
+    {
+        "name": "microsoft/Phi-4-multimodal-instruct"
+    },
+    {
+        "name": "black-forest-labs/FLUX.1-Krea-dev"
+    },
+    {
+        "name": "Qwen/Qwen3-VL-32B-Instruct-FP8"
+    },
+    {
+        "name": "google/gemma-3-270m"
+    },
+    {
+        "name": "nvidia/canary-qwen-2.5b"
+    },
+    {
+        "name": "microsoft/VibeVoice-1.5B"
+    },
+    {
+        "name": "depth-anything/prompt-depth-anything-vitl-hf"
+    },
+    {
+        "name": "gradient-spaces/Rectified-Point-Flow"
+    },
+    {
+        "name": "meta-llama/Llama-3.3-70B-Instruct"
+    },
+    {
+        "name": "ibm-granite/granite-docling-258M"
+    },
+    {
+        "name": "FabioSarracino/VibeVoice-Large-Q8"
+    },
+    {
+        "name": "Neural-Hacker/NEET_BioBERT"
+    },
+    {
+        "name": "sentence-transformers/all-MiniLM-L6-v2"
+    },
+    {
+        "name": "amd/Nitro-E"
+    },
+    {
+        "name": "LeeHarrold/detect_overlap_model"
+    },
+    {
+        "name": "openai/gpt-oss-120b"
+    },
+    {
+        "name": "stable-diffusion-v1-5/stable-diffusion-v1-5"
+    },
+    {
+        "name": "manycore-research/SpatialGen-1.0"
+    },
+    {
+        "name": "fdtn-ai/Foundation-Sec-8B"
+    },
+    {
+        "name": "google/pix2struct-widget-captioning-large"
+    },
+    {
+        "name": "HuggingFaceTB/SmolLM3-3B"
+    },
+    {
+        "name": "unsloth/GLM-4.6-GGUF"
+    },
+    {
+        "name": "microsoft/UserLM-8b"
+    },
+    {
+        "name": "bartowski/cerebras_GLM-4.5-Air-REAP-82B-A12B-GGUF"
+    },
+    {
+        "name": "Qwen/Qwen-Image-Edit-2509"
+    },
+    {
+        "name": "TIGER-Lab/VISTA-Mantis"
+    },
+    {
+        "name": "Salesforce/blip-vqa-base"
+    },
+    {
+        "name": "tencent/HunyuanWorld-1"
+    },
+    {
+        "name": "nvidia/omnivinci"
+    },
+    {
+        "name": "tencent/Hunyuan3D-1"
+    },
+    {
+        "name": "tencent/Hunyuan3D-2"
+    },
+    {
+        "name": "Phr00t/Qwen-Image-Edit-Rapid-AIO"
+    },
+    {
+        "name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+    },
+    {
+        "name": "LiquidAI/LFM2-ColBERT-350M"
+    },
+    {
+        "name": "AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUF"
+    },
+    {
+        "name": "cerebras/Qwen3-Coder-REAP-25B-A3B"
+    },
+    {
+        "name": "Qwen/Qwen3-VL-8B-Thinking"
+    },
+    {
+        "name": "zai-org/GLM-4.6"
+    },
+    {
+        "name": "google/vivit-b-16x2-kinetics400"
+    },
+    {
+        "name": "facebook/dinov2-base"
+    },
+    {
+        "name": "nvidia/diar_streaming_sortformer_4spk-v2"
+    },
+    {
+        "name": "briaai/RMBG-1.4"
+    },
+    {
+        "name": "valiantcat/Qwen-Image-Edit-MeiTu"
+    },
+    {
+        "name": "google/matcha-chart2text-pew"
+    },
+    {
+        "name": "Qwen/Qwen3-4B-Thinking-2507"
+    },
+    {
+        "name": "rednote-hilab/dots.ocr"
+    },
+    {
+        "name": "Falconsai/nsfw_image_detection"
+    },
+    {
+        "name": "facebook/mbart-large-50-many-to-many-mmt"
+    },
+    {
+        "name": "eloialonso/diamond"
+    },
+    {
+        "name": "depth-anything/Depth-Anything-V2-Metric-Indoor-Small-hf"
+    },
+    {
+        "name": "meituan-longcat/LongCat-Video"
+    },
+    {
+        "name": "BAAI/bge-m3"
+    },
+    {
+        "name": "google/gemma-3n-E4B-it-litert-lm"
+    },
+    {
+        "name": "openai/whisper-large-v3"
+    },
+    {
+        "name": "zai-org/GLM-4.5-Air"
+    },
+    {
+        "name": "meta-llama/Llama-3.2-1B"
+    },
+    {
+        "name": "Qwen/Qwen3-30B-A3B-Thinking-2507"
+    },
+    {
+        "name": "inclusionAI/Ring-flash-linear-2.0-128k"
+    },
+    {
+        "name": "AvitoTech/avibe"
+    },
+    {
+        "name": "jingheya/lotus-depth-g-v2-1-disparity"
+    },
+    {
+        "name": "zai-org/GLM-4.5"
+    },
+    {
+        "name": "apple/coreml-sam2.1-tiny"
+    },
+    {
+        "name": "pyannote/segmentation"
+    },
+    {
+        "name": "nvidia/llama-embed-nemotron-8b"
+    },
+    {
+        "name": "usyd-community/vitpose-plus-base"
+    },
+    {
+        "name": "openai/clip-vit-base-patch32"
+    },
+    {
+        "name": "spooknik/Jib-Mix-Flux-SVDQ"
+    },
+    {
+        "name": "Phil2Sat/Qwen-Image-Edit-Rapid-AIO-GGUF"
+    },
+    {
+        "name": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"
+    },
+    {
+        "name": "lxyuan/distilbert-base-multilingual-cased-sentiments-student"
+    },
+    {
+        "name": "HFatemeH/vilt_finetuned_200"
+    },
+    {
+        "name": "lerobot/smolvla_base"
+    },
+    {
+        "name": "nvidia/omni-embed-nemotron-3b"
+    },
+    {
+        "name": "Falconsai/medical_summarization"
+    },
+    {
+        "name": "MaxedOut/ComfyUI-Starter-Packs"
+    },
+    {
+        "name": "facebook/sapiens-pose-1b"
+    },
+    {
+        "name": "tencent/HunyuanImage-3.0"
+    },
+    {
+        "name": "noctrex/GLM-4.5-Air-REAP-82B-A12B-MXFP4_MOE-GGUF"
+    },
+    {
+        "name": "facebook/sam-vit-large"
+    },
+    {
+        "name": "DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf"
+    },
+    {
+        "name": "inclusionAI/Ling-1T"
+    },
+    {
+        "name": "Xenova/ast-finetuned-speech-commands-v2"
+    },
+    {
+        "name": "dslim/bert-base-NER"
+    },
+    {
+        "name": "MackinationsAi/Depth-Anything-V2_Safetensors"
+    },
+    {
+        "name": "openbmb/MiniCPM-V"
+    },
+    {
+        "name": "lightx2v/Qwen-Image-Lightning"
+    },
+    {
+        "name": "allenai/olmOCR-2-7B-1025-FP8"
+    },
+    {
+        "name": "meta-llama/Llama-3.1-8B-Instruct"
+    },
+    {
+        "name": "Xenova/sam-vit-base"
+    },
+    {
+        "name": "BUT-FIT/diarizen-wavlm-large-s80-md"
+    },
+    {
+        "name": "distilbert/distilbert-base-uncased-finetuned-sst-2-english"
+    },
+    {
+        "name": "OpenIXCLab/SeC-4B"
+    },
+    {
+        "name": "arcee-ai/AFM-4.5B-Base"
+    },
+    {
+        "name": "lmms-lab/LLaVA-Video-7B-Qwen2"
+    },
+    {
+        "name": "teemosliang/SDPose-Wholebody"
+    },
+    {
+        "name": "neuphonic/neutts-air"
+    },
+    {
+        "name": "google/timesfm-2.5-200m-pytorch"
+    },
+    {
+        "name": "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+    },
+    {
+        "name": "FractalAIResearch/Fathom-Search-4B"
+    },
+    {
+        "name": "tencent/SongGeneration"
+    },
+    {
+        "name": "google-t5/t5-small"
+    },
+    {
+        "name": "depth-anything/Depth-Anything-V2-Large-hf"
+    },
+    {
+        "name": "nexar-ai/BADAS-Open"
+    },
+    {
+        "name": "cerebras/Qwen3-Coder-REAP-246B-A35B-FP8"
+    },
+    {
+        "name": "internlm/Spark-VL-7B"
+    },
+    {
+        "name": "JaesungHuh/voice-gender-classifier"
+    },
+    {
+        "name": "merve/smol-vision"
+    },
+    {
+        "name": "tabularisai/multilingual-sentiment-analysis"
+    },
+    {
+        "name": "Qwen/Qwen3-Embedding-0.6B"
+    },
+    {
+        "name": "vidore/colpali"
+    },
+    {
+        "name": "deepseek-ai/DeepSeek-R1"
+    },
+    {
+        "name": "inference-net/Schematron-3B"
+    },
+    {
+        "name": "RUC-DataLab/DeepAnalyze-8B"
+    },
+    {
+        "name": "PKU-Alignment/beaver-7b-v1.0"
+    },
+    {
+        "name": "cis-lmu/glotlid"
+    },
+    {
+        "name": "MCG-NJU/videomae-large"
+    },
+    {
+        "name": "datalab-to/chandra"
+    },
+    {
+        "name": "litert-community/Gemma3-1B-IT"
+    },
+    {
+        "name": "distilbert/distilbert-base-cased-distilled-squad"
+    },
+    {
+        "name": "google/vit-base-patch16-224"
+    },
+    {
+        "name": "lefromage/Qwen3-Next-80B-A3B-Instruct-GGUF"
+    },
+    {
+        "name": "Qwen/Qwen3-VL-2B-Thinking"
+    },
+    {
+        "name": "PokeeAI/pokee_research_7b"
+    },
+    {
+        "name": "Qwen/Qwen3-0.6B"
+    },
+    {
+        "name": "Qwen/Qwen3-VL-30B-A3B-Instruct"
+    },
+    {
+        "name": "nvidia/nemoretriever-table-structure-v1"
+    },
+    {
+        "name": "google-bert/bert-large-uncased-whole-word-masking-finetuned-squad"
+    },
+    {
+        "name": "deepseek-ai/DeepSeek-OCR"
+    }
+]

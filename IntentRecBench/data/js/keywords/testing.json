@@ -1,0 +1,4002 @@
+[
+    {
+        "name": "@jest/core",
+        "description": "Delightful JavaScript Testing."
+    },
+    {
+        "name": "jest-cli",
+        "description": "Delightful JavaScript Testing."
+    },
+    {
+        "name": "@testing-library/dom",
+        "description": "Simple and complete DOM testing utilities that encourage good testing practices."
+    },
+    {
+        "name": "deep-eql",
+        "description": "Improved deep equality testing for Node.js and the browser."
+    },
+    {
+        "name": "axe-core",
+        "description": "Accessibility engine for automated Web UI testing"
+    },
+    {
+        "name": "@testing-library/jest-dom",
+        "description": "Custom jest matchers to test the state of the DOM"
+    },
+    {
+        "name": "ts-jest",
+        "description": "A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript"
+    },
+    {
+        "name": "memfs",
+        "description": "In-memory file-system with Node's fs API."
+    },
+    {
+        "name": "@testing-library/user-event",
+        "description": "Fire events the same way the user does"
+    },
+    {
+        "name": "chai",
+        "description": "BDD/TDD assertion library for node.js and the browser. Test framework agnostic."
+    },
+    {
+        "name": "jest",
+        "description": "Delightful JavaScript Testing."
+    },
+    {
+        "name": "@testing-library/react",
+        "description": "Simple and complete React DOM testing utilities that encourage good testing practices."
+    },
+    {
+        "name": "mocha",
+        "description": "simple, flexible, fun test framework"
+    },
+    {
+        "name": "sinon",
+        "description": "JavaScript test spies, stubs and mocks."
+    },
+    {
+        "name": "supertest",
+        "description": "SuperAgent driven library for testing HTTP servers"
+    },
+    {
+        "name": "expect-type",
+        "description": "[![CI](https://github.com/mmkal/expect-type/actions/workflows/ci.yml/badge.svg)](https://github.com/mmkal/expect-type/actions/workflows/ci.yml) ![npm](https://img.shields.io/npm/dt/expect-type) [![X (formerly Twitter) Follow](https://img.shields.io/twitte"
+    },
+    {
+        "name": "eslint-plugin-testing-library",
+        "description": "ESLint plugin to follow best practices and anticipate common mistakes when writing tests with Testing Library"
+    },
+    {
+        "name": "nyc",
+        "description": "the Istanbul command line interface"
+    },
+    {
+        "name": "@mswjs/interceptors",
+        "description": "Low-level HTTP/HTTPS/XHR/fetch request interception library."
+    },
+    {
+        "name": "msw",
+        "description": "Seamless REST/GraphQL API mocking library for browser and Node.js."
+    },
+    {
+        "name": "fast-check",
+        "description": "Property based testing framework for JavaScript (like QuickCheck)"
+    },
+    {
+        "name": "nise",
+        "description": "Fake XHR and server"
+    },
+    {
+        "name": "cypress",
+        "description": "Cypress is a next generation front end testing tool built for the modern web"
+    },
+    {
+        "name": "karma",
+        "description": "Spectacular Test Runner for JavaScript."
+    },
+    {
+        "name": "jasmine-core",
+        "description": "Simple JavaScript testing framework for browsers and node.js"
+    },
+    {
+        "name": "@testing-library/react-hooks",
+        "description": "Simple and complete React hooks testing utilities that encourage good testing practices."
+    },
+    {
+        "name": "@cucumber/cucumber",
+        "description": "The official JavaScript implementation of Cucumber."
+    },
+    {
+        "name": "jasmine",
+        "description": "CLI for Jasmine, a simple JavaScript testing framework for browsers and Node"
+    },
+    {
+        "name": "enzyme-shallow-equal",
+        "description": "Adaptation of react-addons-shallow-compare, for independent usage"
+    },
+    {
+        "name": "chai-as-promised",
+        "description": "Extends Chai with assertions about promises."
+    },
+    {
+        "name": "allure-js-commons",
+        "description": "Allure JS Commons"
+    },
+    {
+        "name": "testcontainers",
+        "description": "Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container"
+    },
+    {
+        "name": "aws-sdk-client-mock",
+        "description": "Easy and powerful mocking of AWS SDK v3 Clients"
+    },
+    {
+        "name": "node-mocks-http",
+        "description": "Mock 'http' objects for testing Express, Next.js and Koa routing functions"
+    },
+    {
+        "name": "@testing-library/cypress",
+        "description": "Simple and complete custom Cypress commands and utilities that encourage good testing practices."
+    },
+    {
+        "name": "enzyme",
+        "description": "JavaScript Testing utilities for React"
+    },
+    {
+        "name": "jest-extended",
+        "description": "Additional Jest matchers"
+    },
+    {
+        "name": "jest-preset-angular",
+        "description": "Jest preset configuration for Angular projects"
+    },
+    {
+        "name": "query-selector-shadow-dom",
+        "description": "use querySelector syntax to search for nodes inside of (nested) shadow roots"
+    },
+    {
+        "name": "sinon-chai",
+        "description": "Extends Chai with assertions for the Sinon.JS mocking framework."
+    },
+    {
+        "name": "enzyme-adapter-utils",
+        "description": "JavaScript Testing utilities for React"
+    },
+    {
+        "name": "fetch-mock",
+        "description": "Mock http requests made using fetch"
+    },
+    {
+        "name": "enzyme-adapter-react-16",
+        "description": "JavaScript Testing utilities for React"
+    },
+    {
+        "name": "@appium/types",
+        "description": "Various type declarations used across Appium"
+    },
+    {
+        "name": "selenium-webdriver",
+        "description": "The official WebDriver JavaScript bindings from the Selenium project"
+    },
+    {
+        "name": "@axe-core/playwright",
+        "description": "Provides a method to inject and analyze web pages using axe"
+    },
+    {
+        "name": "browserstack",
+        "description": "A client for working with the BrowserStack APIs."
+    },
+    {
+        "name": "@storybook/addon-vitest",
+        "description": "Storybook Vitest addon: Blazing fast component testing using stories"
+    },
+    {
+        "name": "webdriver-manager",
+        "description": "A selenium server and browser driver manager for your end to end tests."
+    },
+    {
+        "name": "@walletconnect/heartbeat",
+        "description": "HeartBeat"
+    },
+    {
+        "name": "@appium/schema",
+        "description": "Appium Configuration Schema"
+    },
+    {
+        "name": "jasminewd2",
+        "description": "WebDriverJS adapter for Jasmine2."
+    },
+    {
+        "name": "tap",
+        "description": "A Test-Anything-Protocol library for JavaScript"
+    },
+    {
+        "name": "wait-for-expect",
+        "description": "Wait for expectation to be true, useful for integration and end to end testing"
+    },
+    {
+        "name": "next-router-mock",
+        "description": "Mock implementation of the Next.js Router"
+    },
+    {
+        "name": "allure-playwright",
+        "description": "Allure Playwright integration"
+    },
+    {
+        "name": "blocking-proxy",
+        "description": "WebDriver Proxy for testing rich clients. It block certain calls until Angular is done updating the page under test."
+    },
+    {
+        "name": "browserstack-local",
+        "description": "Nodejs bindings for BrowserStack Local"
+    },
+    {
+        "name": "@walletconnect/time",
+        "description": "time utils"
+    },
+    {
+        "name": "enzyme-to-json",
+        "description": "convert enzyme wrapper to a format compatible with Jest snapshot"
+    },
+    {
+        "name": "@testcontainers/postgresql",
+        "description": "PostgreSQL module for Testcontainers"
+    },
+    {
+        "name": "karma-firefox-launcher",
+        "description": "A Karma plugin. Launcher for Firefox."
+    },
+    {
+        "name": "@applitools/utils",
+        "description": ""
+    },
+    {
+        "name": "@pinia/testing",
+        "description": "Testing module for Pinia"
+    },
+    {
+        "name": "@appium/logger",
+        "description": "A Universal Logger For The Appium Ecosystem"
+    },
+    {
+        "name": "@appium/tsconfig",
+        "description": "Shared TypeScript Config for Appium"
+    },
+    {
+        "name": "ava",
+        "description": "Node.js test runner that lets you develop with confidence."
+    },
+    {
+        "name": "chai-string",
+        "description": "strings comparison matchers for chai"
+    },
+    {
+        "name": "@appium/docutils",
+        "description": "Documentation generation utilities for Appium and related projects"
+    },
+    {
+        "name": "webdriver-js-extender",
+        "description": "A plugin which adds additional commands to selenium's javascript implementation of the webdriver client side API"
+    },
+    {
+        "name": "fishery",
+        "description": "A library for setting up JavaScript factories to help build objects as test data, with full TypeScript support"
+    },
+    {
+        "name": "@wojtekmaj/enzyme-adapter-react-17",
+        "description": "JavaScript Testing utilities for React"
+    },
+    {
+        "name": "@appium/support",
+        "description": "Support libs used across Appium packages"
+    },
+    {
+        "name": "@applitools/driver",
+        "description": "Applitools universal framework wrapper"
+    },
+    {
+        "name": "@golevelup/ts-jest",
+        "description": "Reusable utilities to help level up NestJS Testing"
+    },
+    {
+        "name": "empower-core",
+        "description": "Power Assert feature enhancer for assert function/object"
+    },
+    {
+        "name": "ng-mocks",
+        "description": "An Angular testing library for creating mock services, components, directives, pipes and modules in unit tests. It provides shallow rendering, precise stubs to fake child dependencies. ng-mocks works with Angular 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20"
+    },
+    {
+        "name": "appium",
+        "description": "Automation for Apps."
+    },
+    {
+        "name": "@appium/base-driver",
+        "description": "Base driver class for Appium drivers"
+    },
+    {
+        "name": "@applitools/screenshoter",
+        "description": "Applitools universal screenshoter for web and native applications"
+    },
+    {
+        "name": "newman",
+        "description": "Command-line companion utility for Postman"
+    },
+    {
+        "name": "mock-property",
+        "description": "Given an object and a property, replaces a property descriptor (or deletes it), and returns a thunk to restore it."
+    },
+    {
+        "name": "@appium/base-plugin",
+        "description": "The base plugin used to create Appium plugins"
+    },
+    {
+        "name": "@applitools/eyes",
+        "description": ""
+    },
+    {
+        "name": "aws-sdk-client-mock-jest",
+        "description": "Custom Jest matchers for AWS SDK v3 Client mock"
+    },
+    {
+        "name": "@testcontainers/redis",
+        "description": "Redis module for Testcontainers"
+    },
+    {
+        "name": "@storybook/addon-coverage",
+        "description": "Tools to support code coverage in Storybook"
+    },
+    {
+        "name": "@applitools/spec-driver-webdriver",
+        "description": ""
+    },
+    {
+        "name": "flush-promises",
+        "description": "Flush promises in tests"
+    },
+    {
+        "name": "mockttp",
+        "description": "Mock HTTP server for testing HTTP clients and stubbing webservices"
+    },
+    {
+        "name": "arrgv",
+        "description": "Parsing string to array of args like node on bash do."
+    },
+    {
+        "name": "appium-android-driver",
+        "description": "Android UiAutomator and Chrome support for Appium"
+    },
+    {
+        "name": "redux-saga-test-plan",
+        "description": "Test Redux Saga with an easy plan"
+    },
+    {
+        "name": "mailosaur",
+        "description": "The Mailosaur Node library lets you integrate email and SMS testing into your continuous integration process."
+    },
+    {
+        "name": "miragejs",
+        "description": "A client-side server to help you build, test and demo your JavaScript app"
+    },
+    {
+        "name": "jest-fixed-jsdom",
+        "description": "A superset of the JSDOM environment for Jest that respects Node.js globals."
+    },
+    {
+        "name": "@pact-foundation/pact",
+        "description": "Pact for all things Javascript"
+    },
+    {
+        "name": "@applitools/functional-commons",
+        "description": "<!-- markdownlint-disable MD024 -->"
+    },
+    {
+        "name": "power-assert",
+        "description": "Power Assert in JavaScript"
+    },
+    {
+        "name": "karma-cli",
+        "description": "The Karma command line interface."
+    },
+    {
+        "name": "react-select-event",
+        "description": "Simulate react-select events for react-testing-library"
+    },
+    {
+        "name": "@temporalio/testing",
+        "description": "Temporal.io SDK Testing sub-package"
+    },
+    {
+        "name": "jasmine-marbles",
+        "description": "Marble testing helpers for RxJS and Jasmine"
+    },
+    {
+        "name": "@wojtekmaj/enzyme-adapter-utils",
+        "description": "JavaScript Testing utilities for React"
+    },
+    {
+        "name": "testem",
+        "description": "Test'em 'scripts! Javascript Unit testing made easy."
+    },
+    {
+        "name": "@jest-mock/express",
+        "description": "A lightweight Jest mock for unit testing Express"
+    },
+    {
+        "name": "jsdom-testing-mocks",
+        "description": "A set of tools for emulating browser behavior in jsdom environment"
+    },
+    {
+        "name": "babel-plugin-espower",
+        "description": "Babel plugin for power-assert"
+    },
+    {
+        "name": "@cfaester/enzyme-adapter-react-18",
+        "description": "An unofficial React 18 adapter for Enzyme, that you probably shouldn't use."
+    },
+    {
+        "name": "casual",
+        "description": "Fake data generator"
+    },
+    {
+        "name": "angular-mocks",
+        "description": "AngularJS mocks for testing"
+    },
+    {
+        "name": "universal-deep-strict-equal",
+        "description": "A port of Node v6's internal _deepEqual function in a universal style"
+    },
+    {
+        "name": "qunit",
+        "description": "The powerful, easy-to-use testing framework."
+    },
+    {
+        "name": "@appium/strongbox",
+        "description": "Persistent storage for Appium extensions"
+    },
+    {
+        "name": "vitest-browser-react",
+        "description": "Render React components in Vitest Browser Mode"
+    },
+    {
+        "name": "@stryker-mutator/api",
+        "description": "The api for the extendable JavaScript mutation testing framework Stryker"
+    },
+    {
+        "name": "chai-json-schema",
+        "description": "Chai plugin for JSON Schema v4"
+    },
+    {
+        "name": "@stryker-mutator/core",
+        "description": "The extendable JavaScript mutation testing framework"
+    },
+    {
+        "name": "@applitools/spec-driver-puppeteer",
+        "description": ""
+    },
+    {
+        "name": "process-exists",
+        "description": "Check if a process is running"
+    },
+    {
+        "name": "@testing-library/svelte",
+        "description": "Simple and complete Svelte testing utilities that encourage good testing practices."
+    },
+    {
+        "name": "jest-preview",
+        "description": "Preview your Jest tests in a browser"
+    },
+    {
+        "name": "wd",
+        "description": "WebDriver/Selenium 2 node.js client"
+    },
+    {
+        "name": "cypress-fail-fast",
+        "description": "Skip the rest of Cypress tests on first failure"
+    },
+    {
+        "name": "mockery",
+        "description": "Simplifying the use of mocks with Node.js"
+    },
+    {
+        "name": "nightwatch",
+        "description": "Easy to use Node.js based end-to-end testing solution for web applications using the W3C WebDriver API."
+    },
+    {
+        "name": "cypress-cucumber-preprocessor",
+        "description": "Run gherkin-syntaxed specs with cypress.io"
+    },
+    {
+        "name": "chai-jest-snapshot",
+        "description": "Chai assertion that provides Jest's snapshot testing"
+    },
+    {
+        "name": "@cypress/react",
+        "description": "Test React components using Cypress"
+    },
+    {
+        "name": "jest-enzyme",
+        "description": "Testing Matchers for Enzyme"
+    },
+    {
+        "name": "codeceptjs",
+        "description": "Supercharged End 2 End Testing Framework for NodeJS"
+    },
+    {
+        "name": "power-assert-formatter",
+        "description": "Power Assert output formatter"
+    },
+    {
+        "name": "cypress-circleci-reporter",
+        "description": "Cypress test reporter for CircleCI"
+    },
+    {
+        "name": "empower",
+        "description": "Power Assert feature enhancer for assert function/object"
+    },
+    {
+        "name": "deep-equal-ident",
+        "description": "A function to test for identical deep equality (based on lodash's isEqual)."
+    },
+    {
+        "name": "espower-source",
+        "description": "Power Assert instrumentor from source to source, with source-map"
+    },
+    {
+        "name": "espower",
+        "description": "Power Assert feature instrumentor based on the ECMAScript AST"
+    },
+    {
+        "name": "cypress-localstorage-commands",
+        "description": "Extends Cypress' cy commands with localStorage methods. Allows preserving localStorage between tests"
+    },
+    {
+        "name": "@nomicfoundation/hardhat-network-helpers",
+        "description": "Hardhat utils for testing"
+    },
+    {
+        "name": "@testcontainers/localstack",
+        "description": "LocalStack module for Testcontainers"
+    },
+    {
+        "name": "playwright-bdd",
+        "description": "BDD Testing with Playwright runner"
+    },
+    {
+        "name": "espower-loader",
+        "description": "Power Assert feature instrumentor on the fly"
+    },
+    {
+        "name": "testcafe",
+        "description": "Automated browser testing for the modern web development stack."
+    },
+    {
+        "name": "empower-assert",
+        "description": "Convert assert to power-assert on ESTree AST"
+    },
+    {
+        "name": "filter-console",
+        "description": "Filter out unwanted `console.log()` output"
+    },
+    {
+        "name": "@apollo/react-testing",
+        "description": "React Apollo testing utilities."
+    },
+    {
+        "name": "@testcontainers/nats",
+        "description": "NATS module for Testcontainers"
+    },
+    {
+        "name": "pactum",
+        "description": "REST API Testing Tool for all levels in a Test Pyramid"
+    },
+    {
+        "name": "chai-deep-match",
+        "description": "Extends Chai with an assertion for deeply matching objects (i.e. subset equality checking)"
+    },
+    {
+        "name": "@nomicfoundation/hardhat-chai-matchers",
+        "description": "Hardhat utils for testing"
+    },
+    {
+        "name": "@storybook/experimental-addon-test",
+        "description": "Integrate Vitest with Storybook"
+    },
+    {
+        "name": "jest-environment-enzyme",
+        "description": "Runtime Environment for enzyme tests in jest"
+    },
+    {
+        "name": "libtap",
+        "description": "A Test-Anything-Protocol library for JavaScript"
+    },
+    {
+        "name": "@wix-pilot/core",
+        "description": "A flexible plugin that drives your tests with human-written commands, enhanced by the power of large language models (LLMs)"
+    },
+    {
+        "name": "lodash-match-pattern",
+        "description": "Validates a deep structured JSON pattern"
+    },
+    {
+        "name": "chai-datetime",
+        "description": "date / time comparison matchers for chai"
+    },
+    {
+        "name": "cypress-mailosaur",
+        "description": "Extends Cypress' cy commands that let you integrate email and SMS testing into your continuous integration process."
+    },
+    {
+        "name": "is-error-instance",
+        "description": "Check if a value is an `Error` instance"
+    },
+    {
+        "name": "log-process-errors",
+        "description": "Show some ❤️ to process errors"
+    },
+    {
+        "name": "cypress-image-diff-js",
+        "description": "Visual regression testing tool with cypress"
+    },
+    {
+        "name": "db-migrate-shared",
+        "description": "Shared resources of db-migrate for drivers and also used internally."
+    },
+    {
+        "name": "@fast-check/jest",
+        "description": "Property based testing for Jest based on fast-check"
+    },
+    {
+        "name": "@elastic/synthetics",
+        "description": "Elastic synthetic monitoring agent"
+    },
+    {
+        "name": "@applitools/spec-driver-playwright",
+        "description": ""
+    },
+    {
+        "name": "chai-arrays",
+        "description": "a simple chai plugin for better array assertions"
+    },
+    {
+        "name": "@angular-builders/jest",
+        "description": "Jest runner for Angular build facade. Allows ng test run with Jest instead of Karma"
+    },
+    {
+        "name": "vitest-fail-on-console",
+        "description": "Utility to make vitest tests fail when console.error() or console.warn() are used"
+    },
+    {
+        "name": "@cypress/schematic",
+        "description": "Official Cypress schematic for the Angular CLI"
+    },
+    {
+        "name": "@applitools/eyes-playwright",
+        "description": "Applitools Eyes SDK for Playwright"
+    },
+    {
+        "name": "@applitools/eyes-storybook",
+        "description": ""
+    },
+    {
+        "name": "stdout-stderr",
+        "description": "mock stdout and stderr"
+    },
+    {
+        "name": "@textlint/ast-tester",
+        "description": "Compliance tests for textlint's AST(Abstract Syntax Tree)."
+    },
+    {
+        "name": "@clerk/testing",
+        "description": "Utilities to help you create E2E test suites for apps using Clerk"
+    },
+    {
+        "name": "@lambdatest/node-tunnel",
+        "description": "Nodejs bindings for LambdaTest Tunnel"
+    },
+    {
+        "name": "sauce-connect-launcher",
+        "description": "A library to download and launch Sauce Connect."
+    },
+    {
+        "name": "storycap",
+        "description": "A Storybook addon, Save the screenshot image of your stories! via puppeteer."
+    },
+    {
+        "name": "@knapsack-pro/core",
+        "description": "Knapsack Pro Core library splits tests across CI nodes and makes sure that tests will run in optimal time on each CI node. This library gives core features like communication with KnapsackPro.com API. This library is a dependency for other projects specif"
+    },
+    {
+        "name": "mock-jwks",
+        "description": "A tool to mock a JWKS for development of microservices who consume jwts signed with RSA"
+    },
+    {
+        "name": "@open-wc/semantic-dom-diff",
+        "description": "To compare dom and shadow dom trees. Part of open-wc recommendations"
+    },
+    {
+        "name": "chai-dom",
+        "description": "DOM assertions for the Chai assertion library using vanilla JavaScript"
+    },
+    {
+        "name": "@testcontainers/mysql",
+        "description": "MySQL module for Testcontainers"
+    },
+    {
+        "name": "@testing-library/preact",
+        "description": "Simple and complete Preact DOM testing utilities that encourage good testing practices."
+    },
+    {
+        "name": "qunit-dom",
+        "description": "High Level DOM Assertions for QUnit"
+    },
+    {
+        "name": "@usebruno/cli",
+        "description": "With Bruno CLI, you can now run your API collections with ease using simple command line commands."
+    },
+    {
+        "name": "@nightwatch/chai",
+        "description": "A forked of Chai 5 which adds Promise support in order to work with Nightwatch commands."
+    },
+    {
+        "name": "@wdio/xvfb",
+        "description": "A standalone utility to manage Xvfb (X Virtual Framebuffer) for headless testing"
+    },
+    {
+        "name": "jest-marbles",
+        "description": "Marble testing helpers library for RxJs and Jest"
+    },
+    {
+        "name": "chai-spies",
+        "description": "Spies for the Chai assertion library."
+    },
+    {
+        "name": "@open-wc/testing",
+        "description": "Testing following open-wc recommendations"
+    },
+    {
+        "name": "handler-agent",
+        "description": "Zero-dependency (req,res) handler callback agent for use in client requests"
+    },
+    {
+        "name": "ignore-styles",
+        "description": "Ignore imported style files when running in Node"
+    },
+    {
+        "name": "moxios",
+        "description": "Mock axios requests for testing"
+    },
+    {
+        "name": "chai-enzyme",
+        "description": "Chai.js assertions for enzyme"
+    },
+    {
+        "name": "wdio-wait-for",
+        "description": "a library of conditions that are useful for end-to-end tests"
+    },
+    {
+        "name": "@open-wc/testing-helpers",
+        "description": "Testing Helpers following open-wc recommendations"
+    },
+    {
+        "name": "@jackfranklin/test-data-bot",
+        "description": "Generate test data for your tests easily."
+    },
+    {
+        "name": "chai-a11y-axe",
+        "description": "A11y tests for chai"
+    },
+    {
+        "name": "dirty-chai",
+        "description": "Extends Chai with lint-friendly terminating assertions."
+    },
+    {
+        "name": "chai-shallow-deep-equal",
+        "description": "Shallow deep equal assertion for chai"
+    },
+    {
+        "name": "dom-element-descriptors",
+        "description": "An implementation of https://github.com/emberjs/rfcs/pull/726"
+    },
+    {
+        "name": "@applitools/eyes-puppeteer",
+        "description": "Applitools Eyes SDK for Puppeteer"
+    },
+    {
+        "name": "calibre",
+        "description": "Calibre - Page speed performance testing with Google Lighthouse"
+    },
+    {
+        "name": "@fluffy-spoon/substitute",
+        "description": "An NSubstitute port to TypeScript called substitute.js."
+    },
+    {
+        "name": "@applitools/monitoring-commons",
+        "description": ""
+    },
+    {
+        "name": "@argos-ci/core",
+        "description": "Node.js SDK for visual testing with Argos."
+    },
+    {
+        "name": "hardhat-deploy",
+        "description": "Hardhat Plugin For Replicable Deployments And Tests"
+    },
+    {
+        "name": "cypress-tags",
+        "description": "Use custom tags to slice up Cypress test runs."
+    },
+    {
+        "name": "maildev",
+        "description": "SMTP Server and Web Interface for reading and testing emails during development"
+    },
+    {
+        "name": "mock-apollo-client",
+        "description": "Library to help unit testing when using apollo-client"
+    },
+    {
+        "name": "shadow-dom-testing-library",
+        "description": "An extension of DOM-testing-library to provide hooks into the shadow dom"
+    },
+    {
+        "name": "vitest-when",
+        "description": "Stub behaviors of Vitest mock functions with a small, readable API."
+    },
+    {
+        "name": "@testcontainers/kafka",
+        "description": "Kafka module for Testcontainers"
+    },
+    {
+        "name": "deeper",
+        "description": "JavaScript \"deep equality\" / structural equality tester with Node.js flavor."
+    },
+    {
+        "name": "@ethereum-waffle/mock-contract",
+        "description": "Mock smart contracts in a smart way."
+    },
+    {
+        "name": "@webext-core/fake-browser",
+        "description": "An in-memory implementation of webextension-polyfill for testing. Supports all test frameworks (Vitest, Jest, etc)"
+    },
+    {
+        "name": "loki",
+        "description": "Visual Regression Testing for Storybook"
+    },
+    {
+        "name": "reg-suit",
+        "description": "![reg-suit](./images/reg-suit.jpg)"
+    },
+    {
+        "name": "@scalar/api-client",
+        "description": "the open source API testing client"
+    },
+    {
+        "name": "@salesforce/wire-service-jest-util",
+        "description": "Utility library emit test data through @wire adapters in Lightning web component tests"
+    },
+    {
+        "name": "wdio-intercept-service",
+        "description": "Capture and assert HTTP ajax calls in webdriver.io 🕸"
+    },
+    {
+        "name": "ethereum-waffle",
+        "description": "Sweeter, faster and simpler than truffle."
+    },
+    {
+        "name": "electron-mocha",
+        "description": "Mocha tests in Electron."
+    },
+    {
+        "name": "@ethereum-waffle/ens",
+        "description": "A mock ens implementation for testing."
+    },
+    {
+        "name": "allure-vitest",
+        "description": "Allure Vitest integration"
+    },
+    {
+        "name": "@neuralegion/cypress-har-generator",
+        "description": "The Cypress plugin for generating HTTP Archive (HAR) files is a tool that allows developers and QA engineers to capture detailed information about network requests made during the execution of Cypress tests."
+    },
+    {
+        "name": "vitest-preview",
+        "description": "Visual Debugging Experience for Vitest 🧪🖼⚡️"
+    },
+    {
+        "name": "rxjs-marbles",
+        "description": "An RxJS marble testing library for any test framework"
+    },
+    {
+        "name": "@ethereum-waffle/chai",
+        "description": "A sweet set of chai matchers for your blockchain testing needs."
+    },
+    {
+        "name": "nest-commander-testing",
+        "description": "A testing utility for nest-commander. It builds on top of ideas from @nestjs/testing and is not tied to any test framework directly."
+    },
+    {
+        "name": "@fetch-mock/vitest",
+        "description": "Vitest wrapper for fetch-mock"
+    },
+    {
+        "name": "cypress-fail-on-console-error",
+        "description": "fail cypress test on console error"
+    },
+    {
+        "name": "chai-files",
+        "description": "file system assertions for chai"
+    },
+    {
+        "name": "typemoq",
+        "description": "A simple mocking library for TypeScript"
+    },
+    {
+        "name": "gulp-mocha",
+        "description": "Run Mocha tests"
+    },
+    {
+        "name": "test-results-parser",
+        "description": "Parse test results from JUnit, TestNG, xUnit, cucumber and many more"
+    },
+    {
+        "name": "@ethereum-waffle/provider",
+        "description": "A mock provider for your blockchain testing needs."
+    },
+    {
+        "name": "@applitools/eyes-testcafe",
+        "description": "Applitools Eyes SDK for TestCafe"
+    },
+    {
+        "name": "@knapsack-pro/jest",
+        "description": "Knapsack Pro Jest splits Jest tests across CI nodes and makes sure that tests will run in optimal time on each CI node."
+    },
+    {
+        "name": "wiremock-captain",
+        "description": "A better way to use the WireMock simulator to test your HTTP APIs"
+    },
+    {
+        "name": "@fetch-mock/jest",
+        "description": "jest wrapper for fetch-mock"
+    },
+    {
+        "name": "msw-trpc",
+        "description": "tRPC API for Mock Service Worker (MSW)."
+    },
+    {
+        "name": "ember-cli-mirage",
+        "description": "A client-side server to help you build, test and demo your Ember app"
+    },
+    {
+        "name": "timemachine",
+        "description": "Test your time critical app by overriding the native Javascript Date function"
+    },
+    {
+        "name": "ember-try",
+        "description": "An ember-cli addon to test against multiple dependencies, such as ember and ember-data."
+    },
+    {
+        "name": "@testcontainers/mongodb",
+        "description": "MongoDB module for Testcontainers"
+    },
+    {
+        "name": "async-test-util",
+        "description": "Util-functions that are be useful in async tests"
+    },
+    {
+        "name": "ngx-translate-testing",
+        "description": "A library of utilities for testing with the ngx-translate i18n Angular library"
+    },
+    {
+        "name": "@argos-ci/playwright",
+        "description": "Playwright SDK for visual testing with Argos."
+    },
+    {
+        "name": "@axe-core/webdriverio",
+        "description": "Provides a method to inject and analyze web pages using axe"
+    },
+    {
+        "name": "cypress-plugin-api",
+        "description": "UI for testing API in Cypress"
+    },
+    {
+        "name": "appwright",
+        "description": "E2E mobile app testing done right, with the Playwright test runner"
+    },
+    {
+        "name": "service-worker-mock",
+        "description": "Service Worker Mock ========================= A mock service worker environment generator."
+    },
+    {
+        "name": "jasmine-expect",
+        "description": "Write Beautiful Specs with Custom Matchers"
+    },
+    {
+        "name": "@scalar/api-reference-react",
+        "description": "The react client only integration for api references"
+    },
+    {
+        "name": "vows",
+        "description": "Asynchronous BDD & continuous integration for node.js"
+    },
+    {
+        "name": "pptr-testing-library",
+        "description": "puppeteer + dom-testing-library"
+    },
+    {
+        "name": "sequelize-mock",
+        "description": "A simple mock interface specifically for testing code relying on Sequelize models"
+    },
+    {
+        "name": "next-test-api-route-handler",
+        "description": "Confidently unit and integration test your Next.js API routes/handlers in an isolated Next.js-like environment"
+    },
+    {
+        "name": "@japa/core",
+        "description": "Implementation of core APIs for the Japa tests runner"
+    },
+    {
+        "name": "combos",
+        "description": "Generate all possible permutations of an object's key-value pairs"
+    },
+    {
+        "name": "cypress-image-diff-html-report",
+        "description": "A HTML reporting module for Cypress-Image-Diff to parse the JSON output to a beautiful report"
+    },
+    {
+        "name": "rocha",
+        "description": "Runs Mocha unit tests but randomizes their order"
+    },
+    {
+        "name": "stream-spigot",
+        "description": "A readable stream generator, useful for testing or converting simple functions into Readable streams."
+    },
+    {
+        "name": "expect-more-jest",
+        "description": "Write Beautiful Specs with Custom Matchers for Jest"
+    },
+    {
+        "name": "allure-jest",
+        "description": "Allure Jest integration"
+    },
+    {
+        "name": "jest-in-case",
+        "description": "Jest utility for creating variations of the same test"
+    },
+    {
+        "name": "@temporalio/nyc-test-coverage",
+        "description": "Temporal.io SDK code coverage integration"
+    },
+    {
+        "name": "blink-diff",
+        "description": "A lightweight image comparison tool"
+    },
+    {
+        "name": "yeoman-assert",
+        "description": "Assert utility from yeoman"
+    },
+    {
+        "name": "zoroaster",
+        "description": "The 2020 Most Modern Testing Framework For Node.JS With Test Contexts (Reusable BeforeEach / AfterEach Via Separate Files); Masks (Inputs/Outputs In Non-Js Files) And Fork Testing; Interactive Snapshots."
+    },
+    {
+        "name": "openapi-validator",
+        "description": "Common code for jest-openapi and Chai OpenAPI Response Validator"
+    },
+    {
+        "name": "snap-shot-it",
+        "description": "Smarter snapshot utility for Mocha and BDD test runners"
+    },
+    {
+        "name": "@miragejs/graphql",
+        "description": "A library for handling GraphQL requests with Mirage JS"
+    },
+    {
+        "name": "@lambdatest/node-rest-client",
+        "description": "LambdaTest Rest Client for Node.js"
+    },
+    {
+        "name": "vitest-browser-svelte",
+        "description": "Render Svelte components in Vitest Browser Mode"
+    },
+    {
+        "name": "@pactflow/pact-msw-adapter",
+        "description": "> Generate pact contracts from the recorded mock service worker interactions."
+    },
+    {
+        "name": "@bahmutov/data-driven",
+        "description": "Transforms BDD input into data-driven snapshot"
+    },
+    {
+        "name": "jest-openapi",
+        "description": "Jest matchers for asserting that HTTP responses satisfy an OpenAPI spec"
+    },
+    {
+        "name": "allure-mocha",
+        "description": "Allure Mocha integration"
+    },
+    {
+        "name": "ember-cli-page-object",
+        "description": "This ember-cli addon eases the construction of page objects on your acceptance and integration tests"
+    },
+    {
+        "name": "zod-fast-check",
+        "description": "Generate fast-check arbitraries from Zod schemas."
+    },
+    {
+        "name": "allure-cucumberjs",
+        "description": "Allure Cucumber.JS integration"
+    },
+    {
+        "name": "textlint-tester",
+        "description": "testing tool for textlint rule."
+    },
+    {
+        "name": "fictional",
+        "description": "Generate fake data deterministically from a given input"
+    },
+    {
+        "name": "cucumber-tsflow",
+        "description": "Provides 'specflow' like bindings for CucumberJS 7.0.0+ in TypeScript 1.7+."
+    },
+    {
+        "name": "happo.io",
+        "description": "Visual diffing for UI components"
+    },
+    {
+        "name": "@axe-core/cli",
+        "description": "A CLI for accessibility testing using axe-core"
+    },
+    {
+        "name": "@suites/doubles.jest",
+        "description": ""
+    },
+    {
+        "name": "@inngest/test",
+        "description": "Tooling for testing Inngest functions."
+    },
+    {
+        "name": "@testing-library/jasmine-dom",
+        "description": "Custom Jasmine matchers for testing DOM elements"
+    },
+    {
+        "name": "jsverify",
+        "description": "Property-based testing for JavaScript."
+    },
+    {
+        "name": "@fast-check/vitest",
+        "description": "Property based testing for Vitest based on fast-check"
+    },
+    {
+        "name": "add-matchers",
+        "description": "Write useful test matchers compatible with Jest and Jasmine."
+    },
+    {
+        "name": "type-plus",
+        "description": "Provides additional types for TypeScript."
+    },
+    {
+        "name": "@suites/unit",
+        "description": "<p align=\"center\">   <img width=\"200\" src=\"https://raw.githubusercontent.com/suites-dev/suites/master/logo.png\" alt=\"Logo\" /> </p>"
+    },
+    {
+        "name": "@golevelup/ts-sinon",
+        "description": ""
+    },
+    {
+        "name": "desired-capabilities",
+        "description": "utilities for parsing shorthand Selenium capabilities objects"
+    },
+    {
+        "name": "mocha-sinon",
+        "description": "mocha integration for sinon"
+    },
+    {
+        "name": "@testcontainers/rabbitmq",
+        "description": "RabbitMQ module for Testcontainers"
+    },
+    {
+        "name": "@solidjs/testing-library",
+        "description": "Simple and complete Solid testing utilities that encourage good testing practices."
+    },
+    {
+        "name": "opentok-token",
+        "description": "Generates tokens for `X-TB-TOKEN-AUTH` header when using OpenTok REST API."
+    },
+    {
+        "name": "cypress-plugin-stripe-elements",
+        "description": "Adds testing helpers for driving Stripe Elements with Cypress."
+    },
+    {
+        "name": "selenium-server",
+        "description": "Selenium in an npm package"
+    },
+    {
+        "name": "snap-shot-core",
+        "description": "Save / load named snapshots, useful for tests"
+    },
+    {
+        "name": "cypress-delete-downloads-folder",
+        "description": "Cypress custom command and hooks to remove downloads folder"
+    },
+    {
+        "name": "memfs-browser",
+        "description": "In-memory file-system with Node's fs API."
+    },
+    {
+        "name": "jasmine-node",
+        "description": "DOM-less simple JavaScript BDD testing framework for Node"
+    },
+    {
+        "name": "react-native-test-app",
+        "description": "react-native-test-app provides a test app for all supported platforms as a package"
+    },
+    {
+        "name": "setup-polly-jest",
+        "description": "Setup helper for PollyJS when using in jest/jasmine test environment"
+    },
+    {
+        "name": "@edge-runtime/jest-environment",
+        "description": "A Jest integration to run assertions in Edge Runtime context."
+    },
+    {
+        "name": "allure-cypress",
+        "description": "Allure Cypress integration"
+    },
+    {
+        "name": "@knapsack-pro/vitest",
+        "description": "Knapsack Pro Vitest splits Vitest tests across CI nodes and makes sure that tests will run in optimal time on each CI node."
+    },
+    {
+        "name": "accessibility-developer-tools",
+        "description": "This is a library of accessibility-related testing and utility code."
+    },
+    {
+        "name": "jasmine-browser-runner",
+        "description": "Serve and run your Jasmine specs in a browser"
+    },
+    {
+        "name": "pa11y-ci-reporter-html",
+        "description": "Pa11y-ci reporter that generates HTML reports - summary report and detailed reports for each page"
+    },
+    {
+        "name": "react-beautiful-dnd-test-utils",
+        "description": "Test utils for react-beautiful-dnd built with react-testing-library."
+    },
+    {
+        "name": "testing",
+        "description": "Simple asynchronous testing framework. Never again count your asserts! This tiny testing library is fully callback-based and has a rich API for asserts."
+    },
+    {
+        "name": "mocha-chai-jest-snapshot",
+        "description": "provides snapshot testing like jest"
+    },
+    {
+        "name": "skin-deep",
+        "description": "Testing helpers for use with React's shallowRender test utils."
+    },
+    {
+        "name": "airtap",
+        "description": "Run TAP unit tests in 1789+ browsers"
+    },
+    {
+        "name": "jasmine-ts",
+        "description": "Execute jasmine with ts-node"
+    },
+    {
+        "name": "preceptor-core",
+        "description": "Core components for the preceptor test runner and aggregator"
+    },
+    {
+        "name": "@axe-core/webdriverjs",
+        "description": "Provides a method to inject and analyze web pages using axe"
+    },
+    {
+        "name": "ember-a11y-testing",
+        "description": "Accessibility testing for Ember applications"
+    },
+    {
+        "name": "snap-shot-store",
+        "description": "Snapshots saved against an object"
+    },
+    {
+        "name": "@testcontainers/elasticsearch",
+        "description": "Elasticsearch module for Testcontainers"
+    },
+    {
+        "name": "karma-viewport",
+        "description": "A Karma plugin for testing responsive features and layout"
+    },
+    {
+        "name": "power-assert-renderers",
+        "description": "Power Assert output renderers"
+    },
+    {
+        "name": "jest-react-hooks-shallow",
+        "description": "React Hooks for shallow rendering"
+    },
+    {
+        "name": "dynamodb-localhost",
+        "description": "Dynamodb local plugin for devops"
+    },
+    {
+        "name": "inject-loader",
+        "description": "A Webpack loader for injecting code into modules via their dependencies"
+    },
+    {
+        "name": "aws-dynamodb-local",
+        "description": "Run DynamoDB local for development and testing"
+    },
+    {
+        "name": "api-contract-validator",
+        "description": "Plugin for validating API schemas from API documentation"
+    },
+    {
+        "name": "raf-stub",
+        "description": "Accurate and predictable testing of requestAnimationFrame and cancelAnimationFrame"
+    },
+    {
+        "name": "@knapsack-pro/cypress",
+        "description": "Knapsack Pro Cypress splits Cypress.io tests across CI nodes and makes sure that tests will run in optimal time on each CI node."
+    },
+    {
+        "name": "@mocks-server/main",
+        "description": "Mock Server supporting multiple route variants and mocks"
+    },
+    {
+        "name": "@appium/execute-driver-plugin",
+        "description": "Plugin for batching and executing Appium driver commands"
+    },
+    {
+        "name": "@mocks-server/plugin-admin-api",
+        "description": "Mocks Server plugin providing an administration REST API"
+    },
+    {
+        "name": "appium-tizen-driver",
+        "description": "Tizen support for Appium"
+    },
+    {
+        "name": "conditional-type-checks",
+        "description": "Types for testing TypeScript types."
+    },
+    {
+        "name": "loadtest",
+        "description": "Run load tests for your web application. Mostly ab-compatible interface, with an option to force requests per second. Includes an API for automated load testing."
+    },
+    {
+        "name": "@alfresco/adf-testing",
+        "description": "Alfresco ADF testing page and utils"
+    },
+    {
+        "name": "@serenity-js/core",
+        "description": "The core Serenity/JS framework, providing the Screenplay Pattern interfaces, as well as the test reporting and integration infrastructure"
+    },
+    {
+        "name": "virtual-u2f",
+        "description": "Virtual U2F token for automated testing of U2F/Fido APIs"
+    },
+    {
+        "name": "@testdeck/core",
+        "description": "Core framework for decorator based object oriented testing"
+    },
+    {
+        "name": "@testcontainers/gcloud",
+        "description": "GCloud module for Testcontainers"
+    },
+    {
+        "name": "sauce-browsers",
+        "description": "Get a list of objects describing the OS and browser platforms on Sauce Labs using \"zuul\" format"
+    },
+    {
+        "name": "jest-it-up",
+        "description": "Automatically bump up global Jest thresholds whenever coverage goes above them"
+    },
+    {
+        "name": "chai-bytes",
+        "description": "Chai assertions for byte arrays equality"
+    },
+    {
+        "name": "mock-req-res",
+        "description": "Extensible mock req / res objects for use in unit tests of Express controller and middleware functions."
+    },
+    {
+        "name": "chai-jquery",
+        "description": "jQuery assertions for the Chai assertion library"
+    },
+    {
+        "name": "karma-jasmine-matchers",
+        "description": "A Karma plugin - Additional matchers for the Jasmine BDD JavaScript testing library."
+    },
+    {
+        "name": "aws-lambda-test-utils",
+        "description": "Test your AWS Lambda Functions for reals!"
+    },
+    {
+        "name": "@zendesk/laika",
+        "description": "Test, mock, intercept and modify Apollo Client's operations — in both browser and unit tests!"
+    },
+    {
+        "name": "gulp-jasmine",
+        "description": "Run Jasmine tests"
+    },
+    {
+        "name": "@testcontainers/mssqlserver",
+        "description": "MSSQL Server module for Testcontainers"
+    },
+    {
+        "name": "intern",
+        "description": "Intern. A next-generation code testing stack for JavaScript."
+    },
+    {
+        "name": "assume",
+        "description": "Expect-like assertions that works seamlessly in node and browsers"
+    },
+    {
+        "name": "zuul",
+        "description": "simple browser testing"
+    },
+    {
+        "name": "givens",
+        "description": "Easy test setup without side effects"
+    },
+    {
+        "name": "@serenity-js/rest",
+        "description": "Serenity/JS Screenplay Pattern library for interacting with REST and other HTTP-based services, supporting comprehensive API testing and blended testing scenarios"
+    },
+    {
+        "name": "karma-webkit-launcher",
+        "description": "A Karma plugin. Launcher for Webkit."
+    },
+    {
+        "name": "jest-serializer-ansi-escapes",
+        "description": "Jest snapshot serializer for ANSI escape sequences"
+    },
+    {
+        "name": "choma",
+        "description": "Random ordering for mocha"
+    },
+    {
+        "name": "@remcovaes/web-test-runner-vite-plugin",
+        "description": "@web/test-runner plugin to allow the build to be done by Vite"
+    },
+    {
+        "name": "enzyme-adapter-react-15",
+        "description": "JavaScript Testing utilities for React"
+    },
+    {
+        "name": "@golevelup/ts-vitest",
+        "description": "Reusable utilities to help level up NestJS Testing"
+    },
+    {
+        "name": "@closeio/backbone-testing-library",
+        "description": "DOM testing utilities with API that mirrors React Testing Library"
+    },
+    {
+        "name": "newman-reporter-allure",
+        "description": "Allure Newman integration"
+    },
+    {
+        "name": "jest-sinon",
+        "description": "Jest assertions for the mocking library Sinon.js"
+    },
+    {
+        "name": "chai-changes",
+        "description": "Change assertions for the Chai assertion library"
+    },
+    {
+        "name": "@gatling.io/core",
+        "description": "Gatling JS is a JavaScript/TypeScript interface for the [Gatling load testing tool](https://gatling.io/)."
+    },
+    {
+        "name": "@o3r/testing",
+        "description": "The module provides testing (e2e, unit test) utilities to help you build your own E2E pipeline integrating visual testing."
+    },
+    {
+        "name": "@testing-library/preact-hooks",
+        "description": "Simple and complete React hooks testing utilities that encourage good testing practices."
+    },
+    {
+        "name": "ospec",
+        "description": "Noiseless testing framework"
+    },
+    {
+        "name": "sandboxed-module",
+        "description": "A sandboxed Node.js module loader that lets you inject dependencies into your modules."
+    },
+    {
+        "name": "@applitools/spec-driver-webdriverio",
+        "description": ""
+    },
+    {
+        "name": "@serenity-js/console-reporter",
+        "description": "Serenity/JS console reporter that displays test results directly in the standard output"
+    },
+    {
+        "name": "vitest-react-mock",
+        "description": "vitest helper for react-mock-component"
+    },
+    {
+        "name": "chi-square-a-b-testing",
+        "description": "Npm module for calculating chi-square test that gives us p-value for statistical significance with practical use in A/B testing."
+    },
+    {
+        "name": "mercurius-integration-testing",
+        "description": "[![npm version](https://badge.fury.io/js/mercurius-integration-testing.svg)](https://badge.fury.io/js/mercurius-integration-testing) [![codecov](https://codecov.io/gh/PabloSzx/mercurius-integration-testing/branch/master/graph/badge.svg)](https://codecov.i"
+    },
+    {
+        "name": "pretty-ansi",
+        "description": "Convert ANSI escape sequences to human readable text"
+    },
+    {
+        "name": "redux-saga-testing",
+        "description": "A no-brainer way of testing your Sagas"
+    },
+    {
+        "name": "cypress-msw-interceptor",
+        "description": "A networking layer for Cypress using MSW"
+    },
+    {
+        "name": "@tdd-buffet/react",
+        "description": "React testing for tdd-buffet"
+    },
+    {
+        "name": "workerloader-jest-transformer",
+        "description": "Jest transformer for Webpack Worker loader"
+    },
+    {
+        "name": "chai-almost",
+        "description": "Extends chai with assertions that allow for floating point rounding errors"
+    },
+    {
+        "name": "@gatling.io/jvm-types",
+        "description": "Gatling JS is a JavaScript/TypeScript interface for the [Gatling load testing tool](https://gatling.io/)."
+    },
+    {
+        "name": "cypress-firebase",
+        "description": "Utilities to help testing Firebase projects with Cypress."
+    },
+    {
+        "name": "@mocks-server/plugin-proxy",
+        "description": "Mocks Server plugin providing proxy variant handler"
+    },
+    {
+        "name": "storycap-testrun",
+        "description": "A utility that provides stable screenshot capture functionality using `@storybook/test-runner`."
+    },
+    {
+        "name": "@serenity-js/cucumber",
+        "description": "Serenity/JS test runner adapter for seamless integration with any version of Cucumber.js, facilitating BDD-style test automation and leveraging Serenity/JS reporting capabilities"
+    },
+    {
+        "name": "jquery-mockjax",
+        "description": "The jQuery Mockjax Plugin provides a simple and extremely flexible interface for mocking or simulating ajax requests and responses."
+    },
+    {
+        "name": "puppeteer-intercept-and-modify-requests",
+        "description": "The `puppeteer-intercept-and-modify-requests` TypeScript library allows you to intercept and modify network requests and responses using Puppeteer. It supports modifying all network requests and responses. You can also apply delays, stream responses, modi"
+    },
+    {
+        "name": "chai-backbone",
+        "description": "Backbone assertions for the Chai assertion library"
+    },
+    {
+        "name": "test-data-bot",
+        "description": "Generate test data for your tests easily."
+    },
+    {
+        "name": "minijasminenode",
+        "description": "Super simple wrapper around Jasmine 1.3 for Node"
+    },
+    {
+        "name": "@tdd-buffet/jest-config",
+        "description": "Awesome jest config"
+    },
+    {
+        "name": "jest-prop-type-error",
+        "description": "Makes Jest throw on React prop-type failures"
+    },
+    {
+        "name": "@mocks-server/core",
+        "description": "Pluggable mock server supporting multiple route variants and mocks"
+    },
+    {
+        "name": "@serenity-js/web",
+        "description": "Serenity/JS Screenplay Pattern library offering a flexible, web driver-agnostic approach for interacting with web-based user interfaces and components, suitable for various testing contexts"
+    },
+    {
+        "name": "cypress-plugin-init",
+        "description": "cypress-plugin-init is a library that simplifies the process of setting up multiple Cypress plugins in your project"
+    },
+    {
+        "name": "vitest-browser-vue",
+        "description": "Render Vue components in Vitest Browser Mode"
+    },
+    {
+        "name": "@gatling.io/http",
+        "description": "Gatling JS is a JavaScript/TypeScript interface for the [Gatling load testing tool](https://gatling.io/)."
+    },
+    {
+        "name": "playwright-ng-schematics",
+        "description": "Playwright Angular schematics"
+    },
+    {
+        "name": "@testcontainers/toxiproxy",
+        "description": "Toxiproxy module for Testcontainers"
+    },
+    {
+        "name": "benny",
+        "description": "A dead simple benchmarking framework"
+    },
+    {
+        "name": "jest-markdown-expand-reporter",
+        "description": "A markdown reporter for Jest tests with expandable sections containing per test console logs"
+    },
+    {
+        "name": "@theintern/common",
+        "description": "Common modules used by @theintern projects"
+    },
+    {
+        "name": "@testcontainers/redpanda",
+        "description": "Redpanda module for Testcontainers"
+    },
+    {
+        "name": "casual-browserify",
+        "description": "Fake data generator (Browserify friendly)"
+    },
+    {
+        "name": "@fast-check/ava",
+        "description": "Property based testing for AVA based on fast-check"
+    },
+    {
+        "name": "allure",
+        "description": "Allure Commandline Tool"
+    },
+    {
+        "name": "cypress-mailpit",
+        "description": "Cypress Commands for Mailpit 💌"
+    },
+    {
+        "name": "jest-performance-testing",
+        "description": "You can use test matchers for react-performance-testing"
+    },
+    {
+        "name": "@gatling.io/cli",
+        "description": "Gatling JS is a JavaScript/TypeScript interface for the [Gatling load testing tool](https://gatling.io/)."
+    },
+    {
+        "name": "standardized-audio-context-mock",
+        "description": "A mocked version of the standardized-audio-context module."
+    },
+    {
+        "name": "obake",
+        "description": "Pipe javascript into phantomjs, print the output, writing test coverage to disk along the way"
+    },
+    {
+        "name": "react-performance-testing",
+        "description": "You can test React(ReactNative) runtime performance by using this lib. If you want to check the number of renders, or render time in a test environment, this lib makes sense."
+    },
+    {
+        "name": "cyclope",
+        "description": "Cypress DOM snapshots and consistent image diffing in the cloud"
+    },
+    {
+        "name": "ember-native-dom-helpers",
+        "description": "Test helpers for your integration tests that fire native events"
+    },
+    {
+        "name": "protractor-cucumber-framework",
+        "description": "Protractor framework for Cucumber.js"
+    },
+    {
+        "name": "localstorage-polyfill",
+        "description": "in memory localStorage polyfill for node.js utilizing ES6 proxies"
+    },
+    {
+        "name": "chai-asserttype",
+        "description": "a simple chai plugin for asserting on types"
+    },
+    {
+        "name": "@serenity-js/assertions",
+        "description": "Serenity/JS universal assertion library supporting all types of functional tests, including both web and REST API scenarios"
+    },
+    {
+        "name": "vitest-mock-express",
+        "description": "A lightweight Vitest mock for unit testing Express"
+    },
+    {
+        "name": "@argos-ci/cli",
+        "description": "Command-line (CLI) for visual testing with Argos."
+    },
+    {
+        "name": "catch-uncommitted",
+        "description": "Script to catch uncommitted/unversioned files, for CI"
+    },
+    {
+        "name": "@applitools/visual-grid-client",
+        "description": "A library that drives the visual grid with dom snapshot rendering."
+    },
+    {
+        "name": "react-native-accessibility-engine",
+        "description": "Make accessibility-related assertions on React Native code using React Test Renderer"
+    },
+    {
+        "name": "zombie",
+        "description": "Insanely fast, full-stack, headless browser testing using Node.js"
+    },
+    {
+        "name": "@firanorg/mollitia-molestias-accusamus",
+        "description": "[![github actions][actions-image]][actions-url] [![coverage][codecov-image]][codecov-url] [![License][license-image]][license-url] [![Downloads][downloads-image]][downloads-url]"
+    },
+    {
+        "name": "cypress-storybook",
+        "description": "Cypress commands for Storybook projects"
+    },
+    {
+        "name": "jest-transform-yaml",
+        "description": "Transforms for YAML within Jest"
+    },
+    {
+        "name": "dredd",
+        "description": "HTTP API Testing Framework"
+    },
+    {
+        "name": "@testcontainers/clickhouse",
+        "description": "ClickHouse module for Testcontainers"
+    },
+    {
+        "name": "happo-plugin-storybook",
+        "description": "A happo.io plugin for projects using Storybook"
+    },
+    {
+        "name": "@wdio/codemod",
+        "description": "A codemod to transform test files written in Protractor into WebdriverIO tests"
+    },
+    {
+        "name": "zuul-localtunnel",
+        "description": "A localtunnel tunnel implementation for Zuul"
+    },
+    {
+        "name": "superwstest",
+        "description": "supertest with added WebSocket capabilities"
+    },
+    {
+        "name": "aurelia-testing",
+        "description": "A collection of helpers for testing Aurelia apps and components."
+    },
+    {
+        "name": "eslint-plugin-test-selectors",
+        "description": "Makes sure test DOM attributes (e.g. data-test-id) are added to interactive DOM elements."
+    },
+    {
+        "name": "must",
+        "description": "Testing and assertion library with friendly BDD syntax — awesome.must.be.true(). Many expressive matchers and is test runner and framework agnostic. Follows RFC 2119 with its use of MUST. Good and well tested stuff."
+    },
+    {
+        "name": "chai-fs",
+        "description": "Chai assertions for Node.js filesystem"
+    },
+    {
+        "name": "danger-plugin-istanbul-coverage",
+        "description": "Danger.js plugin for monitoring istanbul code coverage on changed files."
+    },
+    {
+        "name": "@vitest/browser-playwright",
+        "description": "Browser running for Vitest using playwright"
+    },
+    {
+        "name": "leche",
+        "description": "A JavaScript testing utility designed to work with Mocha and Sinon"
+    },
+    {
+        "name": "@serenity-js/serenity-bdd",
+        "description": "Serenity/JS reporting module that produces detailed Serenity BDD test reports and living documentation, enhancing transparency and traceability of test results"
+    },
+    {
+        "name": "@eatsjobs/media-mock",
+        "description": "Media-Mock is a JavaScript library that simulates media devices (like webcams) in web applications, allowing developers to test and debug media constraints, device configurations, and stream functionality without needing physical devices. This is particul"
+    },
+    {
+        "name": "tape-promise",
+        "description": "Promise/async support for tape."
+    },
+    {
+        "name": "allure-codeceptjs",
+        "description": "Allure codeceptjs integration"
+    },
+    {
+        "name": "dredd-transactions",
+        "description": "Compiles HTTP Transactions (Request-Response pairs) from an API description document"
+    },
+    {
+        "name": "@iobroker/testing",
+        "description": "Shared utilities for adapter and module testing in ioBroker"
+    },
+    {
+        "name": "frisby",
+        "description": "Frisby.js v2.0: REST API Endpoint Testing built on Jasmine"
+    },
+    {
+        "name": "@mailsac/api",
+        "description": "Official Mailsac API client library"
+    },
+    {
+        "name": "chai-fetch",
+        "description": "Chai matchers to make matching fetch responses clear & easy"
+    },
+    {
+        "name": "@allurereport/web-awesome",
+        "description": "The static files for Allure Awesome Report"
+    },
+    {
+        "name": "@inquirer/testing",
+        "description": "Inquirer testing utilities"
+    },
+    {
+        "name": "@depay/web3-mock",
+        "description": "JavaScript library to mock web3 responses either by emulating web3 wallets or web3 RPC requests."
+    },
+    {
+        "name": "check-tests",
+        "description": "Static analysis for tests. Prints all tests in console and fails when exclusive or skipped tests found."
+    },
+    {
+        "name": "odottaa",
+        "description": "🦥 Custom playwright matchers to test the state of the API response"
+    },
+    {
+        "name": "karma-cucumber-reporter",
+        "description": "Reporter that transforms test results from Karma to Cucumber format"
+    },
+    {
+        "name": "ghostface",
+        "description": "Evaluate Javascript in PhantomJS, and print the output."
+    },
+    {
+        "name": "eslint-plugin-codegen",
+        "description": "An eslint plugin for inline codegen. Auto-fixes out of sync code, with presets for barrels, jsdoc to markdown and more."
+    },
+    {
+        "name": "@allurereport/reader-api",
+        "description": "Allure Reader API"
+    },
+    {
+        "name": "@scalar/api-client-react",
+        "description": "the open source API testing client for react"
+    },
+    {
+        "name": "@allurereport/plugin-awesome",
+        "description": "Allure Awesome Plugin – brand new HTML report with modern design and new features"
+    },
+    {
+        "name": "@allurereport/reader",
+        "description": "Collection of utilities which helps to process different kind of test results as Allure Results"
+    },
+    {
+        "name": "@allurereport/directory-watcher",
+        "description": "File system watcher for directories"
+    },
+    {
+        "name": "@testdeck/mocha",
+        "description": "Object oriented testing for the Mocha test framework"
+    },
+    {
+        "name": "cypress-plugin-last-failed",
+        "description": "Cypress plugin to rerun last failed tests in cypress run and open mode"
+    },
+    {
+        "name": "@allurereport/plugin-csv",
+        "description": "Allure CSV report"
+    },
+    {
+        "name": "@thaumaturgy/zod",
+        "description": "Thaumaturgy is a fixtures and seeding library for TypeScript."
+    },
+    {
+        "name": "@thaumaturgy/core",
+        "description": "Thaumaturgy is a fixtures and seeding library for TypeScript."
+    },
+    {
+        "name": "cooky-cutter",
+        "description": "Object factories for testing in TypeScript"
+    },
+    {
+        "name": "@stryker-mutator/html-reporter",
+        "description": "An html reporter for the JavaScript mutation testing framework Stryker"
+    },
+    {
+        "name": "earl",
+        "description": "Ergonomic, modern and type-safe assertion library"
+    },
+    {
+        "name": "@allurereport/plugin-classic",
+        "description": "The classic version of Allure HTML report"
+    },
+    {
+        "name": "@allurereport/plugin-progress",
+        "description": "Allure Plugin to show generation progress in console"
+    },
+    {
+        "name": "vehicles",
+        "description": "A little test utility to travel into the future."
+    },
+    {
+        "name": "@applitools/types",
+        "description": ""
+    },
+    {
+        "name": "check-prop-types",
+        "description": "Check PropTypes, returning errors instead of logging them"
+    },
+    {
+        "name": "@allurereport/plugin-testplan",
+        "description": "Allure Plugin to generate testplan.json"
+    },
+    {
+        "name": "wTesting",
+        "description": "Framework for convenient unit testing. Testing provides the intuitive interface, simple tests structure, asynchronous code handling mechanism, colorful report, verbosity control and more. Use the module to get free of routines which can be automated."
+    },
+    {
+        "name": "@this-dot/cypress-indexeddb",
+        "description": "A Cypress.io helper library for reading and manipulating data inside IndexedDB"
+    },
+    {
+        "name": "@kubb/plugin-msw",
+        "description": "Mock Service Worker (MSW) handlers generator plugin for Kubb, creating API mocks from OpenAPI specifications for frontend development and testing."
+    },
+    {
+        "name": "@playwright-testing-library/test",
+        "description": "playwright + dom-testing-library"
+    },
+    {
+        "name": "@allurereport/plugin-log",
+        "description": "Allure Plugin to write report in stdout"
+    },
+    {
+        "name": "ng-bullet",
+        "description": "Angular library which drastically improves execution time of your component's unit tests"
+    },
+    {
+        "name": "@allurereport/static-server",
+        "description": "Minimalistic web-server for serving static files"
+    },
+    {
+        "name": "chai-change",
+        "description": "Assert that a change you expected to happen, happened, with the chai library"
+    },
+    {
+        "name": "@allurereport/web-commons",
+        "description": "Collection of utilities used across the web Allure reports"
+    },
+    {
+        "name": "svelte-htm",
+        "description": "tagged template syntax for svelte to simplify testing"
+    },
+    {
+        "name": "supertest-with-proxy",
+        "description": "SuperAgent driven library for testing HTTP servers"
+    },
+    {
+        "name": "@polymer/test-fixture",
+        "description": "A simple element to fixture DOM for tests"
+    },
+    {
+        "name": "@allurereport/web-classic",
+        "description": "The static files for Allure Classic Report"
+    },
+    {
+        "name": "playwright-msteams-reporter",
+        "description": "Microsoft Teams reporter for Playwright which allows you to send notifications about the status of your E2E tests."
+    },
+    {
+        "name": "mocha-snapshots",
+        "description": "Snapshot testing for Mocha users"
+    },
+    {
+        "name": "jest-sentry-environment",
+        "description": "Sentry instrumentation for jest"
+    },
+    {
+        "name": "@kubb/plugin-faker",
+        "description": "Faker.js data generator plugin for Kubb, creating realistic mock data from OpenAPI specifications for development and testing."
+    },
+    {
+        "name": "@marvelapp/react-ab-test",
+        "description": "A/B testing React components and debug tools. Isomorphic with a simple, universal interface. Well documented and lightweight. Tested in popular browsers and Node.js. Includes helpers for Mixpanel and Segment.com."
+    },
+    {
+        "name": "jest-react-mock",
+        "description": "jest helper for react-mock-component"
+    },
+    {
+        "name": "@wdio/image-comparison-core",
+        "description": "Image comparison core module for @wdio/visual-service - WebdriverIO visual testing framework"
+    },
+    {
+        "name": "@allurereport/web-components",
+        "description": "Collection of Preact components used across the web Allure reports"
+    },
+    {
+        "name": "@appium/opencv",
+        "description": "OpenCV-related helper library"
+    },
+    {
+        "name": "chai-json",
+        "description": "A chai plugin to validate json files"
+    },
+    {
+        "name": "eslint-plugin-ui-testing",
+        "description": "ESLint rules for UI testing tools WebdriverIO, Cypress, TestCafe, Playwright, Puppeteer"
+    },
+    {
+        "name": "@testsprite/testsprite-mcp",
+        "description": "The TestSprite MCP plugin brings fully automated software testing into your coding workflow. It connects your IDE's AI assistant (like Cursor or Copilot) with TestSprite's intelligent testing engine to automatically generate, execute, and debug integratio"
+    },
+    {
+        "name": "@testdeck/jest",
+        "description": "Object oriented testing for the Jest test framework"
+    },
+    {
+        "name": "@offirgolan/nise",
+        "description": "Fake XHR and server"
+    },
+    {
+        "name": "@allurereport/summary",
+        "description": "Allure Summary Plugin – dashboard page generator with charts for Allure Report"
+    },
+    {
+        "name": "@thaumaturgy/io-ts",
+        "description": "Thaumaturgy is a fixtures and seeding library for TypeScript."
+    },
+    {
+        "name": "@allurereport/web-allure2",
+        "description": "The static files for Allure Classic Report"
+    },
+    {
+        "name": "react-native-mock",
+        "description": "A fully mocked and test-friendly version of react native"
+    },
+    {
+        "name": "jest-tobetype",
+        "description": "A jest matcher that allows you to test the expected type of a value"
+    },
+    {
+        "name": "@allurereport/plugin-slack",
+        "description": "Allure Plugin to Report results to Slack"
+    },
+    {
+        "name": "specmatic",
+        "description": "Node wrapper for Specmatic"
+    },
+    {
+        "name": "matrix-mock-request",
+        "description": "Testing tool for mocking HTTP request/response pairs"
+    },
+    {
+        "name": "@newmo/eslint-plugin-graphql-fake",
+        "description": "ESLint plugin for GraphQL fake"
+    },
+    {
+        "name": "@newmo/graphql-codegen-fake-server-client",
+        "description": "GraphQL Codegen plugin for generating a fake server client"
+    },
+    {
+        "name": "@suites/doubles.vitest",
+        "description": ""
+    },
+    {
+        "name": "axios-hooks-mock",
+        "description": "A library that simplifies mocking for axios-hooks, especially when multiple hooks are used together."
+    },
+    {
+        "name": "constitute",
+        "description": "Minimalistic Dependency Injection (DI) for ES6"
+    },
+    {
+        "name": "svelte-fragment-component",
+        "description": "Svelte component that renders its children with lifecycle hooks to simplify testing"
+    },
+    {
+        "name": "ember-data-factory-guy",
+        "description": "Factories for testing Ember applications using EmberData"
+    },
+    {
+        "name": "@allurereport/web-summary",
+        "description": "The static files for Allure Report Summary"
+    },
+    {
+        "name": "@testcontainers/mockserver",
+        "description": "Mockserver module for Testcontainers"
+    },
+    {
+        "name": "mocks",
+        "description": "Set of mock modules for easy testing (fs, http)"
+    },
+    {
+        "name": "launchdarkly-js-test-helpers",
+        "description": "LaunchDarkly JavaScript test utilities"
+    },
+    {
+        "name": "@applitools/eyes-webdriverio",
+        "description": "Applitools Eyes SDK for WebdriverIO"
+    },
+    {
+        "name": "efate",
+        "description": "javascript test fixture generator.  Autofixturejs 2.0"
+    },
+    {
+        "name": "@dev-blinq/cucumber-js",
+        "description": "<h1 align=\"center\">   <img src=\"./docs/images/icon.png\" style=\"width:150px;height:150px;\" alt=\"\">   <br>   Cucumber - Blinq.io </h1> <p align=\"center\">   <b>Cucumber.js with Blinq.io adaptation</b> </p>"
+    },
+    {
+        "name": "node-red-contrib-createrandom",
+        "description": "Create random values using configurable type generators."
+    },
+    {
+        "name": "fs-require",
+        "description": "Create a require() function from any file-system"
+    },
+    {
+        "name": "babel-tape-runner",
+        "description": "Babel + Tape for running your ES Next tests"
+    },
+    {
+        "name": "mock-css-modules",
+        "description": "Mock CSS Modules for testing."
+    },
+    {
+        "name": "vue-composable-tester",
+        "description": "Utility to test composition api functions for Vue.js"
+    },
+    {
+        "name": "@applitools/eyes-api",
+        "description": ""
+    },
+    {
+        "name": "lcov-total",
+        "description": "Parsing lcov.info and returning total of the summary intended to use inside CI to exit if threshold not reach"
+    },
+    {
+        "name": "@newmo/graphql-fake-server",
+        "description": "GraphQL fake server for testing"
+    },
+    {
+        "name": "@dramaorg/delectus-culpa-reprehenderit",
+        "description": "[![github actions][actions-image]][actions-url] [![coverage][codecov-image]][codecov-url] [![dependency status][deps-svg]][deps-url] [![dev dependency status][dev-deps-svg]][dev-deps-url] [![License][license-image]][license-url] [![Downloads][downloads-im"
+    },
+    {
+        "name": "eslint-plugin-bdd",
+        "description": "ESLint plugin with rules to lint BDD specs."
+    },
+    {
+        "name": "ember-qunit-source-map",
+        "description": "Show the correct file and line number on QUnit errors (only Chrome for now)"
+    },
+    {
+        "name": "@allurereport/plugin-dashboard",
+        "description": "Allure Dashboard Plugin – plugin for generating dashboard with a mix of charts"
+    },
+    {
+        "name": "@cypress/sinon-chai",
+        "description": "Extends Chai with assertions for the Sinon.JS mocking framework, compatible with Cypress.io"
+    },
+    {
+        "name": "jest-mock-proxy",
+        "description": "Mock classes and objects with the power of proxies!"
+    },
+    {
+        "name": "@newmo/graphql-fake-core",
+        "description": "GraphQL fake core library"
+    },
+    {
+        "name": "jest-watch-suspend",
+        "description": "Suspend watch mode"
+    },
+    {
+        "name": "@appium/relaxed-caps-plugin",
+        "description": "An Appium plugin that loosens requirements for vendor prefixes on caps"
+    },
+    {
+        "name": "kefir-test-utils",
+        "description": "Framework-agnostic testing tools for Kefir"
+    },
+    {
+        "name": "jasmine-enzyme",
+        "description": "Jasmine assertions for enzyme"
+    },
+    {
+        "name": "@allurereport/web-dashboard",
+        "description": "The static files for Allure Dashboard Report"
+    },
+    {
+        "name": "fast-check-io-ts",
+        "description": "io-ts codec to fast-check arbitrary mapping"
+    },
+    {
+        "name": "sauce-connect-launcher-update",
+        "description": "A library to download and launch Sauce Connect."
+    },
+    {
+        "name": "@open-wc/karma-esm",
+        "description": "Karma plugin for testing with es modules"
+    },
+    {
+        "name": "mailpit-api",
+        "description": "A TypeScript client for interacting with Mailpit's REST API."
+    },
+    {
+        "name": "@allurereport/ci",
+        "description": "Utilities set to get useful report data from different CI"
+    },
+    {
+        "name": "graphql-query-test-mock",
+        "description": "Mock queries to your GraphQL backend in your Jest tests."
+    },
+    {
+        "name": "@vafanassieff/msw-trpc",
+        "description": "tRPC API for Mock Service Worker (MSW)."
+    },
+    {
+        "name": "@mablhq/playwright-reporter",
+        "description": "Playwright reporter for mabl"
+    },
+    {
+        "name": "@split-tests/core",
+        "description": "internal"
+    },
+    {
+        "name": "@allurereport/plugin-allure2",
+        "description": "The classic version of Allure HTML report"
+    },
+    {
+        "name": "@getgauge/cli",
+        "description": "npm wrapper for installing gauge command line"
+    },
+    {
+        "name": "@testcontainers/valkey",
+        "description": "Valkey module for Testcontainers"
+    },
+    {
+        "name": "cypress-diff",
+        "description": "The library highlights the difference between the expected and actual values in the Cypress Test Runner UI."
+    },
+    {
+        "name": "rollup-jest",
+        "description": "Rollup preprocessor for Jest"
+    },
+    {
+        "name": "@wheatstalk/cdk-intrinsic-validator",
+        "description": "Make deployments safer by adding intrinsic validation to your stacks"
+    },
+    {
+        "name": "cypress-fail-on-network-error",
+        "description": "fail cypress test on network error"
+    },
+    {
+        "name": "@serenity-js/jasmine",
+        "description": "Serenity/JS test runner adapter for Jasmine, enabling the use of the Screenplay Pattern in Jasmine-based test suites and leveraging Serenity/JS reporting capabilities"
+    },
+    {
+        "name": "cypress-cucumber-tagging",
+        "description": "Module to help in cucumber based tag expression for executing Cypress test suite/case based on given tag expression"
+    },
+    {
+        "name": "@serenity-js/protractor",
+        "description": "Adapter that integrates @serenity-js/web with Protractor, enabling Serenity/JS reporting and using the Screenplay Pattern to write end-to-end test scenarios"
+    },
+    {
+        "name": "tunnelmole",
+        "description": "Tunnelmole, an open source ngrok alternative. Instant public URLs for any http/https based application. Available as a command line application or as an NPM dependency for your code. Stable and maintained. Good test coverage. Works behind firewalls"
+    },
+    {
+        "name": "@allurereport/plugin-server-reload",
+        "description": "Allure Plugin to reload Allure Static Server on state change"
+    },
+    {
+        "name": "@allurereport/service",
+        "description": "Allure Service API"
+    },
+    {
+        "name": "@argos-ci/cypress",
+        "description": "Cypress SDK for visual testing with Argos."
+    },
+    {
+        "name": "@depay/web3-mock-evm",
+        "description": "JavaScript library to mock web3 responses either by emulating web3 wallets or web3 RPC requests."
+    },
+    {
+        "name": "@mysticatea/spy",
+        "description": "Just a spy library."
+    },
+    {
+        "name": "poku",
+        "description": "🐷 Poku makes testing easy for Node.js, Bun, Deno, and you at the same time."
+    },
+    {
+        "name": "@testcontainers/mariadb",
+        "description": "MariaDB module for Testcontainers"
+    },
+    {
+        "name": "jstest",
+        "description": "The cross-platform JavaScript test framework"
+    },
+    {
+        "name": "@split-tests/jest",
+        "description": "Splits test files in Jest and ensures all parallel jobs finish work at a similar time"
+    },
+    {
+        "name": "@1024pix/ember-testing-library",
+        "description": "Package for Testing Library usage in Ember applications."
+    },
+    {
+        "name": "node-tdd",
+        "description": "Drop in extension for mocha to abstract commonly used test setups"
+    },
+    {
+        "name": "@nomicfoundation/hardhat-ethers-chai-matchers",
+        "description": "Hardhat utils for testing"
+    },
+    {
+        "name": "@wdio/lighthouse-service",
+        "description": "A WebdriverIO service that allows you to run Chrome DevTools commands in your tests"
+    },
+    {
+        "name": "predicate",
+        "description": "A set of predicate functions to improve your value testing and comparisons."
+    },
+    {
+        "name": "@prb/test",
+        "description": "Modern collection of testing assertions and logging utilities for Solidity"
+    },
+    {
+        "name": "jasminewd",
+        "description": "WebDriverJS adapter for Jasmine."
+    },
+    {
+        "name": "@appium/images-plugin",
+        "description": "Plugin for working with images and image elements in Appium"
+    },
+    {
+        "name": "@prisma/dev",
+        "description": "A local Prisma Postgres server for development and testing"
+    },
+    {
+        "name": "@stepci/runner",
+        "description": "Step CI Runner"
+    },
+    {
+        "name": "@nut-tree-fork/nut-js",
+        "description": "Native system automation for node.js"
+    },
+    {
+        "name": "testing-library__dom",
+        "description": "Shadow DOM support for the simple and complete DOM testing utilities that encourage good testing practices you've come to know and love from Dom Testing Library."
+    },
+    {
+        "name": "formatjs",
+        "description": "JavaScript date format tester."
+    },
+    {
+        "name": "it",
+        "description": "A testing framework for node"
+    },
+    {
+        "name": "@testcontainers/minio",
+        "description": "MinIO module for Testcontainers"
+    },
+    {
+        "name": "playwright-testing-library",
+        "description": "playwright + dom-testing-library"
+    },
+    {
+        "name": "enzyme-adapter-react-17-updated",
+        "description": "Unofficial adapter for React 17 for [Enzyme]"
+    },
+    {
+        "name": "@stacksjs/testing",
+        "description": "The Stacks way of testing."
+    },
+    {
+        "name": "web-component-tester",
+        "description": "web-component-tester makes testing your web components a breeze!"
+    },
+    {
+        "name": "enzyme-wait",
+        "description": "Wait for an async element to appear when performing integration tests with enzyme."
+    },
+    {
+        "name": "preact-render-spy",
+        "description": "Render preact components with access to the produced virtual dom for testing."
+    },
+    {
+        "name": "react-native-test-runner",
+        "description": "Run tests in React Native's environment."
+    },
+    {
+        "name": "@toptal/davinci-qa",
+        "description": "QA package to test your application"
+    },
+    {
+        "name": "node-qunit-puppeteer",
+        "description": "A simple node module for running qunit tests with headless Chromium"
+    },
+    {
+        "name": "gulp-jest",
+        "description": "Gulp plugin for running your Jest tests"
+    },
+    {
+        "name": "@testcontainers/hivemq",
+        "description": "HiveMQ module for Testcontainers"
+    },
+    {
+        "name": "pw-api-plugin",
+        "description": "Playwright plugin for comprehensive API testing and result presentation using the Playwright UI, Trace Viewer, and HTML Report. It significantly aids debugging processes and supports both Playwright's native API and Axios requests."
+    },
+    {
+        "name": "newman-reporter-ctrf-json",
+        "description": "A Postman Newman JSON test reporter to create test results reports"
+    },
+    {
+        "name": "bmocha",
+        "description": "Alternative implementation of mocha"
+    },
+    {
+        "name": "@secretlint/tester",
+        "description": "A testing library for secretlint rule"
+    },
+    {
+        "name": "@open-wc/testing-karma",
+        "description": "Testing with karma following open-wc recommendations"
+    },
+    {
+        "name": "chai-bites",
+        "description": "Chai assertions for byte arrays equality"
+    },
+    {
+        "name": "@xray-app/xray-automation",
+        "description": "Library for uploading test results to Xray Test Management"
+    },
+    {
+        "name": "node-qunit",
+        "description": "QUnit testing framework for Node.js"
+    },
+    {
+        "name": "@colyseus/loadtest",
+        "description": "Utility tool for load testing Colyseus."
+    },
+    {
+        "name": "@testcontainers/azurite",
+        "description": "Azurite module for Testcontainers"
+    },
+    {
+        "name": "nothing-mock",
+        "description": "A chainable, callable mock object which always returns itself"
+    },
+    {
+        "name": "mocksse",
+        "description": "Allows testing of EventSource / Server Sent Events"
+    },
+    {
+        "name": "react-dom-instance",
+        "description": "Get react component instances from a DOM node"
+    },
+    {
+        "name": "@badisi/wdio-harness",
+        "description": "WebdriverIO support for Angular component test harnesses."
+    },
+    {
+        "name": "icedfrisby",
+        "description": "API testing made easy, fast, and fun"
+    },
+    {
+        "name": "unroll",
+        "description": "A helper tool to easily iterate through test data against a test method with verbose output about each iteration."
+    },
+    {
+        "name": "@deepakvishwakarma/cucumber-json-formatter",
+        "description": "This module is wrapper around [json-formatter](https://github.com/cucumber/json-formatter). This module includes latest binary of `cucumber/json-formatter(v19.0.0)` for linux, mac and windows system."
+    },
+    {
+        "name": "@serenity-js/playwright-test",
+        "description": "Serenity/JS test runner adapter for Playwright Test, combining Playwright's developer experience with the advanced reporting and automation capabilities of Serenity/JS"
+    },
+    {
+        "name": "gremlins.js",
+        "description": "A monkey testing library written in JavaScript, for Node.js and the browser. Use it to check the robustness of web applications by unleashing a horde of undisciplined gremlins."
+    },
+    {
+        "name": "annois",
+        "description": "Generative type checkers for JavaScript"
+    },
+    {
+        "name": "cucumber-junit-formatter",
+        "description": "Cucmber.js junit xml formatter"
+    },
+    {
+        "name": "create-test-server",
+        "description": "Creates a minimal Express server for testing"
+    },
+    {
+        "name": "@serenity-js/playwright",
+        "description": "Adapter that integrates @serenity-js/web with Playwright, enabling Serenity/JS reporting and using the Screenplay Pattern to write component and end-to-end test scenarios"
+    },
+    {
+        "name": "gulp-webdriver",
+        "description": "gulp-webdriver is a gulp plugin to run e2e tests with the WebdriverIO testrunner"
+    },
+    {
+        "name": "@ephox/agar",
+        "description": "Testing infrastructure"
+    },
+    {
+        "name": "nightwatch-helpers",
+        "description": "custom assertions and commands for easier nightwatch tests"
+    },
+    {
+        "name": "fuxor",
+        "description": "Simple dependency injection by overriding require"
+    },
+    {
+        "name": "chai-parentheses",
+        "description": "Extends Chai with lint-friendly terminating assertions"
+    },
+    {
+        "name": "jest-rdf",
+        "description": "Jest utilities for RDF(JS)"
+    },
+    {
+        "name": "phasic",
+        "description": "Run functions in phases. Useful for load and performance testing"
+    },
+    {
+        "name": "ts-mocker",
+        "description": "ts-mocker is a performance-focused and lightweight faker/data mocking library for TypeScript."
+    },
+    {
+        "name": "happen",
+        "description": "real browser events"
+    },
+    {
+        "name": "files-exist",
+        "description": "Verify that all the filenames in an array are existing files"
+    },
+    {
+        "name": "chai-fuzzy",
+        "description": "fuzzy matchers for chai"
+    },
+    {
+        "name": "verify-it",
+        "description": "Randomised test property/data generation for NodeJS"
+    },
+    {
+        "name": "twig-testing-library",
+        "description": "Simple and complete Twig testing utilities that encourage good testing practices."
+    },
+    {
+        "name": "@wikimedia/karma-firefox-launcher",
+        "description": "A Karma plugin. Launcher for Firefox."
+    },
+    {
+        "name": "cli-testing-library",
+        "description": "Simple and complete CLI testing utilities that encourage good testing practices."
+    },
+    {
+        "name": "nest-spectator",
+        "description": "Auto-mocking for Nestjs providers"
+    },
+    {
+        "name": "@aurelia/testing",
+        "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg)](http://www.typescriptlang.org/) [![CircleCI](https://circleci.com/"
+    },
+    {
+        "name": "noop-stream",
+        "description": "Create a readable Node.js stream that produces no data (or optionally blank data) or a writable stream that discards data"
+    },
+    {
+        "name": "@phantom/synpress",
+        "description": "Synpress is e2e testing framework based around Cypress.io & playwright with included MetaMask support. Test your dapps with ease."
+    },
+    {
+        "name": "jest-sandbox",
+        "description": "Simple sinon like sandbox for jest"
+    },
+    {
+        "name": "@segment/protocol",
+        "description": "Testing component used to fake different protocols from the browser"
+    },
+    {
+        "name": "magnitude-core",
+        "description": "Magnitude e2e testing agent"
+    },
+    {
+        "name": "@shopware-ag/acceptance-test-suite",
+        "description": "Shopware Acceptance Test Suite"
+    },
+    {
+        "name": "@zerostep/playwright",
+        "description": "Supercharge your Playwright tests with AI"
+    },
+    {
+        "name": "casperjs",
+        "description": "A navigation scripting & testing utility for PhantomJS and SlimerJS"
+    },
+    {
+        "name": "@commercetools-frontend/cypress",
+        "description": "Cypress commands and utilities for Custom Applications"
+    },
+    {
+        "name": "@itk-wasm/dam",
+        "description": "Data Archive Manager"
+    },
+    {
+        "name": "cypress-waitfor",
+        "description": "A zero-dependency Cypress plugin to wait for an element to exist on page"
+    },
+    {
+        "name": "playright",
+        "description": "test- and user-oriented wrapper for Playwright"
+    },
+    {
+        "name": "bun-bagel",
+        "description": "🥯 The Bun fetch mocker with a hole lot of flavor."
+    },
+    {
+        "name": "express-generator-typescript",
+        "description": "Generate new Express applications similar to express-generate which but sets it up to use TypeScript instead"
+    },
+    {
+        "name": "@stuntman/client",
+        "description": "Stuntman - HTTP proxy / mock API client"
+    },
+    {
+        "name": "cypress-test-data-generator",
+        "description": "Cypress plugin for generating test data using Faker"
+    },
+    {
+        "name": "@sanity/ui-workshop",
+        "description": "An environment for designing, reviewing, and quality-testing React components."
+    },
+    {
+        "name": "@drptbl/gremlins.js",
+        "description": "A monkey testing library written in JavaScript, for Node.js and the browser. Use it to check the robustness of web applications by unleashing a horde of undisciplined gremlins."
+    },
+    {
+        "name": "@zombienet/orchestrator",
+        "description": "ZombieNet aim to be a testing framework for substrate based blockchains, providing a simple cli tool that allow users to spawn and test ephemeral Substrate based networks"
+    },
+    {
+        "name": "ab-testing",
+        "description": "A/B testing made easy."
+    },
+    {
+        "name": "playwright-expect",
+        "description": "The playwright-expect is an assertion library for TypeScript and JavaScript intended for use with a test runner such as Jest or Playwright Test."
+    },
+    {
+        "name": "elm-spec-runner",
+        "description": "Node CLI for Elm-Spec"
+    },
+    {
+        "name": "@serenity-js/webdriverio",
+        "description": "Adapter that integrates @serenity-js/web with the latest stable version of WebdriverIO, enabling Serenity/JS reporting and using the Screenplay Pattern to write web and mobile test scenarios"
+    },
+    {
+        "name": "@stuntman/shared",
+        "description": "Stuntman - HTTP proxy / mock shared types and utils"
+    },
+    {
+        "name": "@mizdra/graphql-codegen-typescript-fabbrica",
+        "description": "GraphQL Code Generator Plugin to define mock data factory."
+    },
+    {
+        "name": "@qavajs/memory",
+        "description": "memory package for @qavajs framework"
+    },
+    {
+        "name": "@cypress/angular",
+        "description": "Test Angular Components with Cypress"
+    },
+    {
+        "name": "@appium/test-support",
+        "description": "A collection of test utilities used across Appium packages"
+    },
+    {
+        "name": "jest-after-this",
+        "description": "it's like afterEach, but for the current test"
+    },
+    {
+        "name": "magnitude-test",
+        "description": "A TypeScript client for running automated UI tests through the Magnitude testing platform"
+    },
+    {
+        "name": "@stencil/playwright",
+        "description": "Testing adapter to use Playwright with Stencil"
+    },
+    {
+        "name": "hoxy",
+        "description": "Web-hacking proxy API for node"
+    },
+    {
+        "name": "storycapture",
+        "description": "A Storybook addon, Save the screenshot image of your stories! via puppeteer."
+    },
+    {
+        "name": "window-resizeto",
+        "description": "A window.resizeTo polyfill for test environments like Jest & JSDOM"
+    },
+    {
+        "name": "@pact-foundation/pact-web",
+        "description": "Pact for the browser"
+    },
+    {
+        "name": "deverything",
+        "description": "Everything you need for Dev"
+    },
+    {
+        "name": "qunit-phantomjs-runner",
+        "description": "A PhantomJS-powered headless test runner for QUnit"
+    },
+    {
+        "name": "e2e-mailbox",
+        "description": "E2E test your email notification system using GuerrillaMail API."
+    },
+    {
+        "name": "vue3-snapshot-serializer",
+        "description": "Vitest snapshot serializer for Vue 3 components"
+    },
+    {
+        "name": "@luigi-project/testing-utilities",
+        "description": "Luigi testing utilities for standalone testing of microfrontends"
+    },
+    {
+        "name": "@mapbox/mock-aws-sdk-js",
+        "description": "Create stubbed aws-sdk-js clients for testing purposes"
+    },
+    {
+        "name": "@nestjs-cognito/testing",
+        "description": "Cognito testing helpers for NestJS-Cognito"
+    },
+    {
+        "name": "cypress-log",
+        "description": "Custom Cypress command that overrides the default cy.log() command and adds the ability to log to the terminal and the Command Log."
+    },
+    {
+        "name": "interface-forge",
+        "description": "A TypeScript library for creating strongly typed mock data factories using Faker.js for test data generation"
+    },
+    {
+        "name": "sql-fixtures",
+        "description": "Populate a SQL database with fixture data"
+    },
+    {
+        "name": "wpt-runner",
+        "description": "Runs web platform tests in Node.js using jsdom"
+    },
+    {
+        "name": "@tenkeylabs/dappwright",
+        "description": "End-to-End (E2E) testing for dApps using Playwright + MetaMask"
+    },
+    {
+        "name": "@antiwork/shortest",
+        "description": "AI-powered natural language end-to-end testing framework"
+    },
+    {
+        "name": "test-server-sdk",
+        "description": "TypeScript SDK for test-server"
+    },
+    {
+        "name": "stubby",
+        "description": "a lightweight server for stubbing external systems and endpoints"
+    },
+    {
+        "name": "@reown/appkit-testing",
+        "description": "The full stack toolkit to build onchain app UX."
+    },
+    {
+        "name": "stub-azure-function-context",
+        "description": "Provides an object similar to Function Runtime's context for use in unit testing"
+    },
+    {
+        "name": "serverless-plugin-test-helper",
+        "description": "A utility library to help with testing deployed serverless applications"
+    },
+    {
+        "name": "react-test-context-provider",
+        "description": "A function that allows you to specify context to pass to a child component (intended for testing only)"
+    },
+    {
+        "name": "enzyme-async-helpers",
+        "description": "Async helpers for testing React components with Enzyme."
+    },
+    {
+        "name": "@vendure/testing",
+        "description": "End-to-end testing tools for Vendure projects"
+    },
+    {
+        "name": "codeceptjs-cmdhelper",
+        "description": "Let your CodeceptJS tests run commands in the console/terminal"
+    },
+    {
+        "name": "test-each",
+        "description": "🤖 Repeat tests. Repeat tests. Repeat tests."
+    },
+    {
+        "name": "enzyme-adapter-react-helper",
+        "description": "JavaScript Testing utilities for React"
+    },
+    {
+        "name": "@as-pect/core",
+        "description": "Write AssemblyScript tests at blazing fast speeds"
+    },
+    {
+        "name": "phantom-proxy",
+        "description": "a lightweight proxy that lets you to drive phantomjs from node."
+    },
+    {
+        "name": "targaryen",
+        "description": "Test Firebase security rules without connecting to Firebase."
+    },
+    {
+        "name": "@devicecloud.dev/dcd",
+        "description": "Better cloud maestro testing"
+    },
+    {
+        "name": "@deploysentinel/playwright",
+        "description": "Enables viewing/debugging Playwright runs from remote environments (ex. CI) with debug information you're used to having locally."
+    },
+    {
+        "name": "@testrevolution/bugbug-cli",
+        "description": "BugBug CLI"
+    },
+    {
+        "name": "gemini",
+        "description": "UI Screenshot testing utility"
+    },
+    {
+        "name": "creevey",
+        "description": "Cross-browser screenshot testing tool for Storybook with fancy UI Runner"
+    },
+    {
+        "name": "unassessed",
+        "description": "Extensible type-aware assertion library"
+    },
+    {
+        "name": "@flystorage/chaos",
+        "description": "A storage adapter decorator with the ability to stage errors."
+    },
+    {
+        "name": "get-bin-path",
+        "description": "Get the current package's binary path"
+    },
+    {
+        "name": "karma-chai-dom",
+        "description": "chai-dom for Karma"
+    },
+    {
+        "name": "qunit-assertions-extra",
+        "description": "Collection of helpful assertions for use with qunit"
+    },
+    {
+        "name": "@jsdevtools/karma-host-environment",
+        "description": "Access host info (OS, browser version, environment variables) in browser tests"
+    },
+    {
+        "name": "storybook-addon-vis",
+        "description": "Storybook Vitest visual testing addon"
+    },
+    {
+        "name": "@appetize/playwright",
+        "description": "Test your mobile apps on Appetize.io with Playwright"
+    },
+    {
+        "name": "@as-pect/assembly",
+        "description": "Write AssemblyScript tests at blazing fast speeds"
+    },
+    {
+        "name": "@as-pect/cli",
+        "description": "Write AssemblyScript tests at blazing fast speeds"
+    },
+    {
+        "name": "type-testing",
+        "description": "🌱 A micro library for testing your TypeScript types"
+    },
+    {
+        "name": "react-native-svg-mock",
+        "description": "A mock implementation of react-native-svg for use in tests."
+    },
+    {
+        "name": "ghost-inspector",
+        "description": "Ghost Inspector CLI and API Library for Node.js"
+    },
+    {
+        "name": "puppeteer-screenshot-tester",
+        "description": "Small library that allows us to compare screenshots generated by puppeteer in our tests"
+    },
+    {
+        "name": "jest-coverage-to-csv",
+        "description": "Convert jest coverage json to csv"
+    },
+    {
+        "name": "stepci",
+        "description": "Automated API Testing and Quality Assurance"
+    },
+    {
+        "name": "pgmock2",
+        "description": "An NPM module for mocking a connection to a PostgreSQL database."
+    },
+    {
+        "name": "replay",
+        "description": "When API testing slows you down: record and replay HTTP responses like a boss"
+    },
+    {
+        "name": "@appium/doctor",
+        "description": "Test environment for fitness to run Appium"
+    },
+    {
+        "name": "gemini-coverage",
+        "description": "Coverage report generator for gemini"
+    },
+    {
+        "name": "jest-watch-repeat",
+        "description": "Repeat test suite multiple times"
+    },
+    {
+        "name": "chai-nock",
+        "description": "Extends Chai with assertions for the Nock Http mocking framework"
+    },
+    {
+        "name": "@stuntman/server",
+        "description": "Stuntman - HTTP proxy / mock server with API"
+    },
+    {
+        "name": "@argos-ci/storybook",
+        "description": "Visual testing for Storybook test runner."
+    },
+    {
+        "name": "zora",
+        "description": "the lightest yet the fastest javascript testing library"
+    },
+    {
+        "name": "tdd-guard",
+        "description": "Automated Test-Driven Development enforcement for Claude Code"
+    },
+    {
+        "name": "stable-chromium",
+        "description": "A library to install stable Chromium for testing via Gauge and Taiko"
+    },
+    {
+        "name": "chai-better-shallow-deep-equal",
+        "description": "Chai shallowDeepEqual replacement that wraps Unexpected"
+    },
+    {
+        "name": "protractor-console-plugin",
+        "description": "Protractor plugin that checks the browser log after each test for warnings and errors"
+    },
+    {
+        "name": "@zitterorg/magni-eos",
+        "description": "[![github actions][actions-image]][actions-url] [![coverage][codecov-image]][codecov-url] [![dependency status][deps-svg]][deps-url] [![dev dependency status][dev-deps-svg]][dev-deps-url] [![License][license-image]][license-url] [![Downloads][downloads-im"
+    },
+    {
+        "name": "allure-jasmine",
+        "description": "Allure Jasmine integration"
+    },
+    {
+        "name": "boomslinger",
+        "description": "Easy to use postgres data injector library that works with any POJO."
+    },
+    {
+        "name": "fractal-page-object",
+        "description": "A lightweight page object implementation with a focus on simplicity and extensibility"
+    },
+    {
+        "name": "counterfact",
+        "description": "a library for building a fake REST API for testing"
+    },
+    {
+        "name": "json-server-auth",
+        "description": "Authentication middleware for JSON Server"
+    },
+    {
+        "name": "@sentry/jest-environment",
+        "description": "Automatic performance and profiling instrumentation for your jest tests."
+    },
+    {
+        "name": "w3wallets",
+        "description": "browser wallets for playwright"
+    },
+    {
+        "name": "webdriverajax",
+        "description": "Capture and assert HTTP ajax calls in webdriver.io 🕸"
+    },
+    {
+        "name": "@as-pect/snapshots",
+        "description": "A package for dealing with snapshots"
+    },
+    {
+        "name": "mocha-appveyor-reporter",
+        "description": "Mocha Reporter to report tests while running in AppVeyor CI"
+    },
+    {
+        "name": "gulp-mocha-phantomjs",
+        "description": "run client-side Mocha tests with PhantomJS"
+    },
+    {
+        "name": "newman-junit",
+        "description": "Command-line companion utility for Postman"
+    },
+    {
+        "name": "qunit-tap",
+        "description": "A TAP Output Producer Plugin for QUnit"
+    },
+    {
+        "name": "@taqueria/plugin-jest",
+        "description": "A plugin for Taqueria providing automated testing using the Jest Testing Framework"
+    },
+    {
+        "name": "webdriver-server",
+        "description": "webdriver server"
+    },
+    {
+        "name": "expect-predicate",
+        "description": "An extension for expect that lets you test values against arbitrary predicates"
+    },
+    {
+        "name": "macaca-logo",
+        "description": "macaca logo"
+    },
+    {
+        "name": "es-jest",
+        "description": "esbuild preprocessor for Jest"
+    },
+    {
+        "name": "aiotests-playwright-reporter",
+        "description": "AIO Tests reporter for reporting results from Playwright to AIO Tests"
+    },
+    {
+        "name": "@amadeus-it-group/kassette",
+        "description": "Development server, used mainly for testing, which proxies requests and is able to easily manage local mocks."
+    },
+    {
+        "name": "jest-test-matrix",
+        "description": "A small utility for Jest to test all combinations of parameters for a function at once."
+    },
+    {
+        "name": "postcss-tape",
+        "description": "Quickly test PostCSS plugins"
+    },
+    {
+        "name": "cypress-intercept-search",
+        "description": "A Cypress plugin to recursively search your intercepted requests/responses by key/value"
+    },
+    {
+        "name": "@bolt/testing-utils",
+        "description": "Server side utilities for running tests in the Bolt Design System."
+    },
+    {
+        "name": "@open-wc/testing-karma-bs",
+        "description": "Testing with karma using browserstack following open-wc recommendations"
+    },
+    {
+        "name": "redux-logic-test",
+        "description": "redux-logic test utilities to facilitate the testing of logic. Create mock store"
+    },
+    {
+        "name": "cypress-ct-lit",
+        "description": "Cypress Component Testing for Lit and Web Components"
+    },
+    {
+        "name": "vitest-extended",
+        "description": "Additional Vitest matchers"
+    },
+    {
+        "name": "cy-view",
+        "description": "A utility function to run Cypress tests on multiple viewports"
+    },
+    {
+        "name": "enzyme-adapter-react-15.4",
+        "description": "JavaScript Testing utilities for React"
+    },
+    {
+        "name": "@code-pushup/coverage-plugin",
+        "description": "Code PushUp plugin for tracking code coverage ☂"
+    },
+    {
+        "name": "cbt_tunnels",
+        "description": "Creates a local connection to CrossBrowserTesting.com which allows you to test sites behind your firewall or to access web pages that are saved locally on your machine. In just a few seconds, you can establish a connection which allows you to do live test"
+    },
+    {
+        "name": "@applitools/eyes-nightwatch",
+        "description": "Applitools Eyes SDK for Nightwatch.js"
+    },
+    {
+        "name": "cloudflare-worker-mock",
+        "description": "Mocks for the Cloudflare Worker API"
+    },
+    {
+        "name": "mcpvals",
+        "description": "Evaluation library for Model Context Protocol servers"
+    },
+    {
+        "name": "cucumber-assert",
+        "description": "An assertion library for cucumber.js providing cucumber compatible failures instead of exceptions"
+    },
+    {
+        "name": "manten",
+        "description": "満点 - Lightweight testing library for Node.js"
+    },
+    {
+        "name": "wct-browser-legacy",
+        "description": "Client-side dependencies for web-component-tester tests installed via npm."
+    },
+    {
+        "name": "playwright-network-cache",
+        "description": "Cache network requests in Playwright tests"
+    },
+    {
+        "name": "playwright-magic-steps",
+        "description": "Auto-transform JavaScript comments into Playwright steps"
+    },
+    {
+        "name": "chai-roughly",
+        "description": "deep equals assertions with tolerance for chai"
+    },
+    {
+        "name": "winston-spy",
+        "description": "Test winston logging with spies"
+    },
+    {
+        "name": "jest-fela-bindings",
+        "description": "Abstract Fela bindings for Jest"
+    },
+    {
+        "name": "@netanelh2/create-playwright-project",
+        "description": "CLI tool to scaffold new Playwright projects with @netanelh2/playwright-framework (updated)"
+    },
+    {
+        "name": "reqres",
+        "description": "Stub request and response objects for testing express applications and middleware"
+    },
+    {
+        "name": "inspect-loader",
+        "description": "Webpack loader designed for loader testing and debugging. Calls a function with the received input."
+    },
+    {
+        "name": "@testcontainers/neo4j",
+        "description": "Neo4J module for Testcontainers"
+    },
+    {
+        "name": "midnight-smoker",
+        "description": "Smoke test your package tarball (instead of failing miserably)"
+    },
+    {
+        "name": "@a11ywatch/core",
+        "description": "a11ywatch central API"
+    },
+    {
+        "name": "jest-react-fela",
+        "description": "Jest helpers for react-fela"
+    },
+    {
+        "name": "annotate",
+        "description": "Asserts your function invariants"
+    },
+    {
+        "name": "jest-matcher-one-of",
+        "description": "A Jest matcher to test if a value is one of many (like enums)"
+    },
+    {
+        "name": "cypress-cucumber-with-tags",
+        "description": "Run gherkin-syntaxed specs with cypress.io"
+    },
+    {
+        "name": "cypress-lit",
+        "description": "Cypress component testing for web components written in Lit or natively"
+    },
+    {
+        "name": "mocha-webdriver",
+        "description": "Write Mocha style tests using selenium-webdriver, with many conveniences."
+    },
+    {
+        "name": "react-native-mock-render",
+        "description": "A fork of react-native-mock that renders components"
+    },
+    {
+        "name": "@open-wc/demoing-storybook",
+        "description": "Storybook configuration following open-wc recommendations"
+    },
+    {
+        "name": "@applitools/eyes-selenium",
+        "description": "Applitools Eyes SDK for Selenium WebDriver"
+    },
+    {
+        "name": "thunk-test",
+        "description": "Modular testing for JavaScript"
+    },
+    {
+        "name": "@netanelh2/playwright-framework",
+        "description": "A robust Playwright TypeScript testing framework with Page Object Model, smart locators, and utilities"
+    },
+    {
+        "name": "testee",
+        "description": "Automated cross-browser testing made easy."
+    },
+    {
+        "name": "mock-argv",
+        "description": "Temporarily overrides the command line arguments. This is useful for testing."
+    },
+    {
+        "name": "playwright-mail-reporter",
+        "description": "Mail reporter for Playwright which allows you to send the test results via email."
+    },
+    {
+        "name": "@testla/screenplay",
+        "description": "Framework for an implementation of the Screenplay pattern."
+    },
+    {
+        "name": "chai-counting",
+        "description": "A simple counting plugin for the Chai assertion library"
+    },
+    {
+        "name": "@promptbook/fake-llm",
+        "description": "Promptbook: Turn your company's scattered knowledge into AI ready books"
+    },
+    {
+        "name": "@scalar/docusaurus",
+        "description": "Docusaurus integration for api references"
+    },
+    {
+        "name": "unexpected-reaction",
+        "description": "An Unexpected plugin to make React testing with unexpected-dom more convenient"
+    },
+    {
+        "name": "pgsql-test",
+        "description": "pgsql-test offers isolated, role-aware, and rollback-friendly PostgreSQL environments for integration tests — giving developers realistic test coverage without external state pollution"
+    },
+    {
+        "name": "tidepool-standard-action",
+        "description": "Tidepool's (enforceable!) standard for redux action objects."
+    },
+    {
+        "name": "minctest",
+        "description": "Minimal testing framework for Node.js."
+    },
+    {
+        "name": "nightwatch-cucumber",
+        "description": "Nightwatch.js plugin for Cucumber.js"
+    },
+    {
+        "name": "stripe-cli",
+        "description": "A handful tool to create fake dataset for Stripe"
+    },
+    {
+        "name": "@orchestrator/ngx-testing",
+        "description": "Testing utilities for Angular projects"
+    },
+    {
+        "name": "@slowcheetah/qunitjs-1",
+        "description": "An easy-to-use JavaScript Unit Testing framework."
+    },
+    {
+        "name": "run-when-changed",
+        "description": "Selectively executes commands when watched files are changed."
+    },
+    {
+        "name": "@delon/testing",
+        "description": "Test suite for ng-alain."
+    },
+    {
+        "name": "@rentready/flutter-selenium-bridge",
+        "description": "A tool to enable automated Selenium WebDriver testing for Flutter Web applications compiled with CanvasKit."
+    },
+    {
+        "name": "@applitools/spec-driver-selenium",
+        "description": ""
+    },
+    {
+        "name": "@serenity-js/webdriverio-8",
+        "description": "Adapter that integrates @serenity-js/web with WebdriverIO 8, enabling Serenity/JS reporting and using the Screenplay Pattern to write web and mobile test scenarios"
+    },
+    {
+        "name": "robotremote",
+        "description": "A remote keyword server and client for the generic test automation suite Robot Framework."
+    },
+    {
+        "name": "micro-should",
+        "description": "Micro testing framework with familiar syntax, multi-env ESM support & parallel execution"
+    },
+    {
+        "name": "defence",
+        "description": "extract fenced code from CommonMark documents"
+    },
+    {
+        "name": "@bolt/nightwatch-config",
+        "description": "Nightwatch testing config + helpers for the Bolt Design System."
+    },
+    {
+        "name": "grunt-protractor-webdriver",
+        "description": "grunt plugin for starting Protractor's bundled Selenium Webdriver"
+    },
+    {
+        "name": "browsermob-proxy",
+        "description": "Javascript bindings for the browsermob-proxy"
+    },
+    {
+        "name": "hoodwink",
+        "description": "A dead simple mock/stub module for Javascript"
+    },
+    {
+        "name": "@lazy-assert/check-basic",
+        "description": ""
+    },
+    {
+        "name": "seeded-rand",
+        "description": "A simple seeded pseudo-random number generator"
+    },
+    {
+        "name": "@flood/element-core",
+        "description": "Flood Element is a browser based load generation tool for easily testing modern web application performance"
+    },
+    {
+        "name": "@applitools/eyes-common",
+        "description": "Utilities for working with Eyes JavaScript SDK and the visual grid"
+    },
+    {
+        "name": "mrm-task-jest",
+        "description": "Mrm task that adds Jest"
+    },
+    {
+        "name": "connect-slow",
+        "description": "Middleware to delay answering requests based on request url, useful to diagnose website behavior based on load delays"
+    },
+    {
+        "name": "aws-testing-library",
+        "description": "Chai and Jest matchers for aws services"
+    },
+    {
+        "name": "quick_check",
+        "description": "QuickCheck for JavaScript"
+    },
+    {
+        "name": "madwizard",
+        "description": "Turn Markdown into Wizards"
+    },
+    {
+        "name": "zurvan",
+        "description": "A library for simulating time in Node.js"
+    },
+    {
+        "name": "just-api",
+        "description": "Specification based API test framework for HTTP APIs (REST, GraphQL)"
+    },
+    {
+        "name": "spec",
+        "description": "An event-driven JavaScript unit testing library."
+    },
+    {
+        "name": "ember-cli-sauce",
+        "description": "Cross browser testing for your ember-cli app using SauceLabs."
+    },
+    {
+        "name": "ispy",
+        "description": "A simple spy."
+    },
+    {
+        "name": "@mnajdova/enzyme-adapter-react-18",
+        "description": "JavaScript Testing utilities for React"
+    },
+    {
+        "name": "vitest-browser-lit",
+        "description": "Render Lit components in Vitest Browser Mode"
+    },
+    {
+        "name": "mocha-phantomjs-istanbul",
+        "description": "collect istanbul coverage from instrumented client-side Mocha tests with PhantomJS"
+    },
+    {
+        "name": "event_request",
+        "description": "A Backend Server"
+    },
+    {
+        "name": "defence-cli",
+        "description": "command-line tool for extracting fenced code from CommonMark documents"
+    },
+    {
+        "name": "cypress-layout-inspector",
+        "description": "Simple utility to provide layout testing functionality to Cypress"
+    },
+    {
+        "name": "@serenity-js/mocha",
+        "description": "Serenity/JS test runner adapter for Mocha, enabling the use of the Screenplay Pattern in Mocha-based test suites and leveraging Serenity/JS reporting capabilities"
+    },
+    {
+        "name": "babel-plugin-webpack-aliases",
+        "description": "Babel plugin which allows to use webpack aliases"
+    },
+    {
+        "name": "scuttle-testbot",
+        "description": "Spins up an empty, temporary ssb-server server that stores data in your temp folder"
+    },
+    {
+        "name": "@testla/screenplay-playwright",
+        "description": "Implementation of the Playwright abilities, actions and questions."
+    },
+    {
+        "name": "@zarconontol/enzyme-adapter-react-18",
+        "description": "JavaScript Testing utilities for React"
+    },
+    {
+        "name": "@applitools/eyes-common-legacy",
+        "description": "General purpose Javascript utilities."
+    },
+    {
+        "name": "kequtest",
+        "description": "A simple test utility"
+    },
+    {
+        "name": "@a11ywatch/a11ywatch",
+        "description": "A11yWatch lite sidecar for web accessibility automation."
+    },
+    {
+        "name": "redux-actions-assertions",
+        "description": "Assertions for redux actions testing"
+    },
+    {
+        "name": "jest-preset-gatsby",
+        "description": "Preset to simplify testing Gatsby sites with Jest"
+    },
+    {
+        "name": "@applitools/eyes-sdk-core-legacy",
+        "description": "Applitools Eyes SDK For JavaScript"
+    },
+    {
+        "name": "query-selector-ponyfill",
+        "description": "use querySelector syntax to search for nodes inside of (nested) shadow roots"
+    },
+    {
+        "name": "jooks",
+        "description": "An idiot-proof way of testing your custom react hooks"
+    },
+    {
+        "name": "@gweninterpreter/gwen-web",
+        "description": "NPM package providing a launcher for Gwen-Web."
+    },
+    {
+        "name": "angularjs-testing-library",
+        "description": "Simple and complete AngularJS testing utilities that encourage good testing practices."
+    },
+    {
+        "name": "hela-preset-tunnckocore",
+        "description": "A [hela][] preset of tasks for @tunncoCore GitHub organization"
+    },
+    {
+        "name": "react-ab-test",
+        "description": "A/B testing React components and debug tools. Isomorphic with a simple, universal interface. Well documented and lightweight. Tested in popular browsers and Node.js. Includes helpers for Mixpanel and Segment.com."
+    },
+    {
+        "name": "lua-cli",
+        "description": "Build, test, and deploy AI agents with custom tools, webhooks, and scheduled jobs. Features LuaAgent unified configuration, streaming chat, and batch deployment."
+    },
+    {
+        "name": "mcp-test-client",
+        "description": "A testing utility for Model Context Protocol (MCP) servers"
+    },
+    {
+        "name": "enzyme-adapter-react-16.3",
+        "description": "JavaScript Testing utilities for React"
+    },
+    {
+        "name": "@cyborgtests/test",
+        "description": "Powerfull extension for Playwright, that allows you to include manual verification steps in your automated test flow"
+    },
+    {
+        "name": "flagpole",
+        "description": "Simple and fast DOM integration, headless or headful browser, and REST API testing framework."
+    },
+    {
+        "name": "@corva/eslint-plugin-test-selectors",
+        "description": "Makes sure test DOM attributes (e.g. data-test-id) are added to interactive DOM elements."
+    },
+    {
+        "name": "jsdomify",
+        "description": "Create a JSDom instance for browserless testing, exposing some handling methods"
+    },
+    {
+        "name": "@storycap-testrun/browser",
+        "description": "Screenshot capture for Storybook addon-vitest - Provides stable visual testing functionality and Vitest plugin for Storybook stories running in browser environments"
+    },
+    {
+        "name": "chai-members-deep",
+        "description": "Extends chai.js with deep equality member checks, optionally also tracking the identity of nested objects."
+    },
+    {
+        "name": "@lokalise/universal-testing-utils",
+        "description": "Reusable testing utilities that are potentially relevant for both backend and frontend"
+    },
+    {
+        "name": "browser-ava",
+        "description": "Run ava tests in the browser"
+    },
+    {
+        "name": "supertest-koa-agent",
+        "description": "Converts a Koa app into a supertest compatible agent instance."
+    },
+    {
+        "name": "cypress-zephyr",
+        "description": "Cypress reporter for Zephyr"
+    },
+    {
+        "name": "@nesk/puphpeteer",
+        "description": "A Puppeteer bridge for PHP, supporting the entire API."
+    },
+    {
+        "name": "@applitools/eyes-images",
+        "description": "The simplest implementation of Applitools Eyes SDK, uploads images for validation"
+    },
+    {
+        "name": "rdf-test-suite-ldf",
+        "description": "An engine testing suite"
+    },
+    {
+        "name": "@fedify/testing",
+        "description": "Testing utilities for Fedify applications"
+    },
+    {
+        "name": "@salutejs/perftool",
+        "description": "Performance Monitoring System for React Components"
+    },
+    {
+        "name": "@proofdict/tester",
+        "description": "Test tool using proofdict."
+    },
+    {
+        "name": "react-dom-testing",
+        "description": "A minimal React DOM testing utility"
+    },
+    {
+        "name": "earljs",
+        "description": "Ergonomic, modern and type-safe assertion library"
+    },
+    {
+        "name": "sirocco-wc",
+        "description": "Scaffolding Tool for the fusion of lit with tailwind. DRY development in the speed of light with the zero configuration build tool parcel, playwright and jest testing. jenkinsCI ready."
+    },
+    {
+        "name": "@cypress/svelte",
+        "description": "Browser-based Component Testing for Svelte.js with Cypress.io 🧡"
+    },
+    {
+        "name": "alternative-facts",
+        "description": "JS lib that intercepts code and delivers incorrect values"
+    },
+    {
+        "name": "testee-client",
+        "description": "Testee testing framework client adapters"
+    },
+    {
+        "name": "@clipboard-health/testing-core",
+        "description": "TypeScript-friendly testing utilities."
+    },
+    {
+        "name": "@prismicio/mock",
+        "description": "Generate mock Prismic documents, fields, Slices, and models for development and testing environments"
+    },
+    {
+        "name": "@secretlint/secretlint-rule-openai",
+        "description": "An example rule for secretlint."
+    },
+    {
+        "name": "qunit-console-grouper",
+        "description": "QUnit plugin that groups console messages by test"
+    },
+    {
+        "name": "playwright-monaco",
+        "description": "Test Monaco editor integrations using Playwright"
+    },
+    {
+        "name": "monky",
+        "description": "Mongoose fixtures library inspired by factory_girl"
+    },
+    {
+        "name": "@msw/data",
+        "description": "Data querying library for testing JavaScript applications."
+    },
+    {
+        "name": "test-nino",
+        "description": "The fastest NINO (UK National Insurance number) generator and validator. Generates and validates UK NI numbers to NIM39110 specifications on Gov.uk."
+    },
+    {
+        "name": "tap-reader",
+        "description": "A smol, streaming TAP parser."
+    },
+    {
+        "name": "howslow",
+        "description": "Simple JS performance testing"
+    },
+    {
+        "name": "kava",
+        "description": "Kava has been powering accurate test suites for Node.js and Web Browsers since 2012."
+    },
+    {
+        "name": "scuri",
+        "description": "A spec generator schematic - Spec Create Update Read (class - component, service, directive and dependencies) Incorporate (them in the result)"
+    },
+    {
+        "name": "@chanzuckerberg/story-utils",
+        "description": "Utilities for using [Storybook stories](https://storybook.js.org/docs/react/get-started/whats-a-story) in non-Storybook environments. For example, using stories in Jest tests."
+    },
+    {
+        "name": "generic-cucumber-protractor-framework",
+        "description": "Generic Cucumber Protractor Automation Framework"
+    },
+    {
+        "name": "gulp-qunit",
+        "description": "Run QUnit unit tests in a headless PhantomJS instance."
+    },
+    {
+        "name": "dynamodb-migrations",
+        "description": "Dynamodb migrations for devops"
+    },
+    {
+        "name": "chai-spies-augment",
+        "description": "Additions to chai-spies, adding utilities to inspect args and check if a spy was called with a partial object"
+    },
+    {
+        "name": "drag-mock",
+        "description": "Trigger HTML5 drag & drop events for testing"
+    },
+    {
+        "name": "serverless-spy",
+        "description": "CDK-based library for writing elegant integration tests on AWS serverless architecture and an additional web console to monitor events in real time."
+    },
+    {
+        "name": "mad-utils",
+        "description": "A set of misc utilties I find myself repeatedly re-writing between projects."
+    },
+    {
+        "name": "cypress-plugin-grep-boxes",
+        "description": "Cypress plugin that allows user to run specific tests in open mode."
+    },
+    {
+        "name": "stubborn-ws",
+        "description": "Web server to mock external HTTP APIs in tests"
+    },
+    {
+        "name": "chai-ethers",
+        "description": "Chai Matchers for ethers type (copied from @ethereum-waffle/chai but without dependencies on ganache-core, etc...)"
+    },
+    {
+        "name": "cypress-waitforselector",
+        "description": "A zero-dependency Cypress plugin to wait for an element to exist on page"
+    },
+    {
+        "name": "@eclipse-glsp/mocha-config",
+        "description": "Shared Mocha test configuration for GLSP projects"
+    },
+    {
+        "name": "chai-spies-next",
+        "description": "Spies for the Chai assertion library."
+    },
+    {
+        "name": "viswiz-sdk",
+        "description": "The VisWiz.io Node.js SDK"
+    },
+    {
+        "name": "playwright-cli-select",
+        "description": "Playwright interactive cli prompts to select and run specs, tests or tags"
+    },
+    {
+        "name": "fuzzer",
+        "description": "a fuzzy input creator for tests"
+    },
+    {
+        "name": "gpt-mock",
+        "description": "Test library for mocking out Google Publisher Tags"
+    },
+    {
+        "name": "karma-serve-static-map",
+        "description": "Individually map multiple locations on the local filesystem to multiple base URLs in Karma."
+    },
+    {
+        "name": "gulp-litmus",
+        "description": "Send email tests to Litmus"
+    },
+    {
+        "name": "jest-expo-enzyme",
+        "description": "A Jest preset that enables you to test your universal Expo & React elements with the Enzyme testing library."
+    },
+    {
+        "name": "unexpected-react",
+        "description": "Plugin for unexpected, to allow for assertions on the React.js virtual DOM, and the shallow and test renderers"
+    },
+    {
+        "name": "node-qunit-phantomjs",
+        "description": "Run QUnit unit tests in a headless PhantomJS instance without using Grunt."
+    },
+    {
+        "name": "assert-json-body",
+        "description": "OpenAPI response body extraction and JSON shape assertion toolkit (framework-agnostic)"
+    },
+    {
+        "name": "vitest-auto-mock",
+        "description": "Library for mocking dependencies in Vitest with TypeScript without need to provide a path."
+    },
+    {
+        "name": "react-test-attributes",
+        "description": "React library to add data-* attributes to DOM elements."
+    },
+    {
+        "name": "@nearform/playwright-firebase",
+        "description": "Plugin to allow for Firebase authentication in Playwright tests"
+    },
+    {
+        "name": "terminator.js",
+        "description": "Node.js/TypeScript bindings for the Terminator Rust library (via napi-rs)"
+    },
+    {
+        "name": "@appium/universal-xml-plugin",
+        "description": "Appium plugin for making XML source and XPath queries the same across iOS and Android"
+    },
+    {
+        "name": "storybook-addon-playwright",
+        "description": "An addon to visually test the stories in the multiple browsers within storybook environment"
+    },
+    {
+        "name": "chai-smoothie",
+        "description": "Chai assertions for Serenity/JS and Protractor"
+    },
+    {
+        "name": "qlood-cli",
+        "description": "Open-source CLI that initializes ./.qlood in your project and uses AI-driven browser automation to test your web app."
+    },
+    {
+        "name": "@lit-protocol/e2e",
+        "description": "Lit Protocol E2E testing package for running comprehensive integration tests"
+    },
+    {
+        "name": "@rwx-research/jest-core",
+        "description": "Delightful JavaScript Testing."
+    },
+    {
+        "name": "@foundry-rs/forge-linux-amd64",
+        "description": "Fast and flexible Ethereum testing framework (Linux amd64)"
+    },
+    {
+        "name": "cli-testlab",
+        "description": "Test framework for CLI utilities"
+    },
+    {
+        "name": "@contract-case/case-core",
+        "description": "Core functionality for the ContractCase contract testing suite"
+    },
+    {
+        "name": "@scalar/nuxt",
+        "description": "Nuxt integration for Scalar API references"
+    },
+    {
+        "name": "gatsby-theme-core",
+        "description": "gatsby-theme-core"
+    },
+    {
+        "name": "jquery-sendkeys",
+        "description": "jQuery plugin for simulating key presses on HTML inputs"
+    },
+    {
+        "name": "@nextcloud/e2e-test-server",
+        "description": "Nextcloud e2e test server and utils for cypress and playwright"
+    },
+    {
+        "name": "agentrails",
+        "description": "Safeguard your AI agents - keep them grounded and on the rails"
+    },
+    {
+        "name": "ganache-time-traveler",
+        "description": "A ganache utility that simplifies writing time dependent or stateless tests on a local Ethereum blockchain."
+    },
+    {
+        "name": "maests",
+        "description": "An executable compiler for creating Maestro's yaml-flows with typescript."
+    },
+    {
+        "name": "protractor-browser-logs",
+        "description": "Provides tools for asserting browser logs inside protractor tests"
+    },
+    {
+        "name": "@applitools/eyes-universal",
+        "description": "Applitools Eyes Universal SDK"
+    },
+    {
+        "name": "jest-expect-har",
+        "description": "Jest/Vitest matcher for asserting valid HAR definitions"
+    },
+    {
+        "name": "assert-helpers",
+        "description": "Common utilities and helpers to make testing assertions easier"
+    },
+    {
+        "name": "simplehttpserver",
+        "description": "Simple HTTP Server for static files. Intended as testing and development tool"
+    },
+    {
+        "name": "test-inputs",
+        "description": "Easily get comprehensive lists of all data types, including lesser-known edge cases"
+    },
+    {
+        "name": "faux-jax",
+        "description": "Intercept and respond to requests in the browser (XMLHttpRequest, XDomainRequest) and Node.js (http(s) module)"
+    },
+    {
+        "name": "shellsync",
+        "description": "Synchronous shell scripting for Node.js."
+    },
+    {
+        "name": "@cprussin/jest-config",
+        "description": "A jest config that sets up runners for unit tests, integration tests, eslint, and prettier"
+    },
+    {
+        "name": "middleware-testlab",
+        "description": "Test framework for Node.js middleware (Koa and Express)"
+    },
+    {
+        "name": "@sadams/wait-for-expect",
+        "description": "Wait for expectation to be true, useful for integration and end to end testing"
+    },
+    {
+        "name": "@cypress/chrome-recorder",
+        "description": "Generate Cypress Tests from Chrome DevTools Recordings"
+    },
+    {
+        "name": "vitest-openapi",
+        "description": "[![npm](https://img.shields.io/npm/v/vitest-openapi.svg)](https://www.npmjs.com/package/vitest-openapi) [![test](https://github.com/yutak23/vitest-openapi/actions/workflows/test.yaml/badge.svg)](https://github.com/yutak23/vitest-openapi/actions/workflows/"
+    },
+    {
+        "name": "bardjs",
+        "description": "Spec helpers for testing angular v.1.x apps with Mocha, Jasmine or QUnit"
+    },
+    {
+        "name": "salesforce-pageobjects",
+        "description": "Page objects provided by Salesforce to test Lightning Experience using the UI Test Automation Model (UTAM) framework."
+    },
+    {
+        "name": "qunit-retry",
+        "description": "Drop in replacement for qunit `test` which retries a failed test."
+    },
+    {
+        "name": "expect-gen",
+        "description": "Assertion library for unit testing JS generators. Works well with redux-saga. Allows snapshot testing."
+    },
+    {
+        "name": "@testdeck/vitest",
+        "description": "Object oriented testing for the Vitest test framework"
+    },
+    {
+        "name": "@browserstack/testcafe",
+        "description": "Automated browser testing for the modern web development stack."
+    },
+    {
+        "name": "mocha-in-sauce",
+        "description": "Really fancy Mocha tests in the cloud with Saucelabs"
+    },
+    {
+        "name": "wrapito",
+        "description": "🌯 🌯 Wrap you tests so that you can test both behaviour and components with less effort."
+    },
+    {
+        "name": "@aofl/rotations",
+        "description": "The rotations class provides weight based view logic for A B testing"
+    },
+    {
+        "name": "cdktf-vitest",
+        "description": "Terraform CDK matchers for Vitest"
+    },
+    {
+        "name": "@pixpilot/dev-config",
+        "description": "Modern, opinionated development configurations."
+    },
+    {
+        "name": "assert-json-equal",
+        "description": "assert.deepStrictEqual for JSON object."
+    },
+    {
+        "name": "mockaton",
+        "description": "HTTP Mock Server"
+    },
+    {
+        "name": "storybook-cartesian",
+        "description": "![](media/cover.png)"
+    },
+    {
+        "name": "testaro",
+        "description": "Run 1000 web accessibility tests from 11 tools and get a standardized report"
+    },
+    {
+        "name": "js-factories",
+        "description": "Object factory to create dynamic test fixtures"
+    },
+    {
+        "name": "@eggjs/supertest",
+        "description": "SuperAgent driven library for testing HTTP servers"
+    },
+    {
+        "name": "betterer",
+        "description": "Proof of concept for tests that read better(er)"
+    },
+    {
+        "name": "playwright-coverage-reporter",
+        "description": "🎯 Native Playwright coverage reporter with runtime element discovery. Seamlessly integrates with your Playwright test suite to analyze UI element coverage, discover interactive elements during test execution, and generate comprehensive reports with Istan"
+    },
+    {
+        "name": "@testcontainers/opensearch",
+        "description": "OpenSearch module for Testcontainers"
+    },
+    {
+        "name": "@matteo.collina/snap",
+        "description": "snapshot testing companion for node:test"
+    },
+    {
+        "name": "jsdoc-to-assert",
+        "description": "Convert comment to assert. runtime assert"
+    },
+    {
+        "name": "@fakehost/signalr",
+        "description": "A Fake Signalr Service for faking/mocking signalr hub services for testing, prototyping, and demoing"
+    },
+    {
+        "name": "tad",
+        "description": "JavaScript test suite"
+    },
+    {
+        "name": "@storybook-visual-regression/addon",
+        "description": "Fully functional Storybook addon for visual regression testing with built-in API server"
+    },
+    {
+        "name": "@achingbrain/chai-string",
+        "description": "strings comparison matchers for chai"
+    },
+    {
+        "name": "electron-mocha-main",
+        "description": "Mocha tests in Electron, with ESM support for the main process."
+    },
+    {
+        "name": "nixt",
+        "description": "Simple and powerful testing for command-line apps"
+    },
+    {
+        "name": "chai-sinon",
+        "description": "Extends Chai with assertions for the Sinon.JS mocking framework."
+    },
+    {
+        "name": "generate-arrays",
+        "description": "Dead simple, lightweight and flexible array generation"
+    },
+    {
+        "name": "mocha-pod",
+        "description": "Mocha + Docker. Run integration tests in a docker container"
+    },
+    {
+        "name": "testjs",
+        "description": "A compact testing module for node.js."
+    },
+    {
+        "name": "tia",
+        "description": "Time is All (logs driven test engine with ExtJs support)"
+    },
+    {
+        "name": "angular-testcafe",
+        "description": "Angular builder for Testcafe"
+    },
+    {
+        "name": "archunit",
+        "description": "ArchUnit TypeScript is an architecture testing library, to specify and assert architecture rules in your TypeScript app"
+    },
+    {
+        "name": "@mapgrab/map-interface-types",
+        "description": "This library contains internal Map Types for [MapGrab](https://mapgrab.github.io/) Map Interface"
+    },
+    {
+        "name": "@daisy/axe-core-for-ace",
+        "description": "Accessibility engine for automated Web UI testing"
+    },
+    {
+        "name": "@adrien-may/factory",
+        "description": "🏭 Testing made easier with factories for your entities/models."
+    }
+]

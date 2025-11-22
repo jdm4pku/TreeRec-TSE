@@ -1,0 +1,112 @@
+[
+    {
+        "intent": "I want to generate original music tracks from text prompts using JavaScript in a web application.",
+        "gold": "Xenova/musicgen-small",
+        "ranking": [
+            "Xenova/musicgen-small",
+            "google/magenta-realtime",
+            "stabilityai/stable-audio-open-1.0",
+            "ACE-Step/ACE-Step-v1-3.5B",
+            "CypressYang/SongBloom"
+        ]
+    },
+    {
+        "intent": "I want a model that can understand and generate text and visual content, analyze images and videos, perform spatial reasoning, recognize objects and text in multiple languages, and interact with graphical user interfaces.",
+        "gold": "Qwen/Qwen3-VL-8B-Instruct",
+        "ranking": [
+            "Qwen/Qwen3-VL-32B-Thinking",
+            "OpenGVLab/InternVL3-8B",
+            "Qwen/Qwen3-VL-30B-A3B-Thinking",
+            "OpenGVLab/InternVL3_5-241B-A28B",
+            "Qwen/Qwen3-Omni-30B-A3B-Instruct"
+        ]
+    },
+    {
+        "intent": "I want a model that can understand and generate text based on images and videos, perform visual reasoning, recognize objects and text in multiple languages, and handle long documents or videos for tasks like GUI automation, coding from visuals, and multimodal question answering.",
+        "gold": "Qwen/Qwen3-VL-2B-Instruct",
+        "ranking": [
+            "Qwen/Qwen3-VL-32B-Instruct",
+            "Qwen/Qwen3-Omni-30B-A3B-Instruct",
+            "Qwen/Qwen3-VL-235B-A22B-Thinking",
+            "OpenGVLab/InternVL3-8B",
+            "deepseek-ai/deepseek-vl2"
+        ]
+    },
+    {
+        "intent": "I want a flexible text-to-image model that I can fine-tune for custom generative art or visual content creation.",
+        "gold": "lodestones/Chroma1-HD",
+        "ranking": [
+            "stabilityai/stable-diffusion-xl-base-1.0",
+            "stabilityai/stable-diffusion-3.5-large",
+            "black-forest-labs/FLUX.1-dev",
+            "Qwen/Qwen-Image",
+            "HiDream-ai/HiDream-I1-Full"
+        ]
+    },
+    {
+        "intent": "I want a model that can answer questions and describe images without refusing sensitive or controversial prompts.",
+        "gold": "huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliterated",
+        "ranking": [
+            "huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliterated",
+            "prithivMLmods/Qwen3-VL-8B-Instruct-abliterated",
+            "huihui-ai/Huihui-Qwen3-VL-4B-Instruct-abliterated",
+            "prithivMLmods/Qwen3-VL-4B-Thinking-abliterated",
+            "huihui-ai/Huihui-Qwen3-VL-235B-A22B-Instruct-abliterated-GGUF"
+        ]
+    },
+    {
+        "intent": "I want to generate 2D images from text prompts that follow the layout of a given semantic image, for use in creating realistic 3D indoor scenes.",
+        "gold": "manycore-research/FLUX.1-Layout-ControlNet",
+        "ranking": [
+            "manycore-research/FLUX.1-Layout-ControlNet",
+            "manycore-research/FLUX.1-Wireframe-dev-lora",
+            "haoningwu/SceneGen",
+            "manycore-research/SpatialGen-1.0",
+            "xinsir/controlnet-union-sdxl-1.0"
+        ]
+    },
+    {
+        "intent": "I want to generate original music tracks from text descriptions or audio prompts.",
+        "gold": "facebook/musicgen-large",
+        "ranking": [
+            "facebook/musicgen-large",
+            "tencent/SongGeneration",
+            "ACE-Step/ACE-Step-v1-3.5B",
+            "CypressYang/SongBloom",
+            "stabilityai/stable-audio-open-1.0"
+        ]
+    },
+    {
+        "intent": "I want to generate detailed 3D representations of a scene—including point clouds, depth maps, camera parameters, and surface normals—using available geometric priors like camera poses and depth information.",
+        "gold": "tencent/HunyuanWorld-Mirror",
+        "ranking": [
+            "tencent/HunyuanWorld-Mirror",
+            "tencent/HunyuanWorld-Voyager",
+            "depth-anything/Depth-Anything-V2-Large",
+            "prs-eth/marigold-normals-v1-1",
+            "apple/DepthPro"
+        ]
+    },
+    {
+        "intent": "Intent Description: I want a language model that can follow instructions, generate code, solve math problems, and handle complex reasoning tasks efficiently.",
+        "gold": "inclusionAI/LLaDA2.0-mini-preview",
+        "ranking": [
+            "deepseek-ai/DeepSeek-R1",
+            "Qwen/Qwen3-4B",
+            "Qwen/Qwen3-30B-A3B-Instruct-2507",
+            "deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct",
+            "microsoft/Phi-3-mini-4k-instruct"
+        ]
+    },
+    {
+        "intent": "Intent Description: I want to convert complex, multilingual document images—including handwritten text, tables, equations, charts, and forms—into structured markdown with semantic tags for easier processing and analysis.",
+        "gold": "nanonets/Nanonets-OCR2-3B",
+        "ranking": [
+            "datalab-to/chandra",
+            "nanonets/Nanonets-OCR2-3B",
+            "rednote-hilab/dots.ocr",
+            "allenai/olmOCR-2-7B-1025",
+            "ByteDance/Dolphin"
+        ]
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "intent": "I want a flexible text-to-image model that I can fine-tune for custom generative art or visual content creation.",
+        "artifact": "lodestones/Chroma1-HD",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": false,
+        "agreement": false
+    },
+    {
+        "intent": "I want to generate original music tracks from text descriptions or audio prompts.",
+        "artifact": "facebook/musicgen-small",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to automatically detect and extract sensitive information like names, phone numbers, and account details from text, with the ability to specify custom entity types for privacy compliance.",
+        "artifact": "knowledgator/gliner-pii-large-v1.0",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to automatically identify who is speaking and when in an audio recording.",
+        "artifact": "pyannote/speaker-diarization-3.1",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to generate a 3D scene from a single image.",
+        "artifact": "haoningwu/SceneGen",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": false,
+        "agreement": false
+    },
+    {
+        "intent": "I want a model that can transcribe speech (including dialects), generate and edit images with high fidelity, perform voice cloning, and support multimodal tasks like video conversations.",
+        "artifact": "inclusionAI/Ming-flash-omni-Preview",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": false,
+        "agreement": true
+    },
+    {
+        "intent": "I want to estimate the depth of each pixel in a single image to create detailed, high-resolution depth maps without needing camera information.",
+        "artifact": "apple/DepthPro-hf",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": false,
+        "agreement": false
+    },
+    {
+        "intent": "I want a language model that can analyze single-cell RNA sequencing data to predict cell types, classify tissues, generate gene expression profiles, and assist with biological research tasks like cell atlas annotation and biomarker discovery.",
+        "artifact": "vandijklab/C2S-Scale-Gemma-2-27B",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": false,
+        "agreement": true
+    },
+    {
+        "intent": "I want a large language model that can perform advanced natural language reasoning and inference across a wide range of tasks, including complex problem solving and deep reasoning.",
+        "artifact": "inclusionAI/Ring-1T",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": false,
+        "agreement": true
+    },
+    {
+        "intent": "I want a model that can understand and reason about both text and images, handling high-resolution images and following instructions in English.",
+        "artifact": "LiquidAI/LFM2-VL-3B",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to generate images of fictional characters in various styles and species using text prompts.",
+        "artifact": "purplesmartai/pony-v7-base",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to generate a 3D model from a single image quickly.",
+        "artifact": "stabilityai/TripoSR",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": false,
+        "agreement": false
+    },
+    {
+        "intent": "I want to generate high-quality images from detailed text prompts, including accurate typography and complex scene descriptions.",
+        "artifact": "stabilityai/stable-diffusion-3.5-large",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to generate high-quality images from text prompts using an open-source model.",
+        "artifact": "black-forest-labs/FLUX.1-dev",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": false,
+        "agreement": false
+    },
+    {
+        "intent": "I want to search and retrieve technical documents in multiple languages using screenshots that contain text, images, and layout.",
+        "artifact": "racineai/QwenAmann-4B-dse",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": false,
+        "agreement": true
+    },
+    {
+        "intent": "I want to detect and classify multiple emotions expressed in English text, including cases where more than one emotion is present.",
+        "artifact": "SamLowe/roberta-base-go_emotions",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to generate sentence embeddings for Vietnamese text to improve search and document retrieval.",
+        "artifact": "AITeamVN/Vietnamese_Embedding_v2",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want a general-purpose language model for tasks like text generation, summarization, and question answering.",
+        "artifact": "meta-llama/Llama-3.2-3B-Instruct",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want a compact language model that can follow instructions, handle long contexts, and perform strong reasoning tasks like math and logic, suitable for multilingual applications and resource-limited environments.",
+        "artifact": "microsoft/Phi-4-mini-instruct",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to generate and edit images from text prompts, with accurate text rendering in both English and Chinese.",
+        "artifact": "Qwen/Qwen-Image",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": true,
+        "agreement": false
+    },
+    {
+        "intent": "I want a model that can understand and reason over both text and images or videos, extract information from visual content, perform OCR in multiple languages, and assist with tasks like GUI automation, code generation from visuals, and spatial or temporal analysis.",
+        "artifact": "Qwen/Qwen3-VL-32B-Instruct",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to generate text embeddings for Russian and English sentences to perform tasks like semantic search, paraphrase detection, sentiment analysis, topic classification, and textual entailment.",
+        "artifact": "ai-forever/FRIDA",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": false,
+        "agreement": false
+    },
+    {
+        "intent": "Intent Description: I want a model that can understand and reason over both text and images or videos, perform complex visual tasks like GUI interaction and coding from visuals, handle long documents and videos, recognize a wide range of objects and text in multiple languages, and provide detailed multimodal analysis and answers.",
+        "artifact": "Qwen/Qwen3-VL-8B-Thinking",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want a transformer-based model for processing and classifying video data.",
+        "artifact": "google/vivit-b-16x2-kinetics400",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want a multilingual model to generate text embeddings and perform dense, sparse, or hybrid retrieval for both short and long documents.",
+        "artifact": "BAAI/bge-m3",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want a model that can understand complex instructions, perform advanced reasoning, and generate high-quality front-end code and visually appealing outputs.",
+        "artifact": "inclusionAI/Ling-1T",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": false,
+        "agreement": true
+    },
+    {
+        "intent": "I want to estimate depth maps from a single image using a fast and accurate monocular depth estimation model.",
+        "artifact": "depth-anything/Depth-Anything-V2-Large-hf",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to search and retrieve documents using both text and visual features from images or scanned pages.",
+        "artifact": "vidore/colpali",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": false,
+        "agreement": true
+    },
+    {
+        "intent": "I want a multilingual language model that can handle complex reasoning, follow instructions, generate code, and support both conversational and agent-based tasks.",
+        "artifact": "Qwen/Qwen3-0.6B",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": false,
+        "agreement": true
+    },
+    {
+        "intent": "Intent Description: I want a model that can understand and generate text and analyze images or videos, including recognizing objects, reading text in multiple languages, reasoning about spatial relationships, and interacting with graphical user interfaces.",
+        "artifact": "Qwen/Qwen3-VL-30B-A3B-Instruct",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    }
+]

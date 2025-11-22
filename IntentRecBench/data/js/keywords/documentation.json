@@ -1,0 +1,4002 @@
+[
+    {
+        "name": "@microsoft/tsdoc",
+        "description": "A parser for the TypeScript doc comment syntax"
+    },
+    {
+        "name": "@storybook/addon-docs",
+        "description": "Storybook Docs: Document UI components automatically with stories and MDX"
+    },
+    {
+        "name": "react-docgen",
+        "description": "A library to extract information from React components for documentation generation."
+    },
+    {
+        "name": "@microsoft/tsdoc-config",
+        "description": "A loader for the tsdoc.json file"
+    },
+    {
+        "name": "@globalart/nestjs-swagger",
+        "description": "A simple documentation builder for NestJS Swagger Module"
+    },
+    {
+        "name": "@microsoft/api-extractor",
+        "description": "Analyze the exported API for a TypeScript library and generate reviews, documentation, and .d.ts rollups"
+    },
+    {
+        "name": "swagger-ui-express",
+        "description": "Swagger UI Express"
+    },
+    {
+        "name": "gray-matter",
+        "description": "Parse front-matter from a string or file. Fast, reliable and easy to use. Parses YAML front matter by default, but also has support for YAML, JSON, TOML or Coffee Front-Matter, with options to set custom delimiters. Used by metalsmith, assemble, verb and "
+    },
+    {
+        "name": "typedoc",
+        "description": "Create api documentation for TypeScript projects."
+    },
+    {
+        "name": "jsdoc",
+        "description": "An API documentation generator for JavaScript."
+    },
+    {
+        "name": "typedoc-plugin-markdown",
+        "description": "A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown."
+    },
+    {
+        "name": "eslint-plugin-tsdoc",
+        "description": "An ESLint plugin that validates TypeScript doc comments"
+    },
+    {
+        "name": "condense-newlines",
+        "description": "Replace extraneous newlines with a single newline, or pass a specified number of newlines to use."
+    },
+    {
+        "name": "redoc",
+        "description": "ReDoc"
+    },
+    {
+        "name": "@docusaurus/core",
+        "description": "Easy to Maintain Open Source Documentation Websites"
+    },
+    {
+        "name": "@compodoc/compodoc",
+        "description": "The missing documentation tool for your Angular application"
+    },
+    {
+        "name": "oas",
+        "description": "Comprehensive tooling for working with OpenAPI definitions"
+    },
+    {
+        "name": "@upstash/context7-mcp",
+        "description": "MCP server for Context7"
+    },
+    {
+        "name": "jsdoc-parse",
+        "description": "Transforms jsdoc data into something more suitable for use as template input"
+    },
+    {
+        "name": "jsdoc-to-markdown",
+        "description": "Generates markdown API documentation from jsdoc annotated source code"
+    },
+    {
+        "name": "oas-normalize",
+        "description": "Tooling for converting, validating, and parsing OpenAPI, Swagger, and Postman API definitions"
+    },
+    {
+        "name": "eslint-rule-documentation",
+        "description": "Find the url for the documentation of an ESLint rule"
+    },
+    {
+        "name": "typedoc-default-themes",
+        "description": "Default themes for TypeDoc."
+    },
+    {
+        "name": "npm-to-yarn",
+        "description": "Convert npm CLI commands to Yarn commands, and vice versa"
+    },
+    {
+        "name": "dmd",
+        "description": "The default output template for jsdoc-to-markdown"
+    },
+    {
+        "name": "jsdoc-api",
+        "description": "A programmatic interface for jsdoc"
+    },
+    {
+        "name": "documentation",
+        "description": "a documentation generator"
+    },
+    {
+        "name": "doctoc",
+        "description": "Generates TOC for markdown files of local git repo."
+    },
+    {
+        "name": "rehype-expressive-code",
+        "description": "Rehype plugin for Expressive Code, a modular syntax highlighting & annotation engine for presenting source code on the web. Offers full VS Code theme support, editor & terminal frames, copy to clipboard, text markers, collapsible sections, and more."
+    },
+    {
+        "name": "globals-docs",
+        "description": "documentation links for all node and browser globals"
+    },
+    {
+        "name": "markdown-toc",
+        "description": "Generate a markdown TOC (table of contents) with Remarkable."
+    },
+    {
+        "name": "astro-expressive-code",
+        "description": "Astro integration for Expressive Code, a modular syntax highlighting & annotation engine for presenting source code on the web. Offers full VS Code theme support, editor & terminal frames, copy to clipboard, text markers, collapsible sections, and more."
+    },
+    {
+        "name": "logging-helpers",
+        "description": "Basic template helpers for printing messages out to the console. Useful for debugging context in templates. Should work with any template engine."
+    },
+    {
+        "name": "docusaurus-lunr-search",
+        "description": "Offline search component for Docusaurus V3"
+    },
+    {
+        "name": "@11ty/eleventy",
+        "description": "A simpler static site generator."
+    },
+    {
+        "name": "@astrojs/starlight",
+        "description": "Build beautiful, high-performance documentation websites with Astro"
+    },
+    {
+        "name": "rdme",
+        "description": "ReadMe's official CLI and GitHub Action."
+    },
+    {
+        "name": "@asyncapi/generator",
+        "description": "The AsyncAPI generator. It can generate documentation, code, anything!"
+    },
+    {
+        "name": "swagger-autogen",
+        "description": "This module performs automatic construction of Swagger documentation. It can identify the endpoints and automatically capture methods such as get, post, put, and so on. It also identifies paths, routes, middlewares, response status codes, parameters in th"
+    },
+    {
+        "name": "@vuepress/plugin-nprogress",
+        "description": "nprogress plugin for vuepress"
+    },
+    {
+        "name": "apidoc",
+        "description": "RESTful web API Documentation Generator"
+    },
+    {
+        "name": "react-styleguidist",
+        "description": "React components style guide generator"
+    },
+    {
+        "name": "@asyncapi/generator-react-sdk",
+        "description": "The React SDK for templates."
+    },
+    {
+        "name": "@scalar/api-reference",
+        "description": "Generate beautiful API references from OpenAPI documents"
+    },
+    {
+        "name": "docsify",
+        "description": "A magical documentation generator."
+    },
+    {
+        "name": "esdoc",
+        "description": "Good Documentation Generator For JavaScript"
+    },
+    {
+        "name": "@vuepress/plugin-active-header-links",
+        "description": "active-header-links plugin for vuepress"
+    },
+    {
+        "name": "@vuepress/core",
+        "description": "Minimalistic doc generator with Vue component based layout system"
+    },
+    {
+        "name": "@vuepress/markdown",
+        "description": "markdown for vuepress"
+    },
+    {
+        "name": "vuepress",
+        "description": "Minimalistic doc generator with Vue component based layout system"
+    },
+    {
+        "name": "@antora/playbook-builder",
+        "description": "Builds a playbook object from user input for configuring successive documentation components in an Antora pipeline."
+    },
+    {
+        "name": "@vuepress/theme-default",
+        "description": "Default theme for VuePress"
+    },
+    {
+        "name": "jsdoc-baseline",
+        "description": "A basic template for JSDoc."
+    },
+    {
+        "name": "zoroaster",
+        "description": "The 2020 Most Modern Testing Framework For Node.JS With Test Contexts (Reusable BeforeEach / AfterEach Via Separate Files); Masks (Inputs/Outputs In Non-Js Files) And Fork Testing; Interactive Snapshots."
+    },
+    {
+        "name": "@graphiql/plugin-doc-explorer",
+        "description": "## API"
+    },
+    {
+        "name": "@vuepress/markdown-loader",
+        "description": "markdown-loader for vuepress"
+    },
+    {
+        "name": "spectaql",
+        "description": "A powerful library for autogenerating static GraphQL API documentation"
+    },
+    {
+        "name": "docsify-cli",
+        "description": "A magical documentation generator."
+    },
+    {
+        "name": "@scalar/fastify-api-reference",
+        "description": "a fastify plugin to render an API reference from an OpenAPI file"
+    },
+    {
+        "name": "@antora/redirect-producer",
+        "description": "Produces redirects (HTTP redirections) for pages in an Antora site."
+    },
+    {
+        "name": "@vuepress/plugin-search",
+        "description": "search plugin for vuepress"
+    },
+    {
+        "name": "@antora/navigation-builder",
+        "description": "Builds a navigation catalog from navigation files for adding site navigation to pages in an Antora documentation pipeline."
+    },
+    {
+        "name": "@antora/document-converter",
+        "description": "Converts AsciiDoc documents to embeddable HTML for use in an Antora documentation pipeline."
+    },
+    {
+        "name": "@vuepress/plugin-last-updated",
+        "description": "last-updated plugin for vuepress"
+    },
+    {
+        "name": "dumi",
+        "description": "📖 Documentation Generator of React Component"
+    },
+    {
+        "name": "@antora/asciidoc-loader",
+        "description": "Loads AsciiDoc content into an Asciidoctor Document object (AST) for use in an Antora documentation pipeline."
+    },
+    {
+        "name": "@vuepress/shared-utils",
+        "description": "shared-utils for vuepress"
+    },
+    {
+        "name": "@vuepress/plugin-register-components",
+        "description": "register-global-components plugin for vuepress"
+    },
+    {
+        "name": "eslint-doc-generator",
+        "description": "Automatic documentation generator for ESLint plugins and rules."
+    },
+    {
+        "name": "@antora/logger",
+        "description": "The logger for Antora."
+    },
+    {
+        "name": "@antora/content-classifier",
+        "description": "Organizes aggregated content into a virtual file catalog for use in an Antora documentation pipeline."
+    },
+    {
+        "name": "swagger-combine",
+        "description": "Combines multiple Swagger schemas into one dereferenced schema"
+    },
+    {
+        "name": "docusaurus-plugin-openapi-docs",
+        "description": "OpenAPI plugin for Docusaurus."
+    },
+    {
+        "name": "docusaurus-theme-openapi-docs",
+        "description": "OpenAPI theme for Docusaurus."
+    },
+    {
+        "name": "@antora/page-composer",
+        "description": "Wraps the embeddable HTML contents of each page file from the content catalog in a page layout to yield standalone pages in an Antora documentation pipeline."
+    },
+    {
+        "name": "@scalar/nextjs-api-reference",
+        "description": "a Next.js component to render API references from an OpenAPI file"
+    },
+    {
+        "name": "@antora/site-mapper",
+        "description": "Generates sitemap files that list all publishable pages in an Antora documentation pipeline."
+    },
+    {
+        "name": "@antora/site-generator",
+        "description": "The Antora generator for producing and publishing static documentation sites with Antora."
+    },
+    {
+        "name": "@antora/site-publisher",
+        "description": "An alias for the @antora/file-publisher package."
+    },
+    {
+        "name": "@antora/ui-loader",
+        "description": "Downloads a UI bundle, if necessary, and loads the files into a UI catalog for use in an Antora documentation pipeline."
+    },
+    {
+        "name": "@antora/content-aggregator",
+        "description": "Fetches and aggregates content from distributed sources for use in an Antora documentation pipeline."
+    },
+    {
+        "name": "ink-docstrap",
+        "description": "[![NPM](https://nodei.co/npm/ink-docstrap.png?downloads=true)](https://nodei.co/npm/ink-docstrap/)"
+    },
+    {
+        "name": "typedoc-material-theme",
+        "description": "A TypeDoc theme based on Material 3."
+    },
+    {
+        "name": "@antora/cli",
+        "description": "The command line interface for Antora."
+    },
+    {
+        "name": "grunt-jsdoc",
+        "description": "Integrates jsdoc3 generation into your Grunt build"
+    },
+    {
+        "name": "speccy",
+        "description": "An OpenAPI v3.0 development workflow assistant"
+    },
+    {
+        "name": "rehype-mermaid",
+        "description": "A rehype plugin to render mermaid diagrams"
+    },
+    {
+        "name": "engine-cache",
+        "description": "express.js inspired template-engine manager."
+    },
+    {
+        "name": "md-to-pdf",
+        "description": "CLI tool for converting Markdown files to PDF."
+    },
+    {
+        "name": "dox",
+        "description": "Markdown / JSdoc documentation generator"
+    },
+    {
+        "name": "redocusaurus",
+        "description": "Redoc for DocusaurusV2"
+    },
+    {
+        "name": "apidoc-core",
+        "description": "Core parser library to generate apidoc result following the apidoc-spec"
+    },
+    {
+        "name": "@antora/file-publisher",
+        "description": "Publishes the publishable files in the virtual file catalog(s) to the destination(s) specified in the playbook."
+    },
+    {
+        "name": "rapidoc",
+        "description": "RapiDoc - Open API spec viewer with built in console"
+    },
+    {
+        "name": "@vuepress/plugin-back-to-top",
+        "description": "back-to-top plugin for vuepress"
+    },
+    {
+        "name": "markdown-toc-gen",
+        "description": "Generating and updating table of contents in Markdown files which conform with prettier."
+    },
+    {
+        "name": "@asyncapi/studio",
+        "description": "One place that allows you to develop an AsyncAPI document, validate it, convert it to the latest version, preview the documentation and visualize the events flow."
+    },
+    {
+        "name": "docco",
+        "description": "The Quick and Dirty Literate Programming Documentation Generator"
+    },
+    {
+        "name": "assemble-core",
+        "description": "The core assemble application with no presets or defaults. All configuration is left to the implementor."
+    },
+    {
+        "name": "yuidocjs",
+        "description": "YUIDoc, YUI's JavaScript Documentation engine."
+    },
+    {
+        "name": "@vuepress/types",
+        "description": "Types for VuePress"
+    },
+    {
+        "name": "swagger-themes",
+        "description": "Library for measuring the topic of Swagger documentation"
+    },
+    {
+        "name": "@vuepress/plugin-medium-zoom",
+        "description": "medium-zoom plugin for vuepress"
+    },
+    {
+        "name": "mongoose-to-swagger",
+        "description": "Conversion library for transforming Mongoose schema objects into Swagger schema definitions."
+    },
+    {
+        "name": "jsdoc-route-plugin",
+        "description": "Plugin to add custom HTTP Route tags for documenting Express routes."
+    },
+    {
+        "name": "mdx",
+        "description": "Generic documentation extractor. Extensible enough to work with any language that supports comments."
+    },
+    {
+        "name": "widdershins",
+        "description": "OpenAPI/ Swagger / AsyncAPI / Semoasa definition to Slate / Shins compatible markdown"
+    },
+    {
+        "name": "@wesleytodd/openapi",
+        "description": "Middleware for generating OpenAPI/Swagger documentation for your Express app"
+    },
+    {
+        "name": "express-jsdoc-swagger",
+        "description": "Swagger OpenAPI 3.x generator"
+    },
+    {
+        "name": "docusaurus",
+        "description": "Easy to Maintain Open Source Documentation Websites"
+    },
+    {
+        "name": "swagger-inline",
+        "description": "Generate an OpenAPI/Swagger definition from inline comments."
+    },
+    {
+        "name": "jsdoc-75lb",
+        "description": "An API documentation generator for JavaScript."
+    },
+    {
+        "name": "@pandacss/studio",
+        "description": "The automated token documentation for Panda CSS"
+    },
+    {
+        "name": "cdocparser",
+        "description": "Extract C style comments and extract context from source"
+    },
+    {
+        "name": "@vuepress/plugin-google-analytics",
+        "description": "google-analytics plugin for vuepress"
+    },
+    {
+        "name": "express-zod-api",
+        "description": "A Typescript framework to help you get an API server up and running with I/O schema validation and custom middlewares in minutes."
+    },
+    {
+        "name": "mdn-links",
+        "description": "Caches data from the Mozilla Developer Network wiki and provides methods to return links to documentation for JavaScript and DOM objects."
+    },
+    {
+        "name": "starlight-typedoc",
+        "description": "Starlight plugin to generate documentation from TypeScript using TypeDoc."
+    },
+    {
+        "name": "madr",
+        "description": "Markdown Architectural Decision Records"
+    },
+    {
+        "name": "sassdoc",
+        "description": "Release the docs!"
+    },
+    {
+        "name": "storybook-addon-vue-mdx",
+        "description": "Use Vue components inside MDX files, as if they were React components."
+    },
+    {
+        "name": "watch-cli",
+        "description": "Command line wrapper for gaze to use in package.json scripts object."
+    },
+    {
+        "name": "tsdoc-markdown",
+        "description": "Generates markdown documentation from TypeScript source code."
+    },
+    {
+        "name": "min-heap-typed",
+        "description": "Min Heap"
+    },
+    {
+        "name": "antora",
+        "description": "A meta package for Antora that installs both the CLI and site generator."
+    },
+    {
+        "name": "moxygen",
+        "description": "Doxygen XML to Markdown documentation converter"
+    },
+    {
+        "name": "solidity-docgen",
+        "description": "Documentation generator for Solidity smart contracts."
+    },
+    {
+        "name": "vocs",
+        "description": "React Documentation Generator, powered by Vite."
+    },
+    {
+        "name": "typedoc-plugin-as-member-of",
+        "description": "TypeDoc plugin to 'move' declarations as members of existing classes, interfaces, objects, etc "
+    },
+    {
+        "name": "bump-cli",
+        "description": "The Bump CLI is used to interact with your API documentation hosted on Bump.sh by using the API of developers.bump.sh"
+    },
+    {
+        "name": "@technote-space/doctoc",
+        "description": "Generates TOC for markdown files of local git repo."
+    },
+    {
+        "name": "nestjs-asyncapi",
+        "description": "NestJS AsyncAPI module - generate documentation of your event-based services using decorators"
+    },
+    {
+        "name": "@antora/site-generator-default",
+        "description": "An alias for the @antora/site-generator package."
+    },
+    {
+        "name": "typedoc-twilio-theme",
+        "description": "Typedoc theme used for Twilio's Client.js"
+    },
+    {
+        "name": "@nx-plus/docusaurus",
+        "description": "Docusaurus plugin for Nx"
+    },
+    {
+        "name": "@signalwire/docusaurus-plugin-llms-txt",
+        "description": "Generate Markdown versions of Docusaurus HTML pages and an llms.txt index file"
+    },
+    {
+        "name": "gulp-jsdoc3",
+        "description": "gulp integration for jsdoc3 cli"
+    },
+    {
+        "name": "@2fd/graphdoc",
+        "description": "Static page generator for documenting GraphQL Schema"
+    },
+    {
+        "name": "vitepress-plugin-llms",
+        "description": "📜 A VitePress plugin for generating LLM-friendly documentation"
+    },
+    {
+        "name": "@graphql-markdown/core",
+        "description": "GraphQL-Markdown core package for generating Markdown documentation from a GraphQL schema."
+    },
+    {
+        "name": "pretty-proptypes",
+        "description": "prettily render prop types from react components"
+    },
+    {
+        "name": "tcomb-doc",
+        "description": "Documentation tool for tcomb"
+    },
+    {
+        "name": "jsdoc-x",
+        "description": "Parser for outputting a customized Javascript object from documented code via JSDoc's explain (-X) command. "
+    },
+    {
+        "name": "@graphql-markdown/docusaurus",
+        "description": "Docusaurus plugin for generating Markdown documentation from a GraphQL schema."
+    },
+    {
+        "name": "nuxt-llms",
+        "description": "Generate llms.txt documentation for your Nuxt application"
+    },
+    {
+        "name": "@vuepress/plugin-pwa",
+        "description": "pwa plugin for vuepress"
+    },
+    {
+        "name": "typedoc-plugin-extras",
+        "description": "A TypeDoc plugin to add extras (favicon, description, generation date...) to the output documentation"
+    },
+    {
+        "name": "markdown-toc-unlazy",
+        "description": "Generate a markdown TOC (table of contents) with Remarkable."
+    },
+    {
+        "name": "@cparra/apexdocs",
+        "description": "Library with CLI capabilities to generate documentation for Salesforce Apex classes."
+    },
+    {
+        "name": "@antora/pdf-extension",
+        "description": "An Antora extension that uses Assembler to merge pages into assembly files, export them to the PDF format, and publishe them with the site."
+    },
+    {
+        "name": "acquit",
+        "description": "Parse BDD tests (Mocha, Jasmine) to generate documentation"
+    },
+    {
+        "name": "docma",
+        "description": "A powerful dev-tool to easily generate beautiful HTML documentation from Javascript (JSDoc), Markdown and HTML files."
+    },
+    {
+        "name": "vue-docgen-web-types",
+        "description": "README.MD"
+    },
+    {
+        "name": "docusaurus-preset-openapi",
+        "description": "OpenAPI preset for Docusaurus."
+    },
+    {
+        "name": "adr-log",
+        "description": "Generate an architectural decision log out of architectural decision records (ADRs)."
+    },
+    {
+        "name": "@antora/assembler",
+        "description": "A JavaScript library that merges AsciiDoc content from multiple pages in an Antora site into assembly files and delegates to an exporter to convert those files to another format, such as PDF."
+    },
+    {
+        "name": "starlight-sidebar-topics",
+        "description": "Starlight plugin to split your documentation into different sections, each with its own sidebar."
+    },
+    {
+        "name": "vuepress-vite",
+        "description": "Vue-powered Static Site Generator"
+    },
+    {
+        "name": "@yankeeinlondon/gray-matter",
+        "description": "Parse front-matter from a string or file. Fast, reliable and easy to use. Parses YAML front matter by default, but also has support for YAML, JSON, TOML or Coffee Front-Matter, with options to set custom delimiters. Used by metalsmith, assemble, verb and "
+    },
+    {
+        "name": "react-view",
+        "description": "<p align=\"center\"><img src=\"https://user-images.githubusercontent.com/1387913/69589804-18001a80-0fa2-11ea-9af7-106ccaa5ab2b.png\" width=\"50%\"><p>"
+    },
+    {
+        "name": "sort-scripts",
+        "description": "Sort a map of scripts in a logical order"
+    },
+    {
+        "name": "starlight-openapi",
+        "description": "Starlight plugin to generate documentation from OpenAPI/Swagger specifications."
+    },
+    {
+        "name": "@kayvan/markdown-tree-parser",
+        "description": "A powerful JavaScript library and CLI tool for parsing and manipulating markdown files as tree structures using the remark/unified ecosystem"
+    },
+    {
+        "name": "@humanspeak/svelte-markdown",
+        "description": "Fast, customizable markdown renderer for Svelte with built-in caching, TypeScript support, and Svelte 5 runes"
+    },
+    {
+        "name": "@api-viewer/tabs",
+        "description": "Tabs web component used by the API Viewer"
+    },
+    {
+        "name": "typescript-docs-verifier",
+        "description": "Verifies that typescript examples in markdown files actually compile."
+    },
+    {
+        "name": "@api-viewer/common",
+        "description": "Helpers and utilities used by the API Viewer"
+    },
+    {
+        "name": "@ng-doc/builder",
+        "description": "<!-- PROJECT LOGO --> <br /> <div align=\"center\">   <a href=\"https://github.com/ng-doc/ng-doc\">     <img src=\"https://ng-doc.com/assets/images/ng-doc.svg?raw=true\" alt=\"Logo\" height=\"150px\">   </a>"
+    },
+    {
+        "name": "@graphql-markdown/cli",
+        "description": "NodeJS CLI for generating Markdown documentation from a GraphQL schema."
+    },
+    {
+        "name": "@taiga-ui/addon-doc",
+        "description": "Taiga UI based library for developing documentation portals for Angular libraries."
+    },
+    {
+        "name": "hads",
+        "description": "Fast web server allowing to browse, search and edit project documentation written in Markdown"
+    },
+    {
+        "name": "extract-react-types",
+        "description": "Parse prop-types from react components using typescript or flow"
+    },
+    {
+        "name": "json-schema-doc-ts",
+        "description": "Generate documentation for JSON Schemas"
+    },
+    {
+        "name": "cast-with-schema",
+        "description": "Casting JS objects to correct types using JSON schemas"
+    },
+    {
+        "name": "openapi-explorer",
+        "description": "OpenAPI Explorer - API viewer with dynamically generated components, documentation, and interaction console"
+    },
+    {
+        "name": "starlight-image-zoom",
+        "description": "Starlight plugin adding zoom capabilities to your documentation images."
+    },
+    {
+        "name": "@faulty/ts-docs-loader",
+        "description": "Generate documentation for TypeScript interfaces, functions, types, and more on-the-fly through webpack"
+    },
+    {
+        "name": "ndoc",
+        "description": "JavaScript API documentor with simple syntax."
+    },
+    {
+        "name": "@ng-doc/core",
+        "description": "<!-- PROJECT LOGO --> <br /> <div align=\"center\">   <a href=\"https://github.com/ng-doc/ng-doc\">     <img src=\"https://ng-doc.com/assets/images/ng-doc.svg?raw=true\" alt=\"Logo\" height=\"150px\">   </a>"
+    },
+    {
+        "name": "@ng-doc/ui-kit",
+        "description": "<!-- PROJECT LOGO --> <br /> <div align=\"center\">   <a href=\"https://github.com/ng-doc/ng-doc\">     <img src=\"https://ng-doc.com/assets/images/ng-doc.svg?raw=true\" alt=\"Logo\" height=\"150px\">   </a>"
+    },
+    {
+        "name": "hallmark",
+        "description": "Markdown Style Guide, with linter and automatic fixer"
+    },
+    {
+        "name": "docusaurus-plugin-llms",
+        "description": "Docusaurus plugin for generating LLM-friendly documentation following the llmstxt.org standard"
+    },
+    {
+        "name": "starlight-blog",
+        "description": "Starlight plugin to add a blog to your documentation."
+    },
+    {
+        "name": "@vuedoc/md",
+        "description": "Generate a Markdown Documentation for a Vue file component"
+    },
+    {
+        "name": "grunt-apidoc",
+        "description": "Grunt task to generate a RESTful API Documentation with apidoc"
+    },
+    {
+        "name": "vuepress-plugin-sitemap",
+        "description": "Sitemap generator plugin for vuepress"
+    },
+    {
+        "name": "@diplodoc/transform",
+        "description": "A simple transformer of text in YFM (Yandex Flavored Markdown) to HTML"
+    },
+    {
+        "name": "starlight-auto-sidebar",
+        "description": "Starlight plugin to tweak autogenerated sidebar groups."
+    },
+    {
+        "name": "docpress",
+        "description": "Documentation website generator"
+    },
+    {
+        "name": "alvamind-tools",
+        "description": "CLI tools for generating source code documentation and git automation"
+    },
+    {
+        "name": "@ng-doc/app",
+        "description": "<!-- PROJECT LOGO --> <br /> <div align=\"center\">   <a href=\"https://github.com/ng-doc/ng-doc\">     <img src=\"https://ng-doc.com/assets/images/ng-doc.svg?raw=true\" alt=\"Logo\" height=\"150px\">   </a>"
+    },
+    {
+        "name": "markdown-doctest",
+        "description": "Test all the code in your markdown docs!"
+    },
+    {
+        "name": "jsdoc-http-plugin",
+        "description": "Plugin to add HTTP Route tags for documenting HTTP endpoints"
+    },
+    {
+        "name": "@twittwer/compodoc",
+        "description": "[![npm version](https://img.shields.io/npm/v/@twittwer/compodoc?style=flat-square)](https://www.npmjs.com/package/@twittwer/compodoc) [![commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](https://comm"
+    },
+    {
+        "name": "@forsakringskassan/docs-live-example",
+        "description": "Components used for live examples"
+    },
+    {
+        "name": "swagger-express-ts",
+        "description": "Generate and serve swagger.json"
+    },
+    {
+        "name": "hardhat-docgen",
+        "description": "Generate NatSpec documentation automatically on compilation"
+    },
+    {
+        "name": "extract-react-types-loader",
+        "description": "Load extract-react-types data given a fiile path, using webpack"
+    },
+    {
+        "name": "@forsakringskassan/docs-generator",
+        "description": "Documentation generator"
+    },
+    {
+        "name": "@ng-doc/utils",
+        "description": "<!-- PROJECT LOGO --> <br /> <div align=\"center\">   <a href=\"https://github.com/ng-doc/ng-doc\">     <img src=\"https://ng-doc.com/assets/images/ng-doc.svg?raw=true\" alt=\"Logo\" height=\"150px\">   </a>"
+    },
+    {
+        "name": "styledocco",
+        "description": "Generate documentation and style guides with design patterns from stylesheets."
+    },
+    {
+        "name": "@webdoc/types",
+        "description": "Type definitions for @webdoc/model"
+    },
+    {
+        "name": "@knodes/typedoc-pluginutils",
+        "description": "A set of utilities for TypeDoc plugins"
+    },
+    {
+        "name": "dydx-widdershins",
+        "description": "OpenAPI/ Swagger / AsyncAPI / Semoasa definition to Slate / Shins compatible markdown"
+    },
+    {
+        "name": "@antora/collector-extension",
+        "description": "An Antora extension that runs the specified commands per content root and imports the specified files into the content aggregate."
+    },
+    {
+        "name": "@api-viewer/docs",
+        "description": "API documentation viewer for Web Components"
+    },
+    {
+        "name": "shins",
+        "description": "Shins Is Not Slate"
+    },
+    {
+        "name": "assemble",
+        "description": "Get the rocks out of your socks! Assemble makes you fast at creating web projects. Assemble is used by thousands of projects for rapid prototyping, creating themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websit"
+    },
+    {
+        "name": "documentation-theme-utils",
+        "description": "helpers for building themes with documentation.js"
+    },
+    {
+        "name": "sveld",
+        "description": "Generate TypeScript definitions for your Svelte components."
+    },
+    {
+        "name": "@knodes/typedoc-plugin-pages",
+        "description": "A TypeDoc plugin that lets you integrate your own pages into the documentation output"
+    },
+    {
+        "name": "jsdoc-spec",
+        "description": "Run tests from comments in JavaScript/Typescript code"
+    },
+    {
+        "name": "@compodium/core",
+        "description": "A plug and play component playground for Vue and Nuxt."
+    },
+    {
+        "name": "apidoc-markdown",
+        "description": "📝 Generate a Simple and Portable Markdown documentation for your API"
+    },
+    {
+        "name": "@gr2m/gray-matter",
+        "description": "Parse front-matter from a string or file. Fast, reliable and easy to use. Parses YAML front matter by default, but also has support for YAML, JSON, TOML or Coffee Front-Matter, with options to set custom delimiters. Used by metalsmith, assemble, verb and "
+    },
+    {
+        "name": "@financial-times/o-layout",
+        "description": "Provides page layouts and typography as a starting point to create internal tools or products."
+    },
+    {
+        "name": "kolay",
+        "description": "The runtime compiled documentation tool. Scale to any size with flat build cost."
+    },
+    {
+        "name": "doxdox",
+        "description": "Main package for doxdox."
+    },
+    {
+        "name": "@ulu/sassdoc-to-markdown",
+        "description": "A flexible SCSS documentation tool that generates clean, customizable Markdown from your Sass stylesheets. It leverages SassDoc for data extraction and offers various configuration options to tailor the output to your specific needs"
+    },
+    {
+        "name": "docsify-themeable",
+        "description": "A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+)."
+    },
+    {
+        "name": "alphabet",
+        "description": "The english alphabet as a string or array, upper and lowercase."
+    },
+    {
+        "name": "retypeapp",
+        "description": "Retype CLI."
+    },
+    {
+        "name": "elm-doc-preview",
+        "description": "Elm offline documentation previewer with hot reloading."
+    },
+    {
+        "name": "unexpected-markdown",
+        "description": "A markdown parser that evaluates examples and highligh syntax using unexpected"
+    },
+    {
+        "name": "@webdoc/cli",
+        "description": "CLI for @webdoc monorepo"
+    },
+    {
+        "name": "@electron/docs-parser",
+        "description": "Parse Electron documentation into a machine readable JSON file"
+    },
+    {
+        "name": "@sap-ux/fiori-docs-embeddings",
+        "description": "SAP Fiori documentation indexing"
+    },
+    {
+        "name": "ratify",
+        "description": "A Hapi plugin for validating the schema of path, query, request body, and response body params using JSON-schema"
+    },
+    {
+        "name": "@unleash/express-openapi",
+        "description": "Middleware for generating OpenAPI/Swagger documentation for your Express app"
+    },
+    {
+        "name": "@compodium/nuxt",
+        "description": "A plug an play component playground for Nuxt."
+    },
+    {
+        "name": "apidoc-light",
+        "description": "RESTful web API Documentation Generator"
+    },
+    {
+        "name": "@scriptappy/cli",
+        "description": "Scriptappy CLI"
+    },
+    {
+        "name": "builddocs",
+        "description": "Build documentation files from commented source code"
+    },
+    {
+        "name": "es-mapping-ts",
+        "description": "Eleasticsearch mapping manager typescript"
+    },
+    {
+        "name": "doxme",
+        "description": "create markdown docs for dox output"
+    },
+    {
+        "name": "@antora/atlas-extension",
+        "description": "An Antora extension that manages references across discrete runs of Antora through the use of a site manifest."
+    },
+    {
+        "name": "doxdox-parser-dox",
+        "description": "dox parser for doxdox"
+    },
+    {
+        "name": "@closeio/best-practices-documentation",
+        "description": "Tooling to document best practices in your code base."
+    },
+    {
+        "name": "@solarity/hardhat-markup",
+        "description": "Customizable markdown documentation for smart contracts"
+    },
+    {
+        "name": "projectz",
+        "description": "Stop wasting time syncing and updating your project's README and Package Files!"
+    },
+    {
+        "name": "@geosolutions/jsdoc",
+        "description": "An API documentation generator for JavaScript."
+    },
+    {
+        "name": "starlight-showcases",
+        "description": "Set of Starlight components to author showcase pages."
+    },
+    {
+        "name": "weallbehave",
+        "description": "CODE_OF_CONDUCT.md generator"
+    },
+    {
+        "name": "@diplodoc/cli",
+        "description": "Make documentation using yfm-docs in Markdown and HTML formats"
+    },
+    {
+        "name": "clean-documentation-theme",
+        "description": "Theme for documentation.js"
+    },
+    {
+        "name": "weallcontribute",
+        "description": "CONTRIBUTING.md generator"
+    },
+    {
+        "name": "markdown-notes-tree",
+        "description": "Generate Markdown trees that act as a table of contents for a folder structure with Markdown notes"
+    },
+    {
+        "name": "api-docs-gen",
+        "description": "API Documentation generator from `api-extractor` doc model"
+    },
+    {
+        "name": "log4brains",
+        "description": "Log and publish your architecture decisions (ADR) with Log4brains"
+    },
+    {
+        "name": "madwizard",
+        "description": "Turn Markdown into Wizards"
+    },
+    {
+        "name": "typedoc-light-theme",
+        "description": "TypeDoc theme that adds some useful options (header links, custom style and script, ability to create files etc)"
+    },
+    {
+        "name": "gulp-apidoc",
+        "description": " RESTful web API Documentation Generator"
+    },
+    {
+        "name": "markdown-styles",
+        "description": "Markdown to HTML generator and multiple CSS themes for Markdown"
+    },
+    {
+        "name": "@vuedx/analyze",
+        "description": "Extracts public API information from Vue component."
+    },
+    {
+        "name": "api-extractor-me",
+        "description": "Analyze the exported API for a TypeScript library and generate reviews, documentation, and .d.ts rollups"
+    },
+    {
+        "name": "unexpected-documentation-site-generator",
+        "description": "Documentation site generator for Unexpected plugins"
+    },
+    {
+        "name": "docusaurus-graphql-plugin",
+        "description": "Docusaurus plugin generating Markdown documentation from a GraphQL schema."
+    },
+    {
+        "name": "@andrebuzeli/spec-mcp-tools",
+        "description": "Universal MCP server for spec-driven development - compatible with any IDE supporting MCP"
+    },
+    {
+        "name": "markdox",
+        "description": "Markdox is a documentation generator based on Dox and Markdown with support for JavaScript, CoffeeScript and IcedCoffeeScript."
+    },
+    {
+        "name": "gulp-yuidoc",
+        "description": "A yuidoc plugin for Gulp"
+    },
+    {
+        "name": "doc",
+        "description": "Runtime documentation tool for REPL"
+    },
+    {
+        "name": "@svelteness/kit-docs",
+        "description": "Documentation integration for SvelteKit."
+    },
+    {
+        "name": "vuepress-theme-vdoing",
+        "description": "Vdoing theme for VuePress. 一个基于VuePress的知识管理兼博客主题。"
+    },
+    {
+        "name": "getdocs",
+        "description": "An extractor for succinct documentation comments in JavaScript code"
+    },
+    {
+        "name": "docusaurus-init",
+        "description": "Initialization script for Docusaurus"
+    },
+    {
+        "name": "madwizard",
+        "description": "Turn Markdown into Wizards"
+    },
+    {
+        "name": "api-viewer-element",
+        "description": "API documentation and live playground for Web Components"
+    },
+    {
+        "name": "@effect/markdown-toc",
+        "description": "Generate a markdown TOC (table of contents) with Remarkable."
+    },
+    {
+        "name": "jsdoc-ts-utils",
+        "description": "A plugin with utilities to make your TypeScript-like docs JSDoc valid"
+    },
+    {
+        "name": "@convex-dev/typedoc-plugin-markdown",
+        "description": "A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown."
+    },
+    {
+        "name": "@homer0/prettier-plugin-jsdoc",
+        "description": "A Prettier plugin to format JSDoc blocks"
+    },
+    {
+        "name": "metalsmith-unexpected-markdown",
+        "description": "A Metalsmith plugin for writing markdown with evaluated examples and syntax highlighting"
+    },
+    {
+        "name": "hercule",
+        "description": "Markdown, API Blueprint and string transclusion"
+    },
+    {
+        "name": "renoun",
+        "description": "The renoun toolkit keeps documentation polished, in sync, and on brand."
+    },
+    {
+        "name": "typedoc-neo-theme",
+        "description": "Improved theme for Typedoc"
+    },
+    {
+        "name": "@uetchy/doctoc",
+        "description": "Generates TOC for markdown files of local git repo."
+    },
+    {
+        "name": "api2html",
+        "description": "A CLI tool to transform Swagger/OpenAPI/AsyncAPI docs to beautiful HTML pages via Shins/Widdershins"
+    },
+    {
+        "name": "dociql",
+        "description": "Generate beautiful static API documentation from GraphQL Schema"
+    },
+    {
+        "name": "@webdoc/plugin-format",
+        "description": "Format data types in webdoc using ESLint"
+    },
+    {
+        "name": "starlight-fullview-mode",
+        "description": "A minimalist plugin that collapses Starlight&#39;s sidebars and expands the main content to full width, creating a distraction-free, fullscreen-like reading experience. Toggle with a single click to focus purely on your content."
+    },
+    {
+        "name": "opnix",
+        "description": "Visual command center for understanding, managing, and documenting software projects"
+    },
+    {
+        "name": "vuepress-plugin-vue-example",
+        "description": "A Vuepress plugin to display Vue components' live examples and source code inside documentation"
+    },
+    {
+        "name": "swagger-jsdoc-generator",
+        "description": "Command line script that generates a swagger file based on jsdoc comments"
+    },
+    {
+        "name": "@doc-tools/components",
+        "description": "React компоненты для отрисовки документационного проекта"
+    },
+    {
+        "name": "vuepress-plugin-baidu-tongji",
+        "description": "Baidu-tongji plugin for vuepress"
+    },
+    {
+        "name": "docsify-tabs",
+        "description": "A docsify.js plugin for rendering tabbed content from markdown"
+    },
+    {
+        "name": "type2docfx",
+        "description": "A tool to convert json format output from TypeDoc to schema driven reference model for DocFx to consume."
+    },
+    {
+        "name": "@pixi/webdoc-template",
+        "description": "PixiJS' webdoc template for API documentation"
+    },
+    {
+        "name": "@renoun/mdx",
+        "description": "MDX plugins and utilities for renoun"
+    },
+    {
+        "name": "verb",
+        "description": "Documentation generator for GitHub projects. Verb is extremely powerful, easy to use, and is used on hundreds of projects of all sizes to generate everything from API docs to readmes."
+    },
+    {
+        "name": "postman-to-markdown",
+        "description": "Generate documentation in markdown from postman documentation."
+    },
+    {
+        "name": "documentation-theme-default",
+        "description": "the default theme for documentation"
+    },
+    {
+        "name": "vuepress-plugin-thirdparty-search",
+        "description": "Enhanced search plugin for VuePress，可以添加第三方搜索链接的 Vuepress 搜索插件"
+    },
+    {
+        "name": "@enio.ai/typedoc",
+        "description": "Generator to setup Nx projects with documentation automation using typedoc"
+    },
+    {
+        "name": "starlight-scroll-to-top",
+        "description": "Add a scroll to top button to your documentation website."
+    },
+    {
+        "name": "@daybrush/jsdoc",
+        "description": "An API documentation generator for JavaScript and Typescript."
+    },
+    {
+        "name": "starlight-heading-badges",
+        "description": "Starlight plugin to add badges to your Markdown and MDX headings."
+    },
+    {
+        "name": "docdown",
+        "description": "A simple JSDoc to Markdown documentation generator."
+    },
+    {
+        "name": "@diplodoc/liquid",
+        "description": "A simple transformer of text in YFM (Yandex Flavored Markdown) to HTML"
+    },
+    {
+        "name": "gulp-documentation",
+        "description": "documentation plugin for gulp"
+    },
+    {
+        "name": "starlight-versions",
+        "description": "Starlight plugin to version documentation pages."
+    },
+    {
+        "name": "jsarch",
+        "description": "A simple module to extract architecture notes from your code."
+    },
+    {
+        "name": "@suchipi/dtsmd",
+        "description": "Generate Markdown from Typescript .d.ts file"
+    },
+    {
+        "name": "itdoc",
+        "description": "Test-driven documentation for RESTful services"
+    },
+    {
+        "name": "trakk-js",
+        "description": "Automatic Documentation Generation - Real-Time Code Execution Flow - Testing / Debugging - Onboarding - for Front-End Applications"
+    },
+    {
+        "name": "antora-site-generator-lunr",
+        "description": "An Antora's site generator that produces a Lunr index."
+    },
+    {
+        "name": "jest-runner-docs",
+        "description": "Jest runner for API documentation generation from code comments, supports TypeScript. Very stable and reliable, based on `parse-comments` package"
+    },
+    {
+        "name": "vuepress-plugin-mermaidjs",
+        "description": "A Vuepress plugin providing easy MermaidJS diagramming"
+    },
+    {
+        "name": "@hrefcl/apidoc",
+        "description": "APIDoc v5 - RESTful web API Documentation Generator with Vue 3 and modern features"
+    },
+    {
+        "name": "@ts-docs/ts-docs",
+        "description": "A documentation generator for typescript"
+    },
+    {
+        "name": "swagger-spec-express",
+        "description": "Allows you to programmatically annotate your express routes with swagger info and then generate and validate your json spec file"
+    },
+    {
+        "name": "starlight-theme-rapide",
+        "description": "Starlight theme inspired by the Visual Studio Code Vitesse theme."
+    },
+    {
+        "name": "dmd-bitbucket",
+        "description": "Plugin for jsdoc2md to produce markdown suitable for bitbucket"
+    },
+    {
+        "name": "@api-viewer/demo",
+        "description": "Live demo playground for Web Components"
+    },
+    {
+        "name": "docgen",
+        "description": "Generate documentation from markdown comments in your source code"
+    },
+    {
+        "name": "doca",
+        "description": "A CLI tool that scaffolds API documentation based on JSON HyperSchemas."
+    },
+    {
+        "name": "insomnia-documenter",
+        "description": "API documentation generator tool for Insomnia."
+    },
+    {
+        "name": "vue-sphinx-xml",
+        "description": "Vue component for Sphinx documentation XML content."
+    },
+    {
+        "name": "nestdoc",
+        "description": "Nest.JS documentation generator"
+    },
+    {
+        "name": "st.db",
+        "description": "ST.db is a versatile npm package for managing databases with a simple key-value interface. It supports various database types, offers seamless switching between drivers, efficient caching, encryption, and customizable configurations. Ideal for diverse pro"
+    },
+    {
+        "name": "@vuepress/theme-vue",
+        "description": "VuePress theme for official Vue projects"
+    },
+    {
+        "name": "@theneo/sdk",
+        "description": "Theneo SDK"
+    },
+    {
+        "name": "widdershins-x",
+        "description": "OpenAPI/ Swagger / AsyncAPI / Semoasa definition to Slate / Shins compatible markdown"
+    },
+    {
+        "name": "storybook-addon-jsdoc-to-mdx",
+        "description": "Storybook addon that automatically generates MDX documentation from JSDoc comments in your TypeScript and JavaScript files. Supports HTML tags in comments, complex TypeScript types, and integrates seamlessly with Storybook 7.x and 8.x."
+    },
+    {
+        "name": "starlight-openapi-rapidoc",
+        "description": "Starlight plugin to generate documentation from OpenAPI/Swagger specifications + RapiDoc.."
+    },
+    {
+        "name": "documentary",
+        "description": "Documentation Compiler To Generate The Table Of Contents, Embed Examples With Their Output, Make Markdown Tables, Maintain Typedefs For JavaScript And README, Watch Changes To Push, Use Macros And Prettify API Titles."
+    },
+    {
+        "name": "gulp-jsdoc-to-markdown",
+        "description": "Plugin for jsdoc-to-markdown. Works in both buffer and streaming modes."
+    },
+    {
+        "name": "cirruswave",
+        "description": "Comprehensive framework for cloud based REST enabled microservices development"
+    },
+    {
+        "name": "@doc-tools/docs",
+        "description": "Make documentation using yfm-docs in Markdown and HTML formats"
+    },
+    {
+        "name": "@springio/antora-zip-contents-collector-extension",
+        "description": "An Antora extension that runs a collects the content from local or remote zip files."
+    },
+    {
+        "name": "@discordjs/docgen",
+        "description": "The docs.json generator for discord.js and its related projects"
+    },
+    {
+        "name": "wix-storybook-utils",
+        "description": "Utilities for automated component documentation within Storybook"
+    },
+    {
+        "name": "storybook-axios",
+        "description": "Axios inspection for storybook"
+    },
+    {
+        "name": "@springio/antora-xref-extension",
+        "description": "An Antora extension to improve xref support."
+    },
+    {
+        "name": "flatworm",
+        "description": "A very simple documentation generation tool."
+    },
+    {
+        "name": "repzo",
+        "description": "Repzo TypeScript SDK"
+    },
+    {
+        "name": "eslint-docgen",
+        "description": "Automatically generate ESLint plugin documentation from rule metadata and test cases."
+    },
+    {
+        "name": "@vuepress-dumi/vuepress-plugin-dumi-previewer",
+        "description": "A dumi style code previewer plugin for VuePress."
+    },
+    {
+        "name": "@alauda/doom",
+        "description": "Doctor Doom making docs."
+    },
+    {
+        "name": "docs-searchbar.js",
+        "description": "Add a relevant search bar to your documentation using Meilisearch"
+    },
+    {
+        "name": "@decaf-ts/utils",
+        "description": "module management utils for decaf-ts"
+    },
+    {
+        "name": "@intlayer/mcp",
+        "description": "Intlayer MCP server. Handle MCP to help IDE to use Intlayer. It build, fill, pull, push, dictionaries"
+    },
+    {
+        "name": "@doc-tools/transform",
+        "description": "A simple transformer of text in YFM (Yandex Flavored Markdown) to HTML"
+    },
+    {
+        "name": "@rollup-umd/documentation-cli",
+        "description": "CLI utilities for maintaining the documentation of any Rollup UMD projects."
+    },
+    {
+        "name": "express-route-parser",
+        "description": "An Express plugin that can list the path and route endpoints of an Express app."
+    },
+    {
+        "name": "dox-foundation",
+        "description": "HTML output for Dox documentation generator"
+    },
+    {
+        "name": "docula",
+        "description": "Beautiful Website for Your Projects"
+    },
+    {
+        "name": "@virmator/docs",
+        "description": "Default TS docs plugin for virmator."
+    },
+    {
+        "name": "@knime/kds-components",
+        "description": "Package containing basic Vue components of the KNIME Design System"
+    },
+    {
+        "name": "@knuckleswtf/scribe",
+        "description": "Generate API documentation for humans from your Node.js codebase."
+    },
+    {
+        "name": "directed-graph-typed",
+        "description": "Directed Graph"
+    },
+    {
+        "name": "gitbook-plugin-anchorjs",
+        "description": "Add anchor.js to your Gitbook"
+    },
+    {
+        "name": "vuepress-webpack",
+        "description": "Vue-powered Static Site Generator"
+    },
+    {
+        "name": "@theneo/cli",
+        "description": "Theneo CLI"
+    },
+    {
+        "name": "intdoc",
+        "description": "Introspective documentation for JavaScript"
+    },
+    {
+        "name": "@redpanda-data/docs-extensions-and-macros",
+        "description": "Antora extensions and macros developed for Redpanda documentation."
+    },
+    {
+        "name": "queue-typed",
+        "description": "Queue data structure"
+    },
+    {
+        "name": "@j0kz/doc-generator-mcp",
+        "description": "Documentation Generator MCP - Auto-generate JSDoc, README, API docs, and changelogs from code. Works with Claude Code, Cursor, Windsurf, Roo Code, and any MCP-compatible editor."
+    },
+    {
+        "name": "doc-detective-core",
+        "description": "The doc testing framework."
+    },
+    {
+        "name": "@knuckleswtf/scribe-express",
+        "description": "Generate API documentation for humans from your Express.js codebase."
+    },
+    {
+        "name": "@akson/cortex-doc-standards",
+        "description": "Unified documentation standards and tooling for Cortex repositories with LLM optimization"
+    },
+    {
+        "name": "@tantaman/api-extractor",
+        "description": "Analyze the exported API for a TypeScript library and generate reviews, documentation, and .d.ts rollups"
+    },
+    {
+        "name": "okidoki",
+        "description": "OkiDoki – convert Markdown to beautiful docs with Tailwind/DaisyUI. Docs: okidoki.dev"
+    },
+    {
+        "name": "graphqldoc",
+        "description": "Generate GraphQL docs from schema."
+    },
+    {
+        "name": "js-comments-template",
+        "description": "Default template used by js-comments and helper-apidocs for generating API docs."
+    },
+    {
+        "name": "swagger-ui-koa",
+        "description": "Swagger UI Koa"
+    },
+    {
+        "name": "@bitjson/typedoc",
+        "description": "Create api documentation for TypeScript projects."
+    },
+    {
+        "name": "documentation-website",
+        "description": "Declarative multilanguage documentation website generator"
+    },
+    {
+        "name": "@cppalliance/antora-cpp-reference-extension",
+        "description": "C++ Reference Extension for Antora"
+    },
+    {
+        "name": "docusaurus-protobuffet-plugin",
+        "description": "Protobuf documentation plugin for Docusaurus"
+    },
+    {
+        "name": "typescript-class-helpers",
+        "description": "Usefull helper to have in your typescript project"
+    },
+    {
+        "name": "madwizard-cli",
+        "description": "Turn Markdown into Wizards, CLI front end"
+    },
+    {
+        "name": "apidoc-swagger-converter",
+        "description": "Convert api doc json to swagger-3.0 json"
+    },
+    {
+        "name": "esdoc2",
+        "description": "Better Documentation Generator For JavaScript"
+    },
+    {
+        "name": "docson",
+        "description": "Documentation for your JSON types"
+    },
+    {
+        "name": "docusaurus-protobuffet",
+        "description": "Protobuf documentation toolset for Docusaurus"
+    },
+    {
+        "name": "madwizard-cli-core",
+        "description": "Turn Markdown into Wizards, CLI front end (w/o store)"
+    },
+    {
+        "name": "@mikoto_zero/minigame-open-mcp",
+        "description": "TapTap Open API MCP Server - Documentation and Management APIs for TapTap Minigame and H5 Games (Leaderboard, and more features coming)"
+    },
+    {
+        "name": "vite-plugin-doctest",
+        "description": "Vite plugin for documentation testing powered with vitest"
+    },
+    {
+        "name": "@nodesecure/flags",
+        "description": "NodeSecure security flags"
+    },
+    {
+        "name": "@docgeni/core",
+        "description": "Docgeni - Core Library"
+    },
+    {
+        "name": "bangstack",
+        "description": "Comprehensive workflow creator for application development"
+    },
+    {
+        "name": "@sillsdev/docu-notion",
+        "description": "Download Notion pages as markdown and image files, preserving hierarchy and enabling workflow properties. Works with Docusaurus."
+    },
+    {
+        "name": "firedev-class-helpers",
+        "description": "Usefull helper to have in your typescript project"
+    },
+    {
+        "name": "@docgeni/cli",
+        "description": "CLI tool for Docgeni"
+    },
+    {
+        "name": "vuepress-theme-cosmos",
+        "description": "Theme for VuePress static site generator used by Comet BFT and Cosmos projects."
+    },
+    {
+        "name": "@guidebooks/store",
+        "description": "The home for importable Guidebooks."
+    },
+    {
+        "name": "jsdoc-sphinx",
+        "description": "A JSDoc3 template which output ReStructured Text for Sphinx Doc"
+    },
+    {
+        "name": "doxx",
+        "description": "Generic, template based, HTML output for Dox documentation generator"
+    },
+    {
+        "name": "heap-typed",
+        "description": "Heap"
+    },
+    {
+        "name": "astro-llms-generate",
+        "description": "Astro integration to automatically generate AI-friendly documentation files: /llms.txt, /llms-small.txt, and /llms-full.txt"
+    },
+    {
+        "name": "swagger-typed-express-docs",
+        "description": "Simple express runtime parser and documentation swagger generator with 100% support of Typescript static types"
+    },
+    {
+        "name": "lodash-walk-object",
+        "description": "Walk all properties deep in object with lodash help"
+    },
+    {
+        "name": "remark-kroki",
+        "description": "Remark plugin for showing Kroki diagram"
+    },
+    {
+        "name": "vue-doxen",
+        "description": "The world's best Vue.js component documentation tool!"
+    },
+    {
+        "name": "typal",
+        "description": "Organises TypeDefs By Placing Them Into Types.Xml File To Be Embedded Into Source Code Compatible With VSCode And Google Closure Compiler, Generates Externs And Allows To Place Documentation In README Markdown."
+    },
+    {
+        "name": "@rcmade/hono-docs",
+        "description": "Auto-generate OpenAPI 3.0 spec from Hono route types"
+    },
+    {
+        "name": "@compodoc/gulp-compodoc",
+        "description": "Compodoc plugin for gulp"
+    },
+    {
+        "name": "helper-reflinks",
+        "description": "Async template helper for generating a list of markdown reference links."
+    },
+    {
+        "name": "typedoc-plugin-reference-excluder",
+        "description": "TypeDoc plugin to exclude any reference (class/interface/property/etc.) by RegEx and more"
+    },
+    {
+        "name": "vuepress-plugin-flowchart",
+        "description": "Rapid flowchart development plugin for vuepress"
+    },
+    {
+        "name": "js-comments",
+        "description": "Parse JavaScript code comments and generate API documentation."
+    },
+    {
+        "name": "@synion/md-docs",
+        "description": "Business driven living documentation static site generator."
+    },
+    {
+        "name": "puml-for-markdown",
+        "description": "An application to add interactive PUML diagrams to your github markdown files. If running with default arguments, run in project root directory."
+    },
+    {
+        "name": "v-mark-docs",
+        "description": "Markdown related utilities for documenting Vue components."
+    },
+    {
+        "name": "extract-gfm",
+        "description": "Utilities for extracting and replacing GitHub Flavored Markdown code blocks. For example, you could easily find code blocks for a specific language and run the code through a linter."
+    },
+    {
+        "name": "graph-typed",
+        "description": "Graph data structure."
+    },
+    {
+        "name": "storybook-django",
+        "description": "Implement, document, and test UI components in isolation from your Django views"
+    },
+    {
+        "name": "@cppalliance/asciidoctor-boost-links",
+        "description": "Asciidoctor extension to generates links to Boost library docs"
+    },
+    {
+        "name": "@rollup-umd/documentation",
+        "description": "Extension for react-styleguidist, Featured generated react-documentation, generated jsdom documentation, default react-styleguidist configuration including react-native, layout package with auto-configuration, internals layouts, configured CI"
+    },
+    {
+        "name": "graphql-docs",
+        "description": "Dynamic documentation for GraphQL endpoints"
+    },
+    {
+        "name": "mdoc",
+        "description": "Markdown based documentation generator"
+    },
+    {
+        "name": "starlight-kbd",
+        "description": "Starlight plugin to quickly and easily document keyboard shortcuts."
+    },
+    {
+        "name": "@dovyp/vuepress-plugin-clipboard-copy",
+        "description": "VuePress plugin for copying code blocks"
+    },
+    {
+        "name": "starlight-changelogs",
+        "description": "Starlight plugin to display changelogs alongside your project documentation."
+    },
+    {
+        "name": "@wordpress/docgen",
+        "description": "Autogenerate public API documentation from exports and JSDoc comments."
+    },
+    {
+        "name": "@elastic/docsmobile",
+        "description": "The engine that makes your docs go!"
+    },
+    {
+        "name": "openapi2html",
+        "description": "Yet another static html generator for Open API 2.0 / Swagger 2.0"
+    },
+    {
+        "name": "meta-doc",
+        "description": "Project documentation generator with support of HTML and Markdown pages."
+    },
+    {
+        "name": "firedoc",
+        "description": "[![Circle CI](https://circleci.com/gh/cocos-creator/firedoc/tree/master.svg?style=shield)](https://circleci.com/gh/cocos-creator/firedoc/tree/master)"
+    },
+    {
+        "name": "@marks-js/marks",
+        "description": "Unleash the Power of a New kind of Markdown"
+    },
+    {
+        "name": "addon-confluence",
+        "description": "An addon to implement Confluence documentation in StoryBook."
+    },
+    {
+        "name": "lodash-doc-globals",
+        "description": "Globals referenced by Lodash documentation examples."
+    },
+    {
+        "name": "agentlangcli",
+        "description": "A command-line interface tool for Agentlang"
+    },
+    {
+        "name": "jschemer",
+        "description": "A Node.js library to generate documentation for JSON Schemas"
+    },
+    {
+        "name": "embedex",
+        "description": "Embed shared text and code snippets from source files into destination files."
+    },
+    {
+        "name": "@bestatic/layout",
+        "description": "MDX-based theme"
+    },
+    {
+        "name": "@docwalrus/cli",
+        "description": "DocWalrus - Documentation and blog Framework"
+    },
+    {
+        "name": "ui-router-typedoc-themes",
+        "description": "UIRouter customized themes for TypeDoc."
+    },
+    {
+        "name": "@cppalliance/antora-cpp-tagfiles-extension",
+        "description": "C++ Tagfiles Extension for Antora"
+    },
+    {
+        "name": "deque-typed",
+        "description": "Deque"
+    },
+    {
+        "name": "verb-readme-includes",
+        "description": "Template partials for Verb, the markdown documentation generator with zero-configuration required."
+    },
+    {
+        "name": "vitepress-plugin-nprogress",
+        "description": "nprogress plugin for vitepress"
+    },
+    {
+        "name": "@specmind/format",
+        "description": ".sm file format parser and writer"
+    },
+    {
+        "name": "doc-detective",
+        "description": "Treat doc content as testable assertions to validate doc accuracy and product UX."
+    },
+    {
+        "name": "wp-hookdoc",
+        "description": "An API documentation generator for your WordPress actions and filters."
+    },
+    {
+        "name": "adonis-swagger",
+        "description": "Swagger Provider for Adonis"
+    },
+    {
+        "name": "create-ai-chat-context-experimental",
+        "description": "Phase 2: TypeScript rewrite - AI Chat Context & Memory System with conversation extraction and AICF format support (powered by aicf-core v2.1.0)."
+    },
+    {
+        "name": "electron-docs",
+        "description": "Fetch Electron documentation as raw markdown strings"
+    },
+    {
+        "name": "gulp-esdoc",
+        "description": "Gulp plugin for ESDoc"
+    },
+    {
+        "name": "markmv",
+        "description": "TypeScript CLI for markdown file operations with intelligent link refactoring"
+    },
+    {
+        "name": "max-priority-queue-typed",
+        "description": "Max Priority Queue"
+    },
+    {
+        "name": "aws-serverless-swagger-ui",
+        "description": "Serverless version of Swagger UI served by AWS API Gateway and lambda"
+    },
+    {
+        "name": "@peru-com/ui",
+        "description": "Perucom UI is a library of components made in ReactJS"
+    },
+    {
+        "name": "@julianoczkowski/my-rules",
+        "description": "Personal development rules, guidelines, and documentation for coding projects"
+    },
+    {
+        "name": "ontowave",
+        "description": "Lightweight JavaScript library for creating interactive documentation from Markdown with multilingual support, Prism syntax highlighting, Mermaid diagrams, and PlantUML rendering"
+    },
+    {
+        "name": "gulp-markdown-to-json",
+        "description": "Parse Markdown + YAML, compile Markdown to HTML, wrap it in JSON."
+    },
+    {
+        "name": "documentation-hipster",
+        "description": "documentation.js Bootstrap Theme with TypeScript and React support"
+    },
+    {
+        "name": "verb-defaults",
+        "description": "Plugin for setting basic defaults in verb projects."
+    },
+    {
+        "name": "@bestatic/core",
+        "description": "React Static Documentation"
+    },
+    {
+        "name": "helper-apidocs",
+        "description": "Template helper for automatically generating API docs from code comments. Should work with any template engine."
+    },
+    {
+        "name": "apidoc-swagger",
+        "description": "Convert api doc json to swagger json"
+    },
+    {
+        "name": "@pidoc/components",
+        "description": "Components for generating a dynamic documentation experience like for docs.piral.io."
+    },
+    {
+        "name": "verb-repo-data",
+        "description": "Verb plugin that adds repository and package.json data to the context for rendering templates."
+    },
+    {
+        "name": "remarked",
+        "description": "Markdown parser and lexer. A fork of marked.js maintained for Assemble."
+    },
+    {
+        "name": "groc",
+        "description": "Documentation generation, in the spirit of literate programming."
+    },
+    {
+        "name": "json10",
+        "description": "Handle circural references, comments and many more inside JSON"
+    },
+    {
+        "name": "madr-tools",
+        "description": "Node.js CLI to to create and manage Markdown Architectural Decision Records (MADR)"
+    },
+    {
+        "name": "code-narrator",
+        "description": "Uses OpenAI to generate documentation for your source code, as well create HowTo, FAQ, Tutorial and other custom pages. Code-narrator documents it self and should be a validation of the documentation working, similar to a compiler compiling it self. Confi"
+    },
+    {
+        "name": "@pidoc/core",
+        "description": "Tools for generating a dynamic documentation experience like for docs.piral.io."
+    },
+    {
+        "name": "priority-queue-typed",
+        "description": "Priority Queue"
+    },
+    {
+        "name": "typedoc-plugin-md",
+        "description": "A typedoc plugin for generating markdown documentation"
+    },
+    {
+        "name": "@typedefs/parser",
+        "description": "The Parser For JSDoc Types."
+    },
+    {
+        "name": "@ng-doc/add",
+        "description": "<!-- PROJECT LOGO --> <br /> <div align=\"center\">   <a href=\"https://github.com/ng-doc/ng-doc\">     <img src=\"https://ng-doc.com/assets/images/ng-doc.svg?raw=true\" alt=\"Logo\" height=\"150px\">   </a>"
+    },
+    {
+        "name": "typescriptmd",
+        "description": "A type-safe, component-based markdown engine for TypeScript"
+    },
+    {
+        "name": "undirected-graph-typed",
+        "description": "Undirected Graph"
+    },
+    {
+        "name": "retypeapp-linux-x64",
+        "description": "Retype CLI."
+    },
+    {
+        "name": "create-bini-app",
+        "description": "Bini.js: Ultra-high-performance enterprise-grade React framework with automatic source code protection, Next.js-like file-based routing, head-only SSR, production-ready API routes, Fastify server, TypeScript support, and built-in security middleware. The "
+    },
+    {
+        "name": "verb-readme-badges",
+        "description": "Readme badge templates."
+    },
+    {
+        "name": "code-context",
+        "description": "Parse a string of javascript to determine the context for functions, variables and comments based on the code that follows."
+    },
+    {
+        "name": "vue-atomic-docs",
+        "description": "A Vue plugin to automatically generate documentation for your components."
+    },
+    {
+        "name": "vitepress-plugin-google-analytics",
+        "description": "google-analytics plugin for vitepress"
+    },
+    {
+        "name": "api-console",
+        "description": "The API Console to automatically generate API documentation from RAML and OAS files."
+    },
+    {
+        "name": "@kobalte/solidbase",
+        "description": "Fully featured, fully customisable static site generation for SolidStart"
+    },
+    {
+        "name": "docular",
+        "description": "Extensible Documentation Generation Based on AngularJS's Documentation Generation"
+    },
+    {
+        "name": "@berun/preset-bestatic",
+        "description": "TDX and MDX-based documentation server"
+    },
+    {
+        "name": "grunt-verb",
+        "description": "Grunt plugin for Verb, the markdown documentation generator with zero-configuration required."
+    },
+    {
+        "name": "verb-repo-helpers",
+        "description": "Commonly used helpers for adding repository-related data to templates in verb projects."
+    },
+    {
+        "name": "documentation-polyglot",
+        "description": "C++ plugin for documentation.js"
+    },
+    {
+        "name": "@godaddy/dmd",
+        "description": "Plugin for jsdoc2md with improved readability and GitHub compatibility"
+    },
+    {
+        "name": "features-cli",
+        "description": "A CLI tool for discovering the features in a folder"
+    },
+    {
+        "name": "markserv-cli",
+        "description": "Launch your Markdown content into hyper-space."
+    },
+    {
+        "name": "@magmastudio/magmadocumentor",
+        "description": "Documentation 4.0."
+    },
+    {
+        "name": "verb-toc",
+        "description": "Verb plugin that adds middleware for creating and injecting a table of contents into a markdown document."
+    },
+    {
+        "name": "@grafana/api-extractor",
+        "description": "Analyze the exported API for a TypeScript library and generate reviews, documentation, and .d.ts rollups"
+    },
+    {
+        "name": "angular-swagger-ui",
+        "description": "AngularJS implementation of OpenAPI (aka Swagger) UI"
+    },
+    {
+        "name": "@allpepper/memory-bank-mcp",
+        "description": "MCP server for remote management of project memory banks"
+    },
+    {
+        "name": "xdoc-parser",
+        "description": "An XDoc comment parser."
+    },
+    {
+        "name": "@caseywebb/elm-package-mcp-server",
+        "description": "Model Context Protocol (MCP) server for Elm language package documentation. Provides tools to list Elm packages from elm.json and fetch README/API docs from package.elm-lang.org"
+    },
+    {
+        "name": "@phun-ky/speccer",
+        "description": "A script to annotate, show spacing specs and to display typography information in documentation/website on HTML elements"
+    },
+    {
+        "name": "swagger-ui-restify",
+        "description": "Swagger UI Restify"
+    },
+    {
+        "name": "@mh4gf/issync",
+        "description": "CLI tool to sync text between GitHub Issue comments and local files"
+    },
+    {
+        "name": "angular-documentation-ui",
+        "description": "This library provides a few UI components to help you to create a documentation website. For the usage and the installation, please refer to [this Storybook](https://6698791e1ac6472425f6a25d-dmcdqftyby.chromatic.com/?path=/docs/concepts-introduction--docs"
+    },
+    {
+        "name": "ydoc",
+        "description": "基于 Markdown 的静态站点生成工具"
+    },
+    {
+        "name": "@typedproject/ts-doc",
+        "description": "Generate documentation in markdown for TypeScript API"
+    },
+    {
+        "name": "handoff-app",
+        "description": "Automated documentation toolchain for building client side documentation from figma"
+    },
+    {
+        "name": "@estruyf/doctor",
+        "description": "Maintain your documentation on SharePoint without pain."
+    },
+    {
+        "name": "zilliqa-mcp",
+        "description": "MCP server for Zilliqa documentation and real-time metrics from 3 Grafana dashboards"
+    },
+    {
+        "name": "magmastream",
+        "description": "A user-friendly Lavalink client designed for NodeJS."
+    },
+    {
+        "name": "max-heap-typed",
+        "description": "Max Heap"
+    },
+    {
+        "name": "react-peek",
+        "description": "Gather data by inspecting react components."
+    },
+    {
+        "name": "@galacean/document-sense",
+        "description": "Provides a series of MCP operations related to Galacean documents"
+    },
+    {
+        "name": "@freesewing/examples",
+        "description": "A FreeSewing pattern holding examples for our documentation"
+    },
+    {
+        "name": "@smst/edu-tools",
+        "description": "A comprehensive collection of educational tools and utilities as reusable React components with zero-config auto-discovery"
+    },
+    {
+        "name": "vuepress-plugin-tags",
+        "description": "tags plugin for vuepress"
+    },
+    {
+        "name": "verb-contrib-templates",
+        "description": "Templates used by the Verb and Assemble core teams"
+    },
+    {
+        "name": "@nuxt/press",
+        "description": "Minimalist Markdown Publishing for Nuxt.js"
+    },
+    {
+        "name": "@devbookhq/sdk",
+        "description": "SDK for managing Devbook sessions from JavaScript/TypeScript"
+    },
+    {
+        "name": "@b8n/nestjs-rapidoc",
+        "description": "NestJS module for RapiDoc"
+    },
+    {
+        "name": "glossarify-md",
+        "description": "Scans markdown files for glossary terms and replaces each occurrence with a link to a glossary file."
+    },
+    {
+        "name": "rapipdf",
+        "description": "RapiPdf - Generate PDF from Open API spec"
+    },
+    {
+        "name": "kompendium",
+        "description": "Documentation generator for Stencil components"
+    },
+    {
+        "name": "@vuepress/test-utils",
+        "description": "test-utils for vuepress"
+    },
+    {
+        "name": "api-docs-creator",
+        "description": "Simple file-based REST API documentation builder with testing"
+    },
+    {
+        "name": "@autobe/compiler",
+        "description": "AI backend server code generator"
+    },
+    {
+        "name": "@projectassistant/localdocs",
+        "description": "CLI tool for LocalDocs - interact with your team's documentation library from Claude Code"
+    },
+    {
+        "name": "vuepress-jsdoc",
+        "description": "Generate jsdoc markdown files for vuepress"
+    },
+    {
+        "name": "@test2doc/playwright",
+        "description": "A reporter that generates docs based off playwright test files"
+    },
+    {
+        "name": "@transistorsoft/typedoc-theme",
+        "description": "Default themes for TypeDoc."
+    },
+    {
+        "name": "moremaid",
+        "description": "Powerful Markdown viewer with Mermaid diagrams, archive support, and 10+ themes. Pack and share markdown projects as .moremaid files with encryption. Features full-text search, syntax highlighting, and auto-cleanup."
+    },
+    {
+        "name": "express-openapi-generator",
+        "description": "An Express plugin that can parse an app and generate a OpenApiv3 document."
+    },
+    {
+        "name": "@soldoc/markdown",
+        "description": "Markdown theme for soldoc"
+    },
+    {
+        "name": "typedoc-plugin-external-resolver",
+        "description": "TypeDoc plugin that resolves references to external typed modules"
+    },
+    {
+        "name": "adapt-method",
+        "description": "ADAPT - Agent Development & Personalization Toolkit. Create specialized Claude agents for your projects."
+    },
+    {
+        "name": "@lordcraymen/adr-toolkit",
+        "description": "CLI tooling to bootstrap, validate and publish Architecture Decision Records."
+    },
+    {
+        "name": "@bestatic/styled",
+        "description": "Styled scope provider for Markdown/MDX/TDX documents"
+    },
+    {
+        "name": "@intlayer/docs",
+        "description": "Intlayer documentation"
+    },
+    {
+        "name": "binary-tree-typed",
+        "description": "Binary Tree. Javascript & Typescript Data Structure."
+    },
+    {
+        "name": "mdx-go",
+        "description": "Lightning-fast MDX-based dev server"
+    },
+    {
+        "name": "firedev-walk-object",
+        "description": "Walk all properties deep in object with lodash help"
+    },
+    {
+        "name": "grunt-documentation",
+        "description": "Use Grunt with documentation to generate great documentation for your JavaScript projects."
+    },
+    {
+        "name": "@scalar/sveltekit",
+        "description": "A SvelteKit server handler to render API references from an OpenAPI file"
+    },
+    {
+        "name": "ts-to-jsdoc",
+        "description": "Transpile TypeScript code to fully compatible JavaScript + JSDoc comments."
+    },
+    {
+        "name": "@opuscapita/react-showroom-client",
+        "description": "React components catalog component"
+    },
+    {
+        "name": "svelte-readme",
+        "description": "Develop and demo your Svelte components in your README.md"
+    },
+    {
+        "name": "specmind",
+        "description": "CLI for SpecMind - AI-powered architecture documentation"
+    },
+    {
+        "name": "@dxz/blueprint",
+        "description": "A modern, powerful, experimental, and modular Discord bot framework"
+    },
+    {
+        "name": "ascaid",
+        "description": "Hassle-free documentation generation powered by AsciiDoc"
+    },
+    {
+        "name": "@tpitre/story-ui",
+        "description": "AI-powered Storybook story generator with dynamic component discovery"
+    },
+    {
+        "name": "dgp-ng-docs",
+        "description": "Components for documenting code"
+    },
+    {
+        "name": "stubber-form-fields-pkg",
+        "description": "A reusable Svelte component library"
+    },
+    {
+        "name": "openapi-zod-typed-express",
+        "description": "Simple express runtime parser and documentation swagger generator with 100% support of Typescript static types"
+    },
+    {
+        "name": "@knowcode/doc-builder",
+        "description": "Reusable documentation builder for markdown-based sites with Vercel deployment support"
+    },
+    {
+        "name": "@openpgp/jsdoc",
+        "description": "An API documentation generator for JavaScript."
+    },
+    {
+        "name": "min-priority-queue-typed",
+        "description": "Min Priority Queue"
+    },
+    {
+        "name": "@incognia/redoc",
+        "description": "ReDoc"
+    },
+    {
+        "name": "unwritten",
+        "description": "unwritten is a cli tool that auto generates documentation from your JavaScript or TypeScript project by utilizing TSDoc or JSDoc comments."
+    },
+    {
+        "name": "node-scripts-docs",
+        "description": "Generate documentation for your `package.json` scripts."
+    },
+    {
+        "name": "doc-detective-resolver",
+        "description": "Detect and resolve docs into Doc Detective tests."
+    },
+    {
+        "name": "hono-zod-openapi",
+        "description": "Alternative Hono middleware for creating OpenAPI documentation from Zod schemas"
+    },
+    {
+        "name": "@knuckleswtf/scribe-restify",
+        "description": "Generate API documentation for humans from your Restify codebase."
+    },
+    {
+        "name": "package-json-to-readme",
+        "description": "Generate a README.md from package.json contents"
+    },
+    {
+        "name": "@knuckleswtf/scribe-adonis",
+        "description": "Generate API documentation for humans from your Adonis.js codebase."
+    },
+    {
+        "name": "@svelteness/create-kit-docs",
+        "description": "Quickly scaffold a KitDocs application."
+    },
+    {
+        "name": "@autobe/agent",
+        "description": "AI backend server code generator"
+    },
+    {
+        "name": "@dan-nz/storybook-documentation-primitives",
+        "description": "A collection of Storybook primitives to use for documenting components and tokens in design systems"
+    },
+    {
+        "name": "@autobe/filesystem",
+        "description": "AI backend server code generator"
+    },
+    {
+        "name": "tldraw-vscode",
+        "description": "The tldraw Extension for VS Code."
+    },
+    {
+        "name": "grunt-docular",
+        "description": "Extensible Documentation Generation Based on AngularJS's Documentation Generation"
+    },
+    {
+        "name": "@snps/cli",
+        "description": "🚀 The Ultimate Development CLI - 15+ powerful features including AI assistance, real-time collaboration, cloud sync, performance optimization, and much more!"
+    },
+    {
+        "name": "jak-redoc",
+        "description": "jak ReDoc"
+    },
+    {
+        "name": "verb-generate-readme",
+        "description": "Generate your project's readme with verb. Requires verb v0.9.0 or higher."
+    },
+    {
+        "name": "@fjell/docs-template",
+        "description": "Shared documentation template for Fjell projects"
+    },
+    {
+        "name": "enlightme",
+        "description": "Enlighten your users with a beautiful documentation"
+    },
+    {
+        "name": "reslate",
+        "description": "Beautiful API Documentation"
+    },
+    {
+        "name": "express-autodoc",
+        "description": "API documentation generator based on jsdoc comments for express"
+    },
+    {
+        "name": "@reins-pro/docgen",
+        "description": "Docusaurus plugin for documentation generation based on your .ts files"
+    },
+    {
+        "name": "smart-search-mcp",
+        "description": "Smart Search MCP - 14个智能搜索工具（通过WebFetch真实获取搜索结果）"
+    },
+    {
+        "name": "offline-md-docs",
+        "description": "A simple Node.js package that you can use to create offline product documentation using Markdown. The tool embeds all content into a single output file."
+    },
+    {
+        "name": "crocodocs",
+        "description": "Cutting the complexity in the making of a documentation"
+    },
+    {
+        "name": "@junk-temporary-prototypes/addon-docs",
+        "description": "Document component usage and properties in Markdown"
+    },
+    {
+        "name": "@dxtmisha/wiki",
+        "description": "Wiki documentation and storybook utilities for DXT UI design system"
+    },
+    {
+        "name": "evaldown",
+        "description": "Evalute JavaScript snippets in markdown files and output static pages."
+    },
+    {
+        "name": "@unboundedsystems/docusaurus",
+        "description": "Easy to Maintain Open Source Documentation Websites"
+    },
+    {
+        "name": "@decaf-ts/fabric-weaver",
+        "description": "template for ts projects"
+    },
+    {
+        "name": "ember-cli-doc-server",
+        "description": "An express middleware to add '/docs' url in application served by 'ember server' to load contents from 'docs' folder."
+    },
+    {
+        "name": "@itsjamie/esdoc-core",
+        "description": "Good Documentation Generator For JavaScript"
+    },
+    {
+        "name": "@raven-js/glean",
+        "description": "Glean documentation gold from your codebase - JSDoc parsing, validation, and beautiful doc generation"
+    },
+    {
+        "name": "strip-attributes",
+        "description": "Strip attributes from HTML tags."
+    },
+    {
+        "name": "document",
+        "description": "Create your document site with just one command."
+    },
+    {
+        "name": "jsharmony-tutorials",
+        "description": "jsHarmony Tutorials"
+    },
+    {
+        "name": "starlight-theme-black",
+        "description": "Starlight theme inspired by Shadcn docs"
+    },
+    {
+        "name": "@diplodoc/components",
+        "description": "React components for drawing Diplodoc documentation"
+    },
+    {
+        "name": "@daitasu/aicontextr",
+        "description": "AI context file generator for MDC and CLAUDE.md files"
+    },
+    {
+        "name": "@madoc/core",
+        "description": "Markdown Documentation Framework"
+    },
+    {
+        "name": "speed-docs",
+        "description": "A CLI tool to create and validate FumaDocs content structure"
+    },
+    {
+        "name": "example-extractor",
+        "description": "Extract documentation examples from real source code"
+    },
+    {
+        "name": "powr-sdk-api",
+        "description": "Shared API core library for PowrStack projects. Zero dependencies - works with Express, Next.js API routes, and other frameworks. All features are optional and install only what you need."
+    },
+    {
+        "name": "ts-dox",
+        "description": "Transforms typescript AST to JSON"
+    },
+    {
+        "name": "prepress",
+        "description": "Markdown generator"
+    },
+    {
+        "name": "@mmomtchev/documentation",
+        "description": "a documentation generator"
+    },
+    {
+        "name": "github-download-directory",
+        "description": "Download the contents of a given directory from a repository on GitHub."
+    },
+    {
+        "name": "@coorpacademy/baucis-swagger",
+        "description": "Generate customizable swagger definitions for your Baucis REST API."
+    },
+    {
+        "name": "@stubber/form-fields",
+        "description": "An automatic form builder based on field specifications"
+    },
+    {
+        "name": "@coorpacademy/baucis-openapi3",
+        "description": "Generate customizable OpenAPI version 3.0.0 definitions for your Baucis REST API."
+    },
+    {
+        "name": "@stat-guy/codex-subagents",
+        "description": "AI subagents for specialized coding tasks - delegate work to focused agents for code review, documentation, testing, and debugging"
+    },
+    {
+        "name": "mcp-server-ngzorro",
+        "description": "MCP server for NG-ZORRO (Ant Design for Angular) — provides documentation context and examples via GitHub API."
+    },
+    {
+        "name": "@a24z/alexandria-outpost",
+        "description": "Local UI for browsing Alexandria repository documentation"
+    },
+    {
+        "name": "spectacle-docs",
+        "description": "Generate beautiful static API documentation from OpenAPI/Swagger 2.0 specifications"
+    },
+    {
+        "name": "swagme",
+        "description": "Node Js CLI tool that auto generates swagger api documentation for express web servers. Takes advantage of the MVC Pattern"
+    },
+    {
+        "name": "apple-doc-mcp-server",
+        "description": "MCP server providing seamless access to Apple Developer Documentation with smart search and wildcard support"
+    },
+    {
+        "name": "starlight-theme-galaxy",
+        "description": "A customized Astro Starlight theme for publishing docs and educational content."
+    },
+    {
+        "name": "@playform/document",
+        "description": "Document 📃"
+    },
+    {
+        "name": "@knuckleswtf/pastel",
+        "description": "Generate pretty API documentation from Markdown."
+    },
+    {
+        "name": "@spec-mcp/cli",
+        "description": "CLI tool for managing spec-mcp specifications"
+    },
+    {
+        "name": "bst-typed",
+        "description": "Binary Search Tree"
+    },
+    {
+        "name": "@hideoo/starlight-plugins-docs-components",
+        "description": "Set of opinionated Starlight components used in HiDeoo's Starlight plugins documentations."
+    },
+    {
+        "name": "vitepress-mermaid-renderer",
+        "description": "A VitePress plugin to render Mermaid diagrams with interactive controls"
+    },
+    {
+        "name": "openapi3-generator",
+        "description": "Use your API OpenAPI 3 definition to generate code, documentation, and literally anything you need."
+    },
+    {
+        "name": "scribeverse",
+        "description": "Multi-language documentation tool with incremental updates and AI-powered summaries"
+    },
+    {
+        "name": "typedoc-theme-yaf",
+        "description": "A fresh, opinionated and standalone front-end documentation application consuming Typedoc generated data."
+    },
+    {
+        "name": "doccupine",
+        "description": "Generate beautiful, ready-to-use documentation with just one CLI command – fast, simple, and open source."
+    },
+    {
+        "name": "examples",
+        "description": "Example projects using Template, Assemble, Verb and other node.js applications."
+    },
+    {
+        "name": "@repobuddy/storybook",
+        "description": "Storybook repo buddy"
+    },
+    {
+        "name": "@vuer-ai/dial-cli",
+        "description": "CLI tool for generating dial metadata from TypeScript/React components"
+    },
+    {
+        "name": "api-docs-mcp",
+        "description": "MCP server for API and GraphQL documentation and search"
+    },
+    {
+        "name": "slinkity",
+        "description": "To 11ty and beyond! The all-in-one tool for templates where you want them, component frameworks where you need them"
+    },
+    {
+        "name": "@11ty/gray-matter",
+        "description": "Parse front-matter from a string or file. Fast, reliable and easy to use. Parses YAML front matter by default, but also has support for YAML, JSON, TOML Front-Matter, with options to set custom delimiters. Used by metalsmith, assemble, verb and many other"
+    },
+    {
+        "name": "vuepress-theme-succinct",
+        "description": "A slightly opinionated theme for Vuepress"
+    },
+    {
+        "name": "terserflow",
+        "description": "A modified enhanced version of terser and uglifyjs that will obfuscate code better than ever done before! Obfuscates code then encrypts all strings so that they cannot be edited by others."
+    },
+    {
+        "name": "vigour-doc",
+        "description": "A collection of tools to help make great docs with minimal effort"
+    },
+    {
+        "name": "mos",
+        "description": "A pluggable module that injects content into your markdown files via hidden JavaScript snippets"
+    },
+    {
+        "name": "ub-jsdoc",
+        "description": "JSDoc 3 Template / Theme generated using VueJS SSR"
+    },
+    {
+        "name": "bandwidth-redoc",
+        "description": "Bandwidth ReDoc Fork"
+    },
+    {
+        "name": "@tsed/ts-doc",
+        "description": "Generate documentation in markdown for TypeScript API"
+    },
+    {
+        "name": "documentation-theme-light",
+        "description": "light theme for Documentation.js"
+    },
+    {
+        "name": "@gethinode/hinode",
+        "description": "Hinode is a clean documentation and blog theme for Hugo, an open-source static site generator"
+    },
+    {
+        "name": "verb-collections",
+        "description": "Verb plugin that adds includes, layouts, badges and docs template collections. Can be used with verb, assemble or generate, in a `*file.js`, or a globally installed generator."
+    },
+    {
+        "name": "verb-reflinks",
+        "description": "Verb middleware that resolves reflinks for valid npm package names in markdown documents and appends them to the document."
+    },
+    {
+        "name": "grunt-groc",
+        "description": "Generate documentation using groc"
+    },
+    {
+        "name": "vitepress-jsdoc",
+        "description": "A bridge between Vitepress and JSDoc-style commented codebases for hassle-free documentation."
+    },
+    {
+        "name": "ravagepdf",
+        "description": "PDF generation from OpenAPI / Swagger Spec"
+    },
+    {
+        "name": "@mxenabled/docusaurus-theme-openapi-docs",
+        "description": "OpenAPI theme for Docusaurus."
+    },
+    {
+        "name": "github-action-readme-generator",
+        "description": "This is a CLI tool and GitHub Action that reads in the details from a \nGitHub Action's `action.yml` file and updates the `README.md` file\nwith the `name`, `description`, `usage`, `inputs`, `outputs`, and\nexamples of the action.\nConfiguration can be provid"
+    },
+    {
+        "name": "react-doc-helper",
+        "description": "A React component library for building interactive documentation layouts with code examples, tables, tags, and automatic table of contents support."
+    },
+    {
+        "name": "lehre",
+        "description": "Generate document block(JsDoc,EsDoc,TsDoc) from signature"
+    },
+    {
+        "name": "@a24z/alexandria-cli",
+        "description": "Alexandria CLI - Unified Context Management"
+    },
+    {
+        "name": "firedev-json",
+        "description": "Handle circural references, comments and many more inside JSON"
+    },
+    {
+        "name": "@radically-straightforward/documentation",
+        "description": "📚 Extract documentation from TypeScript source files to Markdown"
+    },
+    {
+        "name": "superclaude",
+        "description": "🔮 Give Claude AI superpowers for GitHub workflows. Transform 'fix stuff' commits into professional messages, generate intelligent changelogs, create comprehensive docs, and get AI code reviews that actually understand your codebase. One command replaces "
+    },
+    {
+        "name": "@goldstack/utils-docs",
+        "description": "Utilities for working with Markdown documentation"
+    },
+    {
+        "name": "@oasisdigital/ng-doc-portal-plugin",
+        "description": "Nx plugin for adding the ng-doc-portal system to your nx workspace"
+    },
+    {
+        "name": "nestjs-events-flow",
+        "description": "A NestJS decorators package for events documentation and visualization"
+    },
+    {
+        "name": "agentic-knowledge-mcp",
+        "description": "A Model Context Protocol server for agentic knowledge guidance with web-based documentation loading and intelligent search instructions"
+    },
+    {
+        "name": "@soldoc/json",
+        "description": "Json theme for SolDoc"
+    },
+    {
+        "name": "ng2-rest-swagger-generator",
+        "description": "Generate Angualr 2 Service from swagger json"
+    },
+    {
+        "name": "magneto-mcp",
+        "description": "Git-based context management system for AI agents with MCP integration"
+    },
+    {
+        "name": "starlight-to-pdf",
+        "description": "A command-line tool to convert Starlight documentation websites into PDF files."
+    },
+    {
+        "name": "granthai",
+        "description": "Nodejs package to generate automatic API documentation"
+    },
+    {
+        "name": "@sphinxdoc/gatsby",
+        "description": "gatsby sphinxdoc platform"
+    },
+    {
+        "name": "doc-render-sdk",
+        "description": "A powerful documentation rendering SDK for component libraries"
+    },
+    {
+        "name": "@ui-js/grok",
+        "description": "A tool to build beautiful documentation from TypeScript declaration files"
+    },
+    {
+        "name": "@ahelmy/docusaurus-ai",
+        "description": "AI for Docusaurus."
+    },
+    {
+        "name": "rulens",
+        "description": "CLI to extract and format linting rules into Markdown for documentation and AI agents"
+    },
+    {
+        "name": "@api-components/api-parameters-document",
+        "description": "Documentation component for API query and URI parameters based on AMF data model"
+    },
+    {
+        "name": "create-eddie",
+        "description": "Create Eddie documentation projects"
+    },
+    {
+        "name": "@lowdefy/docs",
+        "description": "The Lowdefy docs are written using Lowdefy, and are hosted at https://docs.lowdefy.com."
+    },
+    {
+        "name": "react-toc-builder",
+        "description": "A lightweight React Table of Contents generator"
+    },
+    {
+        "name": "storybook-auto-events",
+        "description": "Auto events for your stories in storybook"
+    },
+    {
+        "name": "@jsdocs-io/extractor",
+        "description": "The API extractor for npm packages powering jsdocs.io"
+    },
+    {
+        "name": "myaidev-method",
+        "description": "Comprehensive development framework with SPARC methodology for AI-assisted software development, multi-platform publishing (WordPress, PayloadCMS, Astro, Docusaurus, Mintlify), and Coolify deployment"
+    },
+    {
+        "name": "swagger-express-router",
+        "description": "Swagger Express Router"
+    },
+    {
+        "name": "cypress-to-excel",
+        "description": "Plugin to copy the it() description to the excel "
+    },
+    {
+        "name": "fiction",
+        "description": "Create structured documentation from markdown"
+    },
+    {
+        "name": "pinet",
+        "description": "Yet another jsdocs template module"
+    },
+    {
+        "name": "@typhonjs-typedoc/typedoc-pkg",
+        "description": "Provides a zero config CLI to create API documentation with TypeDoc from `package.json` exports conditions and much more."
+    },
+    {
+        "name": "@sqliteai/docs-chatbot",
+        "description": "Documentation search chatbot powered by SQLite and AI"
+    },
+    {
+        "name": "build-api-docs-from-bruno",
+        "description": "A command-line tool for generating API documentation from the documentation in a Bruno collection."
+    },
+    {
+        "name": "@rocketseat/gatsby-theme-docs",
+        "description": "Out of the box Gatsby Theme for creating documentation websites easily and quickly."
+    },
+    {
+        "name": "node-containerpattern",
+        "description": "A 'Container pattern' object for a clean global use of data."
+    },
+    {
+        "name": "@mxenabled/docusaurus-plugin-openapi-docs",
+        "description": "MX's OpenAPI plugin for Docusaurus."
+    },
+    {
+        "name": "@phun-ky/frameport",
+        "description": "A zero dependency package to effortlessly create responsive component previews in documentation using real media queries. Frameport dynamically generates iframes containing your HTML/CSS/JS, mimicking natural device viewports to test responsiveness, witho"
+    },
+    {
+        "name": "tinyspec",
+        "description": "Simple syntax for describing REST APIs"
+    },
+    {
+        "name": "@api-components/api-method-documentation",
+        "description": "A HTTP method documentation build from AMF model"
+    },
+    {
+        "name": "@4hse/starlight-openapi",
+        "description": "Starlight plugin to generate documentation from OpenAPI/Swagger specifications."
+    },
+    {
+        "name": "opuscapita-showroom-client",
+        "description": "React components catalog component."
+    },
+    {
+        "name": "flatdoc",
+        "description": "Fetch Markdown files and render them as full pages."
+    },
+    {
+        "name": "explicit",
+        "description": "System to explicitly specify the way a method works."
+    },
+    {
+        "name": "@structured-types/api-docs",
+        "description": "Create api documentation nodes using structured-types/api"
+    },
+    {
+        "name": "grunt-sassdoc",
+        "description": "SassDoc grunt task"
+    },
+    {
+        "name": "mr-doc",
+        "description": "A personal source documenter at your service"
+    },
+    {
+        "name": "blade-code",
+        "description": "🗡️ Blade Code - 智能代码助手命令行工具"
+    },
+    {
+        "name": "cortana-metrics",
+        "description": "A comprehensive npm module for capturing endpoint-related data including request body, response body, headers, and more. Includes CLI tools for managing OpenAPI specifications."
+    },
+    {
+        "name": "baiji",
+        "description": "Baiji is an easy to use and opinionated micro-framework for writing scalable and REST-like web APIs. Its main goals are parameter validation, entities, hooks, scalability and allowing rapid development and deployment of such APIs."
+    },
+    {
+        "name": "dokapi",
+        "description": "A Markdown-based Website generator with advanced features"
+    },
+    {
+        "name": "ljs",
+        "description": "Generate docs from your source"
+    },
+    {
+        "name": "@felixgeelhaar/govee-api-client",
+        "description": "Enterprise-grade TypeScript client library for the Govee Developer REST API"
+    },
+    {
+        "name": "code-to-json",
+        "description": "TypeScript & JavaScript code data extraction"
+    },
+    {
+        "name": "json-docs-generator",
+        "description": "Util for describe REST APIs via docs."
+    },
+    {
+        "name": "@suffle/jira-ticket-loader",
+        "description": "A Node.js package that downloads JIRA ticket content and populates markdown templates with ticket data. Perfect for generating AI prompts, documentation, or automated ticket summaries."
+    },
+    {
+        "name": "erasmus",
+        "description": "A simple tool for literate programming"
+    },
+    {
+        "name": "@vuepress-dumi/vuepress-theme-dumi",
+        "description": "📖 A dumi style theme for VuePress."
+    },
+    {
+        "name": "andocs",
+        "description": "ANDocs - Agent Native Documentation - AI Documentation Build System"
+    },
+    {
+        "name": "@liquid-labs/jsdoc-to-markdown",
+        "description": "Enhanced jsdoc2md to generate markdown API documentation from jsdoc annotated source code"
+    },
+    {
+        "name": "doc-navigator",
+        "description": "DocNavigator is an AI-powered chatbot builder that is designed to improve the user experience on product documentation/support websites."
+    },
+    {
+        "name": "ebnf2railroad",
+        "description": "EBNF to Railroad diagram"
+    },
+    {
+        "name": "@openapi-generator-plus/plain-documentation-generator",
+        "description": "An OpenAPI Generator Plus template for generating plain documentation"
+    },
+    {
+        "name": "@liquid-labs/dmd",
+        "description": "An enhanced output template for jsdoc-to-markdown"
+    },
+    {
+        "name": "@api-components/api-type-documentation",
+        "description": "A documentation module for RAML types (resources) using AMF data model"
+    },
+    {
+        "name": "computed-property",
+        "description": "Add computed properties to JavaScript objects."
+    },
+    {
+        "name": "react-doc-generator",
+        "description": "Generate a simple React Component documentation in Markdown."
+    },
+    {
+        "name": "@nodesecure/documentation-ui",
+        "description": "Portable UI for NodeSecure tools (guides on flags, security docs etc..)"
+    },
+    {
+        "name": "@outfitter/blz",
+        "description": "Fast local llms.txt search for agents"
+    },
+    {
+        "name": "embed-prisma",
+        "description": "Exposes Prisma's compiler API for NodeJS applications"
+    },
+    {
+        "name": "@sphinxdoc/core",
+        "description": "sphinxdoc core"
+    },
+    {
+        "name": "@afterxleep/doc-bot",
+        "description": "Generic MCP server for intelligent documentation access in any project"
+    },
+    {
+        "name": "ember-cli-jsdoc",
+        "description": "Generate documentation of your app/addon from your JSDoc comments"
+    },
+    {
+        "name": "hapitoc",
+        "description": "Update standard hapi document files"
+    },
+    {
+        "name": "@material-docs/core",
+        "description": "material-docs - react framework for easy creating documentation site in material design style."
+    },
+    {
+        "name": "rest-chronicle",
+        "description": "autodocumentate rest api"
+    },
+    {
+        "name": "@vuepress/plugin-pagination",
+        "description": "pagination plugin for vuepress"
+    },
+    {
+        "name": "cupple",
+        "description": "Living docs that sync across IDEs and agents"
+    },
+    {
+        "name": "gramax-cli",
+        "description": "Generates a static site from a specified source directory"
+    },
+    {
+        "name": "@aindreyway/mcp-neurolora",
+        "description": "An MCP server for collecting and documenting code from directories"
+    },
+    {
+        "name": "supercollider",
+        "description": "Documentation generator that can combine data from multiple parsers, such as SassDoc and JSDoc."
+    },
+    {
+        "name": "@raketa-cloud/mcp-igor",
+        "description": "Model Context Protocol server for Raketa DX"
+    },
+    {
+        "name": "@trufflesuite/typedoc-default-themes",
+        "description": "Default themes for TypeDoc."
+    },
+    {
+        "name": "@philippnagel/docusaurus-next-terminology",
+        "description": "A terminology / dictionary add-on for Docusaurus"
+    },
+    {
+        "name": "@ng-doc/keywords-loaders",
+        "description": "<!-- PROJECT LOGO --> <br /> <div align=\"center\">   <a href=\"https://github.com/ng-doc/ng-doc\">     <img src=\"https://ng-doc.com/assets/images/ng-doc.svg?raw=true\" alt=\"Logo\" height=\"150px\">   </a>"
+    },
+    {
+        "name": "@danilandreev/material-docs",
+        "description": "material-docs - react framework for easy creating documentation site in material design style."
+    },
+    {
+        "name": "apigeek-affirm",
+        "description": "Executable English for Software Testing and more"
+    },
+    {
+        "name": "@ivankrtv/openapidoc",
+        "description": "Lib to generate openApi documentation on ts"
+    },
+    {
+        "name": "@aalhommada/nextjs-docs-mcp",
+        "description": "Enhanced MCP server for Next.js documentation access with improved performance, security, and caching"
+    },
+    {
+        "name": "@tagaddod-design/react",
+        "description": "Modern, accessible React component library for building consistent UI at scale."
+    },
+    {
+        "name": "powertools-for-aws-mcp",
+        "description": "Powertools for AWS Lambda MCP Server"
+    },
+    {
+        "name": "flatrepo",
+        "description": "Generate markdown documentation for repositories"
+    },
+    {
+        "name": "@agenteract/agents",
+        "description": "Agent tools for Agenteract"
+    },
+    {
+        "name": "@callstack/rspress-theme",
+        "description": "Callstack theme for Rspress docs"
+    },
+    {
+        "name": "@fixhq/markdown-toc",
+        "description": "Generate a markdown TOC (table of contents) with Remarkable."
+    },
+    {
+        "name": "jsdoc-tsd-webpack-plugin",
+        "description": "Generates project homepages and a TypeScript definition files with Webpack."
+    },
+    {
+        "name": "@snaptopixel/picto-beta",
+        "description": "Preview, develop and document StencilJS components"
+    },
+    {
+        "name": "@dennis-webb/documind",
+        "description": "IDE-native documentation system with AI-powered slash commands"
+    },
+    {
+        "name": "@sphinxdoc/rtd",
+        "description": "rtd sphinxdoc platform"
+    },
+    {
+        "name": "tunic",
+        "description": "A documentation-block parser."
+    },
+    {
+        "name": "@bestatic/components",
+        "description": "BeStatic Components including Tiny <head>, <body> injector, local route "
+    },
+    {
+        "name": "express-swaggerify",
+        "description": "Auto-generate OpenAPI 3.0 documentation from Express.js routes with intelligent field detection"
+    },
+    {
+        "name": "@reins-pro/playground",
+        "description": "React Playground for previewing components in docs"
+    },
+    {
+        "name": "typedoc-plugin-konamimojisplosion",
+        "description": "TypeDoc plugin to quickly integrate konamimojisplosion into your docs site. 🎉 ✨ 🎆"
+    },
+    {
+        "name": "vuepress-theme-actility",
+        "description": "Actility theme for VuePress"
+    },
+    {
+        "name": "jsdoc-import-support",
+        "description": "An API documentation generator for JavaScript. Fork of jsdoc 3.6.4. Adding support of import()"
+    },
+    {
+        "name": "@freephoenix888/generate-help-of-cli-apps-in-markdown-format",
+        "description": "Generates help messages of CLI applications in markdown format"
+    },
+    {
+        "name": "@codewithdan/ai-repo-adventures-generator",
+        "description": "Generate beautiful HTML adventure websites from your codebase"
+    },
+    {
+        "name": "@adedayomatthews/proxy-manager",
+        "description": "Manager for api calls to multiple third party"
+    },
+    {
+        "name": "pagemeta2md",
+        "description": "A powerful Node.js CLI tool that provides bidirectional conversion between CSV and Markdown files with frontmatter support"
+    },
+    {
+        "name": "at-your-service",
+        "description": "A developer tool for API observability on the browser. Generate OpenAPI specifications and code from network traffic"
+    },
+    {
+        "name": "vitepress-plugin-llmstxt",
+        "description": "VitePress plugin to generate llms.txt files automatically"
+    },
+    {
+        "name": "cgx",
+        "description": "Generate all the recommended markdown documentation/templates (pre-filled) for the Github and Gitlab community standards. Files for CodeCommit (AWS) or Bitbucket can be generated too"
+    },
+    {
+        "name": "serverdocs",
+        "description": "Simple API documentation server built with Express"
+    },
+    {
+        "name": "eledoc",
+        "description": "A material dark theme for TypeDoc"
+    },
+    {
+        "name": "swagger-injector",
+        "description": "Utility to inject swagger the doc GUI into a node API"
+    },
+    {
+        "name": "doctopus",
+        "description": "Fluent & Pluggable Swagger Specification Builder"
+    },
+    {
+        "name": "@deuex-solutions/redoc",
+        "description": "ReDoc"
+    },
+    {
+        "name": "@cppalliance/antora-playbook-macros-extension",
+        "description": "Playbook Macros Extension for Antora"
+    },
+    {
+        "name": "starlight-videos",
+        "description": "Starlight plugin to quickly and easily enhance your documentation with video guides and courses."
+    },
+    {
+        "name": "@anypoint-web-components/api-console",
+        "description": "The API console used in RAML platform."
+    },
+    {
+        "name": "express-documentation",
+        "description": "An easy-to-use documentation site creator which is cross-compatible with Express.js"
+    },
+    {
+        "name": "json-markdown",
+        "description": "Generate Markdown documentation for your JSON schema"
+    },
+    {
+        "name": "vuepress-theme-default-prefers-color-scheme",
+        "description": "add prefers-color-scheme for vuepress default theme"
+    },
+    {
+        "name": "wc-dox",
+        "description": "A web component API documentation generator"
+    },
+    {
+        "name": "@glorious/pitsby",
+        "description": "Docs generator for AngularJS, React, Vue and Vanilla components"
+    },
+    {
+        "name": "react-baseplate",
+        "description": "Quickly build, document and test react components via a grunt task"
+    },
+    {
+        "name": "@gesslar/bedoc",
+        "description": "Pluggable documentation engine for any language and format"
+    },
+    {
+        "name": "@code-engine/lib",
+        "description": "build tool | code generator | static site builder"
+    },
+    {
+        "name": "react-docs-mcp",
+        "description": "MCP server providing AI agents with semantic search over React documentation"
+    },
+    {
+        "name": "jsdoc-plugins",
+        "description": "A variety of JSDoc 3 Plugins"
+    },
+    {
+        "name": "yar-agent",
+        "description": "Understand Complex Codebases Fast - An agentic CLI tool for analyzing and understanding codebases"
+    },
+    {
+        "name": "@ai-coders/context",
+        "description": "CLI tool for generating codebase documentation and AI agent prompts"
+    },
+    {
+        "name": "@alandefreitas/antora-playbook-macros-extension",
+        "description": "Playbook Macros Extension for Antora"
+    },
+    {
+        "name": "litdoc",
+        "description": "A simple Markdown-based 3-column documentation builder."
+    },
+    {
+        "name": "groupfund-docs-mcp",
+        "description": "MCP server for GroupFund documentation, task management, rule enforcement, and AI agent prompts - Updated January 2025"
+    },
+    {
+        "name": "docset-generator",
+        "description": "DocSet Generator"
+    },
+    {
+        "name": "qdrant-page-search",
+        "description": "Add markup for the search modal popup:"
+    },
+    {
+        "name": "7-docs",
+        "description": "Build a knowledge base and ask it questions through ChatGPT"
+    },
+    {
+        "name": "@convolutionlabs/salt-docs",
+        "description": "Knowledge Engine for your codebase"
+    },
+    {
+        "name": "astro-tips",
+        "description": "🎨 Beautiful, customizable tip and notice blocks for Astro - 16 built-in styles with auto dark mode support and built-in compression"
+    },
+    {
+        "name": "remark-docusaurus",
+        "description": "Remark plugin for docusaurus features"
+    },
+    {
+        "name": "gulp-kss",
+        "description": "Gulp plugin for KSS (Knyle Style Sheets) documentation generation"
+    },
+    {
+        "name": "@sphinxdoc/cli",
+        "description": "sphinxdoc cli"
+    },
+    {
+        "name": "rsg-alt",
+        "description": "A React component guide that generates code examples, prop documentation, rendered component samples and active development."
+    },
+    {
+        "name": "apifox-openapi-mcp",
+        "description": "Model Context Protocol server for Apifox API documentation management. Import/export OpenAPI specifications, maintain API docs with AI assistance."
+    },
+    {
+        "name": "expo-docs-mcp",
+        "description": "Model Context Protocol server for Expo documentation"
+    },
+    {
+        "name": "@knodes/typedoc-plugin-code-blocks",
+        "description": "A TypeDoc plugin to embed source code into your output documentation"
+    },
+    {
+        "name": "hexdocs-mcp",
+        "description": "MCP server for searching Hex package documentation"
+    },
+    {
+        "name": "nest-prisma_doc-gen",
+        "description": "Auto generates ApiProperties from schema.prisma"
+    },
+    {
+        "name": "@diplodoc/yfmlint",
+        "description": "A simple transformer of text in YFM (Yandex Flavored Markdown) to HTML"
+    },
+    {
+        "name": "xm-md-pdf",
+        "description": "CLI tool for converting Markdown files to PDF and DOC."
+    },
+    {
+        "name": "@batch/claude-docs",
+        "description": "Claude Code documentation toolkit with Standard README format support. Requires /init for project understanding, then rewrites docs in consistent professional voice while preserving 100% technical accuracy (70/20/10 custom focus)."
+    },
+    {
+        "name": "@zentered/next-product-docs",
+        "description": "React/Next.js Render Remote Content"
+    },
+    {
+        "name": "documentation-markdown-api-theme",
+        "description": "documentation markdown theme"
+    },
+    {
+        "name": "vue-comp-doc-gen",
+        "description": "`vue-comp-doc-gen` — A utility package to generate documentation from Vue ts components"
+    },
+    {
+        "name": "projen-storybook",
+        "description": "Helpers for Projen projects that use Storybook."
+    },
+    {
+        "name": "@goldstack/utils-docs-cli",
+        "description": "Utilities for generating documentation for Goldstack templates"
+    },
+    {
+        "name": "express-list-endpoints-descriptor",
+        "description": "list all Endpoints registered into an express app with description user defined to build documentation"
+    },
+    {
+        "name": "@bootstrap-styled/documentation",
+        "description": "Bootstrap Styled Layouts and @rollup-umd/documentation configuration extension"
+    },
+    {
+        "name": "@catalog/core",
+        "description": "Create living style guides using Markdown or React"
+    },
+    {
+        "name": "typedocs",
+        "description": "A library that generates JSON documentation for TypeScript code by correlating the TypeScript typing with JsDocs comments."
+    },
+    {
+        "name": "markdown-documentation-generator",
+        "description": "Searches files for markdown and generates a static style/documentation guide. A fork of markdown-styleguide-generator."
+    },
+    {
+        "name": "masejs",
+        "description": "Mase JS is a new way to write HTML entirely in your JavaScript."
+    },
+    {
+        "name": "@ts-for-gir/generator-html-doc",
+        "description": "HTML Documentation generator for ts-for-gir"
+    },
+    {
+        "name": "@rocketseat/gatsby-theme-docs-core",
+        "description": "Core theme for @rocketseat/gatsby-theme-docs with no additional theming or style opinions. Includes all of the data structures you need to get up and build a documentation website."
+    },
+    {
+        "name": "gh-release-manager",
+        "description": "Download releases, generate documentation, build website, deploy, relax"
+    },
+    {
+        "name": "babel-plugin-extract-react-types",
+        "description": "Plugin to allow pretty-proptypes to more easily pull in component data"
+    },
+    {
+        "name": "docco-next",
+        "description": "Literate programming parser"
+    },
+    {
+        "name": "documentation-custom-markdown",
+        "description": "a documentation generator"
+    },
+    {
+        "name": "@captison/acid",
+        "description": "A Component Interface Documenter"
+    },
+    {
+        "name": "company-specific-docs-mcp-server",
+        "description": "Company-specific documentation management system with MCP integration"
+    },
+    {
+        "name": "documentation-markdown-themes",
+        "description": "a documentation generator with markdown theme support"
+    },
+    {
+        "name": "capivarajs",
+        "description": "Um framework para criação de componentes."
+    },
+    {
+        "name": "@doc-jit/core",
+        "description": "Documentation just in time"
+    },
+    {
+        "name": "@swimlane/docspa-core",
+        "description": "> An Angular-powered documentation SPA."
+    },
+    {
+        "name": "@progress/dss",
+        "description": "Documented Style Sheets"
+    },
+    {
+        "name": "@vuepress/plugin-notification",
+        "description": "notification plugin for vuepress"
+    },
+    {
+        "name": "docfu",
+        "description": "Build professional documentation sites from markdown with zero configuration"
+    },
+    {
+        "name": "postgres-markdown",
+        "description": "Builds Slate compatible markdown from a Postgres connection"
+    },
+    {
+        "name": "graphdoc-plugin-operations",
+        "description": "GraphQL schema HTML documentation generation, using graphdoc with Isolated Operations"
+    },
+    {
+        "name": "engines",
+        "description": "Template engine library with fast, synchronous rendering, based on consolidate."
+    },
+    {
+        "name": "@yuki-no/plugin-batch-pr",
+        "description": "Batch PR plugin for yuki-no - Collects opened Yuki-no translation issues and creates a single pull request"
+    },
+    {
+        "name": "@aindreyway/mcp-codex-keeper",
+        "description": "An intelligent MCP server that serves as a guardian of development knowledge, providing AI assistants with curated access to latest documentation and best practices"
+    },
+    {
+        "name": "@freephoenix888/generate-usage-ways-of-npm-cli-apps-in-markdown-format",
+        "description": "Generates usage ways of CLI applications of npm package in markdown format"
+    },
+    {
+        "name": "node-backend-generator",
+        "description": "🚀 CLI tool to generate professional Node.js backend templates with best practices, multiple databases, authentication, and production-ready features"
+    },
+    {
+        "name": "@inversify-cn/swagger-express-ts",
+        "description": "Generate and serve swagger.json"
+    },
+    {
+        "name": "@nobleai/rescript-documentation",
+        "description": "NobleAI tool for generating rescript library documentation"
+    },
+    {
+        "name": "gulp-docco",
+        "description": "A docco plugin for Gulp"
+    },
+    {
+        "name": "serenity-cli",
+        "description": "Generates HTML reports from Serenity BDD-compatible JSON files"
+    },
+    {
+        "name": "made-beta",
+        "description": "It allows you to create tasks in your project manager (e.g., Github) automatically based on predefined processes. Additionally, it generates documentation based on the project."
+    },
+    {
+        "name": "template-helper-apidocs",
+        "description": "Template helper for automatically generating API docs from code comments. This is based on helper-apidocs, but specifically for applications built-with the Template library."
+    },
+    {
+        "name": "lucid-styledocco",
+        "description": "Generate documentation and style guides with design patterns from stylesheets."
+    },
+    {
+        "name": "docusaurus-plugin-generate-llms-txt",
+        "description": "A docusaurus plugin that generates a concatenated markdown file from your documentation."
+    },
+    {
+        "name": "makeitpdf",
+        "description": "A close-to-code, modular - and visual - documentation helper."
+    },
+    {
+        "name": "mindbricks-docs-face",
+        "description": "A tool to create documentation"
+    },
+    {
+        "name": "apigeek-architect",
+        "description": "Executable English for Software Teams"
+    },
+    {
+        "name": "dataform-docs",
+        "description": "Generate beautiful, interactive documentation for Dataform projects with dependency graphs, deep linking, and base path support for proxy deployments"
+    },
+    {
+        "name": "covgen",
+        "description": "Pulls down the Contributors Covenant into your project."
+    },
+    {
+        "name": "@macalinao/codama-renderers-markdown",
+        "description": "Codama visitor for rendering markdown documentation from IDL"
+    },
+    {
+        "name": "@julianoczkowski/mcp-modus",
+        "description": "MCP server for Modus Web Components documentation, design rules, and setup guides"
+    },
+    {
+        "name": "grunt-xplain",
+        "description": "Generates API docs from unit tests using xplain"
+    },
+    {
+        "name": "coffeedoc",
+        "description": "An API documentation generator for CoffeeScript"
+    },
+    {
+        "name": "docstring",
+        "description": "__doc__ / docstring is a string literal specified in source code that is use like a comment, to document a specific segment of code"
+    },
+    {
+        "name": "@3sln/deck",
+        "description": "A Vite plugin for building scalable, zero-config, Markdown-based component playgrounds and documentation sites."
+    },
+    {
+        "name": "@lowdefy/website",
+        "description": ""
+    },
+    {
+        "name": "svelte-terminal-session",
+        "description": "A powerful, themeable terminal session recorder/player web component built with Svelte 5"
+    },
+    {
+        "name": "sysrot-hub",
+        "description": "CLI de nueva generación para proyectos Next.js 14+ con IA multi-modelo, Web3 integration, internacionalización completa y roadmap realista 2025-2026"
+    },
+    {
+        "name": "@3sln/reel",
+        "description": "A Vite plugin for building scalable, zero-config, Markdown-based component playgrounds and documentation sites."
+    },
+    {
+        "name": "@tfkedar/lazydocs",
+        "description": "AI-powered documentation generator using Groq. Generate READMEs, PR descriptions, and changelogs in seconds."
+    },
+    {
+        "name": "@egomobile/http-server",
+        "description": "A very fast alternative HTTP server to Express, with simple routing and middleware support, that is compatible with Node.js 18 or later."
+    },
+    {
+        "name": "scdoc-typescript",
+        "description": "A TypeScript library for parsing and analyzing scdoc files"
+    },
+    {
+        "name": "@uber-web-ui/extract-react-types-loader",
+        "description": "Load extract-react-types data given a fiile path, using webpack"
+    },
+    {
+        "name": "@tokend/redoc",
+        "description": "Customized fork of ReDoc (github.com/Rebilly/ReDoc)"
+    },
+    {
+        "name": "@docdundee/docnav",
+        "description": "Build the navigation for Docdundee"
+    },
+    {
+        "name": "quick-insight",
+        "description": ""
+    },
+    {
+        "name": "replpad",
+        "description": "Pipes content of files to a node repl whenever they change and adds many more features to enable a highly interactive coding experience."
+    },
+    {
+        "name": "@decaf-ts/cli",
+        "description": "cli for decaf-ts projects"
+    },
+    {
+        "name": "ngx-json-schema-viewer",
+        "description": "<h1 align=\"center\">ngx-json-schema-viewer</h1>"
+    },
+    {
+        "name": "@mdpress/markdown-browser",
+        "description": "markdown-browser for mdpress"
+    },
+    {
+        "name": "@gnd/typedoc",
+        "description": "Create api documentation for TypeScript projects."
+    },
+    {
+        "name": "@mdpress/markdown-loader",
+        "description": "markdown-loader for mdpress"
+    },
+    {
+        "name": "mr-doc-theme-default",
+        "description": "The default theme for Mr. Doc"
+    },
+    {
+        "name": "llm-autodoc",
+        "description": "Plugin your trusted LLM API and start documenting your code base"
+    },
+    {
+        "name": "starlight-github-alerts",
+        "description": "Starlight plugin to render GitHub alerts as Starlight asides."
+    },
+    {
+        "name": "@mdpress/theme-default",
+        "description": "theme-default for mdpress"
+    },
+    {
+        "name": "reppy",
+        "description": "Let reppy generate documentation for the functions in your codebase."
+    },
+    {
+        "name": "@lehoczky/vue-termynal",
+        "description": "Vue.js implementation of the termynal library."
+    },
+    {
+        "name": "readme-md",
+        "description": "A README.md generator library."
+    },
+    {
+        "name": "rollup-plugin-mdsvex-pages",
+        "description": "Markdown-based documentation/blog generator built with MDsveX."
+    },
+    {
+        "name": "@mdpress/core",
+        "description": "Minimalistic doc generator with React component based layout system"
+    },
+    {
+        "name": "@abios/abios-redoc",
+        "description": "Abios ReDoc fork"
+    },
+    {
+        "name": "@mdpress/plugin-search",
+        "description": "search plugin for mdpress"
+    },
+    {
+        "name": "nxconfig-js",
+        "description": "Next-generation configuration management for Node.js - Zero dependencies, TypeScript-first, production-ready"
+    },
+    {
+        "name": "@teunlao/code-consolidator",
+        "description": "A modern dark-themed UI for code consolidation and documentation. Easily select files from your project and generate PDF, Markdown, or ZIP documentation."
+    },
+    {
+        "name": "vue-simple-docgen-loader",
+        "description": "a webpack loader to get vue components docs from a simple require"
+    },
+    {
+        "name": "@ggailabs/cli-context",
+        "description": "CLI tool for generating codebase documentation and AI agent prompts"
+    },
+    {
+        "name": "@uber-web-ui/extract-react-types",
+        "description": "Parse prop-types from react components using typescript or flow"
+    },
+    {
+        "name": "@mdpress/plugin-active-header-links",
+        "description": "active-header-links plugin for mdpress"
+    },
+    {
+        "name": "@dopro/docsmaker",
+        "description": "文档生成工具"
+    },
+    {
+        "name": "roadmarks",
+        "description": "Extensive tool to create and maintain Markdown documentation tables of contents and navigation"
+    },
+    {
+        "name": "@jbreckmckye/testdoc",
+        "description": "Turn JavaScript tests into documentation"
+    },
+    {
+        "name": "ember-gen-uml",
+        "description": "A CLI to generate PlantUML compatible UML diagrams from Ember components"
+    },
+    {
+        "name": "@mdpress/plugin-container",
+        "description": "container plugin for mdpress"
+    },
+    {
+        "name": "@freephoenix888/generate-table-of-contents-for-markdown",
+        "description": "Generates a table of contents for a markdown file"
+    },
+    {
+        "name": "chappe",
+        "description": "Developer Docs builder. Write guides in Markdown and references in API Blueprint. Comes with a built-in search engine."
+    },
+    {
+        "name": "fluorite-mcp",
+        "description": "Enterprise-grade MCP server for Claude Code CLI with 6,200+ spike templates, 86 library specs, intelligent memory engine, and continuous learning capabilities."
+    },
+    {
+        "name": "handlebars-helper-lorem",
+        "description": "Handlebars template helper for generator lorem-ipsum placeholder text."
+    },
+    {
+        "name": "@mdpress/plugin-google-analytics",
+        "description": "google-analytics plugin for mdpress"
+    },
+    {
+        "name": "titanium-docgen",
+        "description": "Generates Titanium API documentation in different formats"
+    },
+    {
+        "name": "numquamvoluptate",
+        "description": "Solidity Documentation Generator"
+    },
+    {
+        "name": "@antora/epub-extension",
+        "description": "An Antora extension that uses Assembler to merge pages into assembly files, export them to the EPUB format, and publishe them with the site."
+    },
+    {
+        "name": "apifire",
+        "description": "Generates express validators/routers/controllers in Typescript using an OpenAPI 3 spec."
+    },
+    {
+        "name": "@iflow-mcp/context7-mcp",
+        "description": "MCP server for Context7"
+    },
+    {
+        "name": "@mdpress/plugin-pwa",
+        "description": "pwa plugin for mdpress"
+    },
+    {
+        "name": "graphdoc-plugin-erase",
+        "description": "GraphQL schema HTML documentation generation, erasing unwanted types using graphdoc"
+    },
+    {
+        "name": "@cake-hub/core",
+        "description": "The core rendering engine for cake documentation pages."
+    },
+    {
+        "name": "@aramassa/mcp-docs-collector",
+        "description": "MCP server for collecting documentation from various sources including Git repositories, local files, Confluence, and web pages."
+    },
+    {
+        "name": "@mdpress/plugin-last-updated",
+        "description": "last-updated plugin for mdpress"
+    },
+    {
+        "name": "paperjs",
+        "description": "Paper JS is a new way to write HTML entirely in your JavaScript."
+    },
+    {
+        "name": "airul",
+        "description": "CLI tool for generating AI rules from project documentation"
+    },
+    {
+        "name": "@hernas/docusaurus-theme-openapi-docs",
+        "description": "OpenAPI theme for Docusaurus."
+    },
+    {
+        "name": "atris",
+        "description": "Universal system instrumentation for AI agents - works for code, product, sales, and more"
+    },
+    {
+        "name": "@mbertogliati/docsify-api-block",
+        "description": "A lightweight Docsify plugin to render API request/response blocks from HTML comments in Markdown."
+    },
+    {
+        "name": "@codedoc/core",
+        "description": "Create beautiful modern documentation websites."
+    },
+    {
+        "name": "readme-includes",
+        "description": "Snippets for your GitHub project's readme."
+    },
+    {
+        "name": "@mdpress/test-utils",
+        "description": "test-utils for mdpress"
+    },
+    {
+        "name": "starlight-obsidian",
+        "description": "Starlight plugin to publish Obsidian vaults."
+    },
+    {
+        "name": "react-styleguide-generator",
+        "description": "Easily generate a good-looking styleguide by adding some documentation to your React project"
+    },
+    {
+        "name": "grunt-file-info",
+        "description": "Automate template-driven updates of project file stats to project documentation."
+    },
+    {
+        "name": "angular-mcp-server",
+        "description": "Model Context Protocol (MCP) server providing comprehensive Angular documentation access for AI assistants"
+    },
+    {
+        "name": "@alza54/eslint-config-jsdoc",
+        "description": "Essential rules for eslint-plugin-jsdoc"
+    },
+    {
+        "name": "docusaurus-lib-dev",
+        "description": "A Docusaurus plugin for live component demos with rehype processing and interactive code previews"
+    },
+    {
+        "name": "projen-typedoc",
+        "description": "Helpers for Projen projects that use Typedoc (docgen)."
+    },
+    {
+        "name": "@mdpress/plugin-medium-zoom",
+        "description": "medium-zoom plugin for mdpress"
+    },
+    {
+        "name": "escape-delims",
+        "description": "Escape and un-escape delimiters in templates. Tested with Lo-Dash, underscore and Handlebars syntax, but could be used with other template engines/syntaxes as well. This is similar to the process used by Yeoman on escaped templates in generators."
+    },
+    {
+        "name": "convict-doc",
+        "description": "Easily generate Markdown documentation from your [Convict](https://github.com/mozilla/node-convict) schema."
+    },
+    {
+        "name": "docbox",
+        "description": "an api documentation website"
+    },
+    {
+        "name": "@mdpress/markdown",
+        "description": "markdown for mdpress"
+    },
+    {
+        "name": "@codedoc/coding-blog-plugin",
+        "description": "A CODEDOC plugin for blogging."
+    },
+    {
+        "name": "gitdocs",
+        "description": "Easy to use, SEO-friendly, beautiful documentation that lives in your git repo."
+    },
+    {
+        "name": "express-api-doc",
+        "description": "Auto generated express documentation"
+    },
+    {
+        "name": "docusaurus-plugin-structurizr",
+        "description": "This plugin allows you to use structurizr diagrams in your docusaurus documentation."
+    },
+    {
+        "name": "@mdpress/plugin-back-to-top",
+        "description": "back-to-top plugin for mdpress"
+    },
+    {
+        "name": "zod-schema2md",
+        "description": "Generate beautiful markdown documentation from Zod schemas"
+    },
+    {
+        "name": "koa-x-router",
+        "description": "`koa-x-router` is a library that extends the functionality of `koa-router` by providing validation and automatic API documentation features. It simplifies the process of defining routes, validating request data, and generating API documentation."
+    },
+    {
+        "name": "grunt-esdoc",
+        "description": "Grunt plugin for the ES6 documentation tool [ESDoc](https://esdoc.org/)"
+    },
+    {
+        "name": "jsdoc4readme",
+        "description": "Generate an API section for a README.md from inline JSDocs"
+    },
+    {
+        "name": "@bosonprotocol/solidoc",
+        "description": "Solidity Documentation Generator forked from @thinkanddev/solidoc"
+    },
+    {
+        "name": "@mdpress/plugin-nprogress",
+        "description": "nprogress plugin for mdpress"
+    },
+    {
+        "name": "@yuki-no/plugin-release-tracking",
+        "description": "Release tracking plugin for yuki-no - Tracks release status for commits and manages issue labels/comments automatically"
+    },
+    {
+        "name": "coboldoc",
+        "description": "CLI tool to generate documentation for COBOL"
+    },
+    {
+        "name": "apos-docs",
+        "description": "Documentation static site generator built with Eleventy."
+    },
+    {
+        "name": "@bentaro/apidoc",
+        "description": "Create basic and fully customisable documentation for your API REFERENCES"
+    },
+    {
+        "name": "vuepress-theme-ktquez",
+        "description": "A blog theme for VuePress by Ktquez"
+    },
+    {
+        "name": "graphdoc-plugin-schema",
+        "description": "GraphQL schema HTML documentation generation, using configurable graphdoc document-schema plugin"
+    },
+    {
+        "name": "smart-search-plugin",
+        "description": "Smart fuzzy search plugin for Docusaurus 3.x with real-time results and section-level search"
+    },
+    {
+        "name": "@j2masamitu/md2pdf-ja",
+        "description": "Convert Japanese Markdown files to beautiful PDFs with math equations, alerts, and footnotes support"
+    },
+    {
+        "name": "@kyma-project/dc-async-api-render-engine",
+        "description": "AsyncAPI render engine for @kyma-project/documentation-component"
+    },
+    {
+        "name": "utilia",
+        "description": "A utility package for you to use in your projects or a Discord bot!"
+    },
+    {
+        "name": "@graphidocs/docs",
+        "description": "Static page generator for documenting GraphQL Schema"
+    },
+    {
+        "name": "typedoc-pksilen",
+        "description": "Create api documentation for TypeScript projects."
+    },
+    {
+        "name": "voluptatumnemo",
+        "description": "Solidity Documentation Generator"
+    },
+    {
+        "name": "@johannessiglaer/svelte-component-library",
+        "description": "A reusable Svelte component library"
+    },
+    {
+        "name": "node2docfx",
+        "description": "generate documentation for node.js by jsdoc and docfx"
+    },
+    {
+        "name": "@vuesence/book",
+        "description": "Vue.js 2 based documentation system component"
+    },
+    {
+        "name": "@seed-design/docs-mcp",
+        "description": "The official MCP server for SEED Design documentation"
+    },
+    {
+        "name": "@mdpress/shared-utils",
+        "description": "shared-utils for mdpress"
+    },
+    {
+        "name": "hapi-ending",
+        "description": "Creates documentation of the endpoints of an application"
+    },
+    {
+        "name": "paperui-web",
+        "description": "The Paper UI library allows users to easily import and style a wide range of components with a singular cdn link."
+    },
+    {
+        "name": "papericons",
+        "description": "A modern and beautiful icon library built to seamlessly integrate with Paper UI."
+    },
+    {
+        "name": "helper-lorem",
+        "description": "Template helper for generator lorem-ipsum placeholder text. Should work with any template engine, but can also be used a regular javascript util."
+    },
+    {
+        "name": "@lunaticmuch/docusaurus-terminology",
+        "description": "A terminology / dictionary add-on for Docusaurus"
+    },
+    {
+        "name": "react-autodocs-utils",
+        "description": "Set of utilities for extracting meta information about react components mostly to generate automated documentation"
+    },
+    {
+        "name": "@lde/docgen",
+        "description": "Generate documentation from SHACL shapes"
+    },
+    {
+        "name": "skill-creator",
+        "description": "Create claude-code-skills with documentation management"
+    },
+    {
+        "name": "@kyma-project/documentation-component",
+        "description": "Reusable React component compatible with markdown and most known specifications"
+    },
+    {
+        "name": "syntax-scribe",
+        "description": "Effortless code documentation generator for JavaScript, TypeScript, Vue, and TSX projects with MkDocs integration."
+    },
+    {
+        "name": "mdcss",
+        "description": "Easily create and maintain style guides with CSS comments using Markdown"
+    },
+    {
+        "name": "mochadoc",
+        "description": "The dead simple way to create docs from Mocha BDD & TDD, Jasmine and Jest tests"
+    },
+    {
+        "name": "@jti/utils",
+        "description": "A library of utility functions."
+    },
+    {
+        "name": "@el3um4s/svelte-get-component-info",
+        "description": "Typescript NPM Package Starter"
+    },
+    {
+        "name": "create-serverless-api",
+        "description": "Create aws serverless api infra through OpenAPI Specification for beginners."
+    },
+    {
+        "name": "markugen",
+        "description": "Markdown to HTML/PDF static site generation tool"
+    },
+    {
+        "name": "react-component-styleguide",
+        "description": "Just annotated your actual components and make your docs from that with 1 command."
+    },
+    {
+        "name": "readme-badges",
+        "description": "Readme badge templates."
+    },
+    {
+        "name": "abao",
+        "description": "RAML testing tool"
+    },
+    {
+        "name": "@autometa/cucumber-markdown",
+        "description": "Convert Cucumber .feature files into markdown"
+    },
+    {
+        "name": "@api-components/api-documentation-document",
+        "description": "A component to render documentation node of the AMF model"
+    },
+    {
+        "name": "docunatorjs",
+        "description": "A small stand-alone library to extract comments to be used as documentation"
+    },
+    {
+        "name": "acs-framework-cli",
+        "description": "🚀 CLI inteligente para configurar automáticamente el Augmented Context Standard (ACS) Framework. Context-as-Code que convierte tu conocimiento en un activo versionado."
+    },
+    {
+        "name": "swagger-json-filter",
+        "description": "Node.js command-line tool for filtering swagger documentation (swagger.json)"
+    },
+    {
+        "name": "@vuepress/plugin-i18n-ui",
+        "description": "i18n-ui plugin for vuepress"
+    },
+    {
+        "name": "@fuibox/tsoa",
+        "description": "TSOA style API comment parser to OpenAPI 3.0"
+    },
+    {
+        "name": "prop-types-table",
+        "description": "create a markdown table documenting a React component's propTypes"
+    },
+    {
+        "name": "@jambit/wdio-cucumber-selected-steps-stepdoc",
+        "description": "Cucumber step documentation generator for @jambit/wdio-cucumber-selected-steps"
+    },
+    {
+        "name": "uml-document-generator",
+        "description": "TypeScriptファイルからPlantUMLとドキュメントを生成するCLIツール"
+    },
+    {
+        "name": "@networkpro/docs",
+        "description": "The documentation portal for Network Pro Strategies (Network Pro™)"
+    },
+    {
+        "name": "mkdoc",
+        "description": "Markdown processing tools"
+    },
+    {
+        "name": "@gerrit0/typedoc-default-themes",
+        "description": "Default themes for TypeDoc."
+    },
+    {
+        "name": "create-akiradocs",
+        "description": "Create Akira Docs documentation sites with one command"
+    },
+    {
+        "name": "confluence-cli",
+        "description": "A command-line interface for Atlassian Confluence with page creation and editing capabilities"
+    },
+    {
+        "name": "widdershins-brunomartinspro-dev",
+        "description": "OpenAPI/ Swagger / AsyncAPI / Semoasa definition to Slate / Shins compatible markdown"
+    },
+    {
+        "name": "awesome-electron",
+        "description": "Useful resources for creating apps with Electron"
+    },
+    {
+        "name": "@deven-org/documentation-skeleton",
+        "description": "@deven-org/documentation-skeleton is built to work with NodeJS. It clones the deven's documentation skeleton in your project, provides information about the documentation coverage and help to you identify and clone the missing chapters."
+    },
+    {
+        "name": "@ruabick/create-vlib",
+        "description": "@ruabick's cli"
+    },
+    {
+        "name": "@papyrum/ui-docs",
+        "description": "> TODO: description"
+    },
+    {
+        "name": "@biz-dev-ops/md-docs",
+        "description": "Business driven living documentation static site generator."
+    },
+    {
+        "name": "helper-codelinks",
+        "description": "Generate a list of links that take you to the first line of code for each method in a given directory."
+    },
+    {
+        "name": "swagger-ux",
+        "description": "Swagger UI for express and restify"
+    },
+    {
+        "name": "topdoc",
+        "description": "Generate usage guides for css"
+    },
+    {
+        "name": "gardenjs",
+        "description": "A component library explorer for UI development, testing and documentation."
+    },
+    {
+        "name": "documcp",
+        "description": "Intelligent MCP server for GitHub Pages documentation deployment"
+    },
+    {
+        "name": "@jti/doctools",
+        "description": "A 'tools' package for JTI documentation projects."
+    },
+    {
+        "name": "graphdoc-plugin-flexible",
+        "description": "GraphQL documentation with Flexible graphdoc"
+    },
+    {
+        "name": "solcco",
+        "description": "Documentation generator for Solidity with a literary bent."
+    },
+    {
+        "name": "gulp-task-doc",
+        "description": "Make gulp task documentation (help) easy - just write javascript comments"
+    },
+    {
+        "name": "mcp-glua-docs",
+        "description": "A Model Context Protocol (MCP) server that provides searchable access to Garry's Mod Lua API documentation"
+    },
+    {
+        "name": "mt-styledocco",
+        "description": "Generate documentation and style guides with design patterns from stylesheets."
+    },
+    {
+        "name": "koishi-plugin-docs",
+        "description": "Offline Documentation"
+    },
+    {
+        "name": "markdown-documentation-maker",
+        "description": "![GitHub package.json version](https://img.shields.io/github/package-json/v/mzusin/markdown-documentation-maker) [![npm](https://img.shields.io/npm/dw/markdown-documentation-maker)](https://www.npmjs.com/package/markdown-documentation-maker) [![NPM](https"
+    },
+    {
+        "name": "angular-cli-library-generator",
+        "description": "Generate new components and documentation for your Angular (2+) library using @angular/cli"
+    },
+    {
+        "name": "embedocs-mcp",
+        "description": "Transform any GitHub repository into searchable vector embeddings. MCP server with smart indexing, voyage-context-3 embeddings, and semantic search for Claude/Cursor IDEs."
+    },
+    {
+        "name": "@opensaas/speccraft",
+        "description": "AI-powered specification creation for Claude Code via MCP server and slash commands. Initialize projects with 'npx @opensaas/speccraft init <project-name>'"
+    },
+    {
+        "name": "vue-tut",
+        "description": "Easily build beautiful tutorials with Vue"
+    },
+    {
+        "name": "generator-nod",
+        "description": "NodeJS modules generator with ES6 (Babel), Jest, Flow, Travis, Codecov, Documentation and more."
+    }
+]

@@ -1,0 +1,3 @@
+2025-11-12 10:08:13 | hf       | Tree:    0.04s | Retrieval:    3.57s | Total:    9.50s | AvgRetr:  0.0116s | StdRetr:  0.0308s | MinRetr:  0.0089s | MaxRetr:  0.5412s | AvgTotal:  0.0310s
+2025-11-12 10:15:46 | hf       | Tree:    0.04s | Retrieval:    5.24s | Total:   10.88s | AvgRetr:  0.0171s | StdRetr:  0.0296s | MinRetr:  0.0141s | MaxRetr:  0.5257s | AvgTotal:  0.0356s
+2025-11-12 10:17:49 | hf       | Tree:    0.04s | Retrieval:    5.38s | Total:   11.21s | AvgRetr:  0.0176s | StdRetr:  0.0290s | MinRetr:  0.0145s | MaxRetr:  0.5165s | AvgTotal:  0.0366s

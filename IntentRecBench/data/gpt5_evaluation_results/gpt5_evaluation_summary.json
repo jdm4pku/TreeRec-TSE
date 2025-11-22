@@ -1,0 +1,40 @@
+{
+    "overall_statistics": {
+        "total_samples": 1416,
+        "sampled_samples": 140,
+        "total_reliable_samples": 122,
+        "overall_acceptance_rate": 87.14285714285714,
+        "total_compared_samples": 140,
+        "total_agreement_samples": 126,
+        "overall_agreement_rate": 90.0
+    },
+    "ecosystem_statistics": {
+        "hf": {
+            "total_samples": 306,
+            "sampled_samples": 30,
+            "reliable_samples": 22,
+            "acceptance_rate": 73.33333333333333,
+            "compared_samples": 30,
+            "agreement_samples": 23,
+            "agreement_rate": 76.66666666666667
+        },
+        "linux": {
+            "total_samples": 142,
+            "sampled_samples": 14,
+            "reliable_samples": 12,
+            "acceptance_rate": 85.71428571428571,
+            "compared_samples": 14,
+            "agreement_samples": 12,
+            "agreement_rate": 85.71428571428571
+        },
+        "js": {
+            "total_samples": 968,
+            "sampled_samples": 96,
+            "reliable_samples": 88,
+            "acceptance_rate": 91.66666666666666,
+            "compared_samples": 96,
+            "agreement_samples": 91,
+            "agreement_rate": 94.79166666666666
+        }
+    }
+}

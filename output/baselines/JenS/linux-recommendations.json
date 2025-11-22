@@ -1,0 +1,1564 @@
+[
+    {
+        "intent": "I need extra headers and libraries to compile and develop open-source software on my system.",
+        "gold": "Additional Development",
+        "ranking": [
+            "Additional Development",
+            "Platform Development",
+            "X Software Development",
+            "Input Methods",
+            "OCaml"
+        ]
+    },
+    {
+        "intent": "I want to install utilities for managing system installation and setup using Anaconda.",
+        "gold": "Anaconda Tools",
+        "ranking": [
+            "Anaconda Tools",
+            "Fedora Packager",
+            "System Administration Tools",
+            "Critical Path (anaconda)",
+            "Base"
+        ]
+    },
+    {
+        "intent": "I want to connect to a backup server and perform data backups from my system.",
+        "gold": "Backup Client",
+        "ranking": [
+            "Backup Server",
+            "Backup Client",
+            "E-mail Server",
+            "File and Storage Server",
+            "FTP Server"
+        ]
+    },
+    {
+        "intent": "I want to set up a system that manages and stores backups from multiple machines in one place.",
+        "gold": "Backup Server",
+        "ranking": [
+            "Backup Server",
+            "Backup Client",
+            "VMware Platform Support",
+            "Hardware Monitoring Utilities",
+            "KDE Applications"
+        ]
+    },
+    {
+        "intent": "I want to set up a minimal CentOS Linux environment with essential system components.",
+        "gold": "Base",
+        "ranking": [
+            "Base",
+            "Remote Management for Linux",
+            "Java Platform",
+            "Compatibility Libraries",
+            "CentOS Linux ComputeNode product core"
+        ]
+    },
+    {
+        "intent": "I want to install all essential packages required for a basic CentOS Linux client setup.",
+        "gold": "CentOS Linux Client product core",
+        "ranking": [
+            "CentOS Linux Client product core",
+            "Base",
+            "Remote Management for Linux",
+            "CentOS Linux ComputeNode product core",
+            "Java Platform"
+        ]
+    },
+    {
+        "intent": "I need to run applications that depend on libraries from older versions of CentOS Linux.",
+        "gold": "Compatibility Libraries",
+        "ranking": [
+            "Compatibility Libraries",
+            "Platform Development",
+            "Base",
+            "Remote Management for Linux",
+            "Java Platform"
+        ]
+    },
+    {
+        "intent": "I want to set up a minimal CentOS Linux environment required for compute node operation.",
+        "gold": "CentOS Linux ComputeNode product core",
+        "ranking": [
+            "Base",
+            "Remote Management for Linux",
+            "Java Platform",
+            "Compatibility Libraries",
+            "CentOS Linux ComputeNode product core"
+        ]
+    },
+    {
+        "intent": "I want to identify packages that may cause conflicts when installing all available software on a client system.",
+        "gold": "Conflicts (Client)",
+        "ranking": [
+            "Conflicts (Client)",
+            "Virtualization Client",
+            "CentOS Linux Client product core",
+            "Input Methods",
+            "X Software Development"
+        ]
+    },
+    {
+        "intent": "I want to avoid installing packages that are incompatible with the ComputeNode system setup.",
+        "gold": "Conflicts (ComputeNode)",
+        "ranking": [
+            "CentOS Linux ComputeNode product core",
+            "Conflicts (ComputeNode)",
+            "Virtualization Client",
+            "Critical Path (anaconda)",
+            "Design Suite"
+        ]
+    },
+    {
+        "intent": "I want to identify and avoid packages that may cause conflicts when setting up a comprehensive server environment.",
+        "gold": "Conflicts (Server)",
+        "ranking": [
+            "Conflicts (Server)",
+            "Deepin New Desktop Environment",
+            "Conflicts (Client)",
+            "Conflicts (Workstation)",
+            "Conflicts (ComputeNode)"
+        ]
+    },
+    {
+        "intent": "I want to prevent installation issues by excluding packages that conflict with a full Workstation setup.",
+        "gold": "Conflicts (Workstation)",
+        "ranking": [
+            "Conflicts (Workstation)",
+            "Fedora Workstation ostree support",
+            "Fedora Workstation product core",
+            "CentOS Linux Workstation product core",
+            "Conflicts (Server)"
+        ]
+    },
+    {
+        "intent": "I want to use command-line programs to access internet services like browsing, downloading, or transferring files.",
+        "gold": "Console Internet Tools",
+        "ranking": [
+            "Console Internet Tools",
+            "Internet Browser",
+            "Internet Applications",
+            "Haskell",
+            "Network Infrastructure Server"
+        ]
+    },
+    {
+        "intent": "I want to set up a minimal Linux system with only essential components.",
+        "gold": "Core",
+        "ranking": [
+            "Sway Window Manager",
+            "Remote Management for Linux",
+            "Base",
+            "Java Platform",
+            "Compatibility Libraries"
+        ]
+    },
+    {
+        "intent": "I want to troubleshoot application errors and analyze performance issues on my system.",
+        "gold": "Debugging Tools",
+        "ranking": [
+            "Performance Tools",
+            "Large Systems Performance",
+            "Desktop Debugging and Performance Tools",
+            "PHP Support",
+            "Python"
+        ]
+    },
+    {
+        "intent": "I want graphical tools to help debug my applications and analyze their performance on my desktop.",
+        "gold": "Desktop Debugging and Performance Tools",
+        "ranking": [
+            "Desktop Debugging and Performance Tools",
+            "Graphical Administration Tools",
+            "Debugging Tools",
+            "Performance Tools",
+            "Large Systems Performance"
+        ]
+    },
+    {
+        "intent": "I want to set up essential tools for compiling, building, and developing software on my system.",
+        "gold": "Development Tools",
+        "ranking": [
+            "OCaml",
+            "Graphics Creation Tools",
+            "Input Methods",
+            "Bootloader tools for Cloud images",
+            "Security Tools"
+        ]
+    },
+    {
+        "intent": "I want to set up and manage internet connections over wireless wide area networks (WWAN) or dial-up modems.",
+        "gold": "Dial-up Networking Support",
+        "ranking": [
+            "Dial-up Networking Support",
+            "Internet Browser",
+            "Console Internet Tools",
+            "Internet Applications",
+            "Networking Tools"
+        ]
+    },
+    {
+        "intent": "I want to connect my system to a network that uses directory services for authentication and resource management.",
+        "gold": "Directory Client",
+        "ranking": [
+            "Directory Client",
+            "Network Infrastructure Server",
+            "System Management",
+            "Remote Management for Linux",
+            "Network File System Client"
+        ]
+    },
+    {
+        "intent": "I want to set up centralized authentication and identity management for users and machines on my network.",
+        "gold": "Directory Server",
+        "ranking": [
+            "Identity Management Server",
+            "System Management",
+            "Remote Management for Linux",
+            "Network File System Client",
+            "Directory Server"
+        ]
+    },
+    {
+        "intent": "I want to set up my system to provide DNS name resolution services for a network.",
+        "gold": "DNS Name Server",
+        "ranking": [
+            "Network Infrastructure Server",
+            "Network File System Client",
+            "DNS Name Server",
+            "Load Balancer",
+            "Critical Path (Base)"
+        ]
+    },
+    {
+        "intent": "I want to install a customizable text editor with extensible features for coding, writing, or managing files.",
+        "gold": "Emacs",
+        "ranking": [
+            "Emacs",
+            "Editors",
+            "Input Methods",
+            "Technical Writing",
+            "Virtualization Client"
+        ]
+    },
+    {
+        "intent": "I want to enable file sharing and access between Linux and Windows systems using the CIFS protocol.",
+        "gold": "File and Storage Server",
+        "ranking": [
+            "Windows File Server",
+            "File and Storage Server",
+            "Network File System Client",
+            "Large Systems Performance",
+            "Console Internet Tools"
+        ]
+    },
+    {
+        "intent": "I want my system interface to display text correctly in multiple languages.",
+        "gold": "Fonts",
+        "ranking": [
+            "Editors",
+            "Input Methods",
+            "Fonts",
+            "base-x",
+            "Virtualization Platform"
+        ]
+    },
+    {
+        "intent": "I want to set up my system to host and share files over FTP.",
+        "gold": "FTP Server",
+        "ranking": [
+            "Windows File Server",
+            "FTP Server",
+            "Web Servlet Engine",
+            "Virtualization Hypervisor",
+            "Atomic Host ostree support"
+        ]
+    },
+    {
+        "intent": "I want to install essential applications that integrate well with the GNOME desktop environment.",
+        "gold": "GNOME Applications",
+        "ranking": [
+            "GNOME",
+            "Extra games for the GNOME Desktop",
+            "Deepin New Desktop Environment",
+            "Window Managers",
+            "GNOME Software Development"
+        ]
+    },
+    {
+        "intent": "I want to set up a graphical desktop environment that is easy to use and navigate.",
+        "gold": "GNOME",
+        "ranking": [
+            "Deepin New Desktop Environment",
+            "Window Managers",
+            "GNOME",
+            "Budgie",
+            "Additional Sugar Activities"
+        ]
+    },
+    {
+        "intent": "I want to manage system settings and administration tasks using graphical interfaces.",
+        "gold": "Graphical Administration Tools",
+        "ranking": [
+            "Graphical Administration Tools",
+            "System Administration Tools",
+            "Perl Support",
+            "Ruby Support",
+            "Smart Card Support"
+        ]
+    },
+    {
+        "intent": "I want to create, edit, or manipulate images and graphics on my system.",
+        "gold": "Graphics Creation Tools",
+        "ranking": [
+            "Graphics Creation Tools",
+            "Bootloader tools for Cloud images",
+            "Directory Client",
+            "Core",
+            "Sway Window Manager"
+        ]
+    },
+    {
+        "intent": "I want to enable communication and integration between my virtual machine and the host hypervisor.",
+        "gold": "Guest Agents",
+        "ranking": [
+            "Virtualization Hypervisor",
+            "Web Servlet Engine",
+            "Directory Server",
+            "Directory Client",
+            "Virtualization Tools"
+        ]
+    },
+    {
+        "intent": "I want to improve integration and performance when running a Linux desktop in a virtual machine.",
+        "gold": "Guest Desktop Agents",
+        "ranking": [
+            "Desktop Debugging and Performance Tools",
+            "Budgie",
+            "Guest Desktop Agents",
+            "Java Platform",
+            "Large Systems Performance"
+        ]
+    },
+    {
+        "intent": "I want to set up reliable services or shared storage that remain accessible even during hardware or software failures.",
+        "gold": "High Availability",
+        "ranking": [
+            "High Availability",
+            "Resilient Storage",
+            "Hardware Monitoring Utilities",
+            "Input Methods",
+            "File and Storage Server"
+        ]
+    },
+    {
+        "intent": "I want to monitor and check the status of my server’s hardware components.",
+        "gold": "Hardware Monitoring Utilities",
+        "ranking": [
+            "Hardware Monitoring Utilities",
+            "E-mail Server",
+            "System Management",
+            "File and Storage Server",
+            "FTP Server"
+        ]
+    },
+    {
+        "intent": "I want to set up a server to centrally manage user accounts and authentication across my network.",
+        "gold": "Identity Management Server",
+        "ranking": [
+            "Directory Server",
+            "Network Infrastructure Server",
+            "Legacy Network Server",
+            "Network File System Client",
+            "Hardware Monitoring Utilities"
+        ]
+    },
+    {
+        "intent": "I want to enable high-speed networking and clustering using RDMA-based InfiniBand or iWARP on my system.",
+        "gold": "Infiniband Support",
+        "ranking": [
+            "Infiniband Support",
+            "Networking Tools",
+            "High Availability",
+            "Dial-up Networking Support",
+            "Smart Card Support"
+        ]
+    },
+    {
+        "intent": "I want to type and enter text in different languages and scripts on my system.",
+        "gold": "Input Methods",
+        "ranking": [
+            "Fonts",
+            "Editors",
+            "Input Methods",
+            "Fonts",
+            "Core"
+        ]
+    },
+    {
+        "intent": "I want to send, receive, and manage email messages on my system.",
+        "gold": "Internet Applications",
+        "ranking": [
+            "Internet Applications",
+            "Backup Server",
+            "Directory Client",
+            "Sway Window Manager",
+            "Core"
+        ]
+    },
+    {
+        "intent": "I want to browse websites and access online content from my desktop.",
+        "gold": "Internet Browser",
+        "ranking": [
+            "Budgie",
+            "Console Internet Tools",
+            "Remote Desktop Clients",
+            "Cinnamon",
+            "Deepin New Desktop Environment"
+        ]
+    },
+    {
+        "intent": "I want to run or develop Java applications on my system.",
+        "gold": "Java Platform",
+        "ranking": [
+            "X Software Development",
+            "Java Platform",
+            "Web Servlet Engine",
+            "GNOME Software Development",
+            "Internet Applications"
+        ]
+    },
+    {
+        "intent": "I want to install essential desktop applications designed for the KDE environment.",
+        "gold": "KDE Applications",
+        "ranking": [
+            "KDE Applications",
+            "Deepin New Desktop Environment",
+            "Window Managers",
+            "KDE",
+            "Budgie"
+        ]
+    },
+    {
+        "intent": "I want to install a graphical desktop environment with customizable workspaces for my Linux system.",
+        "gold": "KDE",
+        "ranking": [
+            "Deepin New Desktop Environment",
+            "Window Managers",
+            "GNOME",
+            "KDE",
+            "Budgie"
+        ]
+    },
+    {
+        "intent": "I want to enable audio and video playback and editing features in my KDE desktop environment.",
+        "gold": "KDE Multimedia Support",
+        "ranking": [
+            "Multimedia",
+            "Deepin New Desktop Environment",
+            "Window Managers",
+            "GNOME",
+            "Critical Path (KDE)"
+        ]
+    },
+    {
+        "intent": "I want tools to monitor and optimize performance on large-scale Linux systems.",
+        "gold": "Large Systems Performance",
+        "ranking": [
+            "Large Systems Performance",
+            "Hardware Monitoring Utilities",
+            "Desktop Debugging and Performance Tools",
+            "Performance Tools",
+            "Debugging Tools"
+        ]
+    },
+    {
+        "intent": "I want to run or migrate applications that require compatibility with older UNIX systems.",
+        "gold": "Legacy UNIX Compatibility",
+        "ranking": [
+            "Legacy UNIX Compatibility",
+            "Compatibility Libraries",
+            "Large Systems Performance",
+            "Platform Development",
+            "Legacy X Window System Compatibility"
+        ]
+    },
+    {
+        "intent": "I need tools to support or migrate applications that rely on older X Window System environments.",
+        "gold": "Legacy X Window System Compatibility",
+        "ranking": [
+            "X Window System",
+            "Legacy X Window System Compatibility",
+            "Bootloader tools for Cloud images",
+            "Scientific Support",
+            "Window Managers"
+        ]
+    },
+    {
+        "intent": "I want to distribute incoming network traffic efficiently across multiple servers or services.",
+        "gold": "Load Balancer",
+        "ranking": [
+            "Load Balancer",
+            "Network Infrastructure Server",
+            "Legacy Network Server",
+            "Network File System Client",
+            "Directory Server"
+        ]
+    },
+    {
+        "intent": "I want to set up my system to send, receive, and manage email messages for users.",
+        "gold": "E-mail Server",
+        "ranking": [
+            "Internet Applications",
+            "Identity Management Server",
+            "Hardware Monitoring Utilities",
+            "i3 window manager",
+            "KDE Applications"
+        ]
+    },
+    {
+        "intent": "I want to connect to and interact with mainframe systems from my Linux environment.",
+        "gold": "Mainframe Access",
+        "ranking": [
+            "Mainframe Access",
+            "Large Systems Performance",
+            "Windows File Server",
+            "Deepin New Desktop Environment",
+            "Window Managers"
+        ]
+    },
+    {
+        "intent": "I want to set up an SQL database server for storing and managing data on my system.",
+        "gold": "MariaDB Database Server",
+        "ranking": [
+            "PostgreSQL Database Server",
+            "MariaDB Database Server",
+            "MariaDB Database Client",
+            "PostgreSQL Database Client",
+            "Hardware Monitoring Utilities"
+        ]
+    },
+    {
+        "intent": "I want to connect to and manage MariaDB databases from my system.",
+        "gold": "MariaDB Database Client",
+        "ranking": [
+            "MariaDB Database Server",
+            "MariaDB Database Client",
+            "Backup Server",
+            "Sway Window Manager",
+            "Python Science"
+        ]
+    },
+    {
+        "intent": "I want to enable audio and video playback and processing on my desktop system.",
+        "gold": "Multimedia",
+        "ranking": [
+            "Multimedia",
+            "Budgie",
+            "Remote Desktop Clients",
+            "Cinnamon",
+            "Deepin New Desktop Environment"
+        ]
+    },
+    {
+        "intent": "I want to access and use files stored on remote servers over the network.",
+        "gold": "Network File System Client",
+        "ranking": [
+            "Network Infrastructure Server",
+            "Legacy Network Server",
+            "Remote Desktop Clients",
+            "Remote Management for Linux",
+            "Network File System Client"
+        ]
+    },
+    {
+        "intent": "I want to set up servers that provide essential network services and protocols for my infrastructure.",
+        "gold": "Network Infrastructure Server",
+        "ranking": [
+            "Network Infrastructure Server",
+            "Legacy Network Server",
+            "High Availability",
+            "Network File System Client",
+            "Backup Server"
+        ]
+    },
+    {
+        "intent": "I want to set up, manage, and troubleshoot network connections and settings on my system.",
+        "gold": "Networking Tools",
+        "ranking": [
+            "Network File System Client",
+            "Load Balancer",
+            "Network Infrastructure Server",
+            "Legacy Network Server",
+            "Directory Client"
+        ]
+    },
+    {
+        "intent": "I want to add commonly used features and plugins to enhance NetworkManager’s networking capabilities.",
+        "gold": "Common NetworkManager submodules",
+        "ranking": [
+            "Common NetworkManager submodules",
+            "KDE Applications",
+            "GNOME Applications",
+            "Applications for the Xfce Desktop",
+            "Networking Tools"
+        ]
+    },
+    {
+        "intent": "I want to create, edit, and manage documents, spreadsheets, and presentations on my system.",
+        "gold": "Office Suite and Productivity",
+        "ranking": [
+            "Fedora Server product core",
+            "Network File System Client",
+            "Multimedia",
+            "MariaDB Database Client",
+            "MariaDB Database Server"
+        ]
+    },
+    {
+        "intent": "I want to analyze and troubleshoot performance issues in my system or applications.",
+        "gold": "Performance Tools",
+        "ranking": [
+            "Desktop Debugging and Performance Tools",
+            "Debugging Tools",
+            "Large Systems Performance",
+            "Performance Tools",
+            "Internet Applications"
+        ]
+    },
+    {
+        "intent": "I want to develop or run applications that use Perl to interact with standard system libraries and features.",
+        "gold": "Perl Support",
+        "ranking": [
+            "Perl Support",
+            "Platform Development",
+            "Compatibility Libraries",
+            "Standard",
+            "X Software Development"
+        ]
+    },
+    {
+        "intent": "I want to develop or run web applications using Perl on my system.",
+        "gold": "Perl for Web",
+        "ranking": [
+            "Basic Web Server",
+            "Perl for Web",
+            "KDE Frameworks 6 Software Development",
+            "KDE Frameworks 5 Software Development",
+            "X Software Development"
+        ]
+    },
+    {
+        "intent": "I want to develop or run web applications using the PHP programming language.",
+        "gold": "PHP Support",
+        "ranking": [
+            "OCaml",
+            "Haskell",
+            "Basic Web Server",
+            "PHP Support",
+            "KDE Frameworks 5 Software Development"
+        ]
+    },
+    {
+        "intent": "I want to set up my system with the necessary libraries and headers to build applications that run on CentOS Linux.",
+        "gold": "Platform Development",
+        "ranking": [
+            "Platform Development",
+            "Compatibility Libraries",
+            "Base",
+            "Remote Management for Linux",
+            "Java Platform"
+        ]
+    },
+    {
+        "intent": "I want to set up and manage virtual machines using KVM on my system.",
+        "gold": "KVM platform specific packages",
+        "ranking": [
+            "VMware Platform Support",
+            "KVM platform specific packages",
+            "Virtualization Tools",
+            "Smart Card Support",
+            "OCaml"
+        ]
+    },
+    {
+        "intent": "I want to run Linux smoothly as a virtual machine on Hyper-V, with all necessary drivers and integration tools.",
+        "gold": "Hyper-v platform specific packages",
+        "ranking": [
+            "Hyper-v platform specific packages",
+            "Virtualization Tools",
+            "Bootloader tools for Cloud images",
+            "Basic Web Server",
+            "Security Tools"
+        ]
+    },
+    {
+        "intent": "I want to run Linux smoothly as a virtual machine on VMware, with all necessary drivers and integration tools.",
+        "gold": "VMware platform specific packages",
+        "ranking": [
+            "VMware Platform Support",
+            "Virtualization Tools",
+            "VMware platform specific packages",
+            "Bootloader tools for Cloud images",
+            "Basic Web Server"
+        ]
+    },
+    {
+        "intent": "I want to set up a reliable SQL database server for storing and managing structured data.",
+        "gold": "PostgreSQL Database Server",
+        "ranking": [
+            "PostgreSQL Database Server",
+            "MariaDB Database Server",
+            "MariaDB Database Client",
+            "PostgreSQL Database Client",
+            "Hardware Monitoring Utilities"
+        ]
+    },
+    {
+        "intent": "I want to connect to and interact with PostgreSQL databases from the command line.",
+        "gold": "PostgreSQL Database Client",
+        "ranking": [
+            "PostgreSQL Database Server",
+            "PostgreSQL Database Client",
+            "Platform Development",
+            "Hyper-v platform specific packages",
+            "VMware platform specific packages"
+        ]
+    },
+    {
+        "intent": "I want to enable my system to send documents to local or network printers for printing.",
+        "gold": "Printing Client",
+        "ranking": [
+            "Printing Client",
+            "Network File System Client",
+            "base-x",
+            "Load Balancer",
+            "Network Infrastructure Server"
+        ]
+    },
+    {
+        "intent": "I want to set up my system to manage and share printers with other devices on the network.",
+        "gold": "Print Server",
+        "ranking": [
+            "Network File System Client",
+            "Load Balancer",
+            "Network Infrastructure Server",
+            "Legacy Network Server",
+            "Directory Client"
+        ]
+    },
+    {
+        "intent": "I want to set up and run web applications written in Python.",
+        "gold": "Python",
+        "ranking": [
+            "Basic Web Server",
+            "Python",
+            "Python Science",
+            "Internet Browser",
+            "KDE Applications"
+        ]
+    },
+    {
+        "intent": "I want to connect to and control remote desktops from my Linux system.",
+        "gold": "Remote Desktop Clients",
+        "ranking": [
+            "Remote Management for Linux",
+            "Remote Desktop Clients",
+            "Multimedia",
+            "Printing Client",
+            "Base"
+        ]
+    },
+    {
+        "intent": "I want to manage and administer my CentOS Linux system remotely through a web or network interface.",
+        "gold": "Remote Management for Linux",
+        "ranking": [
+            "Remote Management for Linux",
+            "Base",
+            "Java Platform",
+            "Compatibility Libraries",
+            "CentOS Linux ComputeNode product core"
+        ]
+    },
+    {
+        "intent": "I want to set up shared storage that can be accessed reliably by multiple systems in a cluster.",
+        "gold": "Resilient Storage",
+        "ranking": [
+            "High Availability",
+            "Resilient Storage",
+            "File and Storage Server",
+            "Network File System Client",
+            "Large Systems Performance"
+        ]
+    },
+    {
+        "intent": "I want to develop or run applications that use Ruby bindings for various system libraries.",
+        "gold": "Ruby Support",
+        "ranking": [
+            "Ruby Support",
+            "Platform Development",
+            "Compatibility Libraries",
+            "X Software Development",
+            "System Management"
+        ]
+    },
+    {
+        "intent": "I want to perform mathematical calculations and scientific data analysis on my system.",
+        "gold": "Scientific Support",
+        "ranking": [
+            "Scientific Support",
+            "Fedora Server product core",
+            "Network File System Client",
+            "Multimedia",
+            "MariaDB Database Client"
+        ]
+    },
+    {
+        "intent": "I want to verify the integrity and trustworthiness of my system and its files.",
+        "gold": "Security Tools",
+        "ranking": [
+            "Security Tools",
+            "Windows File Server",
+            "Fedora Server product core",
+            "Multimedia",
+            "MariaDB Database Client"
+        ]
+    },
+    {
+        "intent": "I want to install all essential packages required for running a basic Linux server.",
+        "gold": "CentOS Linux Server product core",
+        "ranking": [
+            "Java Platform",
+            "CentOS Linux Server product core",
+            "Base",
+            "Basic Web Server",
+            "Conflicts (Server)"
+        ]
+    },
+    {
+        "intent": "I want to enable authentication on my system using smart cards.",
+        "gold": "Smart Card Support",
+        "ranking": [
+            "Smart Card Support",
+            "OCaml",
+            "Infiniband Support",
+            "KDE Frameworks 6 Software Development",
+            "KDE Frameworks 5 Software Development"
+        ]
+    },
+    {
+        "intent": "I want tools to manage, configure, and maintain my Linux system.",
+        "gold": "System Administration Tools",
+        "ranking": [
+            "Security Tools",
+            "Anaconda Tools",
+            "Networking Tools",
+            "Virtualization Tools",
+            "Console Internet Tools"
+        ]
+    },
+    {
+        "intent": "I want to manage and configure my system’s hardware components and resources.",
+        "gold": "System Management",
+        "ranking": [
+            "Hardware Monitoring Utilities",
+            "Mainframe Access",
+            "System Management",
+            "LXDE",
+            "LXQt"
+        ]
+    },
+    {
+        "intent": "I want to create, edit, and manage technical documentation on my system.",
+        "gold": "Technical Writing",
+        "ranking": [
+            "Technical Writing",
+            "Platform Development",
+            "Hyper-v platform specific packages",
+            "VMware platform specific packages",
+            "PostgreSQL Database Client"
+        ]
+    },
+    {
+        "intent": "I want to install and control virtual machines or connect to virtualization servers from my system.",
+        "gold": "Virtualization Client",
+        "ranking": [
+            "VMware Platform Support",
+            "Virtualization Tools",
+            "Virtualization Client",
+            "Virtualization Hypervisor",
+            "Directory Server"
+        ]
+    },
+    {
+        "intent": "I want to set up a minimal Linux system that can host and manage virtual machines.",
+        "gold": "Virtualization Hypervisor",
+        "ranking": [
+            "VMware Platform Support",
+            "Web Servlet Engine",
+            "Virtualization Tools",
+            "Virtualization Hypervisor",
+            "Remote Management for Linux"
+        ]
+    },
+    {
+        "intent": "I want to manage and interact with virtual machines and containers on my system.",
+        "gold": "Virtualization Platform",
+        "ranking": [
+            "VMware Platform Support",
+            "Virtualization Platform",
+            "Virtualization Tools",
+            "Sway Window Manager",
+            "Python Science"
+        ]
+    },
+    {
+        "intent": "I want to manage and configure virtual machine images without needing to run them.",
+        "gold": "Virtualization Tools",
+        "ranking": [
+            "Bootloader tools for Cloud images",
+            "Graphics Creation Tools",
+            "Directory Server",
+            "Virtualization Tools",
+            "VMware Platform Support"
+        ]
+    },
+    {
+        "intent": "I want to set up my system to host and serve websites or web applications.",
+        "gold": "Web Server",
+        "ranking": [
+            "Web Servlet Engine",
+            "Internet Browser",
+            "KDE Applications",
+            "GNOME Applications",
+            "Applications for the Xfce Desktop"
+        ]
+    },
+    {
+        "intent": "I want to run Java servlet-based web applications on my server.",
+        "gold": "Web Servlet Engine",
+        "ranking": [
+            "Web Servlet Engine",
+            "Basic Web Server",
+            "Java Platform",
+            "Web Server",
+            "Internet Browser"
+        ]
+    },
+    {
+        "intent": "I want to install all essential packages required for a functional Linux workstation environment.",
+        "gold": "CentOS Linux Workstation product core",
+        "ranking": [
+            "CentOS Linux Workstation product core",
+            "Conflicts (Workstation)",
+            "Deepin New Desktop Environment",
+            "Fedora Workstation ostree support",
+            "Fedora Workstation product core"
+        ]
+    },
+    {
+        "intent": "I want to enable graphical user interface support on my Linux system.",
+        "gold": "X Window System",
+        "ranking": [
+            "Remote Management for Linux",
+            "Java Platform",
+            "X Window System",
+            "Graphical Administration Tools",
+            "Directory Server"
+        ]
+    },
+    {
+        "intent": "I want to access development tools and libraries for building or compiling software on Anolis OS.",
+        "gold": "Anolis OS PowerTools",
+        "ranking": [
+            "D Development Tools and Libraries",
+            "Anolis OS PowerTools",
+            "Standard",
+            "Development Tools",
+            "Additional Development"
+        ]
+    },
+    {
+        "intent": "I want to enable a graphical user interface on my system using the X.org display server.",
+        "gold": "base-x",
+        "ranking": [
+            "base-x",
+            "Directory Server",
+            "Graphical Administration Tools",
+            "GNOME",
+            "E-mail Server"
+        ]
+    },
+    {
+        "intent": "I want to identify packages that may cause conflicts when installing all packages from the AppStream repository.",
+        "gold": "Conflicts AppStream",
+        "ranking": [
+            "Conflicts AppStream",
+            "Conflicts (Server)",
+            "Conflicts (Client)",
+            "Conflicts (Workstation)",
+            "Conflicts (ComputeNode)"
+        ]
+    },
+    {
+        "intent": "I want my desktop environment to display text clearly and correctly.",
+        "gold": "Fonts",
+        "ranking": [
+            "Deepin New Desktop Environment",
+            "Window Managers",
+            "GNOME",
+            "Editors",
+            "Input Methods"
+        ]
+    },
+    {
+        "intent": "I want to enable ostree functionality on my system for managing and deploying atomic host updates.",
+        "gold": "Atomic Host ostree support",
+        "ranking": [
+            "Atomic Host ostree support",
+            "Fedora Workstation ostree support",
+            "Web Servlet Engine",
+            "Virtualization Client",
+            "Graphical Administration Tools"
+        ]
+    },
+    {
+        "intent": "I want to set up a basic, fully functional Anolis OS environment for general use.",
+        "gold": "Standard",
+        "ranking": [
+            "Anolis OS PowerTools",
+            "Standard",
+            "Development Tools",
+            "Additional Sugar Activities",
+            "Base"
+        ]
+    },
+    {
+        "intent": "I want to create and edit documents using TeX typesetting tools.",
+        "gold": "TeX formatting system",
+        "ranking": [
+            "TeX formatting system",
+            "Security Tools",
+            "Anaconda Tools",
+            "Networking Tools",
+            "Virtualization Tools"
+        ]
+    },
+    {
+        "intent": "I want to identify and manage packages that may cause conflicts when installing all BaseOS components together.",
+        "gold": "Conflicts BaseOS",
+        "ranking": [
+            "Conflicts BaseOS",
+            "Conflicts (Server)",
+            "Conflicts (Client)",
+            "Conflicts (Workstation)",
+            "Conflicts (ComputeNode)"
+        ]
+    },
+    {
+        "intent": "I want to enable file sharing between my Linux system and Windows computers.",
+        "gold": "Windows File Server",
+        "ranking": [
+            "Windows File Server",
+            "File and Storage Server",
+            "Network File System Client",
+            "Remote Management for Linux",
+            "Base"
+        ]
+    },
+    {
+        "intent": "I want to install and use the Deepin desktop environment on my Linux system.",
+        "gold": "Deepin New Desktop Environment",
+        "ranking": [
+            "Deepin New Desktop Environment",
+            "Window Managers",
+            "GNOME",
+            "Budgie",
+            "Additional Sugar Activities"
+        ]
+    },
+    {
+        "intent": "I want to install the Alibaba Dragonwell Java Development Kit for running or developing Java applications.",
+        "gold": "Alibaba dragnonwell",
+        "ranking": [
+            "Alibaba dragnonwell",
+            "Platform Development",
+            "Java Platform",
+            "Web Servlet Engine",
+            "GNOME Software Development"
+        ]
+    },
+    {
+        "intent": "I want to optimize and tune my Linux system’s performance using automated tools.",
+        "gold": "Keentune Toolkit",
+        "ranking": [
+            "Desktop Debugging and Performance Tools",
+            "Performance Tools",
+            "Large Systems Performance",
+            "Debugging Tools",
+            "Security Tools"
+        ]
+    },
+    {
+        "intent": "I want to set up or optimize my Linux system for running inside a VMware virtual machine.",
+        "gold": "VMware Platform Support",
+        "ranking": [
+            "VMware Platform Support",
+            "VMware platform specific packages",
+            "Directory Server",
+            "Virtualization Tools",
+            "Remote Management for Linux"
+        ]
+    },
+    {
+        "intent": "I want to set up a basic Fedora server with all required core components.",
+        "gold": "Fedora Server product core",
+        "ranking": [
+            "Fedora Server product core",
+            "Basic Web Server",
+            "Network Infrastructure Server",
+            "Fedora Packager",
+            "CentOS Linux Server product core"
+        ]
+    },
+    {
+        "intent": "I want to install a modern desktop environment with a clean and customizable user interface.",
+        "gold": "Budgie",
+        "ranking": [
+            "GNOME",
+            "Deepin New Desktop Environment",
+            "Window Managers",
+            "Budgie",
+            "Directory Server"
+        ]
+    },
+    {
+        "intent": "I want to set up a desktop environment with a familiar, traditional interface for my Linux system.",
+        "gold": "Cinnamon",
+        "ranking": [
+            "Deepin New Desktop Environment",
+            "Window Managers",
+            "Cinnamon",
+            "GNOME",
+            "Remote Management for Linux"
+        ]
+    },
+    {
+        "intent": "I want to set up or manage bootloaders for virtual machine images used in cloud environments.",
+        "gold": "Bootloader tools for Cloud images",
+        "ranking": [
+            "Bootloader tools for Cloud images",
+            "Graphics Creation Tools",
+            "KDE Applications",
+            "GNOME Applications",
+            "Applications for the Xfce Desktop"
+        ]
+    },
+    {
+        "intent": "I want to install Fedora using the anaconda installer and need all essential packages for a successful setup.",
+        "gold": "Critical Path (anaconda)",
+        "ranking": [
+            "Anaconda Tools",
+            "Critical Path (anaconda)",
+            "Fedora Packager",
+            "KDE Frameworks 6 Software Development",
+            "KDE Frameworks 5 Software Development"
+        ]
+    },
+    {
+        "intent": "I want to install the essential system components required for Fedora to function properly across different editions.",
+        "gold": "Critical Path (Base)",
+        "ranking": [
+            "Fedora Packager",
+            "Fedora Workstation ostree support",
+            "VMware Platform Support",
+            "Fedora Server product core",
+            "Fedora Workstation product core"
+        ]
+    },
+    {
+        "intent": "I want to install essential tools required for building Fedora packages.",
+        "gold": "Critical Path (Build)",
+        "ranking": [
+            "Critical Path (Build)",
+            "Critical Path (Compose)",
+            "Fedora Packager",
+            "Security Tools",
+            "Anaconda Tools"
+        ]
+    },
+    {
+        "intent": "I want to install the essential packages required for building Fedora distributions and deliverables.",
+        "gold": "Critical Path (Compose)",
+        "ranking": [
+            "Critical Path (Compose)",
+            "Critical Path (Build)",
+            "Fedora Packager",
+            "VMware Platform Support",
+            "Fedora Workstation ostree support"
+        ]
+    },
+    {
+        "intent": "I want to ensure my KDE desktop has all essential packages required for core system functionality and stability.",
+        "gold": "Critical Path (KDE)",
+        "ranking": [
+            "Critical Path (KDE)",
+            "KDE",
+            "Deepin New Desktop Environment",
+            "Critical Path (LXDE)",
+            "Budgie"
+        ]
+    },
+    {
+        "intent": "I want to install the essential components required for a functional LXDE desktop environment.",
+        "gold": "Critical Path (LXDE)",
+        "ranking": [
+            "Deepin New Desktop Environment",
+            "Window Managers",
+            "GNOME",
+            "Critical Path (LXDE)",
+            "LXDE"
+        ]
+    },
+    {
+        "intent": "I want to ensure my system includes essential packages required for core functionality beyond the minimal base installation.",
+        "gold": "Critical Path (standard)",
+        "ranking": [
+            "Base",
+            "Core",
+            "Conflicts (Server)",
+            "Critical Path (standard)",
+            "Conflicts (Client)"
+        ]
+    },
+    {
+        "intent": "I want to develop applications using the D programming language and need the necessary compilers and libraries.",
+        "gold": "D Development Tools and Libraries",
+        "ranking": [
+            "OCaml",
+            "Haskell",
+            "KDE Frameworks 6 Software Development",
+            "KDE Frameworks 5 Software Development",
+            "X Software Development"
+        ]
+    },
+    {
+        "intent": "I want to install tools for creating and editing graphics, layouts, and other design projects.",
+        "gold": "Design Suite",
+        "ranking": [
+            "Graphics Creation Tools",
+            "Font design and packaging",
+            "TeX formatting system",
+            "Design Suite",
+            "Security Tools"
+        ]
+    },
+    {
+        "intent": "I want to edit and modify text files on my system.",
+        "gold": "Editors",
+        "ranking": [
+            "Editors",
+            "Input Methods",
+            "Fonts",
+            "Fonts",
+            "Windows File Server"
+        ]
+    },
+    {
+        "intent": "I want to set up my system with the necessary tools to build and package software for Fedora.",
+        "gold": "Fedora Packager",
+        "ranking": [
+            "Fedora Packager",
+            "Graphics Creation Tools",
+            "Input Methods",
+            "Critical Path (Build)",
+            "Bootloader tools for Cloud images"
+        ]
+    },
+    {
+        "intent": "I want tools to create, edit, and package custom fonts for use on my system.",
+        "gold": "Font design and packaging",
+        "ranking": [
+            "Fonts",
+            "Fonts",
+            "Security Tools",
+            "Anaconda Tools",
+            "Networking Tools"
+        ]
+    },
+    {
+        "intent": "I want to add more games to my GNOME desktop environment for entertainment.",
+        "gold": "Extra games for the GNOME Desktop",
+        "ranking": [
+            "Extra games for the GNOME Desktop",
+            "GNOME",
+            "Deepin New Desktop Environment",
+            "Window Managers",
+            "Budgie"
+        ]
+    },
+    {
+        "intent": "I want to set up my system to create and build applications with GTK+ and GNOME graphical interfaces.",
+        "gold": "GNOME Software Development",
+        "ranking": [
+            "GNOME Software Development",
+            "GNOME Applications",
+            "GNOME",
+            "KDE Applications",
+            "Graphical Administration Tools"
+        ]
+    },
+    {
+        "intent": "I want to set up my system to write, build, and run applications using Haskell.",
+        "gold": "Haskell",
+        "ranking": [
+            "Haskell",
+            "KDE Frameworks 6 Software Development",
+            "KDE Frameworks 5 Software Development",
+            "KDE Applications",
+            "GNOME Applications"
+        ]
+    },
+    {
+        "intent": "I want to set up a tiling window manager to efficiently organize application windows on my desktop.",
+        "gold": "i3 window manager",
+        "ranking": [
+            "XMonad",
+            "i3 window manager",
+            "Sway Window Manager",
+            "i3 window manager (supplemental packages)",
+            "Sway Window Manager (supplemental packages)"
+        ]
+    },
+    {
+        "intent": "I want to enhance my i3 window manager setup with additional tools and features.",
+        "gold": "i3 window manager (supplemental packages)",
+        "ranking": [
+            "i3 window manager",
+            "XMonad",
+            "i3 window manager (supplemental packages)",
+            "Sway Window Manager (supplemental packages)",
+            "Sway Window Manager"
+        ]
+    },
+    {
+        "intent": "I want to set up my system to develop applications with Qt5 and KDE Frameworks 5.",
+        "gold": "KDE Frameworks 5 Software Development",
+        "ranking": [
+            "KDE Frameworks 5 Software Development",
+            "KDE Frameworks 6 Software Development",
+            "X Software Development",
+            "KDE Applications",
+            "KDE"
+        ]
+    },
+    {
+        "intent": "I need to set up servers that support older network protocols like rsh and telnet for compatibility or legacy system access.",
+        "gold": "Legacy Network Server",
+        "ranking": [
+            "Legacy Network Server",
+            "Network Infrastructure Server",
+            "Legacy UNIX Compatibility",
+            "Load Balancer",
+            "Legacy X Window System Compatibility"
+        ]
+    },
+    {
+        "intent": "I want a fast, resource-efficient desktop environment suitable for older or low-powered computers.",
+        "gold": "LXDE",
+        "ranking": [
+            "Deepin New Desktop Environment",
+            "Window Managers",
+            "GNOME",
+            "LXDE",
+            "LXQt"
+        ]
+    },
+    {
+        "intent": "I want to enable audio and video playback features in my LXDE desktop environment.",
+        "gold": "Multimedia support for LXDE",
+        "ranking": [
+            "Multimedia",
+            "Deepin New Desktop Environment",
+            "Window Managers",
+            "GNOME",
+            "Critical Path (LXDE)"
+        ]
+    },
+    {
+        "intent": "I want to install a lightweight desktop environment suitable for systems with limited hardware resources.",
+        "gold": "LXQt",
+        "ranking": [
+            "Deepin New Desktop Environment",
+            "Window Managers",
+            "GNOME",
+            "LXDE",
+            "LXQt"
+        ]
+    },
+    {
+        "intent": "I want to use LXQt in my preferred language.",
+        "gold": "Translations of LXQt",
+        "ranking": [
+            "Translations of LXQt",
+            "Haskell",
+            "LXQt",
+            "OCaml",
+            "Additional Sugar Activities"
+        ]
+    },
+    {
+        "intent": "I want to simulate and analyze the behavior of individual neurons and neural networks.",
+        "gold": "Neuron Modelling Simulators",
+        "ranking": [
+            "Neuron Modelling Simulators",
+            "Networking Tools",
+            "Fedora Server product core",
+            "Network File System Client",
+            "Multimedia"
+        ]
+    },
+    {
+        "intent": "I want to set up an environment for building and running applications written in OCaml.",
+        "gold": "OCaml",
+        "ranking": [
+            "KDE Applications",
+            "GNOME Applications",
+            "Applications for the Xfce Desktop",
+            "Additional Development",
+            "OCaml"
+        ]
+    },
+    {
+        "intent": "I want to use Python packages for scientific computing, data analysis, and research tasks.",
+        "gold": "Python Science",
+        "ranking": [
+            "Python Science",
+            "Scientific Support",
+            "Python",
+            "Mainframe Access",
+            "Additional Sugar Activities"
+        ]
+    },
+    {
+        "intent": "I want to add more educational activities and interactive tools to the Sugar learning platform.",
+        "gold": "Additional Sugar Activities",
+        "ranking": [
+            "Additional Sugar Activities",
+            "Security Tools",
+            "Anaconda Tools",
+            "Networking Tools",
+            "Virtualization Tools"
+        ]
+    },
+    {
+        "intent": "I want to set up a tiling window manager that works with Wayland and uses i3-style configuration.",
+        "gold": "Sway Window Manager",
+        "ranking": [
+            "XMonad",
+            "Sway Window Manager",
+            "Sway Window Manager (supplemental packages)",
+            "i3 window manager",
+            "i3 window manager (supplemental packages)"
+        ]
+    },
+    {
+        "intent": "I want to enhance my Sway window manager setup with extra tools and utilities tailored for Fedora.",
+        "gold": "Sway Window Manager (supplemental packages)",
+        "ranking": [
+            "Fedora Packager",
+            "Sway Window Manager (supplemental packages)",
+            "XMonad",
+            "Sway Window Manager",
+            "System Administration Tools"
+        ]
+    },
+    {
+        "intent": "I want to set up and host websites or web applications on my system.",
+        "gold": "Basic Web Server",
+        "ranking": [
+            "Web Servlet Engine",
+            "Internet Browser",
+            "KDE Applications",
+            "GNOME Applications",
+            "Applications for the Xfce Desktop"
+        ]
+    },
+    {
+        "intent": "I want to control window placement and behavior without installing a full desktop environment.",
+        "gold": "Window Managers",
+        "ranking": [
+            "Window Managers",
+            "Deepin New Desktop Environment",
+            "GNOME",
+            "X Window System",
+            "Budgie"
+        ]
+    },
+    {
+        "intent": "I want to enable and manage Fedora Workstation installations using ostree.",
+        "gold": "Fedora Workstation ostree support",
+        "ranking": [
+            "Fedora Workstation ostree support",
+            "Fedora Workstation product core",
+            "Fedora Packager",
+            "Atomic Host ostree support",
+            "Conflicts (Workstation)"
+        ]
+    },
+    {
+        "intent": "I want to install all essential components required for a functional Fedora Workstation environment.",
+        "gold": "Fedora Workstation product core",
+        "ranking": [
+            "Fedora Workstation ostree support",
+            "Fedora Workstation product core",
+            "Fedora Packager",
+            "Conflicts (Workstation)",
+            "CentOS Linux Workstation product core"
+        ]
+    },
+    {
+        "intent": "I want to build or compile applications that run on the X Window System.",
+        "gold": "X Software Development",
+        "ranking": [
+            "X Window System",
+            "Platform Development",
+            "Window Managers",
+            "X Software Development",
+            "XMonad"
+        ]
+    },
+    {
+        "intent": "I want to install essential applications that integrate well with the Xfce desktop environment.",
+        "gold": "Applications for the Xfce Desktop",
+        "ranking": [
+            "Applications for the Xfce Desktop",
+            "Deepin New Desktop Environment",
+            "Window Managers",
+            "GNOME",
+            "Budgie"
+        ]
+    },
+    {
+        "intent": "I want to organize application windows automatically in non-overlapping tiles on my desktop.",
+        "gold": "XMonad",
+        "ranking": [
+            "Budgie",
+            "Windows File Server",
+            "Remote Desktop Clients",
+            "PHP Support",
+            "Cinnamon"
+        ]
+    },
+    {
+        "intent": "I want to set up my environment to build applications with Qt6 and KDE Frameworks 6.",
+        "gold": "KDE Frameworks 6 Software Development",
+        "ranking": [
+            "KDE Frameworks 6 Software Development",
+            "KDE Frameworks 5 Software Development",
+            "KDE Applications",
+            "KDE",
+            "GNOME Applications"
+        ]
+    }
+]

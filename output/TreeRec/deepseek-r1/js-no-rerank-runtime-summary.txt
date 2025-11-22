@@ -1,0 +1,4 @@
+2025-11-12 10:09:51 | js       | Tree:    0.12s | Retrieval:   10.64s | Total:   15.78s | AvgRetr:  0.0110s | StdRetr:  0.0168s | MinRetr:  0.0090s | MaxRetr:  0.5240s | AvgTotal:  0.0163s
+2025-11-12 10:14:08 | js       | Tree:    0.13s | Retrieval:   21.30s | Total:   26.51s | AvgRetr:  0.0220s | StdRetr:  0.0168s | MinRetr:  0.0168s | MaxRetr:  0.5323s | AvgTotal:  0.0274s
+2025-11-12 10:15:08 | js       | Tree:    0.12s | Retrieval:   20.36s | Total:   25.59s | AvgRetr:  0.0210s | StdRetr:  0.0171s | MinRetr:  0.0123s | MaxRetr:  0.5407s | AvgTotal:  0.0264s
+2025-11-12 10:17:07 | js       | Tree:    0.11s | Retrieval:   20.46s | Total:   25.72s | AvgRetr:  0.0211s | StdRetr:  0.0167s | MinRetr:  0.0160s | MaxRetr:  0.5292s | AvgTotal:  0.0266s

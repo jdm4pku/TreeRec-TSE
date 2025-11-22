@@ -1,0 +1,6 @@
+2025-10-30 02:27:19 | js       |    24.76 seconds
+2025-10-30 06:00:42 | js       | Total:    28.79s | Avg/query:   0.0297s
+2025-11-05 10:53:49 | js       | Total:    19.71s | Avg/query:   0.0204s
+2025-11-11 09:00:36 | js       | Total:    20.66s | Avg/query(mean±std):   0.0213±0.0000s | min=0.0213s | max=0.0213s
+2025-11-11 09:07:08 | js       | Total:    21.34s | Mean:   0.0215s | Std:   0.0067s | Min:   0.0104s | Max:   0.1407s
+2025-11-11 11:08:22 | js       | Total:    19.17s | Mean:   0.0193s | Std:   0.0053s | Min:   0.0102s | Max:   0.0776s

@@ -1,0 +1,4002 @@
+[
+    {
+        "name": "paho-mqtt",
+        "description": "Eclipse Paho JavaScript MQTT client for Browsers"
+    },
+    {
+        "name": "serialport",
+        "description": "Node.js package to access serial ports. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!"
+    },
+    {
+        "name": "aws-iot-device-sdk",
+        "description": "AWS IoT Node.js SDK for Embedded Devices"
+    },
+    {
+        "name": "@serialport/bindings-cpp",
+        "description": "SerialPort Hardware bindings for node serialport written in c++"
+    },
+    {
+        "name": "aws-iot-device-sdk-v2",
+        "description": "NodeJS API for the AWS IoT service"
+    },
+    {
+        "name": "aedes",
+        "description": "Stream-based MQTT broker"
+    },
+    {
+        "name": "osls",
+        "description": "Open-source alternative to Serverless Framework"
+    },
+    {
+        "name": "node-red",
+        "description": "Low-code programming for event-driven applications"
+    },
+    {
+        "name": "node-opcua-certificate-manager",
+        "description": "pure nodejs OPCUA SDK - module certificate-manager"
+    },
+    {
+        "name": "node-opcua-pseudo-session",
+        "description": "pure nodejs OPCUA SDK - module pseudo-session"
+    },
+    {
+        "name": "node-opcua-transport",
+        "description": "pure nodejs OPCUA SDK - module transport"
+    },
+    {
+        "name": "node-opcua-basic-types",
+        "description": "pure nodejs OPCUA SDK - module basic-types"
+    },
+    {
+        "name": "node-opcua-enum",
+        "description": "pure nodejs OPCUA SDK - module enum"
+    },
+    {
+        "name": "node-opcua-buffer-utils",
+        "description": "pure nodejs OPCUA SDK - module buffer-utils"
+    },
+    {
+        "name": "node-opcua-binary-stream",
+        "description": "pure nodejs OPCUA SDK - module binary-stream"
+    },
+    {
+        "name": "node-opcua-service-write",
+        "description": "pure nodejs OPCUA SDK - module service-write"
+    },
+    {
+        "name": "node-opcua-service-endpoints",
+        "description": "pure nodejs OPCUA SDK - module service-endpoints"
+    },
+    {
+        "name": "node-opcua-service-register-node",
+        "description": "pure nodejs OPCUA SDK - module service-register-node"
+    },
+    {
+        "name": "node-opcua-common",
+        "description": "pure nodejs OPCUA SDK - module common"
+    },
+    {
+        "name": "node-opcua-service-session",
+        "description": "pure nodejs OPCUA SDK - module service-session"
+    },
+    {
+        "name": "node-opcua-factory",
+        "description": "pure nodejs OPCUA SDK - module factory"
+    },
+    {
+        "name": "node-opcua-nodeid",
+        "description": "pure nodejs OPCUA SDK - module nodeid"
+    },
+    {
+        "name": "node-opcua-status-code",
+        "description": "pure nodejs OPCUA SDK - module status-code"
+    },
+    {
+        "name": "node-opcua-address-space-base",
+        "description": "pure nodejs OPCUA SDK - module address-space-base"
+    },
+    {
+        "name": "node-opcua-service-filter",
+        "description": "pure nodejs OPCUA SDK - module service-filter"
+    },
+    {
+        "name": "node-opcua-service-read",
+        "description": "pure nodejs OPCUA SDK - module service-read"
+    },
+    {
+        "name": "node-opcua-data-model",
+        "description": "pure nodejs OPCUA SDK - module data-model"
+    },
+    {
+        "name": "node-opcua-client",
+        "description": "pure nodejs OPCUA SDK - module client"
+    },
+    {
+        "name": "node-opcua-schemas",
+        "description": "pure nodejs OPCUA SDK - module schemas"
+    },
+    {
+        "name": "node-opcua-numeric-range",
+        "description": "pure nodejs OPCUA SDK - module numeric-range"
+    },
+    {
+        "name": "node-opcua-alarm-condition",
+        "description": "pure nodejs OPCUA SDK - module pseudo-session"
+    },
+    {
+        "name": "node-opcua-debug",
+        "description": "pure nodejs OPCUA SDK - module debug"
+    },
+    {
+        "name": "node-opcua-object-registry",
+        "description": "pure nodejs OPCUA SDK - module object-registry"
+    },
+    {
+        "name": "node-opcua-packet-assembler",
+        "description": "pure nodejs OPCUA SDK - module packet-assembler"
+    },
+    {
+        "name": "node-opcua-constants",
+        "description": "pure nodejs OPCUA SDK - module constants"
+    },
+    {
+        "name": "node-opcua-service-query",
+        "description": "pure nodejs OPCUA SDK - module service-query"
+    },
+    {
+        "name": "node-opcua-service-browse",
+        "description": "pure nodejs OPCUA SDK - module service-browse"
+    },
+    {
+        "name": "node-opcua-generator",
+        "description": "pure nodejs OPCUA SDK - module generator"
+    },
+    {
+        "name": "node-opcua-data-access",
+        "description": "pure nodejs OPCUA SDK - module data-access"
+    },
+    {
+        "name": "node-opcua-packet-analyzer",
+        "description": "pure nodejs OPCUA SDK - module packet-analyzer"
+    },
+    {
+        "name": "node-opcua-crypto",
+        "description": "Crypto tools for Node-OPCUA"
+    },
+    {
+        "name": "node-opcua-chunkmanager",
+        "description": "pure nodejs OPCUA SDK - module chunkmanager"
+    },
+    {
+        "name": "node-opcua-guid",
+        "description": "pure nodejs OPCUA SDK - module guid"
+    },
+    {
+        "name": "node-opcua-service-translate-browse-path",
+        "description": "pure nodejs OPCUA SDK - module service-translate-browse-path"
+    },
+    {
+        "name": "node-opcua-secure-channel",
+        "description": "pure nodejs OPCUA SDK - module secure-channel"
+    },
+    {
+        "name": "node-opcua-types",
+        "description": "pure nodejs OPCUA SDK - module types"
+    },
+    {
+        "name": "node-opcua-vendor-diagnostic",
+        "description": "pure nodejs OPCUA SDK - module vendor-diagnostic"
+    },
+    {
+        "name": "node-opcua-assert",
+        "description": "pure nodejs OPCUA SDK - module assert"
+    },
+    {
+        "name": "node-opcua-data-value",
+        "description": "pure nodejs OPCUA SDK - module data-value"
+    },
+    {
+        "name": "node-opcua-service-history",
+        "description": "pure nodejs OPCUA SDK - module service-history"
+    },
+    {
+        "name": "node-opcua-date-time",
+        "description": "pure nodejs OPCUA SDK - module date-time"
+    },
+    {
+        "name": "node-opcua-utils",
+        "description": "pure nodejs OPCUA SDK - module utils"
+    },
+    {
+        "name": "node-opcua-extension-object",
+        "description": "pure nodejs OPCUA SDK - module extension-object"
+    },
+    {
+        "name": "node-opcua-server",
+        "description": "pure nodejs OPCUA SDK - module server"
+    },
+    {
+        "name": "@iobroker/adapter-core",
+        "description": "Core module to be used in ioBroker adapters. Acts as the bridge to js-controller."
+    },
+    {
+        "name": "node-opcua-address-space",
+        "description": "pure nodejs OPCUA SDK - module address-space"
+    },
+    {
+        "name": "node-opcua-service-call",
+        "description": "pure nodejs OPCUA SDK - module service-call"
+    },
+    {
+        "name": "node-opcua-service-secure-channel",
+        "description": "pure nodejs OPCUA SDK - module service-secure-channel"
+    },
+    {
+        "name": "node-opcua-address-space-for-conformance-testing",
+        "description": "pure nodejs OPCUA SDK - module address-space-for-conformance-testing"
+    },
+    {
+        "name": "node-opcua-aggregates",
+        "description": "pure nodejs OPCUA SDK - module aggregates"
+    },
+    {
+        "name": "node-opcua-variant",
+        "description": "pure nodejs OPCUA SDK - module variant"
+    },
+    {
+        "name": "node-opcua-xml2json",
+        "description": "pure nodejs OPCUA SDK - module xml2json"
+    },
+    {
+        "name": "node-opcua-service-subscription",
+        "description": "pure nodejs OPCUA SDK - module service-subscription"
+    },
+    {
+        "name": "node-opcua-client-dynamic-extension-object",
+        "description": "pure nodejs OPCUA SDK - module client-dynamic-extension-object"
+    },
+    {
+        "name": "node-opcua-hostname",
+        "description": "pure nodejs OPCUA SDK - module hostname"
+    },
+    {
+        "name": "node-opcua-service-discovery",
+        "description": "pure nodejs OPCUA SDK - module service-discovery"
+    },
+    {
+        "name": "node-opcua-service-node-management",
+        "description": "pure nodejs OPCUA SDK - module service-node-management"
+    },
+    {
+        "name": "node-opcua-client-proxy",
+        "description": "pure nodejs OPCUA SDK - module client-proxy"
+    },
+    {
+        "name": "node-opcua-nodesets",
+        "description": "pure nodejs OPCUA SDK - module nodesets"
+    },
+    {
+        "name": "node-opcua-nodeset-ua",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-ua"
+    },
+    {
+        "name": "node-opcua-server-discovery",
+        "description": "pure nodejs OPCUA SDK - module server-discovery"
+    },
+    {
+        "name": "@treehouses/cli",
+        "description": "Thin command-line interface for Raspberry Pi low level configuration."
+    },
+    {
+        "name": "node-opcua",
+        "description": "pure nodejs OPCUA SDK - module node-opcua"
+    },
+    {
+        "name": "balena-sdk",
+        "description": "The Balena JavaScript SDK"
+    },
+    {
+        "name": "node-red-node-test-helper",
+        "description": "A test framework for Node-RED nodes"
+    },
+    {
+        "name": "@matter/node",
+        "description": "API for building Matter nodes"
+    },
+    {
+        "name": "@matter/model",
+        "description": "Matter data model"
+    },
+    {
+        "name": "node-ssdp",
+        "description": "A node.js SSDP client and server library."
+    },
+    {
+        "name": "@matter/types",
+        "description": "Definitions for Matter application"
+    },
+    {
+        "name": "@redplc/node-red-time",
+        "description": "Node-RED nodes for get System-Time or NTP-Time using with redPlc nodes"
+    },
+    {
+        "name": "@matter/main",
+        "description": "Matter.js main entrypoint"
+    },
+    {
+        "name": "@matter/nodejs",
+        "description": "Node.js platform support for matter.js"
+    },
+    {
+        "name": "@matter/general",
+        "description": "Non-Matter support for Matter.js"
+    },
+    {
+        "name": "coap",
+        "description": "A CoAP library for node modelled after 'http'"
+    },
+    {
+        "name": "coap-packet",
+        "description": "Generate and Parse CoAP packets"
+    },
+    {
+        "name": "@aws-cdk/aws-iot-alpha",
+        "description": "The CDK Construct Library for AWS::IoT"
+    },
+    {
+        "name": "@matter/protocol",
+        "description": "Low-level APIs for Matter interaction"
+    },
+    {
+        "name": "jacdac-ts",
+        "description": "JavaScript/TypeScript library to interact with Jacdac devices"
+    },
+    {
+        "name": "@aws-cdk/aws-iot-actions-alpha",
+        "description": "Receipt rule actions for AWS IoT"
+    },
+    {
+        "name": "matterbridge",
+        "description": "Matterbridge plugin manager for Matter"
+    },
+    {
+        "name": "onoff",
+        "description": "GPIO access and interrupt detection with Node.js"
+    },
+    {
+        "name": "node-bacnet",
+        "description": "The BACnet protocol library written in pure JavaScript."
+    },
+    {
+        "name": "@nordicsemiconductor/firmware-ci-runner-aws",
+        "description": "Exposes real nRF9160 hardware to be used for end-to-end tests. Runs on AWS."
+    },
+    {
+        "name": "@nordicsemiconductor/asset-tracker-cloud-aws",
+        "description": "A reference implementation of a serverless backend for an IoT product developed using AWS CDK in TypeScript."
+    },
+    {
+        "name": "node-opcua-file-transfer",
+        "description": "pure nodejs OPCUA SDK - module file-transfer"
+    },
+    {
+        "name": "@350d/homebridge-seam",
+        "description": "Modern Homebridge plugin for smart locks via Seam.co API. Supports August, Yale, Schlage, Kwikset, and 100+ other smart lock brands through Seam's universal API with real-time webhook updates and comprehensive HomeKit integration."
+    },
+    {
+        "name": "tibber-api",
+        "description": "Node.js module for connecting to Tibber API and extract data from your connected homes, including realtime data from Tibber Pulse."
+    },
+    {
+        "name": "tuyapi",
+        "description": "An easy-to-use API for devices that use Tuya's cloud services"
+    },
+    {
+        "name": "total.js",
+        "description": "MVC framework for Node.js"
+    },
+    {
+        "name": "serverless-google-cloudfunctions",
+        "description": "Provider plugin for the Serverless Framework v1.x which adds support for Google Cloud Functions."
+    },
+    {
+        "name": "@bifravst/cloudformation-helpers",
+        "description": "Helper functions which simplify working with AWS CloudFormation stacks"
+    },
+    {
+        "name": "@project-chip/matter.js",
+        "description": "Matter protocol in pure js"
+    },
+    {
+        "name": "@iobroker/adapter-react-v5",
+        "description": "React components to develop ioBroker interfaces with react."
+    },
+    {
+        "name": "matterbridge-hass",
+        "description": "Matterbridge hass plugin"
+    },
+    {
+        "name": "node-coap-client",
+        "description": "Clientside implementation of the CoAP protocol with DTLS support."
+    },
+    {
+        "name": "@bifravst/from-env",
+        "description": "Helper function which ensures that required environment variables are set."
+    },
+    {
+        "name": "i2c-bus",
+        "description": "I2C serial bus access with Node.js"
+    },
+    {
+        "name": "@nordicsemiconductor/asset-tracker-cloud-code-style",
+        "description": "Code style definitions for all nRF Asset Tracker projects."
+    },
+    {
+        "name": "iobroker.discovery",
+        "description": "This adapter tries to detect devices in local network."
+    },
+    {
+        "name": "@azure/digital-twins-core",
+        "description": "An isomorphic client library for Azure Digital Twins"
+    },
+    {
+        "name": "edhoc",
+        "description": "A Node.js implementation of EDHOC (Ephemeral Diffie-Hellman Over COSE) protocol for lightweight authenticated key exchange in IoT and other constrained environments."
+    },
+    {
+        "name": "@project-chip/matter-node-shell.js",
+        "description": "Shell app for Matter controller"
+    },
+    {
+        "name": "@iobroker/i18n",
+        "description": "Core module to be used in ioBroker adapters. Acts as the bridge to js-controller."
+    },
+    {
+        "name": "coap-oscore",
+        "description": "A Node.js implementation of OSCORE (Object Security for Constrained RESTful Environments) protocol, providing end-to-end security for IoT applications and other constrained environments using CBOR Object Signing and Encryption."
+    },
+    {
+        "name": "@project-chip/matter-node.js-examples",
+        "description": "Matter.js examples and reference implementations"
+    },
+    {
+        "name": "@google-cloud/iot",
+        "description": "Cloud IoT API client for Node.js"
+    },
+    {
+        "name": "serverless-azure-functions",
+        "description": "Provider plugin for the Serverless Framework v1.x which adds support for Azure Functions."
+    },
+    {
+        "name": "node-red-contrib-huemagic",
+        "description": "Philips Hue node to control bridges, lights, groups, scenes, rules, taps, switches, buttons, motion sensors, temperature sensors and Lux sensors using Node-RED."
+    },
+    {
+        "name": "@matter/nodejs-ble",
+        "description": "Matter BLE support for node.js"
+    },
+    {
+        "name": "ikologik-api-nodejs",
+        "description": "A Node.js API for the Ikologik platform."
+    },
+    {
+        "name": "homebridge-awtrix-sensors",
+        "description": "Homebridge plugin for AWTRIX LED matrix displays with MQTT sensor integration"
+    },
+    {
+        "name": "matterbridge-zigbee2mqtt",
+        "description": "Matterbridge zigbee2mqtt plugin"
+    },
+    {
+        "name": "@phygrid/checkout",
+        "description": ""
+    },
+    {
+        "name": "sp-react-native-mqtt",
+        "description": "MQTT client for react-native"
+    },
+    {
+        "name": "@nordicsemiconductor/firmware-ci-runner-azure",
+        "description": "Runs firmware on a real device connected to Azure IoT hub."
+    },
+    {
+        "name": "@iobroker/vis-2-widgets-react-dev",
+        "description": "React classes to develop vis widgets interfaces for ioBroker with react."
+    },
+    {
+        "name": "knxultimate",
+        "description": "KNX IP protocol implementation for Node. This is the ENGINE of Node-Red KNX-Ultimate node."
+    },
+    {
+        "name": "mqtts",
+        "description": "MQTT client in Typescript"
+    },
+    {
+        "name": "alljoyn",
+        "description": "Alljoyn NodeJS Integration"
+    },
+    {
+        "name": "nectarjs",
+        "description": "Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries."
+    },
+    {
+        "name": "@devicescript/cli",
+        "description": "DeviceScript command line tool"
+    },
+    {
+        "name": "@hoobs/hoobs",
+        "description": "Certified HOOBS stack"
+    },
+    {
+        "name": "@nordicsemiconductor/eslint-config-asset-tracker-cloud-typescript",
+        "description": "ESLint config for all nRF Asset Tracker projects."
+    },
+    {
+        "name": "farmbot",
+        "description": "Farmbot Javascript client."
+    },
+    {
+        "name": "wappsto-wapp",
+        "description": "[![CI](https://github.com/Wappsto/wappsto-wapp/actions/workflows/main.yml/badge.svg)](https://github.com/Wappsto/wappsto-wapp/actions/workflows/main.yml) [![codecov](https://codecov.io/gh/Wappsto/javascript-wappsto-wapp/branch/main/graph/badge.svg?token=Y"
+    },
+    {
+        "name": "@project-chip/matter-node.js",
+        "description": "Deprecated matter.js support for Node.js"
+    },
+    {
+        "name": "dt-common-device",
+        "description": "A secure and robust device management library for IoT applications"
+    },
+    {
+        "name": "aws-mqtt-client",
+        "description": "[AWS MQTT](http://docs.aws.amazon.com/iot/latest/developerguide/protocols.html) Websocket Pub/Sub with AWS IoT based on [MQTT.js](https://github.com/mqttjs/MQTT.js). Recently [AWS released support of WebSockets for IoT](https://aws.amazon.com/about-aws/wh"
+    },
+    {
+        "name": "node-opcua-benchmarker",
+        "description": "pure nodejs OPCUA SDK - module benchmarker"
+    },
+    {
+        "name": "@iobroker/adapter-react",
+        "description": "React classes to develop admin interfaces for ioBroker with react."
+    },
+    {
+        "name": "node-red-contrib-homekit-bridged",
+        "description": "Node-RED nodes to simulate Apple HomeKit devices."
+    },
+    {
+        "name": "@project-chip/matter-node-ble.js",
+        "description": "Deprecated Matter BLE support for node.js"
+    },
+    {
+        "name": "@matter/examples",
+        "description": "Matter.js examples and reference implementations"
+    },
+    {
+        "name": "@devicescript/compiler",
+        "description": "DeviceScript Compiler"
+    },
+    {
+        "name": "@tago-io/sdk",
+        "description": "TagoIO SDK for JavaScript in the browser and Node.js"
+    },
+    {
+        "name": "@tuyapi/cli",
+        "description": "🔧 A CLI for Tuya devices"
+    },
+    {
+        "name": "tellojs",
+        "description": "async based library to be able to control de dji tello drone"
+    },
+    {
+        "name": "@nordicsemiconductor/asset-tracker-cloud-device-simulator-azure",
+        "description": "Simulates an nRF9160-based device for the nRF Asset Tracker for Azure."
+    },
+    {
+        "name": "particle-commands",
+        "description": "Library of UX-neutral commands that provide key functionality for developer tools"
+    },
+    {
+        "name": "@nordicsemiconductor/firmware-ci-device-helpers",
+        "description": "Helper functions for interacting with the nRF9160 used during end-to-end tests"
+    },
+    {
+        "name": "@matter/cli-tool",
+        "description": "Command line tool for interacting with Matter"
+    },
+    {
+        "name": "pigpio",
+        "description": "Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi"
+    },
+    {
+        "name": "@devicescript/interop",
+        "description": "Interfaces for interaction with DeviceScript files"
+    },
+    {
+        "name": "africastalking-ts",
+        "description": "Unofficial Typescript version of the Africa's Talking SDK"
+    },
+    {
+        "name": "@matter/nodejs-shell",
+        "description": "Shell app for Matter controller"
+    },
+    {
+        "name": "@actyx/sdk",
+        "description": "Actyx SDK"
+    },
+    {
+        "name": "aws-mqtt",
+        "description": "AWS IoT MQTT broker client"
+    },
+    {
+        "name": "@thammond17/modbus-manager-agent",
+        "description": "High-performance local polling engine for Modbus Manager - supports hundreds of devices and thousands of data points"
+    },
+    {
+        "name": "@devicescript/vm",
+        "description": "DeviceScript Virtual Machine"
+    },
+    {
+        "name": "node-tradfri-client",
+        "description": "Library to talk to IKEA Trådfri Gateways without external binaries"
+    },
+    {
+        "name": "mm_os",
+        "description": "这是超级美眉服务端框架，用于快速构建应用程序。"
+    },
+    {
+        "name": "iobroker.alexa2",
+        "description": "Remote control for Alexa (Amazon Echo)"
+    },
+    {
+        "name": "homebridge-dingz",
+        "description": "Homebridge Plugin for dingz & myStrom Devices. Implements some (but not all, due to API limitations) functions of a [dingz](https://dingz.ch) Smart Home Device."
+    },
+    {
+        "name": "@hoobs/sdk",
+        "description": "HOOBS SDK for building applications that talk with the HOOBS API."
+    },
+    {
+        "name": "@curium.rocks/maestro",
+        "description": "Connects emitters to chroniclers and transceivers along with managing state of emitters"
+    },
+    {
+        "name": "@matter/react-native",
+        "description": "Experimental React Native support for matter.js"
+    },
+    {
+        "name": "wappsto-cli",
+        "description": "Command Line Interface for creating wapps in Wappsto"
+    },
+    {
+        "name": "oauth2orize-device-code",
+        "description": "Extensions to support device flow with OAuth2orize."
+    },
+    {
+        "name": "particle-cli",
+        "description": "Simple Node commandline application for working with your Particle devices and using the Particle Cloud"
+    },
+    {
+        "name": "in3",
+        "description": "IN3 Ethereum client WASM with bindings for Javascript and Typescript types"
+    },
+    {
+        "name": "node-opcua-model",
+        "description": "pure nodejs OPCUA SDK - module - model"
+    },
+    {
+        "name": "node-red-contrib-symi-modbus",
+        "description": "Node-RED Modbus节点，支持TCP/串口通信、串口自动搜索、多设备轮询、智能MQTT连接（自动fallback HassOS/Docker环境）、Home Assistant自动发现和多品牌开关面板，生产级稳定版本"
+    },
+    {
+        "name": "node-red-contrib-tibber-api",
+        "description": "Node Red module for integrating with Tibber api"
+    },
+    {
+        "name": "stk500-v2",
+        "description": "STK500 v2 programmer in javascript"
+    },
+    {
+        "name": "jamscript",
+        "description": "Compiler for the JAMScript language"
+    },
+    {
+        "name": "zwave-js-ui",
+        "description": "Z-Wave Control Panel and MQTT Gateway"
+    },
+    {
+        "name": "isatdatapro-api",
+        "description": "A library for accessing the (Inmarsat) IsatData Pro API V1"
+    },
+    {
+        "name": "@manekinekko/angular-web-bluetooth",
+        "description": "The missing Web Bluetooth module for Angular"
+    },
+    {
+        "name": "@tuyapi/link",
+        "description": "📡 Effortlessly connect devices to WiFi and the cloud"
+    },
+    {
+        "name": "serverless-scaleway-functions",
+        "description": "Provider plugin for the Serverless Framework v3.x which adds support for Scaleway Functions."
+    },
+    {
+        "name": "@bifravst/random-words",
+        "description": "Returns random 8-letter words from the Webster's Unabridged Dictionary"
+    },
+    {
+        "name": "@nordicsemiconductor/device-helpers",
+        "description": "Helper functions for interacting with the nRF9160 used during end-to-end tests"
+    },
+    {
+        "name": "node-opcua-modeler",
+        "description": "pure nodejs OPCUA SDK - module modeler"
+    },
+    {
+        "name": "matterbridge-shelly",
+        "description": "Matterbridge shelly plugin"
+    },
+    {
+        "name": "sigfox-aws",
+        "description": "Framework for building a Sigfox server, based on Amazon Web Services and Lambda Functions"
+    },
+    {
+        "name": "raptor-sdk",
+        "description": "Raptor javascript SDK"
+    },
+    {
+        "name": "@iobroker/dm-gui-components",
+        "description": "ReactJS components to develop admin interface for ioBroker device manager."
+    },
+    {
+        "name": "@clearblade/iot",
+        "description": "Cloud IoT API client for Node.js"
+    },
+    {
+        "name": "coap-cli",
+        "description": "A CLI for CoAP"
+    },
+    {
+        "name": "node-red-contrib-broadlink-control",
+        "description": "Node Red nodes to control the Broadlink RM devices and other Broadlink home automation nodes."
+    },
+    {
+        "name": "aws-device-gateway-signed-url",
+        "description": "Create a signed WebSocket URL for a MQTT AWS device gateway endpoint, so browsers can connect to AWS IOT MQTT message queues easily"
+    },
+    {
+        "name": "node-red-contrib-snap4city-developer",
+        "description": "A description of the available nodes can be found [here](https://www.km4city.org/iot-micro-doc/developer.html)."
+    },
+    {
+        "name": "dirigera",
+        "description": "A TypeScript client for IKEA's DIRIGERA smart home hub"
+    },
+    {
+        "name": "@tumba-solutions/serverless",
+        "description": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more"
+    },
+    {
+        "name": "huejay",
+        "description": "Philips Hue client for Node.js"
+    },
+    {
+        "name": "vrpc",
+        "description": "Variadic Remote Procedure Calls"
+    },
+    {
+        "name": "hermesjs",
+        "description": "Real-time messaging framework"
+    },
+    {
+        "name": "spi-device",
+        "description": "SPI serial bus access with Node.js"
+    },
+    {
+        "name": "opcua-commander",
+        "description": "OPCUA CLI client"
+    },
+    {
+        "name": "clearblade-js-client",
+        "description": "ClearBlade JavaScript API ========================="
+    },
+    {
+        "name": "qcloud-iotexplorer-appdev-plugin-wificonf-blecombo",
+        "description": "腾讯云物联网开发平台应用开发小程序端WIFI配网方式之蓝牙辅助配网(BLE-combo) SDK"
+    },
+    {
+        "name": "node-opcua-convert-nodeset-to-javascript",
+        "description": "pure nodejs OPCUA SDK - module convert-nodeset-to-javascript"
+    },
+    {
+        "name": "@frangoteam/fuxa",
+        "description": "Web-based Process Visualization (SCADA/HMI/Dashboard) software"
+    },
+    {
+        "name": "serverless-tencent-scf",
+        "description": "Provider plugin for the Serverless Framework v1.x which adds support for Tencent Cloud Functions."
+    },
+    {
+        "name": "@tuyapi/cloud",
+        "description": "A NodeJS wrapper for Tuya's cloud API"
+    },
+    {
+        "name": "node-red-contrib-persistent-fsm",
+        "description": "A Node Red node for implementing a finite state machine."
+    },
+    {
+        "name": "@project-chip/matter.js-react-native",
+        "description": "Matter BLE support for node.js"
+    },
+    {
+        "name": "@uns-kit/core",
+        "description": "Core utilities and runtime building blocks for UNS-based realtime transformers."
+    },
+    {
+        "name": "node-red-contrib-aws",
+        "description": "A collection of Node-RED nodes for AWS.  Includes nodes for DynamoDB, EC2, IoT, Kinesis, Lambda, SNS, SQS and S3."
+    },
+    {
+        "name": "@inductiv/node-red-openai-api",
+        "description": "Enhance your Node-RED projects with advanced AI capabilities."
+    },
+    {
+        "name": "@actyx/pond",
+        "description": "Actyx Pond"
+    },
+    {
+        "name": "node-opcua-nodeset-di",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-di"
+    },
+    {
+        "name": "@phystack/checkout",
+        "description": ""
+    },
+    {
+        "name": "devicescript-cowsay",
+        "description": "DeviceScript package sample implementing the famous cow say rendering engine."
+    },
+    {
+        "name": "@edgeberry/devicehub-node-red-contrib",
+        "description": "Node-RED nodes for Edgeberry Device Hub application integration"
+    },
+    {
+        "name": "node-red-contrib-ui-time-scheduler",
+        "description": "A ui time scheduler for the Node-RED Dashboard"
+    },
+    {
+        "name": "@curium.rocks/sql-chronicler",
+        "description": "A library that persists IDataEmitter events to an SQL store using TypeORM"
+    },
+    {
+        "name": "mgmt-iot-web",
+        "description": "web platform to configure and interact with iot devices using mqtt"
+    },
+    {
+        "name": "node-opcua-samples",
+        "description": "pure nodejs OPCUA SDK - module samples"
+    },
+    {
+        "name": "@gtiot/iot-devtool",
+        "description": "云组态平台前端开发工具"
+    },
+    {
+        "name": "tsvesync",
+        "description": "A TypeScript library for interacting with VeSync smart home devices"
+    },
+    {
+        "name": "leshan-mcp-server",
+        "description": "A standards-compliant MCP server for Leshan LwM2M, exposing Leshan as Model Context Protocol tools."
+    },
+    {
+        "name": "cylon",
+        "description": "JavaScript framework for robotics, drones, and the Internet of Things (IoT) using Node.js"
+    },
+    {
+        "name": "node-web-gpio",
+        "description": "GPIO access with Node.js"
+    },
+    {
+        "name": "hotel-iot-mcp",
+        "description": "Hotel IOT MCP Server for Bailian Platform with separated scene query tool"
+    },
+    {
+        "name": "node-opcua-local-discovery-server",
+        "description": "pure nodejs OPCUA SDK - module local-discovery-server"
+    },
+    {
+        "name": "@keybittech/awayto",
+        "description": "Deploy a fully-featured application in about 10 minutes that is primed for quick development. Do business, impress a client with a quick demo, finish your poc with time to spare; all easily achievable with Awayto."
+    },
+    {
+        "name": "@bifravst/timestream-helpers",
+        "description": "Helper functions which simplify working with AWS Timestream"
+    },
+    {
+        "name": "homebridge-melcloud-home",
+        "description": "Homebridge plugin for Mitsubishi Electric Air Conditioners using the MELCloud Home platform (melcloudhome.com)"
+    },
+    {
+        "name": "node-opcua-leak-detector",
+        "description": "pure nodejs OPCUA SDK - module leak-detector"
+    },
+    {
+        "name": "node-red-contrib-google-cloud",
+        "description": "Node-RED nodes for Google Cloud Platform"
+    },
+    {
+        "name": "@elfdream/mqtt5-backend",
+        "description": "A cloud service based on the mqtt v5 protocol of nodejs."
+    },
+    {
+        "name": "@nordicsemiconductor/asset-tracker-cloud-device-simulator-aws",
+        "description": "Simulates an nRF9160-based device for the nRF Asset Tracker for AWS."
+    },
+    {
+        "name": "@nordicsemiconductor/asset-tracker-cloud-docs",
+        "description": "The nRF Asset Tracker aims to provide a concrete end-to-end example for an IoT product in the asset tracker space."
+    },
+    {
+        "name": "emerald-works-serverless",
+        "description": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more"
+    },
+    {
+        "name": "@mmontes11/iot-client",
+        "description": "ES6 client library for consuming IoT server REST API"
+    },
+    {
+        "name": "@edgeberry/devicehub-device-client",
+        "description": "TypeScript Node.js Device client for Edgeberry Device Hub"
+    },
+    {
+        "name": "@seydx/bravia",
+        "description": "Node.js module for discovering and controlling Sony BRAVIA Android TVs"
+    },
+    {
+        "name": "@eva-ics/webengine-react",
+        "description": "React components for EVA ICS HMI Web Engine"
+    },
+    {
+        "name": "react-native-mqtt",
+        "description": "MQTT client for react-native"
+    },
+    {
+        "name": "node-red-contrib-snap4city-user",
+        "description": "Nodes for Snap4city project, targeted to standard user (no developer)"
+    },
+    {
+        "name": "@edgeberry/devicehub-app-client",
+        "description": "TypeScript Node.js application client for consuming data from Edgeberry Device Hub"
+    },
+    {
+        "name": "node-red-contrib-esphome",
+        "description": "Node-RED nodes to ESPhome devices"
+    },
+    {
+        "name": "serialport-gsm",
+        "description": "Serialport implementation for GSM commands (send text/flash messages, read, etc.)"
+    },
+    {
+        "name": "matterbridge-test",
+        "description": "Matterbridge test plugin"
+    },
+    {
+        "name": "react-native-iot-wifi",
+        "description": "Connect to WiFi with React Native on Android and iOS."
+    },
+    {
+        "name": "node-opcua-server-configuration",
+        "description": "pure nodejs OPCUA SDK - module server-configuration"
+    },
+    {
+        "name": "@bitpoolos/edge-modbus",
+        "description": "Modules to support reading Modbus devices."
+    },
+    {
+        "name": "@nordicsemiconductor/asset-tracker-cloud-azure",
+        "description": "A reference implementation of a serverless backend for an IoT product developed using in TypeScript."
+    },
+    {
+        "name": "@alteriom/mqtt-schema",
+        "description": "Alteriom MQTT v1 schemas, TypeScript types, and validation helpers for web integration"
+    },
+    {
+        "name": "node-broadlink",
+        "description": "A promise based Node.js module for Broadlink controllers"
+    },
+    {
+        "name": "node-web-i2c",
+        "description": "I2C access with Node.js"
+    },
+    {
+        "name": "@bitpoolos/edge-bacnet",
+        "description": "A bacnet gateway for node-red"
+    },
+    {
+        "name": "remote.it",
+        "description": "remote.it JavaScript/node client library"
+    },
+    {
+        "name": "@iotile/iotile-device",
+        "description": "A typescript library for interfacing with IOTile BLE devices"
+    },
+    {
+        "name": "zetta",
+        "description": "An API-first, open source software platform for the Internet of Things. http://zettajs.org"
+    },
+    {
+        "name": "aws-iot-provision",
+        "description": "AWS Lambda function to provision a balena device to IoT Core"
+    },
+    {
+        "name": "m2m",
+        "description": "m2m is a client module for machine-to-machine communication framework node-m2m for cloud and edge computing."
+    },
+    {
+        "name": "@kaarot_kalel_90/react-native-tuya",
+        "description": "React Native bindings for the Tuya SDK"
+    },
+    {
+        "name": "webthing",
+        "description": "HTTP Web Thing implementation"
+    },
+    {
+        "name": "nuxt-component-dpe",
+        "description": "Use custom components DPE on Nuxt"
+    },
+    {
+        "name": "meshblu",
+        "description": "Meshblu IoT network and API"
+    },
+    {
+        "name": "ngsijs",
+        "description": "JavaScript library for the FIWARE Context Broker services (web browsers & Node.js)"
+    },
+    {
+        "name": "iobroker.mbus",
+        "description": "MBus Adapter"
+    },
+    {
+        "name": "node-red-contrib-smartnora",
+        "description": "Google Smart Home integration via Smart Nora https://smart-nora.eu/"
+    },
+    {
+        "name": "@hms-networks/kolibri-js-core",
+        "description": "Kolibri Core library containing common kolibri models and utils"
+    },
+    {
+        "name": "@oceanstream/cli",
+        "description": "CLI for managing OceanStream IoT Edge applications on Azure infrastructure"
+    },
+    {
+        "name": "node-red-contrib-things",
+        "description": "A set of Node-RED nodes that uses an agnostic state management system to keep IOT device states and provide a uniform control system."
+    },
+    {
+        "name": "matterbridge-somfy-tahoma",
+        "description": "Matterbridge somfy tahoma plugin"
+    },
+    {
+        "name": "n8n-nodes-bambulab",
+        "description": "n8n community node for controlling Bambu Lab 3D printers"
+    },
+    {
+        "name": "node-upnp",
+        "description": "Modern UPnP Client Library"
+    },
+    {
+        "name": "novus-component",
+        "description": "Component framework for home automation"
+    },
+    {
+        "name": "node-red-contrib-socketcan",
+        "description": "node-red nodes for socketcan"
+    },
+    {
+        "name": "node-opcua-nodeset-auto-id",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-auto-id"
+    },
+    {
+        "name": "@tuya/connector",
+        "description": "A library for communicating with Tuya SaaS admin service, based on Axios."
+    },
+    {
+        "name": "mfrc522-rpi",
+        "description": "small JavaScript interface to control RFID reader MFRC522 with Raspberry-pi"
+    },
+    {
+        "name": "cylon-i2c",
+        "description": "Cylon.js drivers for i2c devices"
+    },
+    {
+        "name": "node-red-contrib-unifi-os",
+        "description": "Nodes to access UniFi data using endpoints and websockets"
+    },
+    {
+        "name": "nixt-sdk",
+        "description": "A javascript sdk for NiXT data platform. This can be used in node."
+    },
+    {
+        "name": "ds18b20",
+        "description": "Get temperature from the DS18B20 sensor connected to RPI"
+    },
+    {
+        "name": "serialport-v5",
+        "description": "fork with electron support of Node.js package to access serial ports. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!"
+    },
+    {
+        "name": "home-assistant-device-sdk",
+        "description": "SDK for Home Assistant. It reads your devices and generates HA TypeScript class to easily control devices and build automations"
+    },
+    {
+        "name": "sls3-legacy",
+        "description": "SLS3 Legacy - A fork of Serverless Framework v3"
+    },
+    {
+        "name": "@matter/nodejs-ws",
+        "description": "matter.js WebSocket support for Node.js"
+    },
+    {
+        "name": "node-opcua-nodeset-ia",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-ia"
+    },
+    {
+        "name": "nerdlang",
+        "description": "NerdLang. Simple yet efficient."
+    },
+    {
+        "name": "@ticos/miniprogram-sdk",
+        "description": "## 安装"
+    },
+    {
+        "name": "node-red-contrib-bigclown-ga",
+        "description": "This node enables you to better control the multifunctional industrial HARDWARIO IoT Kits with support for Google Assistant"
+    },
+    {
+        "name": "@semilimes/node-red-semilimes",
+        "description": "The new semilimes connector which integrates with the public API"
+    },
+    {
+        "name": "node-opcua-nodeset-adi",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-adi"
+    },
+    {
+        "name": "node-onvif-events",
+        "description": "An implementation of Node.js that detects the events of your camera that works with the onvif protocol"
+    },
+    {
+        "name": "sigfox-gcloud",
+        "description": "Framework for building a Sigfox server, based on Google Cloud Functions"
+    },
+    {
+        "name": "node-opcua-nodeset-gds",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-gds"
+    },
+    {
+        "name": "array-gpio",
+        "description": "array-gpio is low-level javascript library for Raspberry Pi using direct register access."
+    },
+    {
+        "name": "node-vscp",
+        "description": "Utility and constant package for VSCP"
+    },
+    {
+        "name": "rozu",
+        "description": "Webhook server for inbound & outbound events"
+    },
+    {
+        "name": "node-red-contrib-datacake-helpers",
+        "description": "Node-RED nodes to interact with the Datacake GraphQL API for KPIs and device stats. Includes MQTT sensor nodes, AI integration, PDF reports, email, and automation helpers."
+    },
+    {
+        "name": "node-red-contrib-google-smarthome",
+        "description": "Lets you control Node-Red via Google Assistant or the Google Home App"
+    },
+    {
+        "name": "@lvcabral/node-ssdp",
+        "description": "A node.js SSDP client and server library."
+    },
+    {
+        "name": "node-red-contrib-dht-sensor",
+        "description": "Node-red node for node-dht-sensor"
+    },
+    {
+        "name": "node-opcua-nodeset-machine-tool",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-machine-tool"
+    },
+    {
+        "name": "cylon-gpio",
+        "description": "Cylon module for General Purpose Input/Output (GPIO)"
+    },
+    {
+        "name": "@hap-server/hap-server",
+        "description": "Home automation system based on Homebridge."
+    },
+    {
+        "name": "sigfox-iot-cloud",
+        "description": "Framework for building a Sigfox server, based on AWS or Google Cloud"
+    },
+    {
+        "name": "node-red-contrib-escape-arc",
+        "description": "Node-RED nodes for ARC: subscribe to state/timer/objective events and send actions over Socket.IO."
+    },
+    {
+        "name": "bravia",
+        "description": "Node.js module for discovering and controlling Sony BRAVIA Android TVs"
+    },
+    {
+        "name": "nbp-bridge",
+        "description": "nbplus iot gateway client bridge"
+    },
+    {
+        "name": "@publicdomain/serverless",
+        "description": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more"
+    },
+    {
+        "name": "@serverless-rewrite/serverless",
+        "description": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more"
+    },
+    {
+        "name": "iopa-common-middleware",
+        "description": "iopa-common-middleware is a core set of iopa middleware for building self-hosted servers"
+    },
+    {
+        "name": "@upload-io/serverless",
+        "description": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more"
+    },
+    {
+        "name": "@makepro-x/makehaus-lib",
+        "description": "MakeHaus library required by Glue and node-red-contrib-makehaus"
+    },
+    {
+        "name": "@iotopen/node-lynx",
+        "description": "IoT Open Lynx API package for node"
+    },
+    {
+        "name": "skynet",
+        "description": "Meshblu IoT network and API"
+    },
+    {
+        "name": "ddc-ci-control-bridge",
+        "description": "Multi-protocol bridge for DDC/CI monitor control with MCP and MQTT support"
+    },
+    {
+        "name": "mcp-spi-adc",
+        "description": "MCP3002/4/8, MCP3202/4/8 and MCP3304 SPI analog to digital conversion"
+    },
+    {
+        "name": "@hybrone_repo/react-native-tuya",
+        "description": "React Native bindings for the Tuya SDK"
+    },
+    {
+        "name": "@eva-ics/framework",
+        "description": "JavaScript Framework for EVA ICS"
+    },
+    {
+        "name": "@matter/mqtt",
+        "description": "matter.js MQTT support"
+    },
+    {
+        "name": "node-opcua-nodeset-glass-flat",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-glass-flat"
+    },
+    {
+        "name": "@eclipse-ditto/ditto-javascript-client-dom",
+        "description": "DOM implementation of Eclipse Ditto JavaScript API to be used in browsers."
+    },
+    {
+        "name": "rmqtt-js",
+        "description": "High-performance MQTT server for Node.js built with Rust and Neon"
+    },
+    {
+        "name": "@iotile/iotile-cloud",
+        "description": "A typescript library for interfacing with the IOTile Cloud API"
+    },
+    {
+        "name": "@corvina/device-example",
+        "description": "Corvina Device Example based on @corvina/device-client"
+    },
+    {
+        "name": "node-red-contrib-coap",
+        "description": "CoAP support in Node-RED"
+    },
+    {
+        "name": "node-opcua-nodeset-machinery",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-machinery"
+    },
+    {
+        "name": "in3-asmjs",
+        "description": "WASM-Version of incubed build from C"
+    },
+    {
+        "name": "@lucadiba/switchbot-client",
+        "description": "A Node.js client for SwitchBot 1.1 APIs"
+    },
+    {
+        "name": "@crapougnax/influx-orm",
+        "description": "An InfluxDB ORM client"
+    },
+    {
+        "name": "@fridaythings/core",
+        "description": ""
+    },
+    {
+        "name": "matterbridge-webhooks",
+        "description": "Matterbridge webhooks plugin"
+    },
+    {
+        "name": "@constructorfleet/ultimate-govee",
+        "description": "Library for interacting with Govee devices written in Typescript."
+    },
+    {
+        "name": "falcon-ui",
+        "description": "ui components for falcon"
+    },
+    {
+        "name": "@corvina/device-client",
+        "description": "Corvina NodeJS Device Client"
+    },
+    {
+        "name": "@episensor/app-framework",
+        "description": "Opinionated TypeScript framework for structured vibecoding - building internal web and desktop apps with batteries included"
+    },
+    {
+        "name": "pico-framework",
+        "description": "A framework for building actor-based, people-centric systems. (pico = PersIstent Compute Objects)"
+    },
+    {
+        "name": "nectarjs_external",
+        "description": "Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries."
+    },
+    {
+        "name": "gcp-iot-provision",
+        "description": "Google Cloud function to provision a balena device to IoT Core"
+    },
+    {
+        "name": "bacnet-node",
+        "description": "The BACnet protocol library written in pure JavaScript."
+    },
+    {
+        "name": "node-red-habanero",
+        "description": "A visual tool for wiring the Internet of Things"
+    },
+    {
+        "name": "enocean-js",
+        "description": "open source java script implementation of the enocean protocol"
+    },
+    {
+        "name": "ttlock-sdk-js",
+        "description": "JavaScript port of the TTLock Android SDK"
+    },
+    {
+        "name": "matterbridge-xiaomi-roborock",
+        "description": "Matterbridge Xiaomi Roborock Plugin"
+    },
+    {
+        "name": "node-red-contrib-blynk-ws",
+        "description": "Node Red integration with Blynk App and Server through websockets"
+    },
+    {
+        "name": "node-opcua-nodeset-cnc",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-cnc"
+    },
+    {
+        "name": "openzwave",
+        "description": "Control a Z-Wave network via the Open Z-Wave library"
+    },
+    {
+        "name": "miot",
+        "description": "An IOT platform based on MQTT."
+    },
+    {
+        "name": "bigbang.io",
+        "description": "Create real-time applications and devices for the Internet of Things."
+    },
+    {
+        "name": "Thing.js",
+        "description": "Create thing objects with properties, actions, and events. Use for IoT devices or even living things like plants."
+    },
+    {
+        "name": "@nordicsemiconductor/cell-geolocation-helpers",
+        "description": "Helper functions for the cell geolocation feature"
+    },
+    {
+        "name": "node-red-contrib-enocean",
+        "description": "an enocean node for node-red"
+    },
+    {
+        "name": "serverless-google-cloudfunctions-awesome",
+        "description": "Provider plugin for the Serverless Framework v1.x which adds support for Google Cloud Functions."
+    },
+    {
+        "name": "fostrom",
+        "description": "Fostrom's Official Device SDK for JS. Fostrom (https://fostrom.io) is an IoT Cloud Platform."
+    },
+    {
+        "name": "node-red-contrib-particle",
+        "description": "Node-RED node to connect to Particle devices. Used to publish Events, call Functions, read Variables or listen to Server-Sent Events (SSEs)"
+    },
+    {
+        "name": "clearblade",
+        "description": "ClearBlade NOVI SDK for Node.js."
+    },
+    {
+        "name": "node-opcua-nodeset-commercial-kitchen-equipment",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-commercial-kitchen-equipment"
+    },
+    {
+        "name": "in3-wasm",
+        "description": "WASM-Version of incubed build from C"
+    },
+    {
+        "name": "meteiot",
+        "description": "IOT communication framework for eco."
+    },
+    {
+        "name": "dps-keygen",
+        "description": "Helper tool to create master and device GroupSAS keys / create connection string"
+    },
+    {
+        "name": "@eva-ics/webengine",
+        "description": "EVA ICS HMI Web Engine"
+    },
+    {
+        "name": "node-red-contrib-hal2",
+        "description": "A set of nodes to help with basic home automation logic"
+    },
+    {
+        "name": "@aiknow/iot-link-nodes",
+        "description": "Collection of Node-RED nodes tailored for C-LAB IoT-LINK industrial gateway."
+    },
+    {
+        "name": "cylon-firmata",
+        "description": "Cylon module for Arduino and other microcontrollers using the Firmata protocol"
+    },
+    {
+        "name": "@airiot/devtool",
+        "description": "AIRIOT平台前端开发工具"
+    },
+    {
+        "name": "node-red-contrib-tplink",
+        "description": "A collection of Node-RED nodes for TP-Link smart-home devices."
+    },
+    {
+        "name": "nitrogen-reactor",
+        "description": "This module adds support for reactorCommand and reactorStatus messages. These messages are used to control a Nitrogen reactor. It also provides the ReactorManager class for interpreting message streams and driving the attached reactor. This project is by "
+    },
+    {
+        "name": "@kaaiot/services",
+        "description": "Type definitions for KaaIoT platform REST API service communication"
+    },
+    {
+        "name": "wia",
+        "description": "Node.js SDK for Wia"
+    },
+    {
+        "name": "iot-client",
+        "description": "IOT client implementation with an extensible architecture for multiple sensors"
+    },
+    {
+        "name": "qcloud-iot-panel-component",
+        "description": "腾讯连连开发面板组件"
+    },
+    {
+        "name": "node-opcua-nodeset-machine-vision",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-machine-vision"
+    },
+    {
+        "name": "arduino-iot-js",
+        "description": "JS module providing Arduino Create IoT Cloud Connection"
+    },
+    {
+        "name": "react-vrpc",
+        "description": "React wrapper around the vrpc library"
+    },
+    {
+        "name": "@droplit/sdk",
+        "description": "Give your Node and Web apps instant cloud control"
+    },
+    {
+        "name": "ething-js",
+        "description": "ething javascript library"
+    },
+    {
+        "name": "tsm-react-native-mqtt",
+        "description": "MQTT client for React Native"
+    },
+    {
+        "name": "@blockbax/node-red-contrib-blockbax",
+        "description": "A set of Node-RED nodes to interact with the Blockbax Platform"
+    },
+    {
+        "name": "node-red-contrib-simple-aws",
+        "description": "A simple wrapper for all AWS services"
+    },
+    {
+        "name": "node-opcua-nodeset-robotics",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-robotics"
+    },
+    {
+        "name": "mcp9808-temperature-sensor",
+        "description": "MCP9808 I2C temperature sensor"
+    },
+    {
+        "name": "@brewnode/server",
+        "description": "Comprehensive Node.js backend server for brewery automation and monitoring with BrewNode hardware integration"
+    },
+    {
+        "name": "digitaltwin-core",
+        "description": "Minimalist framework to collect and handle data in a Digital Twin project"
+    },
+    {
+        "name": "cdk-aws-iot-thing-certificate-policy-dev",
+        "description": "Creates an AWS IoT thing, certificate, policy, and associates the three together"
+    },
+    {
+        "name": "@ifp-software/node-red-contrib-oee-ai-connector",
+        "description": "Easily connect your production machines to oee.ai – The Industry 4.0 solution for OEE optimization."
+    },
+    {
+        "name": "@frangoteam/fuxa-min",
+        "description": "Web-based Process Visualization (SCADA/HMI/Dashboard) software"
+    },
+    {
+        "name": "iot-coap",
+        "description": "IoT CoAP Framework, A Internet Of Things Framework of CoAP Protocol"
+    },
+    {
+        "name": "react-native-serial-weight-scale",
+        "description": "A React Native module for interfacing with serial weight scales"
+    },
+    {
+        "name": "node-red-contrib-vban",
+        "description": "Nodes to interact with vban protocol"
+    },
+    {
+        "name": "@leonardojc/capacitor-serial-port",
+        "description": "Enhanced Capacitor plugin for serial port communication on Android devices with improved byte handling and ISO-8859-1 encoding support"
+    },
+    {
+        "name": "ts-bacnet",
+        "description": "The BACnet protocol library written in pure JavaScript."
+    },
+    {
+        "name": "node-red-contrib-ds18b20-sensor",
+        "description": "Node-red node to connect DS18B20 sensors"
+    },
+    {
+        "name": "fiip",
+        "description": "Fast Internet Interconnection Protocol"
+    },
+    {
+        "name": "node-opcua-nodeset-pack-ml",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-pack-ml"
+    },
+    {
+        "name": "@lakutata/core",
+        "description": "Lakutata Framework Core"
+    },
+    {
+        "name": "@pajn/node-tradfri-client",
+        "description": "Library to talk to IKEA Trådfri Gateways without external binaries"
+    },
+    {
+        "name": "node-opcua-nodeset-machinery-process-values",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-machinery-process-values"
+    },
+    {
+        "name": "node-red-contrib-gpsd",
+        "description": "A GPSd node for Node-RED"
+    },
+    {
+        "name": "gip",
+        "description": "Get your public IPv4 address"
+    },
+    {
+        "name": "@torpadev/orpa-node-red",
+        "description": "A node-red wrapper for RPA"
+    },
+    {
+        "name": "node-opcua-nodeset-ijt",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-ijt"
+    },
+    {
+        "name": "mariinsky",
+        "description": "CSUN ASME Arduino Integrations (Spring 2017), PS4 DualShock Edition"
+    },
+    {
+        "name": "node-red-contrib-huemagic-fork",
+        "description": "Philips Hue node to control bridges, lights, groups, scenes, rules, taps, tap dial, switches, buttons, motion sensors, temperature sensors and Lux sensors using Node-RED."
+    },
+    {
+        "name": "aws-iot-device-sdk-browser",
+        "description": "AWS IoT Node.js SDK for Embedded Devices"
+    },
+    {
+        "name": "squeezer-cli",
+        "description": "Build serverless dApps"
+    },
+    {
+        "name": "node-opcua-nodeset-woodworking",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-woodworking"
+    },
+    {
+        "name": "tellojs-sdk30",
+        "description": "async based library to be able to control de dji tello drone"
+    },
+    {
+        "name": "node-red-contrib-nomos",
+        "description": "nomos system Node-RED Connector"
+    },
+    {
+        "name": "@ilo-home/react-native-tuya",
+        "description": "React Native bindings for the Tuya SDK"
+    },
+    {
+        "name": "@tradle/iot-message",
+        "description": "encode/decode Tradle Iot message"
+    },
+    {
+        "name": "homebridge-growatt-inversor",
+        "description": "Plugin Homebridge para monitorar inversores solares Growatt no Apple HomeKit"
+    },
+    {
+        "name": "melcloud-api",
+        "description": "A simple and intuitive Node.js client for the MELCloud API to control Mitsubishi air conditioning devices"
+    },
+    {
+        "name": "@yesbotics/simple-serial-protocol-node",
+        "description": "General Purpose Library for the communication between Node.js applications and Arduino devices. Powered by the usage of resource-efficient and microcontroller-friendly Primitive Dataypes."
+    },
+    {
+        "name": "@cloudtea/iot-shadow",
+        "description": "Cloudtea IOT Protocol Parser and Composer."
+    },
+    {
+        "name": "node-opcua-units",
+        "description": "pure nodejs OPCUA SDK - module units"
+    },
+    {
+        "name": "@arces-wot/sanjs",
+        "description": "API to interact with Sensor Area Network protocol"
+    },
+    {
+        "name": "adaptorex",
+        "description": "Connect all your live interactive storytelling devices and software"
+    },
+    {
+        "name": "rpi-led-matrix",
+        "description": "Node.js/Typescript bindings for hzeller/rpi-rgb-led-matrix"
+    },
+    {
+        "name": "@ngotientan/react-native-tuya",
+        "description": "React Native bindings for the Tuya SDK"
+    },
+    {
+        "name": "@teps/serverless",
+        "description": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more"
+    },
+    {
+        "name": "node-red-contrib-pi-plates",
+        "description": "control Pi-Plates boards from Node-RED"
+    },
+    {
+        "name": "@volst/react-native-tuya",
+        "description": "React Native bindings for the Tuya SDK"
+    },
+    {
+        "name": "homebridge-dreame-vacuum",
+        "description": "Homebridge plugin for Dreame vacuum cleaners with support for room cleaning, zones, and more"
+    },
+    {
+        "name": "evrythng",
+        "description": "Official Javascript SDK for the EVRYTHNG API."
+    },
+    {
+        "name": "node-red-contrib-dynamic-dimmer",
+        "description": "A dimmer node for Node-RED"
+    },
+    {
+        "name": "archmage-client",
+        "description": "Socket & session classes for connecting to an ARCHMAGE server"
+    },
+    {
+        "name": "@dojot/dojot-module",
+        "description": "A library that provides utilities and methods for dojot"
+    },
+    {
+        "name": "ubidots-nodered",
+        "description": "NodeRED node to post data on Ubidots using MQTT."
+    },
+    {
+        "name": "react-native-mqtt-angelos3lex",
+        "description": "MQTT client for react-native"
+    },
+    {
+        "name": "forwarder-service",
+        "description": "Creates forwarders and device subscriptions for forwarders"
+    },
+    {
+        "name": "@alteriom/painlessmesh",
+        "description": "painlessMesh is a user-friendly library for creating mesh networks with ESP8266 and ESP32 devices. This Alteriom fork includes additional packages for sensor data (SensorPackage), device commands (CommandPackage), and status monitoring (StatusPackage). It"
+    },
+    {
+        "name": "nitrogen-camera",
+        "description": "This module adds support for cameraCommand and cameraStatus messages to a Nitrogen application or service.  It also provides the CameraManager class for interpreting message streams and driving the attached device."
+    },
+    {
+        "name": "node-opcua-nodeset-padim",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-padim"
+    },
+    {
+        "name": "forge-dataviz-iot-data-modules",
+        "description": "IoT data modules used by https://github.com/Autodesk-Forge/forge-dataviz-iot-reference-app"
+    },
+    {
+        "name": "@eclipse-ditto/ditto-javascript-client-node",
+        "description": "Node.js(r) implementation of Eclipse Ditto JavaScript API."
+    },
+    {
+        "name": "home-mcp",
+        "description": "Home Assistant MCP Server - A Model Context Protocol server for smart home integration"
+    },
+    {
+        "name": "node-red-contrib-iobroker",
+        "description": "Node-RED nodes for ioBroker integration via WebSocket. Provides input, output, get, object management, historical data access, and live log monitoring capabilities."
+    },
+    {
+        "name": "aiota",
+        "description": "Another Internet of Things Architecture (AIoTA)"
+    },
+    {
+        "name": "@tiagfernandes/serialport-gsm",
+        "description": "Serialport implementation for GSM commands (send text/flash messages, read, etc.)"
+    },
+    {
+        "name": "bitdog-client",
+        "description": "Monitor and control your IoT devices."
+    },
+    {
+        "name": "ioriver-telldus",
+        "description": "Ioriver plugin for Telldus Local API "
+    },
+    {
+        "name": "mqtt-file-transfer",
+        "description": "MQTT file transfer library with progress tracking, checksum validation and simple receiver/transmitter APIs."
+    },
+    {
+        "name": "@iotile/iotile-common",
+        "description": "Common utilities for IoTile Packages and Applications"
+    },
+    {
+        "name": "iopa-http",
+        "description": "API-first Hypertext Transfer Protocol (HTTP) transport for the Internet of Things (IoT), based on the Internet of Protocols Alliance (IOPA) specification"
+    },
+    {
+        "name": "@eventmsg/transport-webble",
+        "description": "EventMsgV3 Web Bluetooth transport for browser-based communication with ESP32 devices"
+    },
+    {
+        "name": "@eventmsg/core",
+        "description": "EventMsgV3 TypeScript library - Core protocol implementation with transport abstraction"
+    },
+    {
+        "name": "react-native-smartconfig-lw",
+        "description": "React native ESP8266 smartconfig module"
+    },
+    {
+        "name": "ds-serverless",
+        "description": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more"
+    },
+    {
+        "name": "forge-dataviz-iot-react-components",
+        "description": "A React Component Library used by https://github.com/Autodesk-Forge/forge-dataviz-iot-reference-app"
+    },
+    {
+        "name": "mqtt-dispatcher",
+        "description": "Node.js message dispatcher for MQTT"
+    },
+    {
+        "name": "@matter.js/nodejs",
+        "description": "Node.js platform support for matter.js"
+    },
+    {
+        "name": "node-red-contrib-netatmo",
+        "description": "Connect to Netatmo devices.  See https://netatmo.com, https://dev.netatmo.com/apidocumentation"
+    },
+    {
+        "name": "node-mysensor",
+        "description": "MySensor serial gateway communication interface for Nodejs"
+    },
+    {
+        "name": "@iiot2k/gpiox",
+        "description": "Input/Output on any gpio library"
+    },
+    {
+        "name": "alteriom-ebyte-lora-e220",
+        "description": "Arduino library for EByte LoRa E220 LLCC68 devices with GitHub Copilot and MCP integration. Supports 5-10km range communication."
+    },
+    {
+        "name": "homie-dashboard",
+        "description": "IoT dashboard for Homie devices"
+    },
+    {
+        "name": "@xbibzlibrary/espwebjs",
+        "description": "Advanced ESP Web Flasher Library - Powerful ESP8266/ESP32 Flasher dengan Web Serial API, Auto-Detection, dan Multi-Protocol Support"
+    },
+    {
+        "name": "iot-vue2-component",
+        "description": "vue2,element"
+    },
+    {
+        "name": "@dojot/iotagent-nodejs",
+        "description": "Base iotagent functionality for dojot"
+    },
+    {
+        "name": "@iotbricks/bricker-cli",
+        "description": "Schneider IoT Bricks CLI"
+    },
+    {
+        "name": "evrythng-extended",
+        "description": "Javascript SDK to communicate with EVRYTHNG REST API"
+    },
+    {
+        "name": "infinimesh-proto",
+        "description": "Buf generated gRPC and Connect API "
+    },
+    {
+        "name": "@iotflows/iotflows-remote-access",
+        "description": "IoTFlows Remote Access and health monitoring tool."
+    },
+    {
+        "name": "node-opcua-nodeset-machinery-result",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-machinery-result"
+    },
+    {
+        "name": "node-opcua-service-register-server",
+        "description": "pure nodejs OPCUA SDK - module -service-register-server"
+    },
+    {
+        "name": "@matter.js/general",
+        "description": "Non-Matter support for Matter.js"
+    },
+    {
+        "name": "node-red-contrib-iot-controlcenter",
+        "description": "Data exchange from node-red to control center"
+    },
+    {
+        "name": "node-red-contrib-timeouttrigger",
+        "description": "This node will pipe any received `msg` to its output. At the same time a time-out interval is set. Upon time-out a defined payload is sent. Each new message will reset the time-out."
+    },
+    {
+        "name": "iglass-nodes",
+        "description": "Node-RED contribution package with nodes for interaction with iGlass Automation blocks."
+    },
+    {
+        "name": "spacebunny",
+        "description": "NodeJS client library for Space Bunny IoT platform"
+    },
+    {
+        "name": "mqtt-socket.io-gateway",
+        "description": "A robust MQTT to Socket.IO gateway for bidirectional IoT messaging"
+    },
+    {
+        "name": "@coremarine/norsub-emru",
+        "description": "Library to work with eMRU devices of NorSub company"
+    },
+    {
+        "name": "@hawkingnetwork/react-native-mqtt",
+        "description": "MQTT client for react-native"
+    },
+    {
+        "name": "iot-solutions",
+        "description": "Azure IoT Solutions cross platform command line tool"
+    },
+    {
+        "name": "waliyun",
+        "description": "ALL Aliyun APIs"
+    },
+    {
+        "name": "@simlify/simlify",
+        "description": "[![CircleCI](https://circleci.com/gh/simlify/simlify/tree/master.svg?style=svg)](https://circleci.com/gh/simlify/simlify/tree/master)\r [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com"
+    },
+    {
+        "name": "@lucavb/shellies-ds9",
+        "description": "Handles communication with the next generation of Shelly devices"
+    },
+    {
+        "name": "lumi-aqara",
+        "description": "Control your Xiaomi Smart Home devices with this Lumi Aqara library"
+    },
+    {
+        "name": "@cuppet/core",
+        "description": "Core testing framework components for Cuppet - BDD framework based on Cucumber and Puppeteer"
+    },
+    {
+        "name": "@edgeberry/device-node-red-contrib",
+        "description": "Node-RED node to interact with the Edgeberry Device Software over DBus"
+    },
+    {
+        "name": "cot-lib",
+        "description": "Easily consume the City of Things platform data"
+    },
+    {
+        "name": "node-opcua-end2end-test",
+        "description": "pure nodejs OPCUA SDK - module -end2end-test"
+    },
+    {
+        "name": "node-raspistill",
+        "description": "Node wrapper for taking photos using Raspberry Pi raspistill app."
+    },
+    {
+        "name": "@bifravst/rsrp-bar",
+        "description": "React component to render an RSRP bar or a failover icon in case the reported value is not valid"
+    },
+    {
+        "name": "node-vscp-tcp",
+        "description": "VSCP tcp/ip interface routines for node.js"
+    },
+    {
+        "name": "esphome-client",
+        "description": "A nearly complete implementation of the ESPHome client protocol with encryption support."
+    },
+    {
+        "name": "iotjs-express",
+        "description": "Basic reimplementation of Express.js for IoT.js or Node"
+    },
+    {
+        "name": "mhub",
+        "description": "Simple, flexible message hub using websockets"
+    },
+    {
+        "name": "@matter.js/main",
+        "description": "Matter.js main entrypoint"
+    },
+    {
+        "name": "iopa-mqtt",
+        "description": "API-first, full-stack, OASIS Message Queuing Telemetry Transport (MQTT) protocol server for the Internet of Things (IoT), based on the Internet of Protocols Alliance (IOPA) specification"
+    },
+    {
+        "name": "iobroker.digitalstrom",
+        "description": "Support for Digitalstrom devices vis DSS"
+    },
+    {
+        "name": "node-edge",
+        "description": "node-edge is a tcp communication library for edge computing using local area networking."
+    },
+    {
+        "name": "@fastybird/accounts-module",
+        "description": "FastyBird IoT accounts module for application accounts & access management"
+    },
+    {
+        "name": "node-opcua-nodeset-amb",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-amb"
+    },
+    {
+        "name": "cylon-intel-iot",
+        "description": "Cylon module for Intel Joule, Edison, and Galileo IoT platforms"
+    },
+    {
+        "name": "iot-server",
+        "description": "This is a simple server for IoT devices. It stores data from devices and provides a simple API for getting data."
+    },
+    {
+        "name": "@matter.js/nodejs-ble",
+        "description": "Matter BLE support for node.js"
+    },
+    {
+        "name": "slsplus",
+        "description": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more"
+    },
+    {
+        "name": "iotdatamodel",
+        "description": "Generic data model for Internet of Things"
+    },
+    {
+        "name": "webthing-iotjs",
+        "description": "HTTP Web Thing implementation"
+    },
+    {
+        "name": "biot-core",
+        "description": "```sh\r $ npm install\r $ cd examples\r $ node balance.js\r ```"
+    },
+    {
+        "name": "@uhuru/node-red",
+        "description": "Low-code programming for event-driven applications"
+    },
+    {
+        "name": "@iotflows/iotflows-smart-widget",
+        "description": "IoTFlows Smart Widget Node Module."
+    },
+    {
+        "name": "rockeet",
+        "description": "Rockeet SDK"
+    },
+    {
+        "name": "@tago-io/builder",
+        "description": "TagoIO Builder Node.JS"
+    },
+    {
+        "name": "bme280",
+        "description": "I2C Driver for the BME280 humidity, pressure and temperature sensor"
+    },
+    {
+        "name": "@cloudxs/cdk-iot-wireless",
+        "description": "This package contains AWS CDK L2 constructs for IoT Wireless."
+    },
+    {
+        "name": "microgear",
+        "description": "NETPIE client library"
+    },
+    {
+        "name": "@matter.js/shell.js",
+        "description": "Shell app for Matter controller"
+    },
+    {
+        "name": "cylon-sphero",
+        "description": "Cylon module for Sphero robot"
+    },
+    {
+        "name": "mm_framework",
+        "description": "这是超级美眉服务端框架，用于快速构建应用。"
+    },
+    {
+        "name": "senzflow-sdk.js",
+        "description": "senzflow sdk for node.js"
+    },
+    {
+        "name": "@vertics/ts-bacnet",
+        "description": "The BACnet protocol library written in pure JavaScript."
+    },
+    {
+        "name": "wotcity.io",
+        "description": "Web of Things Framework by WoT.City"
+    },
+    {
+        "name": "windlog-types",
+        "description": "Library for datatype definitions which can be used as a bridge between front- and backend code"
+    },
+    {
+        "name": "await-mqtt",
+        "description": "🔄 Promise-based async/await wrapper for MQTT.js with React hooks"
+    },
+    {
+        "name": "rn-wappsto-networks",
+        "description": "React Native app for interacting with IoT devices in Wappsto Platform."
+    },
+    {
+        "name": "node-opcua-nodeset-isa-95-jobcontrol-v-2",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-isa-95-jobcontrol-v-2"
+    },
+    {
+        "name": "node-red-contrib-natsio",
+        "description": "Nats.io protocol with Node-RED"
+    },
+    {
+        "name": "@matter.js/protocol",
+        "description": "Low-level APIs for Matter interaction"
+    },
+    {
+        "name": "node-red-contrib-sentilo",
+        "description": "A Sentilo/Thingtia platform server nodes collection for node-red"
+    },
+    {
+        "name": "node-red-contrib-ui-countdown-timer-switch",
+        "description": "A ui countdown timer switch for the Node-RED Dashboard"
+    },
+    {
+        "name": "iot-device-sdk",
+        "description": "Common Library"
+    },
+    {
+        "name": "@matter.js/react-native",
+        "description": "Experimental React Native support for matter.js"
+    },
+    {
+        "name": "cylon-leapmotion",
+        "description": "Cylon module for the Leap Motion"
+    },
+    {
+        "name": "@thingweb/node-red-node-wot",
+        "description": "Web of Things nodes for Node-RED using node-wot"
+    },
+    {
+        "name": "iot-dashboard",
+        "description": "A generic dashboard application based on JavaScript, HTML and CSS. http://iot-dashboard.org"
+    },
+    {
+        "name": "node-red-contrib-blynk-iot",
+        "description": "Node Red integration with new Blynk IoT Platform"
+    },
+    {
+        "name": "node-red-contrib-simple-bu",
+        "description": "A Node-RED node that buffers and transmits data reliably with local file-based ring buffer storage."
+    },
+    {
+        "name": "netbeast-cli",
+        "description": "Netbeast OS dashboard, IoT apps manager"
+    },
+    {
+        "name": "beebotte",
+        "description": "Beebotte is an open cloud platform for real time connected objects. This package provides the implementation of Beebotte API in nodejs."
+    },
+    {
+        "name": "@smappee/node-red-contrib-smappee",
+        "description": "Smappee Node-RED contains Smappee nodes and example flows"
+    },
+    {
+        "name": "starbian",
+        "description": "wator star edge"
+    },
+    {
+        "name": "xbmq",
+        "description": "XBee to MQTT gateway"
+    },
+    {
+        "name": "bluetooth-terminal",
+        "description": "Class that enables bidirectional serial communication between web browsers and Bluetooth Low Energy modules via the Web Bluetooth API"
+    },
+    {
+        "name": "mqtt2opcua",
+        "description": "Bi-directional MQTT OPCUA bridge"
+    },
+    {
+        "name": "homebridge-tinxy",
+        "description": "Homebridge plugin for Tinxy smart devices."
+    },
+    {
+        "name": "xpiles",
+        "description": "A cross-compiler for nodejs when disk space is at a premium"
+    },
+    {
+        "name": "@matter.js/model",
+        "description": "Matter data model"
+    },
+    {
+        "name": "node-opcua-nodeset-machinery-jobs",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-machinery-jobs"
+    },
+    {
+        "name": "node-red-contrib-viseo-blink",
+        "description": "VISEO Bot Maker - Blink for Home"
+    },
+    {
+        "name": "node-opcua-nodeset-ijt-base",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-ijt-base"
+    },
+    {
+        "name": "@smappee/node-red-contrib-smappee-device",
+        "description": "Collection of device nodes that provide input"
+    },
+    {
+        "name": "@halsystems/red-bacnet",
+        "description": "NodeRED BACnet IP client"
+    },
+    {
+        "name": "smart-iot",
+        "description": "smart-iot"
+    },
+    {
+        "name": "node-red-contrib-tapo-hub",
+        "description": "Node-RED nodes for TP-Link Tapo H100 hub - control switches (S220/S210) and read sensors (T310/T315)"
+    },
+    {
+        "name": "node-opcua-nodeset-ijt-tightening",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-ijt-tightening"
+    },
+    {
+        "name": "node-red-contrib-sox",
+        "description": "A set of nodes using the SOX IoT protocol"
+    },
+    {
+        "name": "signalk-virtual-weather-sensors",
+        "description": "Signal K plugin that provides comprehensive weather data from AccuWeather API with calculated wind values and NMEA2000-compatible environmental measurements"
+    },
+    {
+        "name": "@matter.js/types",
+        "description": "Definitions for Matter application"
+    },
+    {
+        "name": "silk-cli",
+        "description": "Silk Developer CLI"
+    },
+    {
+        "name": "@redplc/node-red-redplc",
+        "description": "Node-Red nodes for the realization of Software-Plc with Ladder-Logic"
+    },
+    {
+        "name": "@gtiot/iot-client",
+        "description": "云组态平台前端"
+    },
+    {
+        "name": "@coaty/core",
+        "description": "Collaborative IoT Framework in JavaScript for Node.js and browsers"
+    },
+    {
+        "name": "iot-433mhz",
+        "description": "Node server to handle 433mhz outlets and sensors."
+    },
+    {
+        "name": "node-red-contrib-vscp-tcp",
+        "description": "![VSCP-LOGO](./images/logo_100.png)"
+    },
+    {
+        "name": "jstiip",
+        "description": "Implementation of protocol TIIP"
+    },
+    {
+        "name": "je_nfc_sdk",
+        "description": "A comprehensive React Native SDK for NFC-based device control and communication"
+    },
+    {
+        "name": "node-red-contrib-home-assistant-ws",
+        "description": "Node Red integration with Home Assistant through websockets"
+    },
+    {
+        "name": "@matter.js/node",
+        "description": "API for building Matter nodes"
+    },
+    {
+        "name": "homie-server",
+        "description": "Server-part of Homie, an opinionated home automation system using MQTT"
+    },
+    {
+        "name": "@webarray/esphome-native-api",
+        "description": "TypeScript/Node.js client for ESPHome native API with encryption and deep sleep support"
+    },
+    {
+        "name": "@ibloat/homie-ts",
+        "description": "WIP implementation of the homie convention"
+    },
+    {
+        "name": "imt-mcp-server",
+        "description": "MCP Server for IMT user management with device control capabilities"
+    },
+    {
+        "name": "@bitpoolos/edge-uploader",
+        "description": "A module to push data to Bitpool."
+    },
+    {
+        "name": "homebridge-gira-client",
+        "description": "Homebridge Plugin für Gira Homeserver 4 mit automatischer Geräteerkennung über IoT REST API"
+    },
+    {
+        "name": "connect-nodes",
+        "description": "Node-RED contribution package with nodes for interaction with CONNECT Smart Home system and configure your own UI"
+    },
+    {
+        "name": "broadlink",
+        "description": "Library to communicate with Broadlink devices"
+    },
+    {
+        "name": "hsync",
+        "description": "client for hsync-server"
+    },
+    {
+        "name": "fiix-cmms-client",
+        "description": "Fiix CMMS Javascript Client"
+    },
+    {
+        "name": "smithtek-node-red-lora",
+        "description": "NodeRED nodes."
+    },
+    {
+        "name": "anniot-device",
+        "description": "Connect IoT devices to AnnIoT"
+    },
+    {
+        "name": "@zoho_iot/node-red-zoho-iot",
+        "description": "The Zoho IOT Plugin for Node-RED allows seamless integration with Zoho IOT devices, handling TLS certificates, security tokens, and device configurations to connect and communicate with your IoT devices on the Zoho IOT platform."
+    },
+    {
+        "name": "domotz-mcp",
+        "description": "MCP server for Domotz API and BMS (Building Management System) integration with IoT device monitoring"
+    },
+    {
+        "name": "node-red-contrib-homematic",
+        "description": "node-red node to control homematic devices"
+    },
+    {
+        "name": "aedes-preunsub",
+        "description": "Stream-based MQTT broker"
+    },
+    {
+        "name": "node-red-embedded-start",
+        "description": "Enables waiting for flows to have started for embedded Node-RED applications"
+    },
+    {
+        "name": "node-red-contrib-mystrom",
+        "description": "myStrom nodes to controll all myStrom devices within Node-RED"
+    },
+    {
+        "name": "serverless-azure-functions-brkfst",
+        "description": "Provider plugin for the Serverless Framework v1.x which adds support for Azure Functions."
+    },
+    {
+        "name": "echidnalink-lib",
+        "description": "Library for connecting echidna boards with firmata to web application running in a web browser"
+    },
+    {
+        "name": "mist-api",
+        "description": "Mist API wrapper for node. Used for accessing all Mist APIs."
+    },
+    {
+        "name": "linksphere-mcp",
+        "description": "A Model Context Protocol (MCP) server for discovering and managing nearby devices (Bluetooth, WiFi, USB, etc.) with REAL device scanning"
+    },
+    {
+        "name": "@plasma2450/node-red-contrib-homekit-bridged",
+        "description": "Node-RED nodes to simulate Apple HomeKit devices. Based on node-red-contrib-homekit, but with support for bridged devices."
+    },
+    {
+        "name": "@mobiletoll/serverless",
+        "description": "Modified version for GoToll."
+    },
+    {
+        "name": "paho.mqtt.js",
+        "description": "The Paho JavaScript Client is a browser-based library that uses WebSockets to connect to an MQTT server."
+    },
+    {
+        "name": "node-opcua-nodeset-io-link",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-io-link"
+    },
+    {
+        "name": "node-red-contrib-hapcan",
+        "description": "Set of nodes for HAPCAN (home automation project based on CAN bus)."
+    },
+    {
+        "name": "cylon-spark",
+        "description": "Cylon adaptor for the Particle Core & Photon device"
+    },
+    {
+        "name": "homebridge-aws-iot",
+        "description": "Synchronizes Homebridge Devices with AWS IOT device shadows, which enables Alexa and other platforms."
+    },
+    {
+        "name": "iopa-mqtt-packet",
+        "description": "API-first OASIS Message Queuing Telemetry Transport (MQTT) packet transport for the Internet of Things (IoT), based on the Internet of Protocols Alliance (IOPA) specification"
+    },
+    {
+        "name": "@soluzioni-futura/aws-mqtt-client-utils",
+        "description": "## Quick start Install the package ```sh $ npm i @soluzioni-futura/aws-mqtt-client-utils ```"
+    },
+    {
+        "name": "node-red-contrib-bravia",
+        "description": "A Node-RED node to control Sony BRAVIA Android TVs."
+    },
+    {
+        "name": "@fastybird/smart-panel-backend",
+        "description": "Powerful backend for administrating and integrating the FastyBird IoT Smart Panel"
+    },
+    {
+        "name": "nitrogen-switch",
+        "description": "This module adds support for switchCommand and switchStatus messages to a Nitrogen application or service.  It also provides the SwitchManager class for interpreting message streams and driving the attached device."
+    },
+    {
+        "name": "@fastybird/smart-panel-admin",
+        "description": "Powerful application for administrating and integrating the FastyBird IoT Smart Panel"
+    },
+    {
+        "name": "@hardwario/node-red-contrib-hardwario-voice",
+        "description": "This node enables you to better control the multifunctional industrial HARDWARIO IoT Kits with support for Google Assistant"
+    },
+    {
+        "name": "node-red-contrib-broadlink",
+        "description": "Управление устройствами Broadlink"
+    },
+    {
+        "name": "bitdog-hub",
+        "description": "Bitdog Home Security and Automation"
+    },
+    {
+        "name": "mojo-plugin-mqtt-helper",
+        "description": "Adds an MQTT client helper to mojo.js"
+    },
+    {
+        "name": "node-red-contrib-mnubo",
+        "description": "Mnubo"
+    },
+    {
+        "name": "@clarify/api",
+        "description": "Access Clarify.io’s API with ease using our API client"
+    },
+    {
+        "name": "fasterbase-client-sdk",
+        "description": "OpenAPI client for Fasterbase"
+    },
+    {
+        "name": "nehoid",
+        "description": "Advanced unique ID generation utility with multi-layer encoding, collision detection, and context-aware features"
+    },
+    {
+        "name": "mnubo-sdk",
+        "description": "mnubo SmartObjects JavaScript client"
+    },
+    {
+        "name": "lwm2m",
+        "description": "Library for developing servers and client of OMA Lightweight M2M"
+    },
+    {
+        "name": "@iak-extra/scene-composer-extra",
+        "description": "Extra Libraries for IoT App Kit Scene Composer"
+    },
+    {
+        "name": "@smappee/node-red-contrib-smappee-ev",
+        "description": "Electric vehicle nodes"
+    },
+    {
+        "name": "sonoff-switch-sdk",
+        "description": "SDK for controlling Sonoff switches via local API"
+    },
+    {
+        "name": "adafruit-io",
+        "description": "Adafruit IO Client, Local Server, & io.adafruit.com TLS Tunnel"
+    },
+    {
+        "name": "smithtek-nodered",
+        "description": "NodeRED node to post data on SmithTek using MQTT."
+    },
+    {
+        "name": "@marozz/node-red-contrib-ui-time-scheduler",
+        "description": "A ui time scheduler for the Node-RED Dashboard, forked "
+    },
+    {
+        "name": "cayennejs",
+        "description": "Cayenne API for Node.JS Library"
+    },
+    {
+        "name": "@jihuayu/aliyun-iot-sdk",
+        "description": "Aliyun Server Side IoT SDK for Node.js.（阿里云 IoT 服务端 SDK）"
+    },
+    {
+        "name": "@eva-ics/hmi-block_ui",
+        "description": "Block UI for EVA ICS"
+    },
+    {
+        "name": "node-red-contrib-alice-self-hosting",
+        "description": "Node-RED nodes to Yandex Alice devices in Self-Hosting"
+    },
+    {
+        "name": "@nec-baas/ssepush-node",
+        "description": "BaaS SSEPush Client for Node.js"
+    },
+    {
+        "name": "tinkerhub",
+        "description": "Connect your things together and tinker with them"
+    },
+    {
+        "name": "node-red-contrib-kolibri",
+        "description": "Node-RED nodes for connecting to a Kolibri Broker (e.g. HMS Hub)"
+    },
+    {
+        "name": "midway-socket",
+        "description": "midway framework for Socket"
+    },
+    {
+        "name": "silk",
+        "description": "Silk SDK"
+    },
+    {
+        "name": "ble-mesh-serial-interface-js",
+        "description": "An npm package for Node.js that provides an API to control a router node in a BLE mesh network via the serial port."
+    },
+    {
+        "name": "@bimdata/iot-viewer-plugin",
+        "description": "iot BIMData Viewer Plugin"
+    },
+    {
+        "name": "netbeast",
+        "description": "Resources for node.js wrapper"
+    },
+    {
+        "name": "node-red-contrib-google-home-notify",
+        "description": "Node-Red nodes for google-home-notify library. With this node you can cast any String (up to 200 chars) to any google cast device."
+    },
+    {
+        "name": "cylon-keyboard",
+        "description": "Cylon module for Keyboard"
+    },
+    {
+        "name": "@nec-baas/cli",
+        "description": "NEC Mobile Backend Platform Command Line Interface"
+    },
+    {
+        "name": "nectarjs_extern",
+        "description": "Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries."
+    },
+    {
+        "name": "redux-bluetooth",
+        "description": "Redux middleware to dispatch actions via bluetooth to a peripheral store"
+    },
+    {
+        "name": "itmp",
+        "description": "itmp js implementation"
+    },
+    {
+        "name": "cylon-joystick",
+        "description": "Cylon module for any HID joystick"
+    },
+    {
+        "name": "azure-iot-provision",
+        "description": "Azure Function to provision a balena device to IoT Hub"
+    },
+    {
+        "name": "smart-pinhole-workshop",
+        "description": "A nodeschool workshop to learn how smart (iot) things work."
+    },
+    {
+        "name": "iot-device-sdk-react",
+        "description": "Common Library"
+    },
+    {
+        "name": "@nordicsemiconductor/asset-tracker-cloud-device-ui-server",
+        "description": "Provides the server for device-ui to interact with the simulated device"
+    },
+    {
+        "name": "infiot-component-lcdtext",
+        "description": "A Vue.js project"
+    },
+    {
+        "name": "mqttalk",
+        "description": "Core MQTT modules for Senti.Cloud"
+    },
+    {
+        "name": "msgflo-hono",
+        "description": "Connect Eclipse Hono devices as MsgFlo participants"
+    },
+    {
+        "name": "node-red-contrib-automation-hat",
+        "description": "Node-RED nodes for the Pimoroni Automation HAT, pHAT and HAT Mini"
+    },
+    {
+        "name": "cylon-ble",
+        "description": "Cylon module for Bluetooth Low Energy (LE) peripherals"
+    },
+    {
+        "name": "node-red-contrib-ifttt",
+        "description": "A node-red node to connect to ifttt Maker channel"
+    },
+    {
+        "name": "@fastybird/ui-module",
+        "description": "FastyBird IoT module for managing visual components"
+    },
+    {
+        "name": "toi",
+        "description": "A tool for develop IoT project."
+    },
+    {
+        "name": "@isimnz/gpiox",
+        "description": "Raspberry Pi gpiox library - Now with TypeScript!\n Thank you so much to Derya Y.(AKA iiot2k) for creating the base javascript package"
+    },
+    {
+        "name": "node-red-contrib-alexa-virtual-smarthome",
+        "description": "Node Red Alexa Smarthome node"
+    },
+    {
+        "name": "node-red-contrib-vscp",
+        "description": "A collection of VSCP (Very Simple Control Protocol) nodes"
+    },
+    {
+        "name": "crmtest",
+        "description": "CRM Test is a Node.js test framework which calls Salesforce Rest API and create simple node.js scripts to perform different actions in salesforce. Currently CrmTest has a support of running in Amazon ec2 cloud. In this ReadMe the focus is to run CrmTest i"
+    },
+    {
+        "name": "node-silver",
+        "description": "A visual tool for wiring the Internet of Things"
+    },
+    {
+        "name": "browser-sdk",
+        "description": "javascript SDK for the lightelligence-platform"
+    },
+    {
+        "name": "ioriver",
+        "description": "Home automation bridge mainly for IMSE Ultra PLC/BAC"
+    },
+    {
+        "name": "@phygrid/phygrid-checkout",
+        "description": ""
+    },
+    {
+        "name": "ota-hub-reactjs",
+        "description": "ReactJS tools for building web apps to flash MCU devices such as esp32, brought to you by OTA Hub."
+    },
+    {
+        "name": "iobroker.bascloud",
+        "description": "bascloud"
+    },
+    {
+        "name": "@matter.js/examples",
+        "description": "Matter.js examples and reference implementations"
+    },
+    {
+        "name": "@cool-midway/iot",
+        "description": "cool-js.com iot模块"
+    },
+    {
+        "name": "sunnyportal-scraper",
+        "description": "Scrapes the Sunnyportal using headless chromium."
+    },
+    {
+        "name": "iotivity-node",
+        "description": "IoTivity bindings"
+    },
+    {
+        "name": "custom-serverless",
+        "description": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more"
+    },
+    {
+        "name": "node-opcua-nodeset-metal-forming",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-metal-forming"
+    },
+    {
+        "name": "node-vscp-type",
+        "description": "VSCP type constants"
+    },
+    {
+        "name": "remote-io",
+        "description": "remote control any io plugin via firmata"
+    },
+    {
+        "name": "node-enocean",
+        "description": "full implementation of the enocean protocol (ESP3 + EEP2.6)"
+    },
+    {
+        "name": "@tago-io/cli",
+        "description": "TagoIO Application CLI Node.JS"
+    },
+    {
+        "name": "@janart19/node-red-fusebox",
+        "description": "A collection of Fusebox-specific custom nodes for Node-RED"
+    },
+    {
+        "name": "hydrawise-api",
+        "description": "Library for accessing the Hydrawise API via the cloud or directly on the local network"
+    },
+    {
+        "name": "cylon-pebble",
+        "description": "Cylon.js adaptor/driver for the Pebble smartwatch"
+    },
+    {
+        "name": "iobroker.ekey",
+        "description": "Connects ekey with ioBroker"
+    },
+    {
+        "name": "homebridge-milight-hub",
+        "description": "Homebridge plugin for Milight Hub hosted on ESP8266"
+    },
+    {
+        "name": "@iiot2k/node-red-gpio",
+        "description": "Node-RED nodes for Raspberry Pi gpio"
+    },
+    {
+        "name": "react-mqtt-hooks",
+        "description": "React Hooks for MQTT"
+    },
+    {
+        "name": "node-red-contrib-dali-sensor",
+        "description": "Node-RED node for parsing DALI sensor data and outputting motion and lux"
+    },
+    {
+        "name": "node-red-contrib-ignoble",
+        "description": "ignoble is a noble node-red node allowing you to interact with your Bluetooth Low Energy devices"
+    },
+    {
+        "name": "imse-ultra-api",
+        "description": "Api for Abelko's IMSE Ultra family of BAC/BMS/PLC"
+    },
+    {
+        "name": "@oringnet/node-red-contrib-oring-paas",
+        "description": "Node-RED nodes for the ORing PaaS."
+    },
+    {
+        "name": "iot-sol",
+        "description": "Intel(r) IoT Services Orchestration Layer - HTML5 IDE + Node.js middleware to create and host distributed IoT Apps in minutes"
+    },
+    {
+        "name": "@iotflows/iotflows-remote-access-client",
+        "description": "https://iotflows.com"
+    },
+    {
+        "name": "node-red-contrib-iot4h",
+        "description": "Node Red nodes for programming education in IoT4H workshops."
+    },
+    {
+        "name": "cylon-raspi",
+        "description": "Cylon adaptor for Raspberry Pi"
+    },
+    {
+        "name": "vastra-radiator-valve",
+        "description": "Node.js library to query and configure Vastra's smart radiator valves."
+    },
+    {
+        "name": "thinqconnect",
+        "description": "ThinQ Connect Open SDK Nodejs"
+    },
+    {
+        "name": "tinkerforge-device-manager",
+        "description": "A node library to make connecting to and accessing Tinkerforge devices easier. Created at the University of Applied Sciences in Osnabrueck."
+    },
+    {
+        "name": "@fastybird/devices-module",
+        "description": "FastyBird IoT devices module for connectors & devices management & basic control logic"
+    },
+    {
+        "name": "@agilatech/bme280",
+        "description": "Use either I2C or SPI to drive the Bosch BME280 Pressure / Temperature / Humidity sensor"
+    },
+    {
+        "name": "cylon-crazyflie",
+        "description": "Cylon adaptor/drivers for Crazyflie nanocopter"
+    },
+    {
+        "name": "@signageos/front-applet-extension-nexmosphere",
+        "description": "Nexmosphere extension for signageOS Front Applet"
+    },
+    {
+        "name": "mqtthook",
+        "description": "It is a MQTT version of Webhook for IoT devices."
+    },
+    {
+        "name": "digs",
+        "description": "<img src=\"https://cldup.com/cgZ5ZK3h1n.png\" alt=\"digs logo\"/>"
+    },
+    {
+        "name": "nitrogen-sensor",
+        "description": "This module adds support for sensorCommand messages to a Nitrogen application or service.  It also provides the SensorManager class for interpreting message streams and driving the attached device."
+    },
+    {
+        "name": "corrently-iot-jquery",
+        "description": "JQuery Extension (Plugin) to bind IoT devices to a Corrently UI"
+    },
+    {
+        "name": "@iiot2k/gpiomon",
+        "description": "monitor changes on any gpio library"
+    },
+    {
+        "name": "mqtt-as-http",
+        "description": "this module make mqtt like http, you can request and wait response from any mqtt node"
+    },
+    {
+        "name": "@appliedminds/tcp",
+        "description": "Service wrapper to easily integrate TCP services"
+    },
+    {
+        "name": "@awearsolutions/node-red",
+        "description": "A visual tool for wiring the Internet of Things"
+    },
+    {
+        "name": "evrythng-hub",
+        "description": "Evrythng.js Hub plugin for transparent local Thng-Hub requests"
+    },
+    {
+        "name": "@jacobq/node-opcua-nodesets",
+        "description": "pure nodejs OPCUA SDK - module nodesets"
+    },
+    {
+        "name": "alibabacloud-iot-device-sdk",
+        "description": "alibabacloud iot device sdk"
+    },
+    {
+        "name": "node-red-contrib-snap4city-milestone",
+        "description": "Node-Red integration to communicate with Milestone XProtect VMS"
+    },
+    {
+        "name": "iobroker.gira-iot",
+        "description": "Integrate your Gira X1 or HomeServer"
+    },
+    {
+        "name": "evrythng-mqtt",
+        "description": "Evrythng.js MQTT plugin for MQTT real-time communication with EVRYTHNG API"
+    },
+    {
+        "name": "generator-azure-iot-edge-module",
+        "description": "Yeoman generator for Azure IoT Edge Node.js module"
+    },
+    {
+        "name": "pip-clients-positions-node",
+        "description": "Node.js client sdk for positions microservice"
+    },
+    {
+        "name": "iosignal",
+        "description": "iosignal"
+    },
+    {
+        "name": "node-red-contrib-tcp-ping",
+        "description": "Node-Red node for tcpie library. With this node you can test your TCP connections on a specific ip adress"
+    },
+    {
+        "name": "@lab5e/data-mapper-chain",
+        "description": "Simple data mapper library meant to be run in browser to ease data transformation for IoT devices in JS"
+    },
+    {
+        "name": "node-red-contrib-octocore",
+        "description": "OctoCore implementation for node-red"
+    },
+    {
+        "name": "morphbridge",
+        "description": "Resilient mesh network implementation using zmq sockets for inter protocol communication bridging."
+    },
+    {
+        "name": "dnr-editor",
+        "description": "Flows editor for Distributed Node-RED"
+    },
+    {
+        "name": "node-red-contrib-tetronik-daks-iot",
+        "description": "Send signals from various systems to the highly available DAKS alarm server to trigger automated communication processes."
+    },
+    {
+        "name": "@hypertegrity/node-red-contrib-k8s-helper",
+        "description": "Node-RED tools for use in a containerized environment."
+    },
+    {
+        "name": "node-red-contrib-tplink-smarthome",
+        "description": "A collection of node-red nodes for tp-link smart home devices"
+    },
+    {
+        "name": "sharq-contracts",
+        "description": "Shar-q extension for creating contracts"
+    },
+    {
+        "name": "@gluehome/homebridge-gluehome",
+        "description": "Homebridge plugin to integrate with GlueHome ecosystem."
+    },
+    {
+        "name": "@smappee/node-red-contrib-smappee-knx",
+        "description": "KNX nodes"
+    },
+    {
+        "name": "spruthub-client",
+        "description": "WebSocket client for communicating with Sprut.hub smart home ecosystem"
+    },
+    {
+        "name": "wirelesstags",
+        "description": "Interface to the Wireless Sensor Tags platform (http://wirelesstag.net)"
+    },
+    {
+        "name": "@widesky/node-bacstack",
+        "description": "The BACnet protocol library written in pure JavaScript."
+    },
+    {
+        "name": "wio",
+        "description": "An IOT Development Environment"
+    },
+    {
+        "name": "node-enocean-dimmer",
+        "description": "a dimmer for node-enocean"
+    },
+    {
+        "name": "@seojw/react-native-tuya",
+        "description": "React Native bindings for the Tuya SDK"
+    },
+    {
+        "name": "node-red-contrib-wirelesstag",
+        "description": "Node-RED node for Wireless Tags (http://wirelesstag.net)"
+    },
+    {
+        "name": "infiot-component-tankgauge",
+        "description": "TankGauge"
+    },
+    {
+        "name": "wyliolab",
+        "description": "wyliodrin lab software device controller"
+    },
+    {
+        "name": "@lahoco/node-red-contrib-lahoco-core",
+        "description": "Node-RED LAHOCO nodes bundle"
+    },
+    {
+        "name": "@artalat/react-native-tuya",
+        "description": "React Native bindings for the Tuya SDK"
+    },
+    {
+        "name": "@iobroker/vis-widgets-react-dev",
+        "description": "React classes to develop vis widgets interfaces for ioBroker with react."
+    },
+    {
+        "name": "@mastashake08/web-iot",
+        "description": "Connect to your IoT devices via usb, serial, NFC or Serial. Allows for callback integration and streaming *coming soon*"
+    },
+    {
+        "name": "react-native-smartconfig-2",
+        "description": "react-native ESP8266 smartconfig module"
+    },
+    {
+        "name": "node-red-contrib-unifi-client",
+        "description": "Nodes to access UniFi"
+    },
+    {
+        "name": "symeos-mqtt",
+        "description": "Symeos MQTT client API"
+    },
+    {
+        "name": "@bref.sh/serverless",
+        "description": "Serverless Framework v3"
+    },
+    {
+        "name": "iotprovenance",
+        "description": "An experimental framework for data provenance in the IoT based on smart contracts"
+    },
+    {
+        "name": "@bitpoolos/edge-mqtt-observer",
+        "description": "A MQTT viewer served from Node-Red"
+    },
+    {
+        "name": "accusamusvel",
+        "description": "Manage hierarchical deterministic keychain for bitcoin and altcoins."
+    },
+    {
+        "name": "iotile-common",
+        "description": "Common utilities for IoTile Packages and Applications"
+    },
+    {
+        "name": "node-red-contrib-google-cloud-ubos",
+        "description": "Node-RED nodes for Google Cloud Platform"
+    },
+    {
+        "name": "1ot-api",
+        "description": "1ot nodejs connector"
+    },
+    {
+        "name": "react-native-smartconfig-iot",
+        "description": "react-native ESP8266 smartconfig module"
+    },
+    {
+        "name": "thingsboard-telemetry-stream",
+        "description": "Fetch data from the Thingsboard telemetry WebSocket API."
+    },
+    {
+        "name": "@idenisovs/bmp280",
+        "description": "Yet another BMP280 sensor library."
+    },
+    {
+        "name": "infiot-component-arrows",
+        "description": "Arrows Component"
+    },
+    {
+        "name": "@pickdata/node-red-contrib-emod-simulator",
+        "description": "eManager is an IoT controller designed with eMOD tech for monitoring, control and automation applications. The following nodes are pre-installed in all eMOD devices, although here we present a simulator to practice & test our modular industrial solution."
+    },
+    {
+        "name": "@haxall/haxall",
+        "description": "Haxall library for Node.js"
+    },
+    {
+        "name": "@smappee/node-red-contrib-smappee-solar",
+        "description": "Solar nodes"
+    },
+    {
+        "name": "node-opcua-nodeset-scales-v-2",
+        "description": "pure nodejs OPCUA SDK - module node-opcua-nodeset-scales-v-2"
+    },
+    {
+        "name": "swim-client-js",
+        "description": "Swim JavaScript Client"
+    },
+    {
+        "name": "node-red-contrib-overkiz",
+        "description": "Node-RED Module to control devices using the Overkiz IoT API"
+    },
+    {
+        "name": "infiot-component-imagecomponent",
+        "description": "ImageComponent Component"
+    },
+    {
+        "name": "tiip-client-js",
+        "description": "Websocket based JS client using protocol tiip"
+    },
+    {
+        "name": "lifekit",
+        "description": "物联网应用模块的最小化平台支撑(基于KOA实现)"
+    },
+    {
+        "name": "wesleytabaka-rpi-led-matrix",
+        "description": "Fork of alexeden/rpi-led-matrix.  Node.js/Typescript bindings for hzeller/rpi-rgb-led-matrix"
+    },
+    {
+        "name": "@hms-networks/kolibri-js-client",
+        "description": "Kolibri Consumer API client for building kolibri based applications"
+    },
+    {
+        "name": "imp-api",
+        "description": "Javascript wrapper for the Electric Imp Build API"
+    },
+    {
+        "name": "@sinricpro/node-red-contrib-sinric-pro",
+        "description": "Official Node-RED support for Sinric devices"
+    },
+    {
+        "name": "@pineview/iotedgekit",
+        "description": "## The purpose"
+    },
+    {
+        "name": "homebridge-google-to-homebridge-sync",
+        "description": "Homebridge plugin to automatically import and sync all Google Home devices to HomeKit, supporting lights, switches, cameras, sensors, and more from any manufacturer"
+    },
+    {
+        "name": "@peapodtech/firebasedeviceflow",
+        "description": "Firebase authentication for Node.js CLI applications on limited input devices via OAuth2 'Device Flow'."
+    },
+    {
+        "name": "yandex-alice-client",
+        "description": "Yandex Alice JS client"
+    },
+    {
+        "name": "@digitaltwins/node-red-contrib-digital-twin",
+        "description": "Nodes for modeling Digital Twins"
+    },
+    {
+        "name": "@lucavb/homebridge-shelly-ds9",
+        "description": "Homebridge plugin for the next generation of Shelly devices"
+    },
+    {
+        "name": "node-red-contrib-msg-queue",
+        "description": "A contributed Node-RED node, that queues undeliverable messages to file for later delivery."
+    },
+    {
+        "name": "fwiotfurb",
+        "description": "framework para iot"
+    },
+    {
+        "name": "@demirdeniz/tuyapi-newgen",
+        "description": "An easy-to-use New Gen API for devices that use Tuya's cloud services (updated with Tuya 3.5 protocol)"
+    },
+    {
+        "name": "@thinremote/thinr-cli",
+        "description": "CLI for ThinRemote - Remote management for IoT devices"
+    },
+    {
+        "name": "node-red-contrib-enoceanip-dcnext",
+        "description": "I/O nodes for Node-RED to communicate with EnOcean API. Copyright (c) 2024 DC Next GmbH"
+    },
+    {
+        "name": "@tuyapi/driver",
+        "description": "⚡️ next-gen driver for Tuya devices"
+    },
+    {
+        "name": "iopa-coap",
+        "description": "API-first, full-stack, IETF Constrained Application Protocol (CoAP) protocol server for the Internet of Things (IoT), based on the Internet of Protocols Alliance (IOPA) specification"
+    },
+    {
+        "name": "@pannyparveen/distributed-energy-trading-platform",
+        "description": "A decentralized system for renewable energy trading using blockchain, IoT, and AI"
+    },
+    {
+        "name": "iotz",
+        "description": "a containerized cross compiler box for arduino, arm mbed, espressif, micro-python, raspberry pi and ... more"
+    },
+    {
+        "name": "@sanlim/home-assistant-switch-mcp-server",
+        "description": "A MCP server for Home Assistant switch services."
+    },
+    {
+        "name": "generator-edge",
+        "description": "Yeoman generators for the iot-edge server"
+    },
+    {
+        "name": "devsquad-serverless",
+        "description": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more"
+    },
+    {
+        "name": "devify-cli",
+        "description": "A cli for for getting started with devify"
+    },
+    {
+        "name": "freeboard-leaflet-realtime",
+        "description": "Freeboard plugin for real time Leaflet web maps"
+    },
+    {
+        "name": "@iotflows/iotflows-js",
+        "description": "IoTFlows.js ES Module."
+    },
+    {
+        "name": "@applica-software-guru/drax-sdk",
+        "description": "This pakage this package allows interfacing to the Drax IoT platform (https://draxcloud.com/) To use this plugin you need to create a project on the platform. After project creation you must use API_KEY and API_SECRET of project to:  - publish state on no"
+    },
+    {
+        "name": "node-red-contrib-mopidy",
+        "description": "A Node-RED node to communicate with Mopidy"
+    },
+    {
+        "name": "@willieee802/ts-bacnet",
+        "description": "TS"
+    },
+    {
+        "name": "devify-server",
+        "description": "Boilerplates for IoT cloud servers"
+    },
+    {
+        "name": "@narwhallab/mufin",
+        "description": "Bluetooth based IoT connection library"
+    },
+    {
+        "name": "IOTSDK",
+        "description": "IOT Node SDK"
+    },
+    {
+        "name": "cylon-cli",
+        "description": "Generate new adaptor/driver modules for Cylon.js"
+    },
+    {
+        "name": "tibber",
+        "description": "A collection of easy-to-use methods for querying with the Tibber GraphQL API"
+    },
+    {
+        "name": "ivencloud",
+        "description": "connect your device to iven cloud"
+    },
+    {
+        "name": "n8n-nodes-netpie",
+        "description": "NETPIE nodes for n8n — read device shadow and publish messages to NETPIE."
+    },
+    {
+        "name": "node-red-contrib-rhea-robustel",
+        "description": "AMQP 1.0 nodes for Node-RED"
+    },
+    {
+        "name": "wifiradio",
+        "description": "NodeJS module for controlling WiFi-radios"
+    },
+    {
+        "name": "webserial-core",
+        "description": "Webserial Core to easy connections with serial devices"
+    },
+    {
+        "name": "node-red-contrib-tplink-iot",
+        "description": "A collection of Node-RED nodes for TP-Link smart-home devices."
+    },
+    {
+        "name": "unishox2.siara.cc",
+        "description": "Compressor and decompressor for short strings"
+    },
+    {
+        "name": "cylon-api-socketio",
+        "description": "Socket.io API add-on module for Cylon.JS"
+    },
+    {
+        "name": "node-opcua-test-fixtures",
+        "description": "pure nodejs OPCUA SDK - module -test-fixtures"
+    },
+    {
+        "name": "dotstar-node",
+        "description": "Control Dotstar (APA102 or SK9822) LEDs via Node.js"
+    },
+    {
+        "name": "@matter.js/matter-node.js-examples",
+        "description": "Matter.js examples and reference implementations"
+    },
+    {
+        "name": "node-red-contrib-admin",
+        "description": "node-red-contrib-admin ======================== An admin tab for <a href=\"http://nodered.org\" target=\"_new\">Node-RED</a>."
+    },
+    {
+        "name": "@palasde/node-red-myatmosphere",
+        "description": "A Node-Red node for subscribing to MyAtmosphere device latest measurements"
+    },
+    {
+        "name": "iotjs",
+        "description": "An IoT framework provides the easiest and fastest way to develop IoT applications with open hardware."
+    },
+    {
+        "name": "node-red-contrib-orange-natsio",
+        "description": "Nats.io protocol with Node-RED"
+    },
+    {
+        "name": "node-red-contrib-symi",
+        "description": "Node-RED nodes for smart home device communication with Home Assistant integration, supporting HassKit, Clowire, Alive, LF and complete Symi protocols"
+    },
+    {
+        "name": "@krunal_tarale-5/ultimate-streaming-package",
+        "description": "🚀 Ultimate Real-Time Streaming Package v2.1.9 - Multi-Platform, Multi-Collection Architecture with Native MongoDB & MySQL Support, 99.96% Performance Improvement. Enterprise-grade real-time data streaming with Socket.IO integration, dynamic schema evolut"
+    },
+    {
+        "name": "@jonaphael/iotagent-nodejs",
+        "description": "Base iotagent functionality for dojot"
+    },
+    {
+        "name": "n8n-nodes-tidbyt",
+        "description": "n8n node for interacting with your Tidbyt devices and Pixlet-based applications"
+    },
+    {
+        "name": "node-red-contrib-youtube",
+        "description": "Youtube nodes for node-red"
+    },
+    {
+        "name": "iot-protocol-ts",
+        "description": "IoT Protocol Library for Typescript"
+    },
+    {
+        "name": "matterbridge-megad-plugin",
+        "description": "Matterbridge MegaD Plugin"
+    },
+    {
+        "name": "node-red-contrib-google-action",
+        "description": "A node-red node for interfacing with actions from Google Assistant."
+    },
+    {
+        "name": "fauxmojs",
+        "description": "Fake WeMo device ported to NodeJS. Allows Alexa to make api calls."
+    },
+    {
+        "name": "mic-sdk-js",
+        "description": "MIC SDK for JavaScript."
+    },
+    {
+        "name": "ms-gpio",
+        "description": "API for controlling Raspberry PI GPIO pins"
+    },
+    {
+        "name": "node-server-ar-drone",
+        "description": "Fly a Parrot AR Drone 2.0 using REST calls."
+    },
+    {
+        "name": "modbus-mcp",
+        "description": "NPX-based MCP server for Modbus (TCP/UDP/Serial) — tools for reading/writing coils and registers, typed decoding, tag maps, and health"
+    },
+    {
+        "name": "sintef-ditto-javascript-client-dom",
+        "description": "An extended version of the official Eclipse Ditto client"
+    },
+    {
+        "name": "cylon-skynet",
+        "description": "Cylon.js adaptor for the Skynet open source machine to machine protocol"
+    },
+    {
+        "name": "@nec-baas/jssdk",
+        "description": "NEC Mobile Backend Platform JavaScript SDK"
+    },
+    {
+        "name": "@waylon-ai/waylon-iot-events",
+        "description": "Small library to share waylon events structure"
+    },
+    {
+        "name": "serialport-omega2",
+        "description": "Run your Onion Omega2 robot overlord using javascript."
+    },
+    {
+        "name": "@thehighestbit/node-red-contrib-dht-libgpiod",
+        "description": "A node red node for communicating with DHT sensors with/without the libgpiod library."
+    },
+    {
+        "name": "opal-node-red",
+        "description": "A node-red wrapper for RPA"
+    },
+    {
+        "name": "node-fauxmo",
+        "description": "Make fake WeMo devices. Another Node.JS port of fauxmo, borrowing heavily from fauxmojs"
+    },
+    {
+        "name": "forklift.js",
+        "description": "A Promise-based node.js library for the Crate database"
+    },
+    {
+        "name": "node-opcua-test-helpers",
+        "description": "pure nodejs OPCUA SDK - module -test-helpers"
+    },
+    {
+        "name": "node-red-contrib-blynk-api",
+        "description": "Node Red integration with Blynk App and Server through api"
+    },
+    {
+        "name": "react-sensor-meters",
+        "description": "Library of common microcontroller sensor gauges"
+    },
+    {
+        "name": "@samlab-corp/usb-relay-hid",
+        "description": "Advanced USB HID Relay controller for Node.js with auto-reconnect, handshake validation, and event-based monitoring"
+    },
+    {
+        "name": "@eva-ics/toolbox",
+        "description": "UI Toolbox for EVA ICS"
+    },
+    {
+        "name": "gecko-ci",
+        "description": "a lightweight build monitor for nodejs that handles IoT gadgets and brings CI feedbacks to the real world"
+    },
+    {
+        "name": "soletta-dev-app",
+        "description": "Soletta Development Application provides a web-based environment where developers can write, visualize, modify, run, test and debug their Soletta FBP programs. The Soletta Development Application is supposed to run on your target board and it then exposes"
+    },
+    {
+        "name": "digimesh",
+        "description": "XBee communication via the DigiMesh protocol"
+    },
+    {
+        "name": "iota-auth",
+        "description": "2fa module using iota's tangle as the backend"
+    },
+    {
+        "name": "thing-js",
+        "description": "A framework provides easiest and fastiest way to build devices."
+    },
+    {
+        "name": "@vfk_research/node-red-contrib-msb",
+        "description": "Nodes to connect to the Manufacturing Service Bus (MSB) developed by VFK Research (Fraunhofer IPA)"
+    },
+    {
+        "name": "wikari",
+        "description": "a library that lets you interact with Philips WiZ smart lights"
+    },
+    {
+        "name": "cylon-rapiro",
+        "description": "Cylon module for Rapiro"
+    },
+    {
+        "name": "meshblu-mqtt",
+        "description": "Meshblu MQTT client API"
+    },
+    {
+        "name": "iot-device-simulator",
+        "description": "IoT device simulator to generate random data in custom format and publish to MQTT broker"
+    },
+    {
+        "name": "iot-vue-cli",
+        "description": "vue-cli,iot-qisibo"
+    },
+    {
+        "name": "esp-voice-server",
+        "description": "High-performance WebSocket-based voice processing backend for ESP32/M5Stack devices with real-time audio streaming, transcription, and synthesis"
+    },
+    {
+        "name": "red-contrib-miniscule-transformer",
+        "description": "TP2 IOT application - ISIMM"
+    },
+    {
+        "name": "gpio-js",
+        "description": "GPIO.JS is a node library helps developer control GPIO eaiser and faster."
+    },
+    {
+        "name": "favor",
+        "description": "A simple library for creating hardware-agnostic IoT applications in Javascript"
+    },
+    {
+        "name": "generator-az-iot-gw-module",
+        "description": "Create a Node module for azure iot edge."
+    },
+    {
+        "name": "@toponextech/smartembed-mcp-server",
+        "description": "MCP server for intelligent embedded development with PlatformIO - AI-powered project creation, error diagnosis, and device detection"
+    },
+    {
+        "name": "@yemreak/hue",
+        "description": "Control Philips Hue lights via CLI - voice/AI ready"
+    },
+    {
+        "name": "deadlights",
+        "description": "Interface for Flux WiFi RGB light bulbs"
+    },
+    {
+        "name": "node-red-contrib-remote-xy",
+        "description": "A node-red node for interfacing with the Remote XY IoT control panel on Android."
+    },
+    {
+        "name": "node-vscp-class",
+        "description": "VSCP class constants for node.js"
+    },
+    {
+        "name": "thingspeakclient",
+        "description": "node.js Client for ThingSpeak"
+    },
+    {
+        "name": "cylon-beaglebone",
+        "description": "Cylon adaptor for the Beaglebone Black single-board computer"
+    },
+    {
+        "name": "pip-clients-beacons-node",
+        "description": "Node.js client sdk for beacons microservice"
+    },
+    {
+        "name": "nitrogen-light",
+        "description": "This module adds support for lightCommand and lightStatus messages to a Nitrogen application or service.  It also provides the LightManager class for interpreting message streams and driving the attached device."
+    },
+    {
+        "name": "cylon-neurosky",
+        "description": "Cylon module for Neurosky"
+    },
+    {
+        "name": "@j5e/fn",
+        "description": "Utilities for J5e used in various classes"
+    },
+    {
+        "name": "cylon-force",
+        "description": "Cylon adaptor/driver for Force.com"
+    },
+    {
+        "name": "homebridge-petlibro",
+        "description": "Homebridge plugin for PetLibro smart feeders. Control your pet feeder through Apple HomeKit."
+    },
+    {
+        "name": "node-red-contrib-github",
+        "description": "Github for node-red"
+    },
+    {
+        "name": "node-red-contrib-sparkcore",
+        "description": "Node-RED node to connect to Spark Core. This can be used to connect to Spark Core and call functions, read variables or listen to events"
+    },
+    {
+        "name": "red-contrib-mehdi",
+        "description": "A simple Node-RED node that replaces input with \"Mehdi\"."
+    },
+    {
+        "name": "@dimava/serialport-bindings-cpp",
+        "description": "SerialPort Hardware bindings for node serialport written in c++"
+    },
+    {
+        "name": "@j5e/event",
+        "description": "Event emitter class for J5e"
+    },
+    {
+        "name": "@suisse00/wiz-local-control",
+        "description": "Library for controlling WiZ devices via UDP"
+    },
+    {
+        "name": "huum-js",
+        "description": "TypeScript library for controlling HUUM saunas"
+    },
+    {
+        "name": "@owowagency/react-native-tuya",
+        "description": "React Native bindings for the Tuya SDK"
+    },
+    {
+        "name": "system-health-offline-alert",
+        "description": "An email that is send to a set recipient and notifies the recipient an IOT device is offline after a set time specified for the device."
+    },
+    {
+        "name": "node-matter",
+        "description": "Matter protocol for node.js"
+    },
+    {
+        "name": "infraquery",
+        "description": "Open-source, Agentless network discovery and data extraction engine. Discovers, fingerprints, and maps IT, IoT, and OT devices via SNMP, Modbus, ONVIF, WMI, Prometheus, BACnet, HTTP, and more"
+    },
+    {
+        "name": "node-red-contrib-snap4city-tunnel",
+        "description": "Nodes for Snap4city project, targeted to tunneling edge device"
+    },
+    {
+        "name": "@atorber/node-red-baidu-dmp",
+        "description": "MQTT Node for Baidu IoTPlatform using custom authentication"
+    },
+    {
+        "name": "@cdklabs/cdk-aws-iot-thing-certificate-policy",
+        "description": "Creates an AWS IoT thing, certificate, policy, and associates the three together"
+    },
+    {
+        "name": "pipin",
+        "description": "Set and read Raspberry Pi GPIO pins, and display pin schematics"
+    },
+    {
+        "name": "@thedevminertv/ds18b20",
+        "description": "Get temperature from DS18B20 sensors connected to a RPI"
+    },
+    {
+        "name": "yeelight-ts",
+        "description": "A TypeScript library for controlling Yeelight smart devices over your local network."
+    },
+    {
+        "name": "node-red-contrib-google-home-notifier-offline",
+        "description": "Node-Red nodes for google-home-notifier-offline library. With this node you can cast any String (up to 200 chars) to any google cast device."
+    },
+    {
+        "name": "serverless-tencent-scf-beta",
+        "description": "Provider plugin for the Serverless Framework v1.x which adds support for Tencent Cloud Functions."
+    },
+    {
+        "name": "@redplc/node-red-rpi-ds18b20",
+        "description": "Node-RED node for ds18b20 temp. sensor using with redPlc nodes."
+    },
+    {
+        "name": "mqtt-agent",
+        "description": "This is a MQTT Agent"
+    },
+    {
+        "name": "lot-gpio",
+        "description": "GPIO development library"
+    },
+    {
+        "name": "homebridge-mqtt-window-blinds",
+        "description": "Homebridge plugin for MQTT-controlled window blinds"
+    },
+    {
+        "name": "skygrid",
+        "description": "The SkyGrid JavaScript SDK"
+    },
+    {
+        "name": "vizibles",
+        "description": "Library to connect with Vizibles from Node.js clients"
+    },
+    {
+        "name": "@j5e/animation",
+        "description": "Animation class for J5e used for scripting LEDs and Servos"
+    },
+    {
+        "name": "homebridge-se-flair",
+        "description": "Homebridge plugin for Flair.co pucks, vents, and gateways (no HVAC control)"
+    },
+    {
+        "name": "home-thing",
+        "description": "A module for abstracting network communication between smart devices in a home environment."
+    },
+    {
+        "name": "react-native-smartconfig",
+        "description": "react-native ESP8266 smartconfig module"
+    },
+    {
+        "name": "gsi_mqtt_relay",
+        "description": "MQTT publisher relay for Corrently GrünstromIndex"
+    },
+    {
+        "name": "@devbit/dust-cli",
+        "description": "A cli for interacting with a DUST sensor platform"
+    },
+    {
+        "name": "usriot.js",
+        "description": "Client lib for USR IoT WiFi IO device"
+    },
+    {
+        "name": "node-red-contrib-netatmo-dashboard",
+        "description": "Get JSON payload for NetAtmo dashboard. See http://netatmo.com, https://dev.netatmo.com/doc"
+    },
+    {
+        "name": "node-red-contrib-polywall",
+        "description": "Low-code programming for event-driven applications"
+    },
+    {
+        "name": "mcp-server-vtimes",
+        "description": "iot platform mcp service"
+    },
+    {
+        "name": "@nicolaudiegroup/node-red-nicolaudie-remote-protocol",
+        "description": "A collection of Node-RED nodes allowing you to connect to various devices manufactured by Nicolaudie Group that have networking capabilities."
+    },
+    {
+        "name": "cordova-blinkup-plugin",
+        "description": "This plugin allows you to integrate the native BlinkUp process for setting up an Electric Imp device directly into your Cordova / PhoneGap project"
+    },
+    {
+        "name": "cylon-ollie",
+        "description": "Cylon module for Ollie"
+    },
+    {
+        "name": "node-enocean-button",
+        "description": "a button for node-enocean"
+    },
+    {
+        "name": "meshblu-core-task-enqueue-jobs-for-subscriptions-message-received",
+        "description": "Meshblu core task meshblu-core-task-enqueue-jobs-for-subscriptions-message-received"
+    },
+    {
+        "name": "cylon-mqtt",
+        "description": "Cylon module for MQTT"
+    },
+    {
+        "name": "farm_kernel",
+        "description": "Agricultural remote data collection system for the Intel Edison"
+    },
+    {
+        "name": "node-red-gaia",
+        "description": "A visual tool for wiring the Internet of Things (Fork of node-red@0.14.6)"
+    },
+    {
+        "name": "node-red-contrib-state-machine",
+        "description": "A Node Red node for implementing a finite state machine."
+    },
+    {
+        "name": "meshblu-core-task-reset-token",
+        "description": "Meshblu core task meshblu-core-task-reset-token"
+    },
+    {
+        "name": "node-red-contrib-google-action-dialogflow-http",
+        "description": "A node-red node for interfacing with actions from Google Assistant based on Dialogflow."
+    },
+    {
+        "name": "node-enocean-lightscene",
+        "description": "a lightscene manager for node-enocean"
+    },
+    {
+        "name": "spruthub-mcp-server",
+        "description": "MCP server for controlling Sprut.hub smart home devices with dynamic JSON-RPC API discovery"
+    },
+    {
+        "name": "react-native-smartconfig-ll",
+        "description": "react-native ESP8266 smartconfig module"
+    },
+    {
+        "name": "@telligro/opal-node-red",
+        "description": "A node-red wrapper for RPA"
+    },
+    {
+        "name": "thing.js",
+        "description": "Create thing objects with properties, actions, and events. Use for IoT devices or even living things like plants."
+    },
+    {
+        "name": "iglass-logic-nodes",
+        "description": "Node-RED contribution package with nodes for logic functions."
+    },
+    {
+        "name": "iot-util",
+        "description": "iot util for Nodejs"
+    },
+    {
+        "name": "@redplc/node-red-rpi-ads1115",
+        "description": "Node-RED node for ads1115 16bit adc using with redPlc nodes."
+    },
+    {
+        "name": "@ref/coap",
+        "description": "A CoAP library for node modelled after 'http'"
+    },
+    {
+        "name": "agile-sdk",
+        "description": "javascript wrapper for agile-iot sdk"
+    },
+    {
+        "name": "@elbstack/react-native-mqtt",
+        "description": "MQTT client for react-native"
+    },
+    {
+        "name": "@kaaiot/node-red-contrib-kaa",
+        "description": "Kaa Node RED Integration"
+    },
+    {
+        "name": "serverles",
+        "description": "** OX.Security Package - Research Purposes Only. Please use 'serverless' for the official package. Prevent typosquatting, dependency confusion and Software Supply Chain Attacks, visit -> OX.Security **   Serverless Framework - Build web, mobile and IoT ap"
+    },
+    {
+        "name": "cylon-octanis1-rover",
+        "description": "Cylon module for Octanis 1 Rover"
+    },
+    {
+        "name": "@amuslija/serverless",
+        "description": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more"
+    },
+    {
+        "name": "iostash",
+        "description": "Platform library for IOStash IoT PaaS"
+    },
+    {
+        "name": "@jacobq/node-opcua-nodeset-padim",
+        "description": "pure nodejs OPCUA SDK - module nodeset-padim"
+    },
+    {
+        "name": "@hsync/node-red-hsync",
+        "description": "put node-red online securely with a hsync server"
+    },
+    {
+        "name": "iosignal-cli",
+        "description": "IOSignal server and client CLI program."
+    },
+    {
+        "name": "@j5e/easing",
+        "description": "Easing methods for J5e"
+    },
+    {
+        "name": "cylon-ardrone",
+        "description": "Cylon module for the Parrot ARDrone 2.0"
+    },
+    {
+        "name": "node-m2m",
+        "description": "m2m is a client module for machine-to-machine communication system framework node-m2m."
+    },
+    {
+        "name": "node-red-contrib-mqtt-homie",
+        "description": "Node-RED MQTT Homie - Controller and Devices"
+    },
+    {
+        "name": "cylon-sphero-ble",
+        "description": "Cylon.js module for Sphero BLE Robots"
+    },
+    {
+        "name": "@onespeed/serverless",
+        "description": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more"
+    },
+    {
+        "name": "sigfox-gcloud-ubidots",
+        "description": "sigfox-gcloud adapter for integrating Sigfox devices with Ubidots"
+    },
+    {
+        "name": "bolt-iot-wrapper",
+        "description": "bolt iot api wrappers"
+    },
+    {
+        "name": "evrythng-pubsub",
+        "description": "Plugin for evrythng.js that adds PubSub connectivity with MQTT and MQTT over WebSockets."
+    },
+    {
+        "name": "cylon-nest",
+        "description": "Cylon.js adaptor for the Nest"
+    },
+    {
+        "name": "homematic-js-api",
+        "description": "lightweight Javascript interface for Homematic Remote Script API (Rega)"
+    },
+    {
+        "name": "overlaylive-device-library",
+        "description": "Overlay.live device management library"
+    },
+    {
+        "name": "node-red-contrib-belimo-cloud-connector",
+        "description": "A NODE-RED Belimo-Cloud Library by MST Systemtechnik AG"
+    },
+    {
+        "name": "serverless-iot-offline",
+        "description": "Start AWS IoT service offline. Manages topic subscriptions, lifecycle events, thing shadow management and rule engine with limited SQL syntax support."
+    },
+    {
+        "name": "@alleypin/serverless-google-cloudfunctions",
+        "description": "Modified by AlleyPin, Provider plugin for the Serverless Framework v1.x which adds support for Google Cloud Functions."
+    },
+    {
+        "name": "serverless-iot-mqtt",
+        "description": "Mqtt plugin for serverless offline application"
+    },
+    {
+        "name": "node-red-contrib-redplc-tf-miniplcio",
+        "description": "Node-Red node for Mini PLC Driver"
+    },
+    {
+        "name": "node-red-custom",
+        "description": "little bit customized node-red"
+    },
+    {
+        "name": "node-red-contrib-artik",
+        "description": "Node to control artik GPIO"
+    },
+    {
+        "name": "@fiqch/n8n-nodes-fiq-opcua",
+        "description": "n8n custom node for reading and writing OPC UA data (FactoryIQ)"
+    },
+    {
+        "name": "@luckfellow/react-native-mqtt",
+        "description": "MQTT client for react-native"
+    },
+    {
+        "name": "@ublend-npm/serverless",
+        "description": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more"
+    },
+    {
+        "name": "@cargoplane/client",
+        "description": "Web client library for publishing messages to and subscribing to messages via AWS."
+    },
+    {
+        "name": "@andrewjsc/iotagent-nodejs",
+        "description": "Base iotagent functionality for dojot"
+    },
+    {
+        "name": "@fastybird/triggers-module",
+        "description": "FastyBird IoT module for triggers management & basic automation logic"
+    },
+    {
+        "name": "matterbridge-bthome",
+        "description": "Matterbridge BTHome plugin"
+    },
+    {
+        "name": "vermon",
+        "description": "Formerly the t-motion-detector package, now named vermon"
+    },
+    {
+        "name": "@smart-cabinet-packages/rfid",
+        "description": "智能柜 RFID 模块，提供RFID读写器控制功能"
+    },
+    {
+        "name": "dynamixel",
+        "description": "Node.js library for controlling DYNAMIXEL servo motors via U2D2 interface with Protocol 2.0 support"
+    },
+    {
+        "name": "itmpws",
+        "description": "itmp client for websocket in browser"
+    },
+    {
+        "name": "@andrewjsc/dojot-module",
+        "description": "A library that provides utilities and methods for dojot"
+    },
+    {
+        "name": "millheat-js",
+        "description": "Javascript client to ease the use of the Mill Open API V2"
+    },
+    {
+        "name": "iota-basic",
+        "description": "a library for basic interactions with the iota tangle"
+    },
+    {
+        "name": "node-red-contrib-meazon",
+        "description": "A meazon node for node-red"
+    },
+    {
+        "name": "@bubuzi/serialport",
+        "description": "Node.js package to access serial ports. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!"
+    },
+    {
+        "name": "mqtt-bridge",
+        "description": "Simple bridge to stream MQTT Broker data to dynamically defined back-ends"
+    },
+    {
+        "name": "@efesoroglu/mfrc522-rpi",
+        "description": "small JavaScript interface to control RFID reader MFRC522 with Raspberry-pi"
+    },
+    {
+        "name": "node-noolite",
+        "description": "node.js driver for noolite devices"
+    },
+    {
+        "name": "node-red-contrib-google-action-dialogflow",
+        "description": "A node-red node for interfacing with actions from Google Assistant based on Dialogflow."
+    },
+    {
+        "name": "cylon-opencv",
+        "description": "Cylon module for OpenCV"
+    },
+    {
+        "name": "nexus.io",
+        "description": "Discovery system of devices on local networks"
+    },
+    {
+        "name": "comfy-mqtt",
+        "description": "A REST API layer on top of MQTT with database storage and payload validation"
+    },
+    {
+        "name": "@execfera/node-opcua-client-readonly",
+        "description": "pure nodejs OPCUA SDK - module -client"
+    },
+    {
+        "name": "@bifravst/object-to-env",
+        "description": "Helper functions which converts an object to environment variable definitions"
+    },
+    {
+        "name": "@asdftempfix/serialport-bindings-cpp",
+        "description": "SerialPort Hardware bindings for node serialport written in c++"
+    },
+    {
+        "name": "6lowpan",
+        "description": "6LoWPAN module"
+    },
+    {
+        "name": "node-red-contrib-scriptr-node",
+        "description": "A simple implementation of a node-red node that connects to a scriptr.io endpoint."
+    },
+    {
+        "name": "slimcryptdb",
+        "description": "A minimalist, ultra-secure embedded database for Node.js applications"
+    },
+    {
+        "name": "serialport-win-fix",
+        "description": "Fork of Node.js package to access serial ports. Welcome your robotic javascript overlords. Better yet, program them!"
+    },
+    {
+        "name": "iot-edge",
+        "description": "Open IoT Edge Server"
+    },
+    {
+        "name": "infiot-component-gatevalve",
+        "description": "GateValve Component"
+    },
+    {
+        "name": "milana",
+        "description": "CSUN ASME Arduino Integrations (Spring 2017)"
+    },
+    {
+        "name": "node-red-contrib-google-home-notify-volume-adjustable",
+        "description": "Node-Red nodes for google-home-notify library. With this node you can cast any String (up to 200 chars) to any google cast device."
+    },
+    {
+        "name": "node-red-contrib-netatmo-thermostat",
+        "description": "A node-red to interact with Netatmo thermostat"
+    },
+    {
+        "name": "thingspace-sdk",
+        "description": "Node.js SDK for ThingSpace RESTful API V2"
+    },
+    {
+        "name": "cylon-joystick-node-4-and-5",
+        "description": "Cylon module for any HID joystick"
+    },
+    {
+        "name": "xie-cn",
+        "description": "贤主之用人也，犹巧工之制木也，大者以为舟航、柱梁，小者以为楫、楔。"
+    },
+    {
+        "name": "nunchuck-js",
+        "description": "Nunchuck.js library that provides a lot of nunchuck modules"
+    },
+    {
+        "name": "@boneskull/node-red-contrib-homekit",
+        "description": "Node-RED nodes to simulate Apple HomeKit devices"
+    },
+    {
+        "name": "node-red-contrib-conditional-trigger",
+        "description": "A Node-RED subflow for triggering conditional events based on multiple input messages. The subflow evaluates if two incoming messages meet specific conditions (e.g., both msg.payload values are true) and routes the result to different outputs. Ideal for s"
+    },
+    {
+        "name": "@luissajuniorkk/iotagent-nodejs",
+        "description": "Base iotagent functionality for dojot"
+    },
+    {
+        "name": "@jhe.zheng/node-red-make-iot-smart",
+        "description": "A AI tools for Node-RED"
+    },
+    {
+        "name": "xmihome",
+        "description": "The core library for interacting with Xiaomi Mi Home devices via Cloud, MiIO, and Bluetooth."
+    },
+    {
+        "name": "node-red-contrib-tuya",
+        "description": "A node-red node to speak with tuya devices"
+    },
+    {
+        "name": "thing-node",
+        "description": "A Kii enabled IoT library for node.js capable Things"
+    },
+    {
+        "name": "@azeti/node-red-contrib-azeti-iot",
+        "description": "Connect to azeti Cloud on Node-RED"
+    },
+    {
+        "name": "iobroker.google-home-nest",
+        "description": "Integrate your Google Home (Nest) devices like Thermostats, Cameras, Doorbells, etc."
+    },
+    {
+        "name": "infiot-component-temp_humi_sensor",
+        "description": "Temperature and Humidity Sensor Component"
+    },
+    {
+        "name": "@gemini86/node-red-ds18b20",
+        "description": "Node-RED node for ds18b20 sensors connected on GPIO (fork of iiot2k, which was removed from NPM)"
+    },
+    {
+        "name": "tencent-iot-js-sdk",
+        "description": "tencent cloud iot js sdk"
+    },
+    {
+        "name": "allseen",
+        "description": "sysInfo IOT monitor sensors"
+    },
+    {
+        "name": "smart-home",
+        "description": "Netbeast dashboard, IoT apps manager"
+    },
+    {
+        "name": "cylon-digispark",
+        "description": "Cylon module for Digispark"
+    },
+    {
+        "name": "homebridge-lightify",
+        "description": "Homebridge plugin providing access to OSRAM Lightify products"
+    },
+    {
+        "name": "rpi2mqtt",
+        "description": "Connect a RaspberryPi 1-Wire and GPIOs to MQTT"
+    },
+    {
+        "name": "hardware-info",
+        "description": "A lightweight way to get the hardware information."
+    },
+    {
+        "name": "@faxioman/node-red-contrib-matter-dynamic",
+        "description": "Dynamic Matter device nodes for Node-RED"
+    },
+    {
+        "name": "cylon-api-http",
+        "description": "HTTP API add-on module for Cylon.JS"
+    },
+    {
+        "name": "unix-remotecontrol",
+        "description": "UnixControl -> Control Your MBP remotely"
+    },
+    {
+        "name": "infiot-component-circlegauge",
+        "description": "CircleGauge Component"
+    },
+    {
+        "name": "node-red-contrib-ui-time-scheduler-french",
+        "description": "A ui time scheduler for the Node-RED Dashboard French UI version"
+    },
+    {
+        "name": "@embedded-js/wifi-connection-manager",
+        "description": "A wifi connection manager for Embedded JS that supports multiple networks and auto-reconnect."
+    },
+    {
+        "name": "infiot-component-parallelogram",
+        "description": "Parallelogram Component"
+    },
+    {
+        "name": "nitrogen-airpi",
+        "description": "This module provides support for the [AirPi](http://airpi.es/) air quality and weather surveillance station."
+    }
+]

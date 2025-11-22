@@ -1,0 +1,114 @@
+[
+    {
+        "intent": "I need to run applications that depend on libraries from older versions of CentOS Linux.",
+        "artifact": "Compatibility Libraries",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to set up a minimal CentOS Linux environment required for compute node operation.",
+        "artifact": "CentOS Linux ComputeNode product core",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to identify packages that may cause conflicts when installing all available software on a client system.",
+        "artifact": "Conflicts (Client)",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to enable file sharing and access between Linux and Windows systems using the CIFS protocol.",
+        "artifact": "File and Storage Server",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": false,
+        "agreement": true
+    },
+    {
+        "intent": "I want my system interface to display text correctly in multiple languages.",
+        "artifact": "Fonts",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": true,
+        "agreement": false
+    },
+    {
+        "intent": "I want to set up a graphical desktop environment that is easy to use and navigate.",
+        "artifact": "GNOME",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to create, edit, or manipulate images and graphics on my system.",
+        "artifact": "Graphics Creation Tools",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to type and enter text in different languages and scripts on my system.",
+        "artifact": "Input Methods",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to create, edit, and manage documents, spreadsheets, and presentations on my system.",
+        "artifact": "Office Suite and Productivity",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to develop or run applications that use Perl to interact with standard system libraries and features.",
+        "artifact": "Perl Support",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to run Linux smoothly as a virtual machine on Hyper-V, with all necessary drivers and integration tools.",
+        "artifact": "Hyper-v platform specific packages",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to manage and administer my CentOS Linux system remotely through a web or network interface.",
+        "artifact": "Remote Management for Linux",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to install the essential packages required for building Fedora distributions and deliverables.",
+        "artifact": "Critical Path (Compose)",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": false,
+        "agreement": false
+    },
+    {
+        "intent": "I want to install essential applications that integrate well with the Xfce desktop environment.",
+        "artifact": "Applications for the Xfce Desktop",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    }
+]

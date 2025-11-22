@@ -1,0 +1,1 @@
+2025-11-12 22:10:19 | hf       | Tree:    0.04s | Retrieval: 10387.16s | Total: 10393.21s | AvgRetr: 33.9449s | StdRetr: 83.9120s | MinRetr:  6.7384s | MaxRetr: 650.1038s | AvgTotal: 33.9647s

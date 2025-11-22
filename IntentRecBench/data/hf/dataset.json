@@ -1,0 +1,1226 @@
+[
+    {
+        "intent": "I want to generate original music tracks from text prompts using JavaScript in a web application.",
+        "artifact": "Xenova/musicgen-small"
+    },
+    {
+        "intent": "I want a model that can understand and generate text and visual content, analyze images and videos, perform spatial reasoning, recognize objects and text in multiple languages, and interact with graphical user interfaces.",
+        "artifact": "Qwen/Qwen3-VL-8B-Instruct"
+    },
+    {
+        "intent": "I want a model that can understand and generate text based on images and videos, perform visual reasoning, recognize objects and text in multiple languages, and handle long documents or videos for tasks like GUI automation, coding from visuals, and multimodal question answering.",
+        "artifact": "Qwen/Qwen3-VL-2B-Instruct"
+    },
+    {
+        "intent": "I want a flexible text-to-image model that I can fine-tune for custom generative art or visual content creation.",
+        "artifact": "lodestones/Chroma1-HD"
+    },
+    {
+        "intent": "I want a model that can answer questions and describe images without refusing sensitive or controversial prompts.",
+        "artifact": "huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliterated"
+    },
+    {
+        "intent": "I want to generate 2D images from text prompts that follow the layout of a given semantic image, for use in creating realistic 3D indoor scenes.",
+        "artifact": "manycore-research/FLUX.1-Layout-ControlNet"
+    },
+    {
+        "intent": "I want to generate original music tracks from text descriptions or audio prompts.",
+        "artifact": "facebook/musicgen-large"
+    },
+    {
+        "intent": "I want to generate detailed 3D representations of a scene—including point clouds, depth maps, camera parameters, and surface normals—using available geometric priors like camera poses and depth information.",
+        "artifact": "tencent/HunyuanWorld-Mirror"
+    },
+    {
+        "intent": "Intent Description: I want a language model that can follow instructions, generate code, solve math problems, and handle complex reasoning tasks efficiently.",
+        "artifact": "inclusionAI/LLaDA2.0-mini-preview"
+    },
+    {
+        "intent": "Intent Description: I want to convert complex, multilingual document images—including handwritten text, tables, equations, charts, and forms—into structured markdown with semantic tags for easier processing and analysis.",
+        "artifact": "nanonets/Nanonets-OCR2-3B"
+    },
+    {
+        "intent": "I want to generate high-quality multilingual text embeddings for tasks like document retrieval, clustering, classification, or code search.",
+        "artifact": "Qwen/Qwen3-Embedding-8B"
+    },
+    {
+        "intent": "I want a large language model for code generation and function calling that uses less memory and is suitable for resource-constrained deployments.",
+        "artifact": "cerebras/GLM-4.6-REAP-268B-A32B"
+    },
+    {
+        "intent": "I want to generate original music tracks from text descriptions or audio prompts.",
+        "artifact": "facebook/musicgen-small"
+    },
+    {
+        "intent": "I want to automatically detect and extract sensitive information like names, phone numbers, and account details from text, with the ability to specify custom entity types for privacy compliance.",
+        "artifact": "knowledgator/gliner-pii-large-v1.0"
+    },
+    {
+        "intent": "I want a language model that excels at complex reasoning, math, and coding tasks, and is available in a distilled, efficient version for research or deployment.",
+        "artifact": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B"
+    },
+    {
+        "intent": "I want to automatically identify who is speaking and when in an audio recording.",
+        "artifact": "pyannote/speaker-diarization-3.1"
+    },
+    {
+        "intent": "I want to generate a 3D scene from a single image.",
+        "artifact": "haoningwu/SceneGen"
+    },
+    {
+        "intent": "I want a general-purpose large language model for tasks like text generation, summarization, and question answering.",
+        "artifact": "meta-llama/Llama-3.1-8B"
+    },
+    {
+        "intent": "I want a large language model for code generation, function calling, and agentic workflows that is memory-efficient and suitable for deployment in resource-constrained environments.",
+        "artifact": "cerebras/GLM-4.6-REAP-218B-A32B"
+    },
+    {
+        "intent": "I want to generate both images and corresponding depth maps from text prompts.",
+        "artifact": "Intel/ldm3d"
+    },
+    {
+        "intent": "I want a multilingual language model that can handle complex reasoning, follow instructions, generate code, and support agent-based tasks.",
+        "artifact": "Qwen/Qwen3-4B"
+    },
+    {
+        "intent": "I want to detect and estimate human body keypoints in images for pose estimation tasks.",
+        "artifact": "usyd-community/vitpose-base-simple"
+    },
+    {
+        "intent": "I want to generate high-quality stereo audio clips from text prompts.",
+        "artifact": "stabilityai/stable-audio-open-1.0"
+    },
+    {
+        "intent": "Intent Description: I want a model that can understand and reason about video content, providing explanations or answers based on what happens in the video.",
+        "artifact": "QiWang98/VideoRFT"
+    },
+    {
+        "intent": "I want to process and understand extremely long text sequences by converting them into images and using a vision-language model for inference.",
+        "artifact": "zai-org/Glyph"
+    },
+    {
+        "intent": "I want to generate text embeddings for search, retrieval, or semantic similarity tasks that can run efficiently on devices with limited resources and support multiple languages.",
+        "artifact": "google/embeddinggemma-300m"
+    },
+    {
+        "intent": "I want a multilingual language model that can handle complex reasoning, follow instructions, generate code, and support agent-based tasks.",
+        "artifact": "Qwen/Qwen3-30B-A3B"
+    },
+    {
+        "intent": "I want to detect and estimate detailed human body, face, hand, and foot keypoints in high-resolution images.",
+        "artifact": "facebook/sapiens-pose-1b-torchscript"
+    },
+    {
+        "intent": "I want to extract and recognize text, tables, formulas, and charts from documents in multiple languages.",
+        "artifact": "PaddlePaddle/PaddleOCR-VL"
+    },
+    {
+        "intent": "I want to detect and classify emotions like happy, sad, angry, or surprised from audio recordings of speech.",
+        "artifact": "firdhokk/speech-emotion-recognition-with-openai-whisper-large-v3"
+    },
+    {
+        "intent": "I want a model that can interpret language and visual inputs to control humanoid robots for manipulation tasks in different environments.",
+        "artifact": "nvidia/GR00T-N1.5-3B"
+    },
+    {
+        "intent": "I want to generate or edit videos in real time using text prompts or existing video input, with the ability to interactively control and restyle the output during generation.",
+        "artifact": "krea/krea-realtime-video"
+    },
+    {
+        "intent": "I want to detect specific spoken keywords in audio recordings.",
+        "artifact": "superb/wav2vec2-base-superb-ks"
+    },
+    {
+        "intent": "I want a language model that can follow instructions and process extremely long text inputs, up to hundreds of thousands of tokens.",
+        "artifact": "Qwen/Qwen3-Next-80B-A3B-Instruct"
+    },
+    {
+        "intent": "I want to generate embeddings for text, images, and visually complex documents in multiple languages to improve search and retrieval across different content types.",
+        "artifact": "jinaai/jina-embeddings-v4"
+    },
+    {
+        "intent": "I want to estimate depth information from images.",
+        "artifact": "prs-eth/marigold-depth-v1-0"
+    },
+    {
+        "intent": "I want a model that can understand and answer questions about video content, including detailed analysis of long and complex videos.",
+        "artifact": "OpenGVLab/InternVideo2_5_Chat_8B"
+    },
+    {
+        "intent": "I want to automatically transcribe spoken audio into text in multiple European languages, with features like language detection, punctuation, and timestamps.",
+        "artifact": "nvidia/parakeet-tdt-0.6b-v3"
+    },
+    {
+        "intent": "I want to generate a 3D character model from a single image.",
+        "artifact": "zjpshadow/CharacterGen"
+    },
+    {
+        "intent": "I want to generate coherent English text based on a given prompt.",
+        "artifact": "openai-community/gpt2"
+    },
+    {
+        "intent": "I want a model that can understand and describe videos, images, and text in multiple languages, including tasks like captioning, summarization, and answering questions about visual content.",
+        "artifact": "utter-project/TowerVideo-9B"
+    },
+    {
+        "intent": "I want to generate high-quality images from text prompts using an open-source model.",
+        "artifact": "black-forest-labs/FLUX.1-schnell"
+    },
+    {
+        "intent": "I want a model that can help robots perceive their environment, reason about spatial and temporal tasks, and plan actions for complex real-world scenarios.",
+        "artifact": "BAAI/RoboBrain2.0-7B"
+    },
+    {
+        "intent": "I want to generate natural-sounding speech audio from text, with options to control speaker identity, speech speed, and add expressive elements like laughter.",
+        "artifact": "2Noise/ChatTTS"
+    },
+    {
+        "intent": "I want a model that can transcribe speech (including dialects), generate and edit images with high fidelity, perform voice cloning, and support multimodal tasks like video conversations.",
+        "artifact": "inclusionAI/Ming-flash-omni-Preview"
+    },
+    {
+        "intent": "I want to answer questions about the content of documents, including scanned images and PDFs.",
+        "artifact": "impira/layoutlm-document-qa"
+    },
+    {
+        "intent": "I want a multilingual language model that can handle complex reasoning, code generation, and general conversation, with the ability to switch between efficient dialogue and advanced problem-solving modes.",
+        "artifact": "Qwen/Qwen3-1.7B"
+    },
+    {
+        "intent": "I want to estimate the depth of each pixel in a single image to create detailed, high-resolution depth maps without needing camera information.",
+        "artifact": "apple/DepthPro-hf"
+    },
+    {
+        "intent": "I want to generate expressive, natural-sounding speech from text in multiple languages, with control over emotion and voice style.",
+        "artifact": "ResembleAI/chatterbox"
+    },
+    {
+        "intent": "I want to automatically generate concise summaries of long documents or articles.",
+        "artifact": "Falconsai/text_summarization"
+    },
+    {
+        "intent": "I want to generate vector embeddings for sentences or paragraphs to use in tasks like semantic search or clustering.",
+        "artifact": "sentence-transformers/all-mpnet-base-v2"
+    },
+    {
+        "intent": "I want a language model that can handle very long inputs and perform complex reasoning tasks like coding, mathematics, and software engineering.",
+        "artifact": "MiniMaxAI/MiniMax-M1-80k"
+    },
+    {
+        "intent": "I want a language model that can analyze single-cell RNA sequencing data to predict cell types, classify tissues, generate gene expression profiles, and assist with biological research tasks like cell atlas annotation and biomarker discovery.",
+        "artifact": "vandijklab/C2S-Scale-Gemma-2-27B"
+    },
+    {
+        "intent": "I want to adjust the lighting in an image to create a relit effect using prompts.",
+        "artifact": "dx8152/Relight"
+    },
+    {
+        "intent": "I want a small language model for generating and understanding text that I can use for building chatbots or other natural language applications.",
+        "artifact": "meta-llama/Llama-3.2-1B-Instruct"
+    },
+    {
+        "intent": "I want to estimate depth maps from single images for computer vision tasks.",
+        "artifact": "depth-anything/Depth-Anything-V2-Large"
+    },
+    {
+        "intent": "I want a general-purpose AI chatbot that can be fully customized and does not restrict or censor responses.",
+        "artifact": "dphn/Dolphin-Mistral-24B-Venice-Edition"
+    },
+    {
+        "intent": "I want a large language model that can perform advanced natural language reasoning and inference across a wide range of tasks, including complex problem solving and deep reasoning.",
+        "artifact": "inclusionAI/Ring-1T"
+    },
+    {
+        "intent": "I want a language model that can assist with complex coding tasks, especially frontend development, and handle very long code or text inputs.",
+        "artifact": "moonshotai/Kimi-K2-Instruct-0905"
+    },
+    {
+        "intent": "I want to generate 3D models from images using a pretrained model.",
+        "artifact": "microsoft/TRELLIS-image-large"
+    },
+    {
+        "intent": "I want to match videos with relevant text descriptions or classify videos based on their content using text queries.",
+        "artifact": "microsoft/xclip-base-patch32"
+    },
+    {
+        "intent": "I want to automatically remove backgrounds from images and generate alpha mattes for precise foreground extraction.",
+        "artifact": "briaai/RMBG-2.0"
+    },
+    {
+        "intent": "I want to generate high-resolution 3D objects from images or text prompts quickly.",
+        "artifact": "ashawkey/LGM"
+    },
+    {
+        "intent": "I want a language model for interactive story writing, roleplaying, and assistant-style conversations that can handle both safe-for-work and adult content with good instruction following and multi-turn coherence.",
+        "artifact": "Sao10K/L3-8B-Stheno-v3.2"
+    },
+    {
+        "intent": "I want to generate high-quality 3D assets with realistic PBR materials from images.",
+        "artifact": "tencent/Hunyuan3D-2.1"
+    },
+    {
+        "intent": "I want to find specific answers to questions by extracting relevant text spans from English documents.",
+        "artifact": "deepset/roberta-base-squad2"
+    },
+    {
+        "intent": "I want a language model that can generate role-playing dialogue in English and Chinese, accurately portraying different characters’ personalities, emotions, and speaking styles.",
+        "artifact": "yuyouyu/Mistral-Nemo-BD-RP"
+    },
+    {
+        "intent": "I want to extract text, math equations, and tables from scanned documents and PDFs using OCR, including handling complex layouts and old scans.",
+        "artifact": "allenai/olmOCR-2-7B-1025"
+    },
+    {
+        "intent": "I want to translate text between English, Chinese, Japanese, Korean, Arabic, Estonian, Serbian (Latin), Russian, Ukrainian, Czech, Bhojpuri, and German with high fluency and accuracy.",
+        "artifact": "AIDC-AI/Marco-MT-Algharb"
+    },
+    {
+        "intent": "I want a language model that can follow instructions and generate helpful responses in a conversational format.",
+        "artifact": "mistralai/Mistral-7B-Instruct-v0.2"
+    },
+    {
+        "intent": "I want to automatically generate concise summaries of Korean text, such as articles, books, or reports.",
+        "artifact": "eenzeenee/t5-base-korean-summarization"
+    },
+    {
+        "intent": "I want a model that can understand and reason about both text and images, handling high-resolution images and following instructions in English.",
+        "artifact": "LiquidAI/LFM2-VL-3B"
+    },
+    {
+        "intent": "I want to detect whether a video or image is a deepfake.",
+        "artifact": "Naman712/Deep-fake-detection"
+    },
+    {
+        "intent": "I want to match images with relevant text descriptions or perform zero-shot image classification using natural language prompts.",
+        "artifact": "openai/clip-vit-large-patch14"
+    },
+    {
+        "intent": "I want to detect and estimate 17 human body keypoints in images, including challenging or artistic styles like paintings or sketches.",
+        "artifact": "teemosliang/SDPose-Body"
+    },
+    {
+        "intent": "I want a multilingual AI model that can follow instructions, reason logically, write code, answer questions, and understand very long texts.",
+        "artifact": "Qwen/Qwen3-30B-A3B-Instruct-2507"
+    },
+    {
+        "intent": "I want to generate 3D models or assets from text prompts.",
+        "artifact": "openai/shap-e"
+    },
+    {
+        "intent": "Intent Description: I want a lightweight chatbot model for generating conversational responses.",
+        "artifact": "HarleyCooper/nanochat-AquaRat"
+    },
+    {
+        "intent": "I want a general-purpose large language model for building chatbots or conversational AI applications.",
+        "artifact": "meta-llama/Llama-2-7b-chat-hf"
+    },
+    {
+        "intent": "I want to generate images of fictional characters in various styles and species using text prompts.",
+        "artifact": "purplesmartai/pony-v7-base"
+    },
+    {
+        "intent": "I want to generate photorealistic images of cosplay and real-world scenes with natural textures and detailed control over style, composition, and lighting.",
+        "artifact": "lrzjason/QwenImage-Rebalance"
+    },
+    {
+        "intent": "I want to generate a 3D model from a single image quickly.",
+        "artifact": "stabilityai/TripoSR"
+    },
+    {
+        "intent": "I want to classify human actions or activities in video clips.",
+        "artifact": "nateraw/videomae-base-finetuned-ucf101-subset"
+    },
+    {
+        "intent": "I want to automatically generate concise summaries of long English news articles.",
+        "artifact": "facebook/bart-large-cnn"
+    },
+    {
+        "intent": "I want to automatically place objects from white background images into realistic scenes.",
+        "artifact": "dx8152/White_to_Scene"
+    },
+    {
+        "intent": "I want to generate natural-sounding speech from text in multiple languages with support for different emotions, tones, and special vocal effects.",
+        "artifact": "fishaudio/openaudio-s1-mini"
+    },
+    {
+        "intent": "I want a large language model for code generation, function calling, and agentic workflows that is memory-efficient and suitable for deployment in resource-constrained environments.",
+        "artifact": "cerebras/GLM-4.6-REAP-218B-A32B-FP8"
+    },
+    {
+        "intent": "I want to automatically detect multiple chest conditions, such as pneumonia and pleural effusion, from X-ray images for research or educational purposes.",
+        "artifact": "itsomk/chexpert-densenet121"
+    },
+    {
+        "intent": "I want a general-purpose large language model for tasks like text generation, summarization, and question answering.",
+        "artifact": "meta-llama/Llama-2-7b-hf"
+    },
+    {
+        "intent": "I want to generate original music tracks from text descriptions, remix songs, or perform style transfer for music production.",
+        "artifact": "ACE-Step/ACE-Step-v1-3.5B"
+    },
+    {
+        "intent": "I want to automatically split multilingual text into semantically meaningful segments for use in retrieval-augmented generation or embedding-based retrieval systems.",
+        "artifact": "mirth/chonky_mmbert_small_multilingual_1"
+    },
+    {
+        "intent": "I want a multilingual AI assistant that can follow instructions, handle long conversations, generate code, solve math problems, and work with structured data like tables and JSON.",
+        "artifact": "Qwen/Qwen2.5-7B-Instruct"
+    },
+    {
+        "intent": "I want a model that can perform classification or regression on tabular data that includes text features.",
+        "artifact": "alana89/TabSTAR"
+    },
+    {
+        "intent": "I want to detect unusual patterns or anomalies in time series data.",
+        "artifact": "keras-io/timeseries-anomaly-detection"
+    },
+    {
+        "intent": "I want to generate speech in multiple languages that sounds like a specific person using a short audio sample for voice cloning.",
+        "artifact": "coqui/XTTS-v2"
+    },
+    {
+        "intent": "I want a compact open-source model that can handle complex coding tasks, automate developer workflows, and act as an intelligent agent for tool use, web browsing, and multi-step problem solving.",
+        "artifact": "MiniMaxAI/MiniMax-M2"
+    },
+    {
+        "intent": "I want a multilingual language model that can follow instructions, answer questions, write creatively, solve math and science problems, and help with coding tasks, especially for long-context inputs.",
+        "artifact": "Qwen/Qwen3-4B-Instruct-2507"
+    },
+    {
+        "intent": "I want to estimate detailed human body keypoints, including both standard and anatomical markers, from images for motion analysis or biomechanics applications.",
+        "artifact": "stanfordmimi/synthpose-vitpose-base-hf"
+    },
+    {
+        "intent": "I want a language model that can handle long conversations, support both fast and detailed reasoning, and interact with external tools or agents.",
+        "artifact": "deepseek-ai/DeepSeek-V3.1"
+    },
+    {
+        "intent": "I want to generate image embeddings for tasks like image search or multimodal retrieval with text and images.",
+        "artifact": "nomic-ai/nomic-embed-vision-v1.5"
+    },
+    {
+        "intent": "I want to detect emotions like happy, sad, or angry from English speech recordings.",
+        "artifact": "ehcalabres/wav2vec2-lg-xlsr-en-speech-emotion-recognition"
+    },
+    {
+        "intent": "I want to generate high-quality images from detailed text prompts, including accurate typography and complex scene descriptions.",
+        "artifact": "stabilityai/stable-diffusion-3.5-large"
+    },
+    {
+        "intent": "I want to rank search results or documents by how relevant they are to a user’s query in multiple languages.",
+        "artifact": "BAAI/bge-reranker-v2-m3"
+    },
+    {
+        "intent": "I want to detect and classify emotions like joy, anger, sadness, and surprise in English text.",
+        "artifact": "j-hartmann/emotion-english-distilroberta-base"
+    },
+    {
+        "intent": "I want a language model that can handle very long inputs, generate high-quality code, perform advanced reasoning, and integrate with agent frameworks for tool use.",
+        "artifact": "zai-org/GLM-4.6-FP8"
+    },
+    {
+        "intent": "I want to detect whether an audio recording contains a synthetic or artificially generated voice.",
+        "artifact": "MattyB95/AST-ASVspoof5-Synthetic-Voice-Detection"
+    },
+    {
+        "intent": "I want to generate full-length songs from lyrics and a short audio style prompt.",
+        "artifact": "CypressYang/SongBloom"
+    },
+    {
+        "intent": "I want a model that can understand and reason over both text and images or videos, perform OCR in multiple languages, recognize objects and scenes, generate code or diagrams from visuals, and handle long documents or videos for tasks like answering questions, extracting information, or automating GUI interactions.",
+        "artifact": "Qwen/Qwen3-VL-4B-Instruct"
+    },
+    {
+        "intent": "I want a text-to-image model that works efficiently on various GPUs, including older hardware.",
+        "artifact": "spooknik/Fluxmania-SVDQ"
+    },
+    {
+        "intent": "Intent Description: I want a model that can understand and reason over both text and images or videos, perform complex visual tasks like GUI automation, generate code from visuals, recognize diverse objects and text in multiple languages, and handle long documents or extended video content.",
+        "artifact": "Qwen/Qwen3-VL-32B-Thinking"
+    },
+    {
+        "intent": "I want to generate high-quality images from text prompts using an open-source model.",
+        "artifact": "black-forest-labs/FLUX.1-dev"
+    },
+    {
+        "intent": "I want to search and retrieve technical documents in multiple languages using screenshots that contain text, images, and layout.",
+        "artifact": "racineai/QwenAmann-4B-dse"
+    },
+    {
+        "intent": "I want to detect and classify multiple emotions expressed in English text, including cases where more than one emotion is present.",
+        "artifact": "SamLowe/roberta-base-go_emotions"
+    },
+    {
+        "intent": "I want to automatically detect and extract tables, charts, infographics, titles, headers, footers, and text from document pages for enterprise document analysis and processing.",
+        "artifact": "nvidia/nemoretriever-page-elements-v3"
+    },
+    {
+        "intent": "I want to generate sentence embeddings for Vietnamese text to improve search and document retrieval.",
+        "artifact": "AITeamVN/Vietnamese_Embedding_v2"
+    },
+    {
+        "intent": "I want a compact language model for efficient on-device tasks like question answering, summarization, and tool use, with support for long context windows.",
+        "artifact": "facebook/MobileLLM-Pro"
+    },
+    {
+        "intent": "I want a language model that can understand and generate code, handle very long programming contexts, and assist with repository-scale coding tasks.",
+        "artifact": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF"
+    },
+    {
+        "intent": "I want to detect emotions in speech audio files.",
+        "artifact": "speechbrain/emotion-recognition-wav2vec2-IEMOCAP"
+    },
+    {
+        "intent": "I want a language model that can generate text, perform reasoning, and handle agent-like tasks such as function calling or code execution, with the flexibility to run locally and be fine-tuned for my specific use case.",
+        "artifact": "openai/gpt-oss-20b"
+    },
+    {
+        "intent": "I want a general-purpose language model for tasks like text generation, summarization, and question answering.",
+        "artifact": "meta-llama/Llama-3.2-3B-Instruct"
+    },
+    {
+        "intent": "I want to generate a sequence of images that visually tell a story, with each frame smoothly transitioning to the next like scenes in a movie.",
+        "artifact": "lovis93/next-scene-qwen-image-lora-2509"
+    },
+    {
+        "intent": "I want a model that can reason about and generate step-by-step actions for a robot to perform manipulation tasks based on visual and textual instructions.",
+        "artifact": "allenai/MolmoAct-7B-D-0812"
+    },
+    {
+        "intent": "I want a language model that can perform complex, multi-step research tasks and answer deep information-seeking questions.",
+        "artifact": "Alibaba-NLP/Tongyi-DeepResearch-30B-A3B"
+    },
+    {
+        "intent": "I want a multilingual base language model for generating and understanding long-form text, code, and structured data.",
+        "artifact": "Qwen/Qwen2.5-0.5B"
+    },
+    {
+        "intent": "I want a general-purpose language model for generating and understanding text, suitable for building chatbots or other natural language applications.",
+        "artifact": "meta-llama/Meta-Llama-3-8B-Instruct"
+    },
+    {
+        "intent": "I want a compact language model that can follow instructions, handle long contexts, and perform strong reasoning tasks like math and logic, suitable for multilingual applications and resource-limited environments.",
+        "artifact": "microsoft/Phi-4-mini-instruct"
+    },
+    {
+        "intent": "I want to translate text between English and Japanese using a large language model.",
+        "artifact": "pfnet/plamo-2-translate"
+    },
+    {
+        "intent": "I want a multilingual large language model for building chatbots, AI agents, or RAG systems that can handle long context and follow instructions in multiple languages.",
+        "artifact": "nvidia/Nemotron-H-4B-Instruct-128K"
+    },
+    {
+        "intent": "I want to extract and understand text, tables, forms, and math notation from scanned documents or PDFs, including complex layouts and European languages.",
+        "artifact": "lightonai/LightOnOCR-1B-1025"
+    },
+    {
+        "intent": "I want to automatically identify human actions in short video clips.",
+        "artifact": "nateraw/videomae-base-finetuned-ucf101"
+    },
+    {
+        "intent": "I want a model that can generate embeddings for both text and images to enable cross-modal retrieval and search, especially for English and Vietnamese content.",
+        "artifact": "5CD-AI/Vintern-Embedding-1B"
+    },
+    {
+        "intent": "I want to detect whether financial news or reports express positive, negative, or neutral sentiment.",
+        "artifact": "ProsusAI/finbert"
+    },
+    {
+        "intent": "I want a multilingual model that can understand both text and images and generate text responses for tasks like question answering, summarization, and reasoning, with support for long input contexts and efficient deployment on resource-limited devices.",
+        "artifact": "google/gemma-3-1b-it"
+    },
+    {
+        "intent": "I want a language model that can generate detailed and uncensored creative writing, including fiction, storytelling, and roleplay, with customizable prose style and context length.",
+        "artifact": "DavidAU/L3.2-Rogue-Creative-Instruct-Uncensored-Abliterated-7B-GGUF"
+    },
+    {
+        "intent": "I want a chatbot that can answer questions and provide information about medical topics using a comprehensive medical reference.",
+        "artifact": "ThisIs-Developer/Llama-2-GGML-Medical-Chatbot"
+    },
+    {
+        "intent": "I want a multilingual language model that can handle complex reasoning, follow instructions, generate code, and support agent-based tasks and long conversations.",
+        "artifact": "Qwen/Qwen3-8B"
+    },
+    {
+        "intent": "I want to extract the underlying data from images of charts or plots for further analysis or question answering.",
+        "artifact": "google/deplot"
+    },
+    {
+        "intent": "I want to generate object segmentation masks in images using prompts like points or bounding boxes.",
+        "artifact": "facebook/sam-vit-base"
+    },
+    {
+        "intent": "I want a conversational AI model that can generate helpful and natural responses in English for chat applications.",
+        "artifact": "HuggingFaceH4/zephyr-7b-beta"
+    },
+    {
+        "intent": "I want a model that can control a Franka robot arm to perform tasks based on visual input and natural language instructions.",
+        "artifact": "INSAIT-Institute/spear1-franka"
+    },
+    {
+        "intent": "I want to generate and edit images from text prompts, with accurate text rendering in both English and Chinese.",
+        "artifact": "Qwen/Qwen-Image"
+    },
+    {
+        "intent": "I want to generate accurate, high-resolution depth maps from a single image without needing camera information.",
+        "artifact": "apple/DepthPro"
+    },
+    {
+        "intent": "I want a model that can understand and reason over both text and images or videos, extract information from visual content, perform OCR in multiple languages, and assist with tasks like GUI automation, code generation from visuals, and spatial or temporal analysis.",
+        "artifact": "Qwen/Qwen3-VL-32B-Instruct"
+    },
+    {
+        "intent": "I want a code generation model that can run efficiently on my hardware using llama.cpp quantized formats.",
+        "artifact": "bartowski/cerebras_Qwen3-Coder-REAP-25B-A3B-GGUF"
+    },
+    {
+        "intent": "I want to estimate detailed human body keypoints from images for motion capture or biomechanical analysis.",
+        "artifact": "stanfordmimi/synthpose-vitpose-huge-hf"
+    },
+    {
+        "intent": "I want to automatically identify when different people are speaking in an audio recording and segment the audio by speaker.",
+        "artifact": "pyannote/speaker-diarization-community-1"
+    },
+    {
+        "intent": "I want to generate explorable 3D worlds with 360-degree panoramic views from text or image prompts.",
+        "artifact": "Skywork/Matrix-3D"
+    },
+    {
+        "intent": "I want to rerank search results to improve the relevance of retrieved documents across domains like finance, legal, code, STEM, medical, and conversational data.",
+        "artifact": "zeroentropy/zerank-1"
+    },
+    {
+        "intent": "I want an open-source large language model for reasoning, agent tasks, and function calling that I can run locally, fine-tune, and use for custom applications.",
+        "artifact": "unsloth/gpt-oss-20b-GGUF"
+    },
+    {
+        "intent": "I want to automatically identify and separate speech segments by speaker in audio recordings with up to four speakers.",
+        "artifact": "nvidia/diar_sortformer_4spk-v1"
+    },
+    {
+        "intent": "I want an efficient model for editing images based on text instructions, suitable for use on a variety of GPUs.",
+        "artifact": "nunchaku-tech/nunchaku-qwen-image-edit-2509"
+    },
+    {
+        "intent": "I want to generate detailed pixel-wise predictions for images using a diffusion-based model.",
+        "artifact": "jingheya/lotus-depth-d-v1-1"
+    },
+    {
+        "intent": "I want a model that enables robots to understand visual scenes, interpret language instructions, and perform actions based on those inputs.",
+        "artifact": "InternRobotics/InternVLA-M1"
+    },
+    {
+        "intent": "I want a language model that can generate text and compose content based on given instructions.",
+        "artifact": "internlm/internlm-xcomposer2d5-ol-7b"
+    },
+    {
+        "intent": "I want a model that controls two robot arms to pick up and transfer a cube in a simulated environment.",
+        "artifact": "lerobot/act_aloha_sim_transfer_cube_human"
+    },
+    {
+        "intent": "I want to generate a textured 3D mesh of an object from a single image for use in game development or rendering.",
+        "artifact": "stabilityai/stable-fast-3d"
+    },
+    {
+        "intent": "I want to detect and describe keypoints in images for tasks like image matching or homography estimation.",
+        "artifact": "magic-leap-community/superpoint"
+    },
+    {
+        "intent": "I want to detect when speech occurs and identify which speakers are talking, including cases where multiple people speak at the same time, in short audio clips.",
+        "artifact": "pyannote/segmentation-3.0"
+    },
+    {
+        "intent": "I want to generate realistic English dialogue audio from transcripts, including control over speaker emotion, tone, and nonverbal sounds like laughter or coughing, and optionally clone voices using audio prompts.",
+        "artifact": "nari-labs/Dia-1.6B"
+    },
+    {
+        "intent": "I want to classify images into one of 1,000 common categories using a pretrained model.",
+        "artifact": "microsoft/resnet-50"
+    },
+    {
+        "intent": "I want to generate high-quality embeddings for Japanese text for tasks like semantic search, clustering, or classification.",
+        "artifact": "cl-nagoya/ruri-v3-310m"
+    },
+    {
+        "intent": "I want a large language model for code generation, function calling, and agentic workflows that is memory-efficient and suitable for resource-constrained deployments.",
+        "artifact": "cerebras/GLM-4.5-Air-REAP-82B-A12B"
+    },
+    {
+        "intent": "I want a chatbot that can understand and answer questions about both images and videos.",
+        "artifact": "llava-hf/LLaVA-NeXT-Video-7B-hf"
+    },
+    {
+        "intent": "I want a general-purpose large language model for tasks like text generation, summarization, and question answering.",
+        "artifact": "meta-llama/Meta-Llama-3-8B"
+    },
+    {
+        "intent": "I want a model that can interpret and generate images or descriptions based on camera viewpoints, enabling tasks like cross-view scene understanding, spatial imagination, and photography guidance.",
+        "artifact": "KangLiao/Puffin"
+    },
+    {
+        "intent": "I want to generate images from text prompts using a diffusion-based model.",
+        "artifact": "stabilityai/stable-diffusion-xl-base-1.0"
+    },
+    {
+        "intent": "I want a code generation model that can handle large codebases, understand long contexts, and support tool use and function calling for agentic coding tasks.",
+        "artifact": "Qwen/Qwen3-Coder-30B-A3B-Instruct"
+    },
+    {
+        "intent": "I want to automatically identify song sections and transcribe lyrics from audio recordings.",
+        "artifact": "tencent/SongPrep-7B"
+    },
+    {
+        "intent": "I want a model that can answer questions about video content and generate captions for videos.",
+        "artifact": "DAMO-NLP-SG/VideoLLaMA2-7B"
+    },
+    {
+        "intent": "I want a compact English language model for generating text, answering questions, and summarizing content that can run on devices with limited resources.",
+        "artifact": "google/gemma-2b-it"
+    },
+    {
+        "intent": "I want a language model that can efficiently handle long text inputs using sparse attention for tasks like reasoning, question answering, and code generation.",
+        "artifact": "deepseek-ai/DeepSeek-V3.2-Exp"
+    },
+    {
+        "intent": "I want a fast, lightweight text-to-speech model that can be used in production or personal projects and supports multiple languages and voices.",
+        "artifact": "hexgrad/Kokoro-82M"
+    },
+    {
+        "intent": "Intent Description: I want a model that can understand and generate text and analyze images or videos, perform visual reasoning, recognize objects and text in multiple languages, and interact with graphical user interfaces for tasks like coding or tool invocation.",
+        "artifact": "Qwen/Qwen3-VL-235B-A22B-Instruct"
+    },
+    {
+        "intent": "Intent Description: I want a language model that can generate code, solve math problems, and handle complex reasoning tasks efficiently, with support for tool use and agent-based workflows.",
+        "artifact": "inclusionAI/LLaDA2.0-flash-preview"
+    },
+    {
+        "intent": "I want to generate text embeddings for Russian and English sentences to perform tasks like semantic search, paraphrase detection, sentiment analysis, topic classification, and textual entailment.",
+        "artifact": "ai-forever/FRIDA"
+    },
+    {
+        "intent": "I want to detect and track human face, hands, and torso positions in real-time images or video on mobile devices.",
+        "artifact": "qualcomm/MediaPipe-Pose-Estimation"
+    },
+    {
+        "intent": "I want to detect when speech starts and ends in audio recordings.",
+        "artifact": "funasr/fsmn-vad-onnx"
+    },
+    {
+        "intent": "I want to automatically route user queries to the most suitable language model based on the query’s topic and intended action, using customizable domain and action preferences.",
+        "artifact": "katanemo/Arch-Router-1.5B"
+    },
+    {
+        "intent": "I want a model that can understand and respond to text, images, and audio in multiple languages for tasks like conversation, question answering, translation, and visual or speech analysis.",
+        "artifact": "microsoft/Phi-4-multimodal-instruct"
+    },
+    {
+        "intent": "I want to generate high-quality, aesthetically pleasing images from text prompts for creative or artistic projects.",
+        "artifact": "black-forest-labs/FLUX.1-Krea-dev"
+    },
+    {
+        "intent": "I want a model that can understand and reason about both text and images or videos, extract information from visual content, perform OCR in multiple languages, and generate code or structured data from visual inputs.",
+        "artifact": "Qwen/Qwen3-VL-32B-Instruct-FP8"
+    },
+    {
+        "intent": "I want a lightweight model that can understand both text and images, generate text responses, and handle tasks like question answering, summarization, and reasoning in multiple languages, suitable for use on devices with limited resources.",
+        "artifact": "google/gemma-3-270m"
+    },
+    {
+        "intent": "I want to transcribe English speech to text with punctuation and capitalization, and also be able to summarize or answer questions about the transcript.",
+        "artifact": "nvidia/canary-qwen-2.5b"
+    },
+    {
+        "intent": "I want to generate realistic, multi-speaker conversational audio from text for long-form content like podcasts.",
+        "artifact": "microsoft/VibeVoice-1.5B"
+    },
+    {
+        "intent": "I want to estimate high-resolution, accurate depth maps from images using LiDAR data as a prompt, for applications like 3D reconstruction or robotic grasping.",
+        "artifact": "depth-anything/prompt-depth-anything-vitl-hf"
+    },
+    {
+        "intent": "I want a model that can estimate the poses of objects or assemble shapes from unaligned or noisy 3D point clouds.",
+        "artifact": "gradient-spaces/Rectified-Point-Flow"
+    },
+    {
+        "intent": "I want a large language model for generating and understanding natural language text that I can use for building chatbots, virtual assistants, or other AI applications.",
+        "artifact": "meta-llama/Llama-3.3-70B-Instruct"
+    },
+    {
+        "intent": "I want to convert documents containing both images and text into structured formats like HTML or Markdown, accurately recognizing elements such as mathematical equations and document structure.",
+        "artifact": "ibm-granite/granite-docling-258M"
+    },
+    {
+        "intent": "I want to generate high-quality speech audio from text using an efficient 8-bit quantized model that works on GPUs with limited VRAM.",
+        "artifact": "FabioSarracino/VibeVoice-Large-Q8"
+    },
+    {
+        "intent": "I want a model that can automatically answer NEET-style multiple-choice biology questions by selecting the correct option.",
+        "artifact": "Neural-Hacker/NEET_BioBERT"
+    },
+    {
+        "intent": "I want to generate vector embeddings for sentences or paragraphs to use in tasks like semantic search or clustering.",
+        "artifact": "sentence-transformers/all-MiniLM-L6-v2"
+    },
+    {
+        "intent": "I want a resource-efficient text-to-image diffusion model that can quickly generate high-quality 512px images from prompts.",
+        "artifact": "amd/Nitro-E"
+    },
+    {
+        "intent": "I want to identify overlapping or duplicate content within text data.",
+        "artifact": "LeeHarrold/detect_overlap_model"
+    },
+    {
+        "intent": "I want a large open-weight language model for advanced reasoning, agentic tasks like function calling and code execution, and general-purpose text generation that can run on a single high-memory GPU.",
+        "artifact": "openai/gpt-oss-120b"
+    },
+    {
+        "intent": "I want to generate realistic images from text descriptions.",
+        "artifact": "stable-diffusion-v1-5/stable-diffusion-v1-5"
+    },
+    {
+        "intent": "I want to generate images based on spatial or layout information.",
+        "artifact": "manycore-research/SpatialGen-1.0"
+    },
+    {
+        "intent": "I want a language model that understands cybersecurity concepts and terminology for tasks like threat detection, vulnerability assessment, incident report summarization, and building AI-powered security tools.",
+        "artifact": "fdtn-ai/Foundation-Sec-8B"
+    },
+    {
+        "intent": "I want to generate descriptive captions for user interface widgets from images.",
+        "artifact": "google/pix2struct-widget-captioning-large"
+    },
+    {
+        "intent": "I want a compact, open-source language model that can handle long documents, support multiple languages, and follow instructions for tasks like reasoning, coding, and answering questions.",
+        "artifact": "HuggingFaceTB/SmolLM3-3B"
+    },
+    {
+        "intent": "I want a language model that can handle long context windows, generate and understand code, perform advanced reasoning, and support agent-based tasks and tool use.",
+        "artifact": "unsloth/GLM-4.6-GGUF"
+    },
+    {
+        "intent": "I want to generate realistic user responses for testing and evaluating conversational AI assistants.",
+        "artifact": "microsoft/UserLM-8b"
+    },
+    {
+        "intent": "I want a quantized version of the GLM-4.5-Air-REAP-82B-A12B large language model that can run efficiently with llama.cpp or LM Studio on different hardware configurations.",
+        "artifact": "bartowski/cerebras_GLM-4.5-Air-REAP-82B-A12B-GGUF"
+    },
+    {
+        "intent": "I want to edit or combine multiple images, such as people, products, or scenes, and make consistent changes to faces, objects, or text in the images.",
+        "artifact": "Qwen/Qwen-Image-Edit-2509"
+    },
+    {
+        "intent": "I want to generate synthetic instruction-following data from long and high-resolution videos to improve video understanding models.",
+        "artifact": "TIGER-Lab/VISTA-Mantis"
+    },
+    {
+        "intent": "I want a model that can answer questions about the content of images.",
+        "artifact": "Salesforce/blip-vqa-base"
+    },
+    {
+        "intent": "I want to generate interactive 3D environments from text descriptions or images.",
+        "artifact": "tencent/HunyuanWorld-1"
+    },
+    {
+        "intent": "I want a model that can understand and describe content from video, audio, images, and text in a single system.",
+        "artifact": "nvidia/omnivinci"
+    },
+    {
+        "intent": "I want to generate 3D models or assets from text descriptions.",
+        "artifact": "tencent/Hunyuan3D-1"
+    },
+    {
+        "intent": "I want to generate high-resolution, textured 3D models from images or custom mesh inputs.",
+        "artifact": "tencent/Hunyuan3D-2"
+    },
+    {
+        "intent": "I want a model that can quickly edit images or generate new images from text prompts, with support for both safe-for-work and not-safe-for-work content.",
+        "artifact": "Phr00t/Qwen-Image-Edit-Rapid-AIO"
+    },
+    {
+        "intent": "I want to generate multilingual sentence embeddings for tasks like semantic search or clustering.",
+        "artifact": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+    },
+    {
+        "intent": "I want to search and retrieve documents or product information across multiple languages using semantic search, for applications like multilingual e-commerce, enterprise knowledge assistants, or on-device file retrieval.",
+        "artifact": "LiquidAI/LFM2-ColBERT-350M"
+    },
+    {
+        "intent": "I want a language model that can help generate and analyze offensive cybersecurity scenarios, including vulnerability assessments, exploit reasoning, red-team plans, and attack trace summaries, while enforcing safety constraints.",
+        "artifact": "AlicanKiraz0/Cybersecurity-BaronLLM_Offensive_Security_LLM_Q6_K_GGUF"
+    },
+    {
+        "intent": "I want a memory-efficient large language model for code generation, function calling, and agentic coding tasks that can be deployed easily in resource-constrained environments.",
+        "artifact": "cerebras/Qwen3-Coder-REAP-25B-A3B"
+    },
+    {
+        "intent": "Intent Description: I want a model that can understand and reason over both text and images or videos, perform complex visual tasks like GUI interaction and coding from visuals, handle long documents and videos, recognize a wide range of objects and text in multiple languages, and provide detailed multimodal analysis and answers.",
+        "artifact": "Qwen/Qwen3-VL-8B-Thinking"
+    },
+    {
+        "intent": "I want a language model that can handle long context documents, generate and understand code, perform advanced reasoning, and support integration with agent frameworks and tool use.",
+        "artifact": "zai-org/GLM-4.6"
+    },
+    {
+        "intent": "I want a transformer-based model for processing and classifying video data.",
+        "artifact": "google/vivit-b-16x2-kinetics400"
+    },
+    {
+        "intent": "I want a pretrained Vision Transformer model for extracting image features that I can use for downstream computer vision tasks.",
+        "artifact": "facebook/dinov2-base"
+    },
+    {
+        "intent": "I want to identify and separate who is speaking in real-time audio streams with up to four speakers.",
+        "artifact": "nvidia/diar_streaming_sortformer_4spk-v2"
+    },
+    {
+        "intent": "I want to automatically remove backgrounds from images for use in e-commerce, advertising, or content creation.",
+        "artifact": "briaai/RMBG-1.4"
+    },
+    {
+        "intent": "I want to edit images to improve their visual quality, consistency, and realism while preserving details and structure across various subjects like portraits, products, and environments.",
+        "artifact": "valiantcat/Qwen-Image-Edit-MeiTu"
+    },
+    {
+        "intent": "I want to generate text summaries that describe the information shown in charts or plots.",
+        "artifact": "google/matcha-chart2text-pew"
+    },
+    {
+        "intent": "I want a language model that can handle complex reasoning, solve math and science problems, write code, follow instructions, and process very long text inputs.",
+        "artifact": "Qwen/Qwen3-4B-Thinking-2507"
+    },
+    {
+        "intent": "I want to extract and recognize text, tables, formulas, and layout elements from multilingual document images, preserving reading order and structure.",
+        "artifact": "rednote-hilab/dots.ocr"
+    },
+    {
+        "intent": "I want to automatically detect and filter out NSFW or explicit images from user-uploaded content.",
+        "artifact": "Falconsai/nsfw_image_detection"
+    },
+    {
+        "intent": "I want to translate text directly between any two of 50 different languages.",
+        "artifact": "facebook/mbart-large-50-many-to-many-mmt"
+    },
+    {
+        "intent": "I want to simulate and predict Atari game environments using visual world models.",
+        "artifact": "eloialonso/diamond"
+    },
+    {
+        "intent": "I want to estimate the absolute depth of objects in indoor images.",
+        "artifact": "depth-anything/Depth-Anything-V2-Metric-Indoor-Small-hf"
+    },
+    {
+        "intent": "I want to generate high-quality, long videos from text prompts, images, or by continuing existing videos.",
+        "artifact": "meituan-longcat/LongCat-Video"
+    },
+    {
+        "intent": "I want a multilingual model to generate text embeddings and perform dense, sparse, or hybrid retrieval for both short and long documents.",
+        "artifact": "BAAI/bge-m3"
+    },
+    {
+        "intent": "I want a lightweight model that can process and generate text, images, and audio on mobile or edge devices.",
+        "artifact": "google/gemma-3n-E4B-it-litert-lm"
+    },
+    {
+        "intent": "I want to convert audio recordings into accurate text transcriptions or translate spoken language from audio files.",
+        "artifact": "openai/whisper-large-v3"
+    },
+    {
+        "intent": "I want a compact language model that can handle reasoning, coding, and intelligent agent tasks efficiently.",
+        "artifact": "zai-org/GLM-4.5-Air"
+    },
+    {
+        "intent": "I want a general-purpose language model for generating and understanding text.",
+        "artifact": "meta-llama/Llama-3.2-1B"
+    },
+    {
+        "intent": "I want a language model that can handle very long inputs and perform complex reasoning, including logic, math, science, and coding tasks.",
+        "artifact": "Qwen/Qwen3-30B-A3B-Thinking-2507"
+    },
+    {
+        "intent": "I want a language model that can efficiently process and generate long-form text with high speed and accuracy, supporting very large context windows.",
+        "artifact": "inclusionAI/Ring-flash-linear-2.0-128k"
+    },
+    {
+        "intent": "I want a Russian-language large language model for generating text, answering questions, and following instructions, optimized for both Russian and English.",
+        "artifact": "AvitoTech/avibe"
+    },
+    {
+        "intent": "I want to estimate depth or generate disparity maps from images.",
+        "artifact": "jingheya/lotus-depth-g-v2-1-disparity"
+    },
+    {
+        "intent": "I want a large language model for tasks like reasoning, coding, and building intelligent agents.",
+        "artifact": "zai-org/GLM-4.5"
+    },
+    {
+        "intent": "I want to perform interactive segmentation on images or videos using Core ML, allowing users to select and segment any object.",
+        "artifact": "apple/coreml-sam2.1-tiny"
+    },
+    {
+        "intent": "I want to detect and segment speech regions, including overlapping speakers, in audio recordings.",
+        "artifact": "pyannote/segmentation"
+    },
+    {
+        "intent": "I want a multilingual text embedding model for tasks like semantic search, document retrieval, reranking, or text classification, including support for cross-lingual applications and integration into Retrieval-Augmented Generation systems.",
+        "artifact": "nvidia/llama-embed-nemotron-8b"
+    },
+    {
+        "intent": "I want to detect and estimate human body joint positions in images for pose analysis.",
+        "artifact": "usyd-community/vitpose-plus-base"
+    },
+    {
+        "intent": "I want to match images with relevant text descriptions or perform zero-shot image classification using natural language prompts.",
+        "artifact": "openai/clip-vit-base-patch32"
+    },
+    {
+        "intent": "I want a text-to-image model that can generate images from prompts and is optimized for different GPU types.",
+        "artifact": "spooknik/Jib-Mix-Flux-SVDQ"
+    },
+    {
+        "intent": "I want a model that can edit images using text prompts, including support for NSFW content.",
+        "artifact": "Phil2Sat/Qwen-Image-Edit-Rapid-AIO-GGUF"
+    },
+    {
+        "intent": "I want a compact language model that can solve math, coding, and reasoning tasks with strong performance.",
+        "artifact": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"
+    },
+    {
+        "intent": "I want to detect positive, neutral, or negative sentiment in text across multiple languages.",
+        "artifact": "lxyuan/distilbert-base-multilingual-cased-sentiments-student"
+    },
+    {
+        "intent": "I want to classify images and text together for multimodal tasks.",
+        "artifact": "HFatemeH/vilt_finetuned_200"
+    },
+    {
+        "intent": "I want a model that lets a robot understand visual scenes and follow language instructions to perform actions.",
+        "artifact": "lerobot/smolvla_base"
+    },
+    {
+        "intent": "I want to retrieve and compare information across text, images, audio, and video using a single model that supports multimodal search and embedding.",
+        "artifact": "nvidia/omni-embed-nemotron-3b"
+    },
+    {
+        "intent": "I want to automatically generate concise summaries of medical documents, research papers, or clinical notes.",
+        "artifact": "Falconsai/medical_summarization"
+    },
+    {
+        "intent": "I want a curated collection of essential models and workflows for image generation, editing, and control in ComfyUI.",
+        "artifact": "MaxedOut/ComfyUI-Starter-Packs"
+    },
+    {
+        "intent": "I want to detect and estimate detailed human body, face, hand, and foot keypoints in high-resolution images.",
+        "artifact": "facebook/sapiens-pose-1b"
+    },
+    {
+        "intent": "I want to generate high-quality, photorealistic images from text prompts using an open-source model.",
+        "artifact": "tencent/HunyuanImage-3.0"
+    },
+    {
+        "intent": "I want a quantized large language model for general-purpose text generation and understanding.",
+        "artifact": "noctrex/GLM-4.5-Air-REAP-82B-A12B-MXFP4_MOE-GGUF"
+    },
+    {
+        "intent": "I want to generate segmentation masks for any object in an image using prompts like points or bounding boxes.",
+        "artifact": "facebook/sam-vit-large"
+    },
+    {
+        "intent": "I want a large language model that generates uncensored, creative, and unrestricted text for a wide range of applications.",
+        "artifact": "DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf"
+    },
+    {
+        "intent": "I want a model that can understand complex instructions, perform advanced reasoning, and generate high-quality front-end code and visually appealing outputs.",
+        "artifact": "inclusionAI/Ling-1T"
+    },
+    {
+        "intent": "I want to recognize specific spoken commands from audio recordings.",
+        "artifact": "Xenova/ast-finetuned-speech-commands-v2"
+    },
+    {
+        "intent": "I want to identify and classify names of people, organizations, locations, and miscellaneous entities in English text.",
+        "artifact": "dslim/bert-base-NER"
+    },
+    {
+        "intent": "I want to estimate depth maps from a single image with high detail and efficiency.",
+        "artifact": "MackinationsAi/Depth-Anything-V2_Safetensors"
+    },
+    {
+        "intent": "I want a lightweight multimodal model that can understand and interact with images and videos in both English and Chinese, and is efficient enough to run on mobile devices.",
+        "artifact": "openbmb/MiniCPM-V"
+    },
+    {
+        "intent": "I want to generate high-quality images from text prompts using a fast diffusion model compatible with the Diffusers library.",
+        "artifact": "lightx2v/Qwen-Image-Lightning"
+    },
+    {
+        "intent": "I want to extract text, including math equations and tables, from complex or scanned document images using OCR.",
+        "artifact": "allenai/olmOCR-2-7B-1025-FP8"
+    },
+    {
+        "intent": "I want a general-purpose large language model for tasks like text generation, summarization, and question answering.",
+        "artifact": "meta-llama/Llama-3.1-8B-Instruct"
+    },
+    {
+        "intent": "I want to generate segmentation masks for objects in images using JavaScript in a web application.",
+        "artifact": "Xenova/sam-vit-base"
+    },
+    {
+        "intent": "I want to automatically identify when different speakers are talking in single-channel audio recordings.",
+        "artifact": "BUT-FIT/diarizen-wavlm-large-s80-md"
+    },
+    {
+        "intent": "I want to classify English sentences as having positive or negative sentiment.",
+        "artifact": "distilbert/distilbert-base-uncased-finetuned-sst-2-english"
+    },
+    {
+        "intent": "I want to segment and track objects in complex video scenes, especially where multiple objects and challenging scenarios are involved.",
+        "artifact": "OpenIXCLab/SeC-4B"
+    },
+    {
+        "intent": "I want a language model that can follow instructions, generate code, and solve math problems for enterprise applications.",
+        "artifact": "arcee-ai/AFM-4.5B-Base"
+    },
+    {
+        "intent": "I want a model that can understand and answer questions about video content in English or Chinese.",
+        "artifact": "lmms-lab/LLaVA-Video-7B-Qwen2"
+    },
+    {
+        "intent": "I want to detect and track detailed human body, hand, face, and foot keypoints in images, including in artistic or out-of-domain styles.",
+        "artifact": "teemosliang/SDPose-Wholebody"
+    },
+    {
+        "intent": "I want to generate natural-sounding speech from text on my local device, with the ability to instantly clone a speaker’s voice using a short audio sample.",
+        "artifact": "neuphonic/neutts-air"
+    },
+    {
+        "intent": "I want a pretrained model to forecast future values in time series data.",
+        "artifact": "google/timesfm-2.5-200m-pytorch"
+    },
+    {
+        "intent": "I want a lightweight conversational AI model for building chatbots that can run efficiently on limited hardware.",
+        "artifact": "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+    },
+    {
+        "intent": "I want a model that can search the live web, gather information from multiple sources, and generate detailed, citation-rich reports in response to complex research questions.",
+        "artifact": "FractalAIResearch/Fathom-Search-4B"
+    },
+    {
+        "intent": "I want to generate high-quality songs with both vocals and accompaniment in multiple languages.",
+        "artifact": "tencent/SongGeneration"
+    },
+    {
+        "intent": "I want a model that can perform a variety of NLP tasks like translation, summarization, question answering, and text classification using a unified text-to-text approach.",
+        "artifact": "google-t5/t5-small"
+    },
+    {
+        "intent": "I want to estimate depth maps from a single image using a fast and accurate monocular depth estimation model.",
+        "artifact": "depth-anything/Depth-Anything-V2-Large-hf"
+    },
+    {
+        "intent": "I want to predict and alert for potential collisions or near-miss threats specifically involving my own vehicle using dashcam footage.",
+        "artifact": "nexar-ai/BADAS-Open"
+    },
+    {
+        "intent": "I want a memory-efficient large language model for code generation, function calling, and agentic coding tasks that can be deployed easily in resource-constrained environments.",
+        "artifact": "cerebras/Qwen3-Coder-REAP-246B-A35B-FP8"
+    },
+    {
+        "intent": "I want a model that can understand and generate responses based on both images and text, supporting multimodal reasoning and conversation.",
+        "artifact": "internlm/Spark-VL-7B"
+    },
+    {
+        "intent": "I want to determine whether a person's voice is male or female from an audio recording.",
+        "artifact": "JaesungHuh/voice-gender-classifier"
+    },
+    {
+        "intent": "I want to shrink, optimize, and fine-tune vision and multimodal AI models for faster inference, lower memory usage, and deployment on limited hardware.",
+        "artifact": "merve/smol-vision"
+    },
+    {
+        "intent": "I want to analyze sentiment in text across multiple languages, including English, Chinese, Spanish, Arabic, and others.",
+        "artifact": "tabularisai/multilingual-sentiment-analysis"
+    },
+    {
+        "intent": "I want to generate multilingual text embeddings for tasks like text retrieval, classification, clustering, or code search.",
+        "artifact": "Qwen/Qwen3-Embedding-0.6B"
+    },
+    {
+        "intent": "I want to search and retrieve documents using both text and visual features from images or scanned pages.",
+        "artifact": "vidore/colpali"
+    },
+    {
+        "intent": "I want a language model that excels at complex reasoning, math, and coding tasks, with performance comparable to leading models like OpenAI's, and is available for open-source use.",
+        "artifact": "deepseek-ai/DeepSeek-R1"
+    },
+    {
+        "intent": "I want to convert messy or complex HTML from web pages into clean, structured JSON that matches a specific schema.",
+        "artifact": "inference-net/Schematron-3B"
+    },
+    {
+        "intent": "I want an AI assistant that can automatically handle the entire data science workflow, from data preparation to analysis, modeling, visualization, and generating research reports on various data formats.",
+        "artifact": "RUC-DataLab/DeepAnalyze-8B"
+    },
+    {
+        "intent": "I want a chat assistant that provides helpful responses while avoiding harmful or unsafe content.",
+        "artifact": "PKU-Alignment/beaver-7b-v1.0"
+    },
+    {
+        "intent": "I want to automatically detect the language of a text, including support for thousands of languages and scripts.",
+        "artifact": "cis-lmu/glotlid"
+    },
+    {
+        "intent": "I want a pretrained video model to extract features or representations for downstream tasks like video classification.",
+        "artifact": "MCG-NJU/videomae-large"
+    },
+    {
+        "intent": "I want to extract text and layout information from images or PDFs, including handwriting, tables, forms, and diagrams, and convert the results to markdown, HTML, or JSON.",
+        "artifact": "datalab-to/chandra"
+    },
+    {
+        "intent": "I want a small language model optimized for fast inference and deployment on Android, iOS, or web using LiteRT or MediaPipe.",
+        "artifact": "litert-community/Gemma3-1B-IT"
+    },
+    {
+        "intent": "I want to find answers to questions based on a given English text passage.",
+        "artifact": "distilbert/distilbert-base-cased-distilled-squad"
+    },
+    {
+        "intent": "I want to classify images into one of the 1,000 ImageNet categories using a pretrained vision transformer model.",
+        "artifact": "google/vit-base-patch16-224"
+    },
+    {
+        "intent": "I want a quantized large language model that can follow instructions and generate text for general-purpose tasks, optimized for efficient inference on GPUs or MacOS.",
+        "artifact": "lefromage/Qwen3-Next-80B-A3B-Instruct-GGUF"
+    },
+    {
+        "intent": "I want a model that can understand and reason about both text and images or videos, perform OCR in multiple languages, recognize objects and scenes, generate code or diagrams from visuals, and handle long documents or videos for tasks like answering questions, extracting information, or automating GUI interactions.",
+        "artifact": "Qwen/Qwen3-VL-2B-Thinking"
+    },
+    {
+        "intent": "I want an AI agent that can autonomously research complex topics, retrieve information from multiple sources, and synthesize accurate, well-cited answers.",
+        "artifact": "PokeeAI/pokee_research_7b"
+    },
+    {
+        "intent": "I want a multilingual language model that can handle complex reasoning, follow instructions, generate code, and support both conversational and agent-based tasks.",
+        "artifact": "Qwen/Qwen3-0.6B"
+    },
+    {
+        "intent": "Intent Description: I want a model that can understand and generate text and analyze images or videos, including recognizing objects, reading text in multiple languages, reasoning about spatial relationships, and interacting with graphical user interfaces.",
+        "artifact": "Qwen/Qwen3-VL-30B-A3B-Instruct"
+    },
+    {
+        "intent": "I want to detect and extract the structure of tables—including rows, columns, and cells—from images for use in document processing or data extraction.",
+        "artifact": "nvidia/nemoretriever-table-structure-v1"
+    },
+    {
+        "intent": "I want to find answers to questions based on a given passage of English text.",
+        "artifact": "google-bert/bert-large-uncased-whole-word-masking-finetuned-squad"
+    },
+    {
+        "intent": "I want to extract and convert text from images or documents using OCR, including formatting results as markdown.",
+        "artifact": "deepseek-ai/DeepSeek-OCR"
+    }
+]

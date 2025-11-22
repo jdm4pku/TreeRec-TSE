@@ -1,0 +1,28 @@
+{
+    "js": {
+        "num_nodes": 10550,
+        "num_leaf_nodes": 9729,
+        "num_non_leaf_nodes": 821,
+        "num_layers": 4,
+        "avg_leaf_desc_length": 62.23,
+        "avg_non_leaf_desc_length": 610.34,
+        "silhouette_coefficient": 0.0816,
+        "min_leaf_desc_length": 0,
+        "max_leaf_desc_length": 255,
+        "min_non_leaf_desc_length": 406,
+        "max_non_leaf_desc_length": 721
+    },
+    "linux": {
+        "num_nodes": 172,
+        "num_leaf_nodes": 142,
+        "num_non_leaf_nodes": 30,
+        "num_layers": 2,
+        "avg_leaf_desc_length": 56.43,
+        "avg_non_leaf_desc_length": 632.63,
+        "silhouette_coefficient": 0.1202,
+        "min_leaf_desc_length": 4,
+        "max_leaf_desc_length": 185,
+        "min_non_leaf_desc_length": 544,
+        "max_non_leaf_desc_length": 694
+    }
+}

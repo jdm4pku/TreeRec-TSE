@@ -1,0 +1,4002 @@
+[
+    {
+        "name": "postcss",
+        "description": "Tool for transforming styles with JS plugins"
+    },
+    {
+        "name": "csstype",
+        "description": "Strict TypeScript and Flow types for style based on MDN data"
+    },
+    {
+        "name": "diff",
+        "description": "A JavaScript text diff implementation."
+    },
+    {
+        "name": "mdn-data",
+        "description": "Open Web data by the Mozilla Developer Network"
+    },
+    {
+        "name": "css-tree",
+        "description": "A tool set for CSS: fast detailed parser (CSS → AST), walker (AST traversal), generator (AST → CSS) and lexer (validation and matching) based on specs and browser implementations"
+    },
+    {
+        "name": "css-select",
+        "description": "a CSS selector compiler/engine"
+    },
+    {
+        "name": "cssesc",
+        "description": "A JavaScript library for escaping CSS strings and identifiers while generating the shortest possible ASCII-only output."
+    },
+    {
+        "name": "color",
+        "description": "Color conversion and manipulation with CSS string support"
+    },
+    {
+        "name": "autoprefixer",
+        "description": "Parse CSS and add vendor prefixes to CSS rules using values from the Can I Use website"
+    },
+    {
+        "name": "color-string",
+        "description": "Parser and generator for CSS color strings"
+    },
+    {
+        "name": "nth-check",
+        "description": "Parses and compiles CSS nth-checks to highly optimized functions."
+    },
+    {
+        "name": "css.escape",
+        "description": "A robust polyfill for the `CSS.escape` utility method as defined in CSSOM."
+    },
+    {
+        "name": "postcss-modules-values",
+        "description": "PostCSS plugin for CSS Modules to pass arbitrary values between your module files"
+    },
+    {
+        "name": "nwsapi",
+        "description": "Fast CSS Selectors API Engine"
+    },
+    {
+        "name": "postcss-loader",
+        "description": "PostCSS loader for webpack"
+    },
+    {
+        "name": "css-loader",
+        "description": "css loader module for webpack"
+    },
+    {
+        "name": "clean-css",
+        "description": "A well-tested CSS minifier"
+    },
+    {
+        "name": "dom-helpers",
+        "description": "tiny modular DOM lib for ie9+"
+    },
+    {
+        "name": "mini-css-extract-plugin",
+        "description": "extracts CSS into separate files"
+    },
+    {
+        "name": "camelcase-css",
+        "description": "Convert a kebab-cased CSS property into a camelCased DOM property."
+    },
+    {
+        "name": "postcss-svgo",
+        "description": "Optimise inline SVG with PostCSS."
+    },
+    {
+        "name": "react-transition-group",
+        "description": "A react component toolset for managing animations"
+    },
+    {
+        "name": "csso",
+        "description": "CSS minifier with structural optimisations"
+    },
+    {
+        "name": "postcss-nested",
+        "description": "PostCSS plugin to unwrap nested rules like how Sass does it"
+    },
+    {
+        "name": "postcss-modules-local-by-default",
+        "description": "A CSS Modules transform to make local scope the default"
+    },
+    {
+        "name": "postcss-convert-values",
+        "description": "Convert values with PostCSS (e.g. ms -> s)"
+    },
+    {
+        "name": "icss-utils",
+        "description": "ICSS utils for postcss ast"
+    },
+    {
+        "name": "postcss-js",
+        "description": "PostCSS for CSS-in-JS and styles in JS objects"
+    },
+    {
+        "name": "@emotion/babel-plugin",
+        "description": "A recommended babel preprocessing plugin for emotion, The Next Generation of CSS-in-JS."
+    },
+    {
+        "name": "@adobe/css-tools",
+        "description": "A modern CSS parser and stringifier with TypeScript support"
+    },
+    {
+        "name": "sass",
+        "description": "A pure JavaScript implementation of Sass."
+    },
+    {
+        "name": "@csstools/css-parser-algorithms",
+        "description": "Algorithms to help you parse CSS from an array of tokens."
+    },
+    {
+        "name": "@csstools/css-calc",
+        "description": "Solve CSS math expressions"
+    },
+    {
+        "name": "classnames",
+        "description": "A simple utility for conditionally joining classNames together"
+    },
+    {
+        "name": "postcss-merge-longhand",
+        "description": "Merge longhand properties into shorthand with PostCSS."
+    },
+    {
+        "name": "text-hex",
+        "description": "Generate a hex color from the given text"
+    },
+    {
+        "name": "@csstools/css-tokenizer",
+        "description": "Tokenize CSS"
+    },
+    {
+        "name": "postcss-import",
+        "description": "PostCSS plugin to import CSS files"
+    },
+    {
+        "name": "postcss-discard-comments",
+        "description": "Discard comments in your CSS files with PostCSS."
+    },
+    {
+        "name": "postcss-unique-selectors",
+        "description": "Ensure CSS selectors are unique."
+    },
+    {
+        "name": "@csstools/color-helpers",
+        "description": "Color helpers to ease transformation between formats, gamut, etc"
+    },
+    {
+        "name": "postcss-minify-gradients",
+        "description": "Minify gradient parameters with PostCSS."
+    },
+    {
+        "name": "postcss-discard-overridden",
+        "description": "PostCSS plugin to discard overridden @keyframes or @counter-style."
+    },
+    {
+        "name": "colord",
+        "description": "👑 A tiny yet powerful tool for high-performance color manipulations and conversions"
+    },
+    {
+        "name": "html-minifier-terser",
+        "description": "Highly configurable, well-tested, JavaScript-based HTML minifier."
+    },
+    {
+        "name": "postcss-discard-duplicates",
+        "description": "Discard duplicate rules in your CSS files with PostCSS."
+    },
+    {
+        "name": "@csstools/css-color-parser",
+        "description": "Parse CSS color values"
+    },
+    {
+        "name": "kuler",
+        "description": "Color your terminal using CSS/hex color codes"
+    },
+    {
+        "name": "postcss-reduce-initial",
+        "description": "Reduce initial definitions to the actual initial value, where possible."
+    },
+    {
+        "name": "postcss-normalize-string",
+        "description": "Normalize wrapping quotes for CSS string literals."
+    },
+    {
+        "name": "postcss-minify-font-values",
+        "description": "Minify font declarations with PostCSS"
+    },
+    {
+        "name": "postcss-normalize-charset",
+        "description": "Add necessary or remove extra charset with PostCSS"
+    },
+    {
+        "name": "postcss-discard-empty",
+        "description": "Discard empty rules and values with PostCSS."
+    },
+    {
+        "name": "postcss-colormin",
+        "description": "Minify colors in your CSS files with PostCSS."
+    },
+    {
+        "name": "postcss-calc",
+        "description": "PostCSS plugin to reduce calc()"
+    },
+    {
+        "name": "tailwind-merge",
+        "description": "Merge Tailwind CSS classes without style conflicts"
+    },
+    {
+        "name": "postcss-normalize-unicode",
+        "description": "Normalize unicode-range descriptors, and can convert to wildcard ranges."
+    },
+    {
+        "name": "stylehacks",
+        "description": "Detect/remove browser hacks from CSS files."
+    },
+    {
+        "name": "postcss-ordered-values",
+        "description": "Ensure values are ordered consistently in your CSS."
+    },
+    {
+        "name": "inline-style-parser",
+        "description": "An inline style parser."
+    },
+    {
+        "name": "postcss-normalize-whitespace",
+        "description": "Trim whitespace inside and around CSS rules & declarations."
+    },
+    {
+        "name": "postcss-minify-selectors",
+        "description": "Minify selectors with PostCSS."
+    },
+    {
+        "name": "postcss-merge-rules",
+        "description": "Merge CSS rules with PostCSS."
+    },
+    {
+        "name": "style-to-object",
+        "description": "Parse CSS inline style to JavaScript object."
+    },
+    {
+        "name": "postcss-minify-params",
+        "description": "Minify at-rule params with PostCSS"
+    },
+    {
+        "name": "css-declaration-sorter",
+        "description": "Sorts CSS declarations fast and automatically in a certain order."
+    },
+    {
+        "name": "postcss-normalize-positions",
+        "description": "Normalize keyword values for position into length values."
+    },
+    {
+        "name": "postcss-normalize-url",
+        "description": "Normalize URLs with PostCSS"
+    },
+    {
+        "name": "react-style-singleton",
+        "description": "Just create a single stylesheet..."
+    },
+    {
+        "name": "cssnano",
+        "description": "A modular minifier, built on top of the PostCSS ecosystem."
+    },
+    {
+        "name": "@csstools/selector-specificity",
+        "description": "Determine selector specificity with postcss-selector-parser"
+    },
+    {
+        "name": "hast-util-parse-selector",
+        "description": "hast utility to create an element from a simple CSS selector"
+    },
+    {
+        "name": "styled-jsx",
+        "description": "Full CSS support for JSX without compromises"
+    },
+    {
+        "name": "postcss-safe-parser",
+        "description": "Fault-tolerant CSS parser for PostCSS"
+    },
+    {
+        "name": "known-css-properties",
+        "description": "List of known CSS properties"
+    },
+    {
+        "name": "resolve-url-loader",
+        "description": "Webpack loader that resolves relative paths in url() statements based on the original source file"
+    },
+    {
+        "name": "class-variance-authority",
+        "description": "Class Variance Authority 🧬"
+    },
+    {
+        "name": "postcss-color-hex-alpha",
+        "description": "Use 4 & 8 character hex color notation in CSS"
+    },
+    {
+        "name": "postcss-replace-overflow-wrap",
+        "description": "PostCSS plugin to replace overflow-wrap with word-wrap or optionally retain both declarations."
+    },
+    {
+        "name": "postcss-logical",
+        "description": "Use logical properties and values in CSS"
+    },
+    {
+        "name": "postcss-custom-media",
+        "description": "Use Custom Media Queries in CSS"
+    },
+    {
+        "name": "less",
+        "description": "Leaner CSS"
+    },
+    {
+        "name": "css-minimizer-webpack-plugin",
+        "description": "CSS minimizer (minifier) plugin for Webpack"
+    },
+    {
+        "name": "styled-components",
+        "description": "CSS for the <Component> Age. Style components your way with speed, strong typing, and flexibility."
+    },
+    {
+        "name": "css-color-keywords",
+        "description": "A list of all CSS color keywords."
+    },
+    {
+        "name": "postcss-gap-properties",
+        "description": "Use the gap, column-gap, and row-gap shorthand properties in CSS"
+    },
+    {
+        "name": "postcss-custom-properties",
+        "description": "Use Custom Properties Queries in CSS"
+    },
+    {
+        "name": "postcss-double-position-gradients",
+        "description": "Use double-position gradients in CSS"
+    },
+    {
+        "name": "postcss-custom-selectors",
+        "description": "Use Custom Selectors in CSS"
+    },
+    {
+        "name": "cssdb",
+        "description": "A list of CSS features and their positions in the process of becoming implemented web standards"
+    },
+    {
+        "name": "postcss-page-break",
+        "description": "PostCSS plugin postcss-page-break to fallback `break-` properties with `page-break-` alias"
+    },
+    {
+        "name": "postcss-color-rebeccapurple",
+        "description": "Use the rebeccapurple color keyword in CSS"
+    },
+    {
+        "name": "postcss-image-set-function",
+        "description": "Display resolution-dependent images using the image-set() function in CSS"
+    },
+    {
+        "name": "postcss-focus-within",
+        "description": "Use the :focus-within pseudo-selector in CSS"
+    },
+    {
+        "name": "postcss-nesting",
+        "description": "Nest rules inside each other in CSS"
+    },
+    {
+        "name": "postcss-font-variant",
+        "description": "PostCSS plugin to transform W3C font-variant properties to more compatible CSS  (font-feature-settings)"
+    },
+    {
+        "name": "postcss-preset-env",
+        "description": "Convert modern CSS into something browsers understand"
+    },
+    {
+        "name": "style-to-js",
+        "description": "Parses CSS inline style to JavaScript object (camelCased)."
+    },
+    {
+        "name": "bootstrap",
+        "description": "The most popular front-end framework for developing responsive, mobile first projects on the web."
+    },
+    {
+        "name": "css-blank-pseudo",
+        "description": "Style form elements when they are empty"
+    },
+    {
+        "name": "postcss-place",
+        "description": "Use a place-* shorthand for align-* and justify-* in CSS"
+    },
+    {
+        "name": "@csstools/postcss-ic-unit",
+        "description": "Use the ic length unit"
+    },
+    {
+        "name": "stylelint",
+        "description": "A mighty CSS linter that helps you avoid errors and enforce conventions."
+    },
+    {
+        "name": "css-has-pseudo",
+        "description": "Style elements relative to other elements in CSS"
+    },
+    {
+        "name": "@csstools/postcss-color-function",
+        "description": "Use the color() function in CSS"
+    },
+    {
+        "name": "@csstools/postcss-is-pseudo-class",
+        "description": "A pseudo-class for matching elements in a selector list"
+    },
+    {
+        "name": "postcss-focus-visible",
+        "description": "Use the :focus-visible pseudo-selector in CSS"
+    },
+    {
+        "name": "strip-comments",
+        "description": "Strip line and/or block comments from a string. Blazing fast, and works with JavaScript, Sass, CSS, Less.js, and a number of other languages."
+    },
+    {
+        "name": "postcss-attribute-case-insensitive",
+        "description": "Enable support for case insensitive attribute matching in selectors"
+    },
+    {
+        "name": "tailwindcss-animate",
+        "description": "A Tailwind CSS plugin for creating beautiful animations."
+    },
+    {
+        "name": "postcss-dir-pseudo-class",
+        "description": "Use the :dir pseudo-class in CSS"
+    },
+    {
+        "name": "postcss-color-functional-notation",
+        "description": "Use space and slash separated color notation in CSS"
+    },
+    {
+        "name": "@csstools/postcss-trigonometric-functions",
+        "description": "Use sin(), cos(), tan(), acos(), atan(), and atan2() to compute trigonometric relationships"
+    },
+    {
+        "name": "postcss-overflow-shorthand",
+        "description": "Use the overflow shorthand in CSS"
+    },
+    {
+        "name": "less-loader",
+        "description": "A Less loader for webpack. Compiles Less to CSS."
+    },
+    {
+        "name": "postcss-scss",
+        "description": "SCSS parser for PostCSS"
+    },
+    {
+        "name": "css-prefers-color-scheme",
+        "description": "Use light and dark color schemes in all browsers"
+    },
+    {
+        "name": "postcss-flexbugs-fixes",
+        "description": "PostCSS plugin This project tries to fix all of flexbug's issues"
+    },
+    {
+        "name": "postcss-lab-function",
+        "description": "Use lab() and lch() color functions in CSS"
+    },
+    {
+        "name": "@csstools/postcss-font-format-keywords",
+        "description": "Use unquoted format on @font-face CSS definitions."
+    },
+    {
+        "name": "@csstools/postcss-progressive-custom-properties",
+        "description": "Correctly declare progressive enhancements for CSS Custom Properties."
+    },
+    {
+        "name": "hyphenate-style-name",
+        "description": "Hyphenates a camelcased CSS property name"
+    },
+    {
+        "name": "postcss-media-minmax",
+        "description": "Using more intuitive `>=`, `<=`, `>`, `<` instead of media queries min/max prefix."
+    },
+    {
+        "name": "@csstools/postcss-stepped-value-functions",
+        "description": "Use round, rem and mod functions in CSS"
+    },
+    {
+        "name": "@csstools/postcss-hwb-function",
+        "description": "Use hwb() color functions in CSS"
+    },
+    {
+        "name": "@csstools/postcss-oklab-function",
+        "description": "Use oklab() and oklch() color functions in CSS"
+    },
+    {
+        "name": "postcss-pseudo-class-any-link",
+        "description": "Use the :any-link pseudo-class in CSS"
+    },
+    {
+        "name": "postcss-values-parser",
+        "description": "A CSS property value parser for use with PostCSS"
+    },
+    {
+        "name": "@csstools/postcss-cascade-layers",
+        "description": "Use cascade layers in CSS"
+    },
+    {
+        "name": "css-functions-list",
+        "description": "List of standard and browser specific CSS functions."
+    },
+    {
+        "name": "postcss-opacity-percentage",
+        "description": "PostCSS plugin to transform percentage-based opacity values to more compatible floating-point values."
+    },
+    {
+        "name": "css",
+        "description": "CSS parser / stringifier"
+    },
+    {
+        "name": "@csstools/media-query-list-parser",
+        "description": "Parse CSS media query lists."
+    },
+    {
+        "name": "@csstools/postcss-nested-calc",
+        "description": "Use nested calc() expressions in CSS"
+    },
+    {
+        "name": "postcss-clamp",
+        "description": "PostCSS plugin to transform clamp() to combination of min/max"
+    },
+    {
+        "name": "css-color-names",
+        "description": "A JSON Object of css color names mapped to their hex value"
+    },
+    {
+        "name": "css-select-base-adapter",
+        "description": "Provides some base functions needed by a css-select adapter so that you don't have to implement the whole thing."
+    },
+    {
+        "name": "postcss-initial",
+        "description": "PostCSS plugin to fallback initial keyword."
+    },
+    {
+        "name": "@csstools/postcss-normalize-display-values",
+        "description": "Use two values display syntax for inner and outer display types."
+    },
+    {
+        "name": "@kurkle/color",
+        "description": "css color parsing, manupulation and conversion"
+    },
+    {
+        "name": "@csstools/postcss-text-decoration-shorthand",
+        "description": "Use text-decoration in it's shorthand form in CSS"
+    },
+    {
+        "name": "css-in-js-utils",
+        "description": "Useful utility functions for CSS in JS solutions"
+    },
+    {
+        "name": "postcss-env-function",
+        "description": "Use env() variables in CSS"
+    },
+    {
+        "name": "sanitize.css",
+        "description": "A best-practices CSS foundation"
+    },
+    {
+        "name": "postcss-normalize",
+        "description": "Use the parts of normalize.css or sanitize.css you need from your browserslist"
+    },
+    {
+        "name": "icss-replace-symbols",
+        "description": "Replacing symbols during the linking phase of ICSS"
+    },
+    {
+        "name": "postcss-browser-comments",
+        "description": "Keep only the CSS you need based on comments and your browserslist"
+    },
+    {
+        "name": "cssfilter",
+        "description": "Sanitize untrusted CSS with a configuration specified by a Whitelist. 根据白名单过滤CSS"
+    },
+    {
+        "name": "style-search",
+        "description": "Search CSS(-like) strings"
+    },
+    {
+        "name": "stylelint-scss",
+        "description": "A collection of SCSS-specific rules for Stylelint"
+    },
+    {
+        "name": "html-minifier",
+        "description": "Highly configurable, well-tested, JavaScript-based HTML minifier."
+    },
+    {
+        "name": "@emotion/css",
+        "description": "The Next Generation of CSS-in-JS."
+    },
+    {
+        "name": "vendors",
+        "description": "List of vendor prefixes known to the web platform"
+    },
+    {
+        "name": "css-box-model",
+        "description": "Get accurate and well named css box model information about an Element 📦"
+    },
+    {
+        "name": "@csstools/normalize.css",
+        "description": "A cross-browser CSS foundation"
+    },
+    {
+        "name": "tw-animate-css",
+        "description": "TailwindCSS v4.0 compatible replacement for `tailwindcss-animate`."
+    },
+    {
+        "name": "hsla-regex",
+        "description": "Regex for matching HSLA colors."
+    },
+    {
+        "name": "postcss-sorting",
+        "description": "PostCSS plugin to keep rules and at-rules content in order."
+    },
+    {
+        "name": "rgba-regex",
+        "description": "Regex for matching RGBA color strings."
+    },
+    {
+        "name": "@csstools/css-syntax-patches-for-csstree",
+        "description": "CSS syntax patches for CSS tree"
+    },
+    {
+        "name": "rgb-regex",
+        "description": "Regex for RGB color strings."
+    },
+    {
+        "name": "stylus",
+        "description": "Robust, expressive, and feature-rich CSS superset"
+    },
+    {
+        "name": "hsl-regex",
+        "description": "Regex for matching HSL colors."
+    },
+    {
+        "name": "jss",
+        "description": "A lib for generating Style Sheets with JavaScript."
+    },
+    {
+        "name": "style-mod",
+        "description": "A minimal CSS module shim"
+    },
+    {
+        "name": "hex-color-regex",
+        "description": "The best regular expression (regex) for matching hex color values from string."
+    },
+    {
+        "name": "css-mediaquery",
+        "description": "Parses and determines if a given CSS Media Query matches a set of values."
+    },
+    {
+        "name": "cssfontparser",
+        "description": "parse shorthand css font strings\""
+    },
+    {
+        "name": "@asamuzakjp/nwsapi",
+        "description": "Fast CSS Selectors API Engine"
+    },
+    {
+        "name": "postcss-modules",
+        "description": "PostCSS plugin to use CSS Modules everywhere"
+    },
+    {
+        "name": "@csstools/cascade-layer-name-parser",
+        "description": "Parse CSS Cascade Layer names."
+    },
+    {
+        "name": "reduce-css-calc",
+        "description": "Reduce CSS calc() function to the maximum"
+    },
+    {
+        "name": "@csstools/selector-resolve-nested",
+        "description": "Resolve nested CSS selectors"
+    },
+    {
+        "name": "nano-css",
+        "description": "Smallest 5th gen CSS-in-JS library"
+    },
+    {
+        "name": "stylelint-order",
+        "description": "A collection of order related linting rules for Stylelint."
+    },
+    {
+        "name": "jss-plugin-rule-value-function",
+        "description": "JSS plugin for function value and rule syntax"
+    },
+    {
+        "name": "csscolorparser",
+        "description": "https://github.com/deanm/css-color-parser-js"
+    },
+    {
+        "name": "sugarss",
+        "description": "Indent-based CSS syntax for PostCSS"
+    },
+    {
+        "name": "@csstools/postcss-logical-resize",
+        "description": "Use logical values in the resize property"
+    },
+    {
+        "name": "khroma",
+        "description": "A collection of functions for manipulating CSS colors, inspired by SASS."
+    },
+    {
+        "name": "babel-plugin-emotion",
+        "description": "A recommended babel preprocessing plugin for emotion, The Next Generation of CSS-in-JS."
+    },
+    {
+        "name": "@csstools/postcss-gradients-interpolation-method",
+        "description": "Use interpolation methods in CSS gradient functions"
+    },
+    {
+        "name": "postcss-html",
+        "description": "PostCSS syntax for parsing HTML (and HTML-like)"
+    },
+    {
+        "name": "@csstools/postcss-logical-float-and-clear",
+        "description": "Use flow-relative (inline-start and inline-end) values for float and clear"
+    },
+    {
+        "name": "rst-selector-parser",
+        "description": "A CSS-based selector parser for React Standard Tree (RST) traversal"
+    },
+    {
+        "name": "css-vendor",
+        "description": "CSS vendor prefix detection and property feature testing."
+    },
+    {
+        "name": "web-resource-inliner",
+        "description": "Inlines img, script and link tags into the same file."
+    },
+    {
+        "name": "css-selector-parser",
+        "description": "Powerful and compliant CSS selector parser."
+    },
+    {
+        "name": "@csstools/postcss-logical-overscroll-behavior",
+        "description": "Use logical overscroll behavior properties and values in CSS"
+    },
+    {
+        "name": "@csstools/postcss-gamut-mapping",
+        "description": "Gamut map css colors to fit display specific gamuts"
+    },
+    {
+        "name": "postcss-less",
+        "description": "LESS parser for PostCSS"
+    },
+    {
+        "name": "material-colors",
+        "description": "Colors of Google's Material Design made available to coders"
+    },
+    {
+        "name": "@csstools/postcss-color-mix-function",
+        "description": "Use the color-mix function in CSS"
+    },
+    {
+        "name": "postcss-color-mod-function",
+        "description": "Modify colors using the color-mod() function in CSS"
+    },
+    {
+        "name": "@csstools/postcss-logical-overflow",
+        "description": "Use logical overflow properties and values in CSS"
+    },
+    {
+        "name": "@csstools/postcss-logical-viewport-units",
+        "description": "Use vb and vi length units in CSS"
+    },
+    {
+        "name": "slick",
+        "description": "Standalone CSS Selector Finder and Parser."
+    },
+    {
+        "name": "style-value-types",
+        "description": "Parsers, transformers and tests for special value types, eg: %, hex codes etc."
+    },
+    {
+        "name": "postcss-color-gray",
+        "description": "Use the gray() color function in CSS"
+    },
+    {
+        "name": "mensch",
+        "description": "A decent CSS parser"
+    },
+    {
+        "name": "@storybook/addon-themes",
+        "description": "Storybook Themes addon: Switch between themes from the toolbar"
+    },
+    {
+        "name": "postcss-sass",
+        "description": "A Sass parser for PostCSS, using gonzales-pe."
+    },
+    {
+        "name": "cropperjs",
+        "description": "JavaScript image cropper."
+    },
+    {
+        "name": "style-inject",
+        "description": "Inject style tag to document head."
+    },
+    {
+        "name": "css-shorthand-properties",
+        "description": "A simple list of CSS shorthand properties and which longhand properties they expand to"
+    },
+    {
+        "name": "css-value",
+        "description": "CSS value parser"
+    },
+    {
+        "name": "@csstools/postcss-content-alt-text",
+        "description": "Generate fallback values for content with alt text"
+    },
+    {
+        "name": "postcss-merge-idents",
+        "description": "Merge keyframe and counter style identifiers."
+    },
+    {
+        "name": "caniuse-db",
+        "description": "Raw browser/feature support data from caniuse.com"
+    },
+    {
+        "name": "rtlcss",
+        "description": "Framework for transforming cascading style sheets (CSS) from left-to-right (LTR) to right-to-left (RTL)"
+    },
+    {
+        "name": "@cspell/dict-css",
+        "description": "CSS dictionary for cspell."
+    },
+    {
+        "name": "@csstools/postcss-random-function",
+        "description": "Use the random function in CSS"
+    },
+    {
+        "name": "postcss-discard-unused",
+        "description": "Discard unused counter styles, keyframes and fonts."
+    },
+    {
+        "name": "rework",
+        "description": "Plugin framework for CSS preprocessing"
+    },
+    {
+        "name": "@csstools/postcss-sign-functions",
+        "description": "Use sign and abs functions in CSS"
+    },
+    {
+        "name": "postcss-simple-vars",
+        "description": "PostCSS plugin for Sass-like variables"
+    },
+    {
+        "name": "react-responsive",
+        "description": "Media queries in react for responsive design"
+    },
+    {
+        "name": "ng-packagr",
+        "description": "Compile and package Angular libraries in Angular Package Format (APF)"
+    },
+    {
+        "name": "postcss-zindex",
+        "description": "Reduce z-index values with PostCSS."
+    },
+    {
+        "name": "postcss-reduce-idents",
+        "description": "Reduce custom identifiers with PostCSS."
+    },
+    {
+        "name": "rework-visit",
+        "description": "Rework declaration visitor utility"
+    },
+    {
+        "name": "postcss-url",
+        "description": "PostCSS plugin to rebase or inline on url()."
+    },
+    {
+        "name": "css-unit-converter",
+        "description": "Converts CSS values from one unit to another"
+    },
+    {
+        "name": "nwmatcher",
+        "description": "A CSS3-compliant JavaScript selector engine."
+    },
+    {
+        "name": "css-parse",
+        "description": "CSS parser"
+    },
+    {
+        "name": "create-emotion",
+        "description": "The Next Generation of CSS-in-JS."
+    },
+    {
+        "name": "@csstools/postcss-color-mix-variadic-function-arguments",
+        "description": "Mix any number of colors with the color-mix function in CSS"
+    },
+    {
+        "name": "browser-sync",
+        "description": "Live CSS Reload & Browser Syncing"
+    },
+    {
+        "name": "postcss-message-helpers",
+        "description": "PostCSS helpers to throw or output GNU style messages"
+    },
+    {
+        "name": "stylelint-config-prettier",
+        "description": "Turns off all rules that are unnecessary or might conflict with Prettier."
+    },
+    {
+        "name": "jest-image-snapshot",
+        "description": "Jest matcher for image comparisons. Most commonly used for visual regression testing."
+    },
+    {
+        "name": "emotion",
+        "description": "The Next Generation of CSS-in-JS."
+    },
+    {
+        "name": "hast-util-select",
+        "description": "hast utility for `querySelector`, `querySelectorAll`, and `matches`"
+    },
+    {
+        "name": "chartjs-color",
+        "description": "Color conversion and manipulation with CSS string support"
+    },
+    {
+        "name": "purgecss",
+        "description": "Remove unused css selectors"
+    },
+    {
+        "name": "colormin",
+        "description": "Turn a CSS color into its smallest representation."
+    },
+    {
+        "name": "chartjs-color-string",
+        "description": "Parser and generator for CSS color strings"
+    },
+    {
+        "name": "typescript-plugin-css-modules",
+        "description": "CSS modules support for TypeScript"
+    },
+    {
+        "name": "@fontsource/roboto",
+        "description": "Self-host the Roboto font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@unocss/core",
+        "description": "The instant on-demand Atomic CSS engine."
+    },
+    {
+        "name": "@styled-system/css",
+        "description": "Styled System for the `css` prop"
+    },
+    {
+        "name": "cssauron",
+        "description": "create matching selectors from css for your very own nested object hierarchy"
+    },
+    {
+        "name": "hex-rgb",
+        "description": "Convert HEX color to RGBA"
+    },
+    {
+        "name": "style-dictionary",
+        "description": "Style once, use everywhere. A build system for creating cross-platform styles."
+    },
+    {
+        "name": "@primeuix/styled",
+        "description": "Styled utilities for PrimeUI Libraries"
+    },
+    {
+        "name": "react-zoom-pan-pinch",
+        "description": "Zoom and pan html elements in easy way"
+    },
+    {
+        "name": "emmet",
+        "description": "Emmet — the essential toolkit for web-developers"
+    },
+    {
+        "name": "postcss-sort-media-queries",
+        "description": "PostCSS plugin for sorting and combining CSS media queries with mobile first / **desktop first methodologies"
+    },
+    {
+        "name": "postcss-filter-plugins",
+        "description": "Exclude/warn on duplicated PostCSS plugins."
+    },
+    {
+        "name": "postcss-mixins",
+        "description": "PostCSS plugin for mixins"
+    },
+    {
+        "name": "color-rgba",
+        "description": "Convert color string (or parseable argument) to RGBA array"
+    },
+    {
+        "name": "@emotion/server",
+        "description": "Extract and inline critical css with emotion for server side rendering."
+    },
+    {
+        "name": "@fontsource/inter",
+        "description": "Self-host the Inter font in a neatly bundled NPM package."
+    },
+    {
+        "name": "to-px",
+        "description": "Convert any CSS unit to logical pixels (\"px\")"
+    },
+    {
+        "name": "@stitches/core",
+        "description": "The modern CSS-in-JS library"
+    },
+    {
+        "name": "intl-tel-input",
+        "description": "A JavaScript plugin for entering and validating international telephone numbers"
+    },
+    {
+        "name": "storybook-addon-pseudo-states",
+        "description": "Storybook Pseudo-states addon: Manipulate CSS pseudo states"
+    },
+    {
+        "name": "daisyui",
+        "description": "daisyUI 5 - The Tailwind CSS Component Library"
+    },
+    {
+        "name": "fontace",
+        "description": "Extract useful information from font files"
+    },
+    {
+        "name": "@csstools/postcss-alpha-function",
+        "description": "Use the alpha() function in CSS"
+    },
+    {
+        "name": "colornames",
+        "description": "Map color names to HEX color values."
+    },
+    {
+        "name": "modern-normalize",
+        "description": "Normalize browsers' default style"
+    },
+    {
+        "name": "flowbite",
+        "description": "The most popular library of interactive components built with Tailwind CSS"
+    },
+    {
+        "name": "react-with-styles",
+        "description": "[![Build Status][travis-svg]][travis-url] [![dependency status][deps-svg]][deps-url] [![dev dependency status][dev-deps-svg]][dev-deps-url] [![License][license-image]][license-url] [![Downloads][downloads-image]][downloads-url]"
+    },
+    {
+        "name": "postcss-prefix-selector",
+        "description": "Prefix all CSS rules with a selector"
+    },
+    {
+        "name": "react-with-styles-interface-css",
+        "description": "Interface for react-with-styles outputting CSS"
+    },
+    {
+        "name": "doiuse",
+        "description": "Lint CSS for browser support against caniuse database"
+    },
+    {
+        "name": "@stitches/react",
+        "description": "The modern CSS-in-JS library"
+    },
+    {
+        "name": "css-system-font-keywords",
+        "description": "List of CSS system font keywords."
+    },
+    {
+        "name": "infima",
+        "description": "A UI framework for content-centric websites."
+    },
+    {
+        "name": "css-font-size-keywords",
+        "description": "List of CSS font size keywords."
+    },
+    {
+        "name": "parse-unit",
+        "description": "parses number and unit, '20px' into [20, 'px']"
+    },
+    {
+        "name": "parse-css-color",
+        "description": "parse a css color string"
+    },
+    {
+        "name": "prefix-style",
+        "description": "gets a prefixed name for a css style"
+    },
+    {
+        "name": "parse-color",
+        "description": "parse a css color string (plus hsv and cmyk) into an object"
+    },
+    {
+        "name": "unocss",
+        "description": "The instant on-demand Atomic CSS engine."
+    },
+    {
+        "name": "css-tokenize",
+        "description": "Transform stream that tokenizes CSS"
+    },
+    {
+        "name": "@stylistic/stylelint-plugin",
+        "description": "A collection of stylistic/formatting Stylelint rules"
+    },
+    {
+        "name": "color-alpha",
+        "description": "Change alpha value of a color string"
+    },
+    {
+        "name": "@unocss/astro",
+        "description": "UnoCSS integration for Astro"
+    },
+    {
+        "name": "@linaria/core",
+        "description": "Blazing fast zero-runtime CSS in JS library"
+    },
+    {
+        "name": "@csstools/postcss-color-function-display-p3-linear",
+        "description": "Use the display-p3-linear color space on the color() function in CSS"
+    },
+    {
+        "name": "vite-plugin-css-injected-by-js",
+        "description": "A Vite plugin that takes the CSS and adds it to the page through the JS. For those who want a single JS file."
+    },
+    {
+        "name": "@emotion/jest",
+        "description": "Jest utilities for emotion"
+    },
+    {
+        "name": "tss-react",
+        "description": "Type safe CSS-in-JS API heavily inspired by react-jss"
+    },
+    {
+        "name": "dom-css",
+        "description": "fast dom CSS styling"
+    },
+    {
+        "name": "css-url-regex",
+        "description": "Regular expression for matching CSS urls."
+    },
+    {
+        "name": "css-font-stretch-keywords",
+        "description": "List of CSS font stretch keywords."
+    },
+    {
+        "name": "css-global-keywords",
+        "description": "List of CSS global keywords."
+    },
+    {
+        "name": "stylelint-no-unsupported-browser-features",
+        "description": "Disallow features that are unsupported by the browsers that you are targeting"
+    },
+    {
+        "name": "color-normalize",
+        "description": "Convert any color data to sanitized output format"
+    },
+    {
+        "name": "@csstools/postcss-contrast-color-function",
+        "description": "Dynamically specify a text color with adequate contrast"
+    },
+    {
+        "name": "stylis-plugin-rtl",
+        "description": "Fork of stylis-rtl, uses cssjanus under the hood to flip style orientations for RTL"
+    },
+    {
+        "name": "@primeuix/styles",
+        "description": "Styles utilities for PrimeUI Libraries"
+    },
+    {
+        "name": "@primeuix/themes",
+        "description": "Themes for PrimeUI Libraries"
+    },
+    {
+        "name": "css-font-weight-keywords",
+        "description": "List of CSS font weight keywords."
+    },
+    {
+        "name": "postcss-jsx",
+        "description": "PostCSS syntax for parsing CSS in JS literals"
+    },
+    {
+        "name": "react-jss",
+        "description": "JSS integration with React"
+    },
+    {
+        "name": "react-style-proptype",
+        "description": "validates style objects by ensuring they only have valid keys"
+    },
+    {
+        "name": "css-font-style-keywords",
+        "description": "List of CSS font style keywords."
+    },
+    {
+        "name": "gulp-postcss",
+        "description": "PostCSS gulp plugin"
+    },
+    {
+        "name": "css-jss",
+        "description": "Implements css() interface on top of JSS"
+    },
+    {
+        "name": "substyle",
+        "description": "Universal styling for reusable React components"
+    },
+    {
+        "name": "postcss-markdown",
+        "description": "PostCSS syntax for parsing Markdown"
+    },
+    {
+        "name": "insert-css",
+        "description": "insert a string of css into the <head>"
+    },
+    {
+        "name": "@atlaskit/theme",
+        "description": "Theme contains solutions for global theming, colors, and other useful mixins."
+    },
+    {
+        "name": "@heroui/theme",
+        "description": "The default theme for HeroUI components"
+    },
+    {
+        "name": "esbuild-sass-plugin",
+        "description": "esbuild plugin for sass/scss files supporting both css loader and css result import (lit-element)"
+    },
+    {
+        "name": "postcss-css-variables",
+        "description": "PostCSS plugin to transform CSS Custom Properties(CSS variables) syntax into a static representation"
+    },
+    {
+        "name": "css-font",
+        "description": "Parse or stringify CSS font property."
+    },
+    {
+        "name": "@css-inline/css-inline",
+        "description": "High-performance library for inlining CSS into HTML 'style' attributes"
+    },
+    {
+        "name": "@astrojs/tailwind",
+        "description": "Use Tailwind CSS to style your Astro site"
+    },
+    {
+        "name": "postcss-preset-mantine",
+        "description": "PostCSS preset for Mantine (7.0+) applications"
+    },
+    {
+        "name": "line-height",
+        "description": "Calculate line-height of an HTML element (IE6 compatible)"
+    },
+    {
+        "name": "@bkrem/react-transition-group",
+        "description": "A react component toolset for managing animations"
+    },
+    {
+        "name": "jss-plugin-rule-value-observable",
+        "description": "JSS plugin for TC39 Observables support"
+    },
+    {
+        "name": "computed-style",
+        "description": "Cross-browser currentStyle/getComputedStyle implementation"
+    },
+    {
+        "name": "webpack-remove-empty-scripts",
+        "description": "Webpack plugin removes empty JavaScript files generated when using styles."
+    },
+    {
+        "name": "@fontsource/open-sans",
+        "description": "Self-host the Open Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "css-rule-stream",
+        "description": "transform stream to cut css into rule-sized chunks"
+    },
+    {
+        "name": "gulp-autoprefixer",
+        "description": "Prefix CSS"
+    },
+    {
+        "name": "css-stringify",
+        "description": "CSS compiler"
+    },
+    {
+        "name": "bootstrap-sass",
+        "description": "bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications."
+    },
+    {
+        "name": "@eslint/css-tree",
+        "description": "A tool set for CSS: fast detailed parser (CSS → AST), walker (AST traversal), generator (AST → CSS) and lexer (validation and matching) based on specs and browser implementations"
+    },
+    {
+        "name": "extract-css-chunks-webpack-plugin",
+        "description": "Extract CSS from chunks into stylesheets + HMR. Supports Webpack 4 + SSR"
+    },
+    {
+        "name": "bulma",
+        "description": "Modern CSS framework based on Flexbox"
+    },
+    {
+        "name": "split.js",
+        "description": "2kb unopinionated utility for resizeable split views"
+    },
+    {
+        "name": "style-resources-loader",
+        "description": "CSS processor resources loader for webpack"
+    },
+    {
+        "name": "bo-selector",
+        "description": "CSS selector parser based on jison"
+    },
+    {
+        "name": "@daybrush/utils",
+        "description": "utils for daybrush"
+    },
+    {
+        "name": "@css-inline/css-inline-linux-x64-gnu",
+        "description": "High-performance library for inlining CSS into HTML 'style' attributes"
+    },
+    {
+        "name": "css-to-mat",
+        "description": "css-to-mat"
+    },
+    {
+        "name": "grunt-contrib-cssmin",
+        "description": "Minify CSS"
+    },
+    {
+        "name": "@linaria/react",
+        "description": "Blazing fast zero-runtime CSS in JS library"
+    },
+    {
+        "name": "postcss-bem-linter",
+        "description": "A BEM linter for postcss"
+    },
+    {
+        "name": "postcss-font-family-system-ui",
+        "description": "Use the system-ui font family in CSS"
+    },
+    {
+        "name": "@applitools/css-tree",
+        "description": "A temporary custom copy of https://github.com/csstree/csstree"
+    },
+    {
+        "name": "@pixi/colord",
+        "description": "👑 A tiny yet powerful tool for high-performance color manipulations and conversions"
+    },
+    {
+        "name": "list-stylesheets",
+        "description": "Get a list of stylesheets from an HTML document."
+    },
+    {
+        "name": "@fontsource-variable/inter",
+        "description": "Self-host the Inter font in a neatly bundled NPM package."
+    },
+    {
+        "name": "gulp-clean-css",
+        "description": "Minify css with clean-css."
+    },
+    {
+        "name": "@linaria/tags",
+        "description": "Blazing fast zero-runtime CSS in JS library"
+    },
+    {
+        "name": "react-css-styled",
+        "description": "This component is a lightweight, simple line style component for react."
+    },
+    {
+        "name": "@coreui/coreui",
+        "description": "The most popular front-end framework for developing responsive, mobile-first projects on the web rewritten and maintained by the CoreUI Team"
+    },
+    {
+        "name": "@fontsource/poppins",
+        "description": "Self-host the Poppins font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@linaria/utils",
+        "description": "Blazing fast zero-runtime CSS in JS library"
+    },
+    {
+        "name": "@tsparticles/updater-out-modes",
+        "description": "tsParticles particles out modes updater"
+    },
+    {
+        "name": "bourbon",
+        "description": "A lightweight Sass tool set."
+    },
+    {
+        "name": "@css-inline/css-inline-linux-x64-musl",
+        "description": "High-performance library for inlining CSS into HTML 'style' attributes"
+    },
+    {
+        "name": "pixrem",
+        "description": "A CSS post-processor that generates pixel fallbacks for rem units."
+    },
+    {
+        "name": "material-icons",
+        "description": "Latest icon fonts and CSS for self-hosting material design icons."
+    },
+    {
+        "name": "css-color-function",
+        "description": "A parser and converter for Tab Atkins's proposed color function in CSS."
+    },
+    {
+        "name": "extract-css",
+        "description": "Extract the CSS from an HTML document."
+    },
+    {
+        "name": "grunt-sass",
+        "description": "Compile Sass to CSS"
+    },
+    {
+        "name": "@linaria/logger",
+        "description": "Blazing fast zero-runtime CSS in JS library"
+    },
+    {
+        "name": "stylelint-config-prettier-scss",
+        "description": "Turns off all SCSS rules that are unnecessary or might conflict with Prettier."
+    },
+    {
+        "name": "cssbeautify",
+        "description": "Reindent and reformat CSS."
+    },
+    {
+        "name": "svg-sprite",
+        "description": "SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g. CSS, Sass, LESS, Stylus, etc.)"
+    },
+    {
+        "name": "href-content",
+        "description": "Get content from link tags in an HTML document."
+    },
+    {
+        "name": "inline-css",
+        "description": "Inline css into an html file."
+    },
+    {
+        "name": "@terrazzo/parser",
+        "description": "Parser/validator for the Design Tokens Community Group (DTCG) standard."
+    },
+    {
+        "name": "broccoli-clean-css",
+        "description": "CSS minifier for Broccoli, using clean-css"
+    },
+    {
+        "name": "css-rules",
+        "description": "Returns a parse tree for a CSS source."
+    },
+    {
+        "name": "objectFitPolyfill",
+        "description": "A Javascript polyfill for browsers that don't support the object-fit CSS property"
+    },
+    {
+        "name": "stylelint-declaration-block-no-ignored-properties",
+        "description": "Disallow property values that are ignored due to another property value in the same rule."
+    },
+    {
+        "name": "@terrazzo/plugin-css",
+        "description": "Convert DTCG design tokens JSON into CSS variables for use in any web application or native app with webview."
+    },
+    {
+        "name": "@tsparticles/updater-size",
+        "description": "tsParticles particles size updater"
+    },
+    {
+        "name": "csstoxpath",
+        "description": "CSS to XPath"
+    },
+    {
+        "name": "@terrazzo/cli",
+        "description": "CLI for managing design tokens using the Design Tokens Community Group (DTCG) standard and generating code for any platform via plugins."
+    },
+    {
+        "name": "postcss-color-function",
+        "description": "PostCSS plugin to transform W3C CSS color function to more compatible CSS."
+    },
+    {
+        "name": "vite-plugin-lib-inject-css",
+        "description": "Inject css at the top of chunk file in lib mode using `import` statement, support multiple entries."
+    },
+    {
+        "name": "@terrazzo/token-tools",
+        "description": "Various utilities for token types"
+    },
+    {
+        "name": "mediaquery-text",
+        "description": "Returns Media Query text for a CSS source."
+    },
+    {
+        "name": "@tsparticles/shape-square",
+        "description": "tsParticles square shape"
+    },
+    {
+        "name": "stylelint-declaration-strict-value",
+        "description": "Specify properties for which a variable, function, keyword or value must be used"
+    },
+    {
+        "name": "@tsparticles/shape-star",
+        "description": "tsParticles star shape"
+    },
+    {
+        "name": "@tsparticles/basic",
+        "description": "Easily create highly customizable particle animations and use them as animated backgrounds for your website. Ready to use components available also for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Riot.js, Inferno."
+    },
+    {
+        "name": "react-masonry-css",
+        "description": "React Masonry component leveraging CSS to be fast and responsive"
+    },
+    {
+        "name": "spin.js",
+        "description": "A spinning activity indicator"
+    },
+    {
+        "name": "postcss-apply",
+        "description": "PostCSS plugin enabling custom properties sets references"
+    },
+    {
+        "name": "postcss-image-set-polyfill",
+        "description": "PostCSS plugin for fallback image-set"
+    },
+    {
+        "name": "aphrodite",
+        "description": "Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation"
+    },
+    {
+        "name": "postcss-color-rgb",
+        "description": "PostCSS plugin to transform W3C CSS Color Module Level 4 rgb() new syntax to more compatible CSS (comma-separated rgb() or rgba())"
+    },
+    {
+        "name": "sass-resources-loader",
+        "description": "SASS resources loader for Webpack"
+    },
+    {
+        "name": "normalize-css-color",
+        "description": "Normalize a subset of CSS color values into integers"
+    },
+    {
+        "name": "stylelint-selector-bem-pattern",
+        "description": "A stylelint plugin that harnesses the power of postcss-bem-linter"
+    },
+    {
+        "name": "stylelint-use-logical-spec",
+        "description": "Enforce usage of logical properties and values in CSS"
+    },
+    {
+        "name": "@eslint/css",
+        "description": "CSS linting plugin for ESLint"
+    },
+    {
+        "name": "postcss-color-hwb",
+        "description": "PostCSS plugin to transform W3C CSS hwb() color to more compatible CSS (rgb() (or rgba()))"
+    },
+    {
+        "name": "jest-css-modules-transform",
+        "description": "Jest's preprocessor for css, sass, less, stylus modules generated with Webpack"
+    },
+    {
+        "name": "vite-plugin-singlefile",
+        "description": "Vite plugin for inlining all JavaScript and CSS resources"
+    },
+    {
+        "name": "@tsparticles/shape-image",
+        "description": "tsParticles image shape"
+    },
+    {
+        "name": "@tsparticles/engine",
+        "description": "Easily create highly customizable particle, confetti and fireworks animations and use them as animated backgrounds for your website. Ready to use components available also for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Riot.js, Inferno."
+    },
+    {
+        "name": "@medv/finder",
+        "description": "CSS Selector Generator"
+    },
+    {
+        "name": "style-data",
+        "description": "Get the content of style tags."
+    },
+    {
+        "name": "css-vars-ponyfill",
+        "description": "Client-side support for CSS custom properties (aka \"CSS variables\") in legacy and modern browsers"
+    },
+    {
+        "name": "stylelint-value-no-unknown-custom-properties",
+        "description": "A stylelint rule to disallow usage of unknown custom properties"
+    },
+    {
+        "name": "pleeease-filters",
+        "description": "Convert CSS shorthand filters to SVG ones"
+    },
+    {
+        "name": "postcss-color-rgba-fallback",
+        "description": "PostCSS plugin to transform rgba() to hexadecimal"
+    },
+    {
+        "name": "postcss-color-hsl",
+        "description": "PostCSS plugin to transform W3C CSS Color Module Level 4 hsl() new syntax to more compatible CSS (comma-separated hsl() or hsla())"
+    },
+    {
+        "name": "postcss-calc-ast-parser",
+        "description": "Parses calc of css and converts it to AST."
+    },
+    {
+        "name": "@scalar/themes",
+        "description": "the default CSS variables for all Scalar packages"
+    },
+    {
+        "name": "@tsparticles/plugin-rgb-color",
+        "description": "tsParticles RGB color plugin"
+    },
+    {
+        "name": "@tsparticles/shape-circle",
+        "description": "tsParticles circle shape"
+    },
+    {
+        "name": "stylelint-less",
+        "description": "A collection of Less specific rules for stylelint"
+    },
+    {
+        "name": "@tsparticles/shape-polygon",
+        "description": "tsParticles polygon shape"
+    },
+    {
+        "name": "rematrix",
+        "description": "Matrix transformations made easy"
+    },
+    {
+        "name": "ignore-styles",
+        "description": "Ignore imported style files when running in Node"
+    },
+    {
+        "name": "units-css",
+        "description": "Parse length and angle CSS values and convert between units"
+    },
+    {
+        "name": "@tsparticles/updater-life",
+        "description": "tsParticles particles life updater"
+    },
+    {
+        "name": "plaiceholder",
+        "description": "Beautiful image placeholders, without the hassle."
+    },
+    {
+        "name": "@tsparticles/move-parallax",
+        "description": "tsParticles Parallax movement"
+    },
+    {
+        "name": "postcss-styl",
+        "description": "PostCSS parser plugin for converting Stylus syntax to PostCSS AST."
+    },
+    {
+        "name": "@tsparticles/interaction-external-remove",
+        "description": "tsParticles remove external interaction"
+    },
+    {
+        "name": "@tsparticles/interaction-particles-links",
+        "description": "tsParticles links particles interaction"
+    },
+    {
+        "name": "inline-source-map-comment",
+        "description": "Create an inline source map comment from a source map"
+    },
+    {
+        "name": "github-markdown-css",
+        "description": "The minimal amount of CSS to replicate the GitHub Markdown style"
+    },
+    {
+        "name": "@tsparticles/move-base",
+        "description": "tsParticles Base movement"
+    },
+    {
+        "name": "@tsparticles/updater-opacity",
+        "description": "tsParticles particles opacity updater"
+    },
+    {
+        "name": "postcss-pxtorem",
+        "description": "A CSS post-processor that converts px to rem."
+    },
+    {
+        "name": "@tsparticles/updater-rotate",
+        "description": "tsParticles particles rotate updater"
+    },
+    {
+        "name": "styled-normalize",
+        "description": "Normalize.css for styled-components CSS-in-JS library"
+    },
+    {
+        "name": "@tsparticles/updater-color",
+        "description": "tsParticles particles color updater"
+    },
+    {
+        "name": "@tsparticles/interaction-external-bounce",
+        "description": "tsParticles bounce external interaction"
+    },
+    {
+        "name": "tsparticles",
+        "description": "Easily create highly customizable particle animations and use them as animated backgrounds for your website. Ready to use components available also for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Riot.js, Inferno."
+    },
+    {
+        "name": "focusable-selectors",
+        "description": "A list of CSS selectors for focusable elements"
+    },
+    {
+        "name": "react-media",
+        "description": "CSS media queries for React"
+    },
+    {
+        "name": "@tsparticles/shape-emoji",
+        "description": "tsParticles emoji shape"
+    },
+    {
+        "name": "@ttskch/select2-bootstrap4-theme",
+        "description": "Select2 v4 theme for Bootstrap4"
+    },
+    {
+        "name": "clean-css-promise",
+        "description": "clean-css with the default Promise interface and some improvements"
+    },
+    {
+        "name": "object-fit-images",
+        "description": "Polyfill object-fit and object-position on images on IE9, IE10, IE11, Edge, Safari, ..."
+    },
+    {
+        "name": "postcss-rtlcss",
+        "description": "PostCSS plugin to build Cascading Style Sheets (CSS) with Left-To-Right (LTR) and Right-To-Left (RTL) rules"
+    },
+    {
+        "name": "beautify",
+        "description": "beautify whatever"
+    },
+    {
+        "name": "postcss-modules-values-replace",
+        "description": "PostCSS plugin to work around CSS Modules values limitations"
+    },
+    {
+        "name": "@tsparticles/interaction-external-slow",
+        "description": "tsParticles slow external interaction"
+    },
+    {
+        "name": "@tsparticles/plugin-hex-color",
+        "description": "tsParticles hex color plugin"
+    },
+    {
+        "name": "@atlaskit/motion",
+        "description": "A set of utilities to apply motion in your application."
+    },
+    {
+        "name": "get-css-data",
+        "description": "A micro-library for collecting stylesheet data from link and style nodes"
+    },
+    {
+        "name": "free-style",
+        "description": "Make CSS easier and more maintainable by using JavaScript"
+    },
+    {
+        "name": "@tsparticles/updater-stroke-color",
+        "description": "tsParticles particles stroke color updater"
+    },
+    {
+        "name": "@tsparticles/interaction-external-bubble",
+        "description": "tsParticles bubble external interaction"
+    },
+    {
+        "name": "csso-webpack-plugin",
+        "description": "CSSO minification files to serve your webpack bundles"
+    },
+    {
+        "name": "@tsparticles/interaction-external-grab",
+        "description": "tsParticles grab external interaction"
+    },
+    {
+        "name": "@tsparticles/plugin-hsl-color",
+        "description": "tsParticles HSL color plugin"
+    },
+    {
+        "name": "@tsparticles/shape-line",
+        "description": "tsParticles line shape"
+    },
+    {
+        "name": "stylefire",
+        "description": "Performant, simplified stylers for CSS, SVG, path and DOM scroll."
+    },
+    {
+        "name": "clean-css-cli",
+        "description": "A command-line interface to clean-css CSS optimization library"
+    },
+    {
+        "name": "@tsparticles/interaction-external-connect",
+        "description": "tsParticles connect external interaction"
+    },
+    {
+        "name": "@tsparticles/plugin-easing-quad",
+        "description": "tsParticles easing quad plugin"
+    },
+    {
+        "name": "spritesmith",
+        "description": "Utility that takes images and creates a spritesheet with JSON sprite data"
+    },
+    {
+        "name": "@tsparticles/interaction-particles-attract",
+        "description": "tsParticles attract particles interaction"
+    },
+    {
+        "name": "facepaint",
+        "description": "Responsive style values for css-in-js."
+    },
+    {
+        "name": "@tsparticles/interaction-external-attract",
+        "description": "tsParticles attract external interaction"
+    },
+    {
+        "name": "@tsparticles/interaction-external-pause",
+        "description": "tsParticles pause external interaction"
+    },
+    {
+        "name": "@tsparticles/interaction-particles-collisions",
+        "description": "tsParticles collisions particles interaction"
+    },
+    {
+        "name": "html-styles",
+        "description": "Default HTML styles as defined by W3C specification"
+    },
+    {
+        "name": "postcss-advanced-variables",
+        "description": "Use Sass-like variables, conditionals, and iterators in CSS"
+    },
+    {
+        "name": "glamor",
+        "description": "inline css for component systems"
+    },
+    {
+        "name": "css-shorthand-expand",
+        "description": "Expand CSS shorthand properties"
+    },
+    {
+        "name": "@fontsource/ibm-plex-sans",
+        "description": "Self-host the IBM Plex Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "foundation-sites",
+        "description": "The most advanced responsive front-end framework in the world."
+    },
+    {
+        "name": "postcss-modules-tilda",
+        "description": "PostCSS plugin to restore the way to resolve modules CSS Modules values paths that css-loader used before 1.0"
+    },
+    {
+        "name": "parserlib",
+        "description": "CSS3 SAX-inspired parser"
+    },
+    {
+        "name": "@nextui-org/theme",
+        "description": "The default theme for NextUI components"
+    },
+    {
+        "name": "@wordpress/base-styles",
+        "description": "Base SCSS utilities and variables for WordPress."
+    },
+    {
+        "name": "@tsparticles/slim",
+        "description": "Easily create highly customizable particle animations and use them as animated backgrounds for your website. Ready to use components available also for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Riot.js, Inferno."
+    },
+    {
+        "name": "postcss-for",
+        "description": "PostCSS plugin that enables SASS-like for loop syntax in your CSS"
+    },
+    {
+        "name": "@emotion/native",
+        "description": "Style and render React Native components using emotion"
+    },
+    {
+        "name": "eslint-plugin-vue-scoped-css",
+        "description": "ESLint plugin for Scoped CSS in Vue.js"
+    },
+    {
+        "name": "stylelint-csstree-validator",
+        "description": "Stylelint plugin to validate CSS syntax"
+    },
+    {
+        "name": "@tsparticles/interaction-external-repulse",
+        "description": "tsParticles repulse external interaction"
+    },
+    {
+        "name": "@tsparticles/interaction-external-push",
+        "description": "tsParticles push external interaction"
+    },
+    {
+        "name": "prettier-plugin-css-order",
+        "description": "Sort CSS declarations in a certain order."
+    },
+    {
+        "name": "postcss-property-lookup",
+        "description": "PostCSS plugin that allows referencing property values without a variable"
+    },
+    {
+        "name": "@wordpress/style-engine",
+        "description": "A suite of parsers and compilers for WordPress styles."
+    },
+    {
+        "name": "@primer/css",
+        "description": "The CSS implementation of GitHub's Primer Design System"
+    },
+    {
+        "name": "classix",
+        "description": "The fastest and tiniest utility for conditionally joining classNames."
+    },
+    {
+        "name": "postcss-extend-rule",
+        "description": "Use the @extend at-rule and functional selectors in CSS"
+    },
+    {
+        "name": "postcss-prefixwrap",
+        "description": "A PostCSS plugin that is used to wrap css styles with a css selector to constrain their affect on parent elements in a page."
+    },
+    {
+        "name": "loaders.css",
+        "description": "Loading animations in pure css"
+    },
+    {
+        "name": "react-responsive-masonry",
+        "description": "React responsive masonry component built with css flexbox"
+    },
+    {
+        "name": "rollup-plugin-styles",
+        "description": "Universal Rollup plugin for styles: PostCSS, Sass, Less, Stylus and more"
+    },
+    {
+        "name": "@wordpress/postcss-plugins-preset",
+        "description": "PostCSS sharable plugins preset for WordPress development."
+    },
+    {
+        "name": "viewerjs",
+        "description": "JavaScript image viewer."
+    },
+    {
+        "name": "postcss-atroot",
+        "description": "PostCSS plugin to place rules directly at the root"
+    },
+    {
+        "name": "@fontsource/material-icons",
+        "description": "Self-host the Material Icons font in a neatly bundled NPM package."
+    },
+    {
+        "name": "broccoli-sass-source-maps",
+        "description": "Libsass-based Sass compiler for Broccoli"
+    },
+    {
+        "name": "@tsparticles/updater-tilt",
+        "description": "tsParticles particles tilt updater"
+    },
+    {
+        "name": "postcss-pseudo-is",
+        "description": "PostCSS plugin to transform the :is() CSS pseudo-class into more compatible CSS selectors."
+    },
+    {
+        "name": "jest-transform-css",
+        "description": "Jest transformer to import CSS into Jest's `jsdom`"
+    },
+    {
+        "name": "@procore/core-css",
+        "description": "The building blocks of the Procore universe."
+    },
+    {
+        "name": "@fontsource/roboto-mono",
+        "description": "Self-host the Roboto Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@stylistic/stylelint-config",
+        "description": "The stylistic shareable config for Stylelint."
+    },
+    {
+        "name": "@tsparticles/updater-roll",
+        "description": "tsParticles particles roll updater"
+    },
+    {
+        "name": "postcss-inline-svg",
+        "description": "PostCSS plugin to reference an SVG file and control its attributes with CSS syntax"
+    },
+    {
+        "name": "docusaurus-plugin-sass",
+        "description": "Docusaurus plugin to provide support for SASS/SCSS"
+    },
+    {
+        "name": "@oddbird/popover-polyfill",
+        "description": "Popover Attribute Polyfill"
+    },
+    {
+        "name": "@formkit/themes",
+        "description": "FormKit base themes"
+    },
+    {
+        "name": "@zendeskgarden/css-variables",
+        "description": "Garden component CSS"
+    },
+    {
+        "name": "tailwind-csstree",
+        "description": "CSSTree syntax for parsing Tailwind custom syntax."
+    },
+    {
+        "name": "@netlify/tailwind-config",
+        "description": "Netlify's Tailwind CSS configuration"
+    },
+    {
+        "name": "@tsparticles/updater-wobble",
+        "description": "tsParticles particles wobble updater"
+    },
+    {
+        "name": "css-font-parser",
+        "description": "A parser for the CSS font value"
+    },
+    {
+        "name": "tachyons",
+        "description": "Functional CSS for humans"
+    },
+    {
+        "name": "instantsearch.css",
+        "description": "InstantSearch.css is a CSS library to style InstantSearch-powered search experiences."
+    },
+    {
+        "name": "@tsparticles/plugin-emitters",
+        "description": "tsParticles emitters plugin"
+    },
+    {
+        "name": "rollup-plugin-scss",
+        "description": "Rollup multiple .scss, .sass and .css imports"
+    },
+    {
+        "name": "@fontsource/montserrat",
+        "description": "Self-host the Montserrat font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@emotion/primitives-core",
+        "description": "Shared utilities for emotion primitives and native"
+    },
+    {
+        "name": "croact-css-styled",
+        "description": "This component is a lightweight, simple line style component for react-compat"
+    },
+    {
+        "name": "convert-css-length",
+        "description": "Convert between css lengths e.g. em->px or px->rem"
+    },
+    {
+        "name": "add-to-calendar-button",
+        "description": "A convenient JavaScript snippet, which lets you create beautiful buttons, where people can add events to their calendars."
+    },
+    {
+        "name": "@fontsource/lato",
+        "description": "Self-host the Lato font in a neatly bundled NPM package."
+    },
+    {
+        "name": "select2-bootstrap-theme",
+        "description": "A theme for Select2 v4 and Bootstrap 3."
+    },
+    {
+        "name": "admin-lte",
+        "description": "Responsive open source admin dashboard and control panel."
+    },
+    {
+        "name": "webpack-fix-style-only-entries",
+        "description": "Package to fix style (css/sass/less/stylus) only entries generating a extra js file."
+    },
+    {
+        "name": "uglifycss",
+        "description": "Port of YUI CSS Compressor to NodeJS"
+    },
+    {
+        "name": "strip-css-comments",
+        "description": "Strip comments from CSS"
+    },
+    {
+        "name": "@fontsource/ibm-plex-mono",
+        "description": "Self-host the IBM Plex Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "postcss-urlrebase",
+        "description": "PostCSS plugin Rebase URLs to a given root URL."
+    },
+    {
+        "name": "convert-csv-to-json",
+        "description": "Convert CSV to JSON"
+    },
+    {
+        "name": "@fontsource/fira-code",
+        "description": "Self-host the Fira Code font in a neatly bundled NPM package."
+    },
+    {
+        "name": "postcss-flexibility",
+        "description": "PostCSS plugin for Flexibility polyfill"
+    },
+    {
+        "name": "stylelint-use-logical",
+        "description": "Enforce usage of logical properties and values in CSS"
+    },
+    {
+        "name": "@css-inline/css-inline-linux-arm64-musl",
+        "description": "High-performance library for inlining CSS into HTML 'style' attributes"
+    },
+    {
+        "name": "csstree-validator",
+        "description": "CSS validator built on csstree"
+    },
+    {
+        "name": "vkbeautify",
+        "description": "Pretty prints and minifies XML/JSON/SQL/CSS"
+    },
+    {
+        "name": "@webext-core/isolated-element",
+        "description": "Isolate content script UI's styles from the parent page. Supports all browsers (Chrome, Firefox, Safari)"
+    },
+    {
+        "name": "rollup-plugin-import-css",
+        "description": "A Rollup plugin to import CSS into JavaScript"
+    },
+    {
+        "name": "css-color-converter",
+        "description": "Converts CSS colors from one representation to another"
+    },
+    {
+        "name": "purgecss-webpack-plugin",
+        "description": "PurgeCSS plugin for webpack - Remove unused css"
+    },
+    {
+        "name": "fela",
+        "description": "State-Driven Styling in JavaScript"
+    },
+    {
+        "name": "colorguard",
+        "description": "Keep a watchful eye on your css colors"
+    },
+    {
+        "name": "css-list-helpers",
+        "description": "Helper methods for splitting CSS lists (e.g., spaces, commas)."
+    },
+    {
+        "name": "fela-dom",
+        "description": "Fela package for working with the DOM"
+    },
+    {
+        "name": "rollup-plugin-css-only",
+        "description": "Rollup plugin that bundles imported css"
+    },
+    {
+        "name": "svgtofont",
+        "description": "Converts SVG to TTF/EOT/WOFF/WOFF2/SVG format fonts."
+    },
+    {
+        "name": "theme-ui",
+        "description": "The Design Graph Framework"
+    },
+    {
+        "name": "@fontsource/noto-sans",
+        "description": "Self-host the Noto Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "css-render",
+        "description": "Generating CSS using JS with considerable flexibility and extensibility, at both server side and client side."
+    },
+    {
+        "name": "gulp-stylelint",
+        "description": "Gulp plugin for running Stylelint results through various reporters."
+    },
+    {
+        "name": "unique-selector",
+        "description": "Given a DOM node, return a unique CSS selector matching only that element"
+    },
+    {
+        "name": "extracted-loader",
+        "description": "Reloads stylesheets extracted with with ExtractTextPlugin"
+    },
+    {
+        "name": "select2-bootstrap-css",
+        "description": "Simple CSS to make Select2 widgets fit in with Bootstrap"
+    },
+    {
+        "name": "jets",
+        "description": "Native CSS search engine"
+    },
+    {
+        "name": "@romainberger/css-diff",
+        "description": "Get the diff between two css"
+    },
+    {
+        "name": "extract-loader",
+        "description": "webpack loader to extract HTML and CSS from the bundle"
+    },
+    {
+        "name": "hex-to-rgba",
+        "description": "Converts hexadecimal color codes to rgb()/rgba() values."
+    },
+    {
+        "name": "@tsparticles/plugin-motion",
+        "description": "tsParticles motion sickness plugin"
+    },
+    {
+        "name": "@aurodesignsystem/design-tokens",
+        "description": "Alaska Air Auro Design System token repository"
+    },
+    {
+        "name": "reflexbox",
+        "description": "Responsive React grid system built with Styled System, with support for Emotion and Styled Components"
+    },
+    {
+        "name": "@fontsource/public-sans",
+        "description": "Self-host the Public Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/updater-destroy",
+        "description": "tsParticles particles destroy updater"
+    },
+    {
+        "name": "grunt-contrib-sass",
+        "description": "Compile Sass to CSS"
+    },
+    {
+        "name": "get-imports",
+        "description": "Get CSS @imports from a string"
+    },
+    {
+        "name": "jest-emotion",
+        "description": "Jest utilities for emotion"
+    },
+    {
+        "name": "styled-reset",
+        "description": "Eric Meyer's Reset CSS for styled-components"
+    },
+    {
+        "name": "purify-css",
+        "description": "Removed unused css. Compatible with single-page apps."
+    },
+    {
+        "name": "create-emotion-styled",
+        "description": "The styled API for emotion"
+    },
+    {
+        "name": "@tsparticles/plugin-absorbers",
+        "description": "tsParticles absorbers plugin"
+    },
+    {
+        "name": "to-style",
+        "description": "Convert style objects to style strings"
+    },
+    {
+        "name": "@tsparticles/shape-cards",
+        "description": "tsParticles cards shape"
+    },
+    {
+        "name": "sass-migrator",
+        "description": "A tool for migrating to new Sass versions."
+    },
+    {
+        "name": "@fontsource/source-sans-pro",
+        "description": "Self-host the Source Sans Pro font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/shape-heart",
+        "description": "tsParticles heart shape"
+    },
+    {
+        "name": "@css-render/plugin-bem",
+        "description": "A plugin of css-render that helping generate BEM standard CSS"
+    },
+    {
+        "name": "rework-plugin-function",
+        "description": "function() plugin for rework, formerly included in core"
+    },
+    {
+        "name": "@css-inline/css-inline-linux-arm64-gnu",
+        "description": "High-performance library for inlining CSS into HTML 'style' attributes"
+    },
+    {
+        "name": "synesthesia",
+        "description": "A collection of regular expressions to match color syntax substrings from a text"
+    },
+    {
+        "name": "@linaria/shaker",
+        "description": "Blazing fast zero-runtime CSS in JS library"
+    },
+    {
+        "name": "isomorphic-style-loader",
+        "description": "CSS style loader for Webpack optimized for critical path CSS rendering and isomoprhic web apps"
+    },
+    {
+        "name": "css-url-parser",
+        "description": "Parse urls from css"
+    },
+    {
+        "name": "@tsparticles/shape-text",
+        "description": "tsParticles text shape"
+    },
+    {
+        "name": "grunt-postcss",
+        "description": "Apply several post-processors to your CSS using PostCSS"
+    },
+    {
+        "name": "fela-bindings",
+        "description": "Abstract binding factories for Fela"
+    },
+    {
+        "name": "import-regex",
+        "description": "Regular expression for matching CSS @imports"
+    },
+    {
+        "name": "penthouse",
+        "description": "Generate critical path CSS for web pages"
+    },
+    {
+        "name": "react-anime",
+        "description": "(ﾉ´ヮ´)ﾉ*:･ﾟ✧ A super easy animation library for React."
+    },
+    {
+        "name": "scroll-behavior-polyfill",
+        "description": "A polyfill for the 'scroll-behavior' CSS-property"
+    },
+    {
+        "name": "heti",
+        "description": "赫蹏是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。"
+    },
+    {
+        "name": "mix-css-color",
+        "description": "Mix two colors together in variable proportion. Opacity is included in the calculations."
+    },
+    {
+        "name": "postcss-extend",
+        "description": "As close to cssnext @extend as possible for PostCSS"
+    },
+    {
+        "name": "stylelint-declaration-use-variable",
+        "description": "A stylelint custom rule to check the use of scss variable on declaration."
+    },
+    {
+        "name": "postcss-image-inliner",
+        "description": "PostCSS plugin to inline images into css"
+    },
+    {
+        "name": "postcss-hover-media-feature",
+        "description": "PostCSS plugin that extracts and wraps rules containing `:hover` pseudo-classes in `@media (hover: hover) {}` media queries"
+    },
+    {
+        "name": "@tsparticles/confetti",
+        "description": "Easily create highly customizable particle animations and use them as animated backgrounds for your website. Ready to use components available also for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Riot.js, Inferno."
+    },
+    {
+        "name": "@tsparticles/plugin-emitters-shape-circle",
+        "description": "tsParticles emitters shape circle plugin"
+    },
+    {
+        "name": "@spectrum-web-components/icons-workflow",
+        "description": "Deliver [Spectrum Workflow Icons](https://spectrum.adobe.com/page/icons/) as either:"
+    },
+    {
+        "name": "@xstyled/system",
+        "description": "xstyled system utilities."
+    },
+    {
+        "name": "broccoli-postcss",
+        "description": "Postcss compiler for Broccoli"
+    },
+    {
+        "name": "rework-plugin-url",
+        "description": "url() plugin for rework, formerly included in core"
+    },
+    {
+        "name": "gulp-cssmin",
+        "description": "minify css using gulp"
+    },
+    {
+        "name": "parse-import",
+        "description": "Parse CSS @import statements"
+    },
+    {
+        "name": "@tsparticles/interaction-external-trail",
+        "description": "tsParticles trail external interaction"
+    },
+    {
+        "name": "css-font-face-src",
+        "description": "A CSS @font-face src property value parser"
+    },
+    {
+        "name": "postcss-hexrgba",
+        "description": "PostCSS plugin that adds shorthand hex methods to rgba() values"
+    },
+    {
+        "name": "@css-inline/css-inline-linux-arm-gnueabihf",
+        "description": "High-performance library for inlining CSS into HTML 'style' attributes"
+    },
+    {
+        "name": "bootstrap-table",
+        "description": "An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation)"
+    },
+    {
+        "name": "simple-line-icons",
+        "description": "Simple and elegant line icons."
+    },
+    {
+        "name": "html-inline-css-webpack-plugin",
+        "description": "☄️ A webpack plugin for convert external stylesheet to embedded stylesheet, aka document stylesheet"
+    },
+    {
+        "name": "hamburgers",
+        "description": "Collection of tasty CSS-animated hamburger icons. Includes Sass files (modular and customizable), so cook up your own hamburger."
+    },
+    {
+        "name": "gulp-cssnano",
+        "description": "Minify CSS with cssnano."
+    },
+    {
+        "name": "tailwind-styled-components",
+        "description": "Create tailwind css react components like styled components with classes name on multiple lines"
+    },
+    {
+        "name": "storybook-css-modules",
+        "description": "Storybook CSS Modules preset"
+    },
+    {
+        "name": "@linaria/babel-preset",
+        "description": "Blazing fast zero-runtime CSS in JS library"
+    },
+    {
+        "name": "@css-inline/css-inline-win32-x64-msvc",
+        "description": "High-performance library for inlining CSS into HTML 'style' attributes"
+    },
+    {
+        "name": "csso-cli",
+        "description": "Command line interface for CSSO"
+    },
+    {
+        "name": "react-fela",
+        "description": "React bindings for Fela"
+    },
+    {
+        "name": "webpack-rtl-plugin",
+        "description": "Webpack plugin to produce a rtl css bundle"
+    },
+    {
+        "name": "easings-css",
+        "description": "Easing functions for CSS, provided as CSS Custom Properties, JavaScript modules, JSON object and Less and Sass variables."
+    },
+    {
+        "name": "@fontsource/noto-sans-jp",
+        "description": "Self-host the Noto Sans JP font in a neatly bundled NPM package."
+    },
+    {
+        "name": "mediaquery",
+        "description": "turns human readable breakpoints into correct mediaqueries"
+    },
+    {
+        "name": "@fontsource-variable/jetbrains-mono",
+        "description": "Self-host the JetBrains Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "parse-css-font",
+        "description": "Parse the CSS font property value."
+    },
+    {
+        "name": "@css-inline/css-inline-darwin-arm64",
+        "description": "High-performance library for inlining CSS into HTML 'style' attributes"
+    },
+    {
+        "name": "emotion-server",
+        "description": "Extract and inline critical css with emotion for server side rendering."
+    },
+    {
+        "name": "preline",
+        "description": "Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework."
+    },
+    {
+        "name": "html-bundler-webpack-plugin",
+        "description": "Generates complete single-page or multi-page website from source assets. Built-in support for Markdown, Eta, EJS, Handlebars, Nunjucks, Pug. Alternative to html-webpack-plugin."
+    },
+    {
+        "name": "@aurodesignsystem/webcorestylesheets",
+        "description": "Auro core foundation Sass UI Kit"
+    },
+    {
+        "name": "gulp-csso",
+        "description": "Minify CSS with CSSO."
+    },
+    {
+        "name": "gulp-svg-sprite",
+        "description": "SVG sprites & stacks galore — Gulp plugin wrapping around svg-sprite that reads in a bunch of SVG files, optimizes them and creates SVG sprites and CSS resources in various flavours"
+    },
+    {
+        "name": "@rtsao/csstype",
+        "description": "Strict TypeScript and Flow types for style based on MDN data"
+    },
+    {
+        "name": "@lodder/grunt-postcss",
+        "description": "Apply several post-processors to your CSS using PostCSS"
+    },
+    {
+        "name": "element-closest-polyfill",
+        "description": "A minimal polyfill for Element.closest"
+    },
+    {
+        "name": "@fontsource/fira-mono",
+        "description": "Self-host the Fira Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@tsparticles/updater-twinkle",
+        "description": "tsParticles particles twinkle updater"
+    },
+    {
+        "name": "flexboxgrid2",
+        "description": "Grid based off of CSS3 flexbox specification"
+    },
+    {
+        "name": "create-emotion-server",
+        "description": "SSR and style extraction tooling for emotion, The Next Generation of CSS-in-JS."
+    },
+    {
+        "name": "gulp-rtlcss",
+        "description": "Gulp plugin that uses RTLCSS to convert LTR CSS to RTL."
+    },
+    {
+        "name": "vite-plugin-style-import",
+        "description": "A plug-in that imports component library styles on demand"
+    },
+    {
+        "name": "stylelint-plugin-logical-css",
+        "description": "A Stylelint plugin to enforce the use of logical CSS properties, values and units."
+    },
+    {
+        "name": "validate-color",
+        "description": "Validate HTML colors by 'name', 'special name', 'hex', 'rgb', 'rgba', 'hsl', 'hsla', 'hwb', 'lab' or 'lch' values"
+    },
+    {
+        "name": "watch-size",
+        "description": "Watch the size changes of a DOM element"
+    },
+    {
+        "name": "tailwindcss-safe-area",
+        "description": "Tailwind CSS safe area helpers"
+    },
+    {
+        "name": "less-watch-compiler",
+        "description": "A command that watches folders(and subfolders) for file changes and automatically compile the less css files into css. This is a file system watcher and compiler."
+    },
+    {
+        "name": "react-slidedown",
+        "description": "Component for animating height during mount/unmount using a CSS transition"
+    },
+    {
+        "name": "style-object-to-css-string",
+        "description": "A micro-package to convert style objects to css strings.  Inspired by extensive usage of styled-components."
+    },
+    {
+        "name": "@tsparticles/plugin-emitters-shape-square",
+        "description": "tsParticles emitters shape square plugin"
+    },
+    {
+        "name": "postcss-rtl",
+        "description": "PostCSS plugin for RTL-optimizations"
+    },
+    {
+        "name": "spritesheet-templates",
+        "description": "Convert spritesheet data into CSS or CSS pre-processor data"
+    },
+    {
+        "name": "@fontsource-variable/dm-sans",
+        "description": "Self-host the DM Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "postcss-modules-parser",
+        "description": "A CSS Modules parser to extract tokens from the css file"
+    },
+    {
+        "name": "inline-critical",
+        "description": "Inline critical-path css and load the existing stylesheets asynchronously"
+    },
+    {
+        "name": "@fontsource/barlow",
+        "description": "Self-host the Barlow font in a neatly bundled NPM package."
+    },
+    {
+        "name": "the-new-css-reset",
+        "description": "the new CSS reset, using new css features"
+    },
+    {
+        "name": "ress",
+        "description": "A modern CSS reset"
+    },
+    {
+        "name": "@csstools/postcss-sass",
+        "description": "Use Sass as a PostCSS plugin"
+    },
+    {
+        "name": "@atlaskit/css-reset",
+        "description": "A base stylesheet for the Atlassian Design System."
+    },
+    {
+        "name": "@coreui/coreui-pro",
+        "description": "The most popular front-end framework for developing responsive, mobile-first projects on the web rewritten by the CoreUI Team"
+    },
+    {
+        "name": "postcss-each",
+        "description": "PostCSS plugin to iterate through values"
+    },
+    {
+        "name": "tailwindcss-motion",
+        "description": "Tailwind Motion is a Tailwind CSS Plugin made by Rombo. It’s a simple, yet powerful, animation library for Tailwind CSS."
+    },
+    {
+        "name": "critical",
+        "description": "Extract & Inline Critical-path CSS from HTML"
+    },
+    {
+        "name": "postcss-assets",
+        "description": "PostCSS plugin to manage assets"
+    },
+    {
+        "name": "vite-plugin-sass-dts",
+        "description": "A plugin that automatically creates a type file when using the css module type-safely."
+    },
+    {
+        "name": "add-to-calendar-button-react",
+        "description": "Convenient React wrapper for the add to calendar button snippet, which lets you reliably create beautiful buttons, where people can add events to their calendars."
+    },
+    {
+        "name": "buefy",
+        "description": "Lightweight UI components for Vue.js (v3) based on Bulma"
+    },
+    {
+        "name": "postcss-icss-selectors",
+        "description": "PostCSS plugin for css modules to local-scope classes and ids"
+    },
+    {
+        "name": "@styled/typescript-styled-plugin",
+        "description": "TypeScript language service plugin that adds IntelliSense for styled components"
+    },
+    {
+        "name": "postcss-styled",
+        "description": "PostCSS syntax for parsing styled components"
+    },
+    {
+        "name": "postcss-csso",
+        "description": "PostCSS plugin to minify CSS using CSSO"
+    },
+    {
+        "name": "stylelint-high-performance-animation",
+        "description": "Stylelint rule for preventing the use of low performance animation and transition properties."
+    },
+    {
+        "name": "@digitak/grubber",
+        "description": "Parse code files and patch it without having to use an AST"
+    },
+    {
+        "name": "postcss-discard",
+        "description": "PostCSS plugin to discard rules, atrules or declarations by selector, RegExp or callback function"
+    },
+    {
+        "name": "rework-import",
+        "description": "A rework plugin to read and inline CSS files via @import"
+    },
+    {
+        "name": "@css-inline/css-inline-darwin-x64",
+        "description": "High-performance library for inlining CSS into HTML 'style' attributes"
+    },
+    {
+        "name": "@css-inline/css-inline-android-arm-eabi",
+        "description": "High-performance library for inlining CSS into HTML 'style' attributes"
+    },
+    {
+        "name": "@trufflesuite/chromafi",
+        "description": "🦅  cli syntax highlighting: any function - any object - 176 languages"
+    },
+    {
+        "name": "shortcss",
+        "description": "CSS Shorthand expander/combiner"
+    },
+    {
+        "name": "ember-cli-autoprefixer",
+        "description": "Process styles in an ember-cli application using Autoprefixer"
+    },
+    {
+        "name": "spinkit",
+        "description": "A collection of loading indicators animated with CSS"
+    },
+    {
+        "name": "html-crush",
+        "description": "Minify email templates"
+    },
+    {
+        "name": "svg-spritemap-webpack-plugin",
+        "description": "Generates symbol-based SVG spritemap from all .svg files in a directory"
+    },
+    {
+        "name": "gulp-useref",
+        "description": "Parse build blocks in HTML files to replace references to non-optimized scripts or stylesheets."
+    },
+    {
+        "name": "postcss-fail-on-warn",
+        "description": "PostCSS plugin throws a error on any warning from previous PostCSS plugins"
+    },
+    {
+        "name": "hexo-renderer-stylus",
+        "description": "Stylus renderer plugin for Hexo"
+    },
+    {
+        "name": "hast-util-is-css-link",
+        "description": "hast utility to check if an element is a css link"
+    },
+    {
+        "name": "eslint-plugin-css",
+        "description": "An ESLint plugin that provides rules to verify CSS definition objects."
+    },
+    {
+        "name": "rehype-remove-style-type-css",
+        "description": "rehype plugin to remove `type` on CSS `style` and `link`s"
+    },
+    {
+        "name": "windicss",
+        "description": "Next generation utility-first CSS framework."
+    },
+    {
+        "name": "storybook-addon-sass-postcss",
+        "description": "Storybook addon used to run the PostCSS preprocessor with Sass support against your stories."
+    },
+    {
+        "name": "postcss-minify",
+        "description": "PostCSS plugin to remove comments and unnecessary whitespace from CSS files"
+    },
+    {
+        "name": "postcss-discard-font-face",
+        "description": "Discard font faces by type, with PostCSS."
+    },
+    {
+        "name": "ember-cli-postcss",
+        "description": "Use postcss to process your css with a large selection of JavaScript plug-ins."
+    },
+    {
+        "name": "gulp-concat-css",
+        "description": "Concatenate css files, rebasing urls and inlining @import"
+    },
+    {
+        "name": "sqwish",
+        "description": "a tool for compressing CSS"
+    },
+    {
+        "name": "inline-source",
+        "description": "Inline all flagged js, css, image source files"
+    },
+    {
+        "name": "grunt-autoprefixer",
+        "description": "Parse CSS and add vendor-prefixed CSS properties using the Can I Use database. Based on Autoprefixer."
+    },
+    {
+        "name": "minify",
+        "description": "Minifier of js, css, html and img"
+    },
+    {
+        "name": "@jsonforms/vue-vanilla",
+        "description": "Vue 3 Vanilla renderers for JSON Forms"
+    },
+    {
+        "name": "@chatscope/chat-ui-kit-styles",
+        "description": "SCSS themes for @chatscope/chat-ui-kit-react library"
+    },
+    {
+        "name": "@fontsource/dm-sans",
+        "description": "Self-host the DM Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "optimal-select",
+        "description": "Get efficient & robust CSS selectors for HTML elements"
+    },
+    {
+        "name": "@xstyled/styled-components",
+        "description": "A utility-first CSS-in-JS framework built for React (styled-components bindings)."
+    },
+    {
+        "name": "values.js",
+        "description": "Get tints and shades of a CSS color"
+    },
+    {
+        "name": "@fontsource/nunito-sans",
+        "description": "Self-host the Nunito Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "simmerjs",
+        "description": "A pure Javascript reverse CSS selector engine which calculates a DOM element's unique CSS selector on the current page."
+    },
+    {
+        "name": "@css-inline/css-inline-android-arm64",
+        "description": "High-performance library for inlining CSS into HTML 'style' attributes"
+    },
+    {
+        "name": "@expo/match-media",
+        "description": "Universal polyfill for match media API using Expo APIs on mobile"
+    },
+    {
+        "name": "prettier-plugin-two-style-order",
+        "description": "Prettier plugin which sorts related style property declarations"
+    },
+    {
+        "name": "mat4-interpolate",
+        "description": "interpolates two matrices in place"
+    },
+    {
+        "name": "broccoli-postcss-single",
+        "description": "Postcss compiler for Broccoli, operates on individual files."
+    },
+    {
+        "name": "@fontsource-variable/public-sans",
+        "description": "Self-host the Public Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "simply-beautiful",
+        "description": "Beautify HTML, JS, CSS, and JSON in the browser or in Node.js!"
+    },
+    {
+        "name": "swup",
+        "description": "Versatile and extensible page transition library for server-rendered websites"
+    },
+    {
+        "name": "inline-style",
+        "description": "Transform an object into an inline CSS string."
+    },
+    {
+        "name": "react-css-modules",
+        "description": "Seamless mapping of class names to CSS modules inside of React components."
+    },
+    {
+        "name": "@tabler/core",
+        "description": "Premium and Open Source dashboard template with responsive and high quality UI."
+    },
+    {
+        "name": "@swup/astro",
+        "description": "Smooth page transitions, smart preloading and more in Astro"
+    },
+    {
+        "name": "minireset.css",
+        "description": "A tiny modern CSS reset"
+    },
+    {
+        "name": "astro-compress",
+        "description": "Compress 🗜️"
+    },
+    {
+        "name": "rehype-minify-css-style",
+        "description": "rehype plugin to minify `style` elements"
+    },
+    {
+        "name": "@fontsource/source-code-pro",
+        "description": "Self-host the Source Code Pro font in a neatly bundled NPM package."
+    },
+    {
+        "name": "mat4-decompose",
+        "description": "decomposes a 3D matrix"
+    },
+    {
+        "name": "flexboxgrid",
+        "description": "Grid based off of CSS3 flexbox specification"
+    },
+    {
+        "name": "@fontsource-variable/montserrat",
+        "description": "Self-host the Montserrat font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@react-theming/flatten",
+        "description": "Flatten/unflatten color values from theme with nested objects"
+    },
+    {
+        "name": "@savvywombat/tailwindcss-grid-areas",
+        "description": "A plugin to provide Tailwind CSS utilities for grid areas."
+    },
+    {
+        "name": "email-comb",
+        "description": "Remove unused CSS from email templates"
+    },
+    {
+        "name": "hast-util-is-css-style",
+        "description": "hast utility to check if an element is a css style"
+    },
+    {
+        "name": "sass.js",
+        "description": "Sass.js is a convenience API for the JavaScript libsass (compiled with Emscripten)"
+    },
+    {
+        "name": "@hint/utils-css",
+        "description": "utils for CSS"
+    },
+    {
+        "name": "@swiftcarrot/color-fns",
+        "description": "color functions for node and browser"
+    },
+    {
+        "name": "@linaria/webpack4-loader",
+        "description": "Blazing fast zero-runtime CSS in JS library"
+    },
+    {
+        "name": "stylelint-use-nesting",
+        "description": "Enforce nesting when it is possible in CSS"
+    },
+    {
+        "name": "css-values",
+        "description": "Validate CSS property value pairs."
+    },
+    {
+        "name": "reload-css",
+        "description": "Reloads all style sheets in the page associated with a URL"
+    },
+    {
+        "name": "@fontsource/nunito",
+        "description": "Self-host the Nunito font in a neatly bundled NPM package."
+    },
+    {
+        "name": "bunchee",
+        "description": "zero config bundler for js/ts/jsx libraries"
+    },
+    {
+        "name": "@linaria/webpack5-loader",
+        "description": "Blazing fast zero-runtime CSS in JS library"
+    },
+    {
+        "name": "@picocss/pico",
+        "description": "Minimal CSS Framework for semantic HTML"
+    },
+    {
+        "name": "emotion-normalize",
+        "description": "Normalize file for emotion JSS library"
+    },
+    {
+        "name": "postcss-easy-import",
+        "description": "PostCSS plugin to inline @import rules content with extra features"
+    },
+    {
+        "name": "@hint/parser-css",
+        "description": "webhint parser needed to analyze CSS files"
+    },
+    {
+        "name": "@fontsource/inconsolata",
+        "description": "Self-host the Inconsolata font in a neatly bundled NPM package."
+    },
+    {
+        "name": "webfont",
+        "description": "Generator of fonts from svg icons, svg icons to svg font, svg font to ttf, ttf to eot, ttf to woff, ttf to woff2"
+    },
+    {
+        "name": "@fontsource/jetbrains-mono",
+        "description": "Self-host the JetBrains Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "icheck-bootstrap",
+        "description": "Pure css checkboxes and radio buttons for Twitter Bootstrap."
+    },
+    {
+        "name": "grunt-rtlcss",
+        "description": "grunt plugin for RTLCSS, a framework for transforming CSS from LTR to RTL."
+    },
+    {
+        "name": "@oddbird/css-anchor-positioning",
+        "description": "Polyfill for the proposed CSS anchor positioning spec"
+    },
+    {
+        "name": "postcss-will-change",
+        "description": "PostCSS plugin to insert 3D hack before will-change property"
+    },
+    {
+        "name": "@fontsource-variable/nunito-sans",
+        "description": "Self-host the Nunito Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@spectrum-web-components/base",
+        "description": "The `SpectrumElement` base class as created by mixing `SpectrumMixin` onto `LitElement` adopts `dir` values from the `document` at connection time with a fallback to `lrt`. In a TypeScript context, it also enforces the presence of `this.shadowRoot` on ext"
+    },
+    {
+        "name": "minimalcss",
+        "description": "Extract the minimal CSS used in a set of URLs with puppeteer"
+    },
+    {
+        "name": "gray-percentage",
+        "description": "Convenience function to get a gray value by percentage e.g. gray(60) -> hsla(0,0%,100%,0.4)"
+    },
+    {
+        "name": "@fontsource/plus-jakarta-sans",
+        "description": "Self-host the Plus Jakarta Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "seed-publish",
+        "description": "Mixins that manage rendered CSS from modular importing"
+    },
+    {
+        "name": "gulp-uglifycss",
+        "description": "Gulp plugin to use uglifycss"
+    },
+    {
+        "name": "@fontsource-variable/open-sans",
+        "description": "Self-host the Open Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "color-2-name",
+        "description": "Finds the closest color name to a given hex, rgb and hsl color (with and without alpha). It uses the Euclidean distance formula to calculate the distance between colors in the RGB color space"
+    },
+    {
+        "name": "@fontsource/merriweather",
+        "description": "Self-host the Merriweather font in a neatly bundled NPM package."
+    },
+    {
+        "name": "compass-vertical-rhythm",
+        "description": "A port-in-progress of the Compass vertical rhythm library"
+    },
+    {
+        "name": "filterizr",
+        "description": "Filterizr is a jQuery plugin that sorts, shuffles, searches and applies stunning filters over responsive galleries using CSS3 transitions and custom CSS effects"
+    },
+    {
+        "name": "trumpet",
+        "description": "parse and transform streaming html using css selectors"
+    },
+    {
+        "name": "bootstrap-multiselect",
+        "description": "JQuery multiselect plugin based on Twitter Bootstrap."
+    },
+    {
+        "name": "cssproc",
+        "description": "CSS URL processor"
+    },
+    {
+        "name": "html-select",
+        "description": "match a tokenized html stream with css selectors"
+    },
+    {
+        "name": "sass-convert",
+        "description": "Node.js bindings to sass-convert"
+    },
+    {
+        "name": "@fontsource/figtree",
+        "description": "Self-host the Figtree font in a neatly bundled NPM package."
+    },
+    {
+        "name": "select2-bootstrap-5-theme",
+        "description": "Select2 v4 theme for Bootstrap 5"
+    },
+    {
+        "name": "@fontsource/roboto-condensed",
+        "description": "Self-host the Roboto Condensed font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@thednp/dommatrix",
+        "description": "TypeScript shim for DOMMatrix"
+    },
+    {
+        "name": "@fontsource/mulish",
+        "description": "Self-host the Mulish font in a neatly bundled NPM package."
+    },
+    {
+        "name": "cropper",
+        "description": "A simple jQuery image cropping plugin."
+    },
+    {
+        "name": "phosphor-svelte",
+        "description": "A clean and friendly icon family for Svelte"
+    },
+    {
+        "name": "postcss-header",
+        "description": "Add a header to a file."
+    },
+    {
+        "name": "postcss-easings",
+        "description": "PostCSS plugin to replace easing names to cubic-bezier()"
+    },
+    {
+        "name": "postcss-prefixer",
+        "description": "postcss plugin to prefix all css selector classes and ids"
+    },
+    {
+        "name": "react-style-stringify",
+        "description": "A utility for converting React CSSProperties and style maps into CSS strings, designed to simplify the management of inline styles in HTML email templates and React projects."
+    },
+    {
+        "name": "postcss-replace",
+        "description": "PostCSS plugin for replacing strings."
+    },
+    {
+        "name": "@fontsource-variable/roboto-flex",
+        "description": "Self-host the Roboto Flex font in a neatly bundled NPM package."
+    },
+    {
+        "name": "destyle.css",
+        "description": "Opinionated reset stylesheet that provides a clean slate for styling your html."
+    },
+    {
+        "name": "tailwind-gradient-mask-image",
+        "description": "A plugin for Tailwind CSS for masking elements using mask-image and linear-gradient."
+    },
+    {
+        "name": "rollup-plugin-styler",
+        "description": "Universal Rollup plugin for styles: PostCSS, Sass, Less, Stylus and more"
+    },
+    {
+        "name": "country-codes-flags-phone-codes",
+        "description": "Easily access country codes, flags 🏳 and phone codes"
+    },
+    {
+        "name": "@spectrum-web-components/iconset",
+        "description": "Extend either the `Iconset` or `IconsetSVG` exports of this package to supply your application with a custom icon set to power the use of `<sp-icon>` elements throughout. Give your new icon set a custom name, and you'll be ready to supply them as `<sp-ico"
+    },
+    {
+        "name": "@fontsource/raleway",
+        "description": "Self-host the Raleway font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@putout/processor-css",
+        "description": "🐊Putout processor adds ability to parse css files"
+    },
+    {
+        "name": "postcss-pseudo-classes",
+        "description": "PostCSS plugin to convert pseudo-classes to classes for testing purposes"
+    },
+    {
+        "name": "@phosphor-icons/web",
+        "description": "A clean and friendly icon family for web"
+    },
+    {
+        "name": "todomvc-app-css",
+        "description": "CSS for TodoMVC apps"
+    },
+    {
+        "name": "@playform/compress",
+        "description": "Compress 🗜️"
+    },
+    {
+        "name": "emotion-reset",
+        "description": "Reset file for emotion JSS library"
+    },
+    {
+        "name": "postcss-100vh-fix",
+        "description": "PostCSS plugin to fix height/min-height: 100vh on iOS"
+    },
+    {
+        "name": "wickes-css",
+        "description": "CSS and JS and page templates in use by Wickes"
+    },
+    {
+        "name": "@spectrum-web-components/icons-ui",
+        "description": "Deliver [Spectrum UI Icons](https://spectrum.adobe.com/page/icons/) as either:"
+    },
+    {
+        "name": "@fontsource/dm-mono",
+        "description": "Self-host the DM Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@vuepress/plugin-palette",
+        "description": "VuePress plugin - palette"
+    },
+    {
+        "name": "svg-term",
+        "description": "Share terminal sessions via SVG and CSS"
+    },
+    {
+        "name": "@jsx-email/doiuse-email",
+        "description": "Lint CSS for email support against caniemail database."
+    },
+    {
+        "name": "@solid-primitives/styles",
+        "description": "Collection of reactive primitives focused on styles."
+    },
+    {
+        "name": "bootstrap-css-only",
+        "description": "[Bootstrap](http://getbootstrap.com/) CSS and font libraries only. No javascript, and more importantly NO depenedency on jQuery."
+    },
+    {
+        "name": "@fontsource-variable/roboto-mono",
+        "description": "Self-host the Roboto Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "neo.mjs",
+        "description": "Neo.mjs: The multi-threaded UI framework for building ultra-fast, desktop-like web applications with uncompromised responsiveness, inherent security, and a transpilation-free dev mode."
+    },
+    {
+        "name": "postcss-clean",
+        "description": "PostCSS plugin to minify CSS with clean-css"
+    },
+    {
+        "name": "@fontsource/manrope",
+        "description": "Self-host the Manrope font in a neatly bundled NPM package."
+    },
+    {
+        "name": "perfectionist",
+        "description": "Beautify CSS files."
+    },
+    {
+        "name": "@web-baseline/postcss-wrap-up-layer",
+        "description": "PostCSS plugin to add cascade layers to CSS"
+    },
+    {
+        "name": "open-props",
+        "description": "<div align=\"center\"> ![Open Props Logo](https://user-images.githubusercontent.com/1134620/141246730-7df4cf2a-6249-42ca-a01b-494c3ccddabe.png)"
+    },
+    {
+        "name": "@spectrum-web-components/shared",
+        "description": "Shared mixins, tools, etc. that support developing Spectrum Web Components."
+    },
+    {
+        "name": "@spectrum-web-components/theme",
+        "description": "`sp-theme` applies a Spectrum theme by using CSS custom properties to set default sizes & colors for all of the components in its scope. The Spectrum design system provides four color themes (`lightest`, `light`, `dark`, and `darkest`) and two different s"
+    },
+    {
+        "name": "@fontsource-variable/noto-sans-jp",
+        "description": "Self-host the Noto Sans JP font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@egjs/flicking-plugins",
+        "description": "Ready-to-use plugins for @egjs/flicking"
+    },
+    {
+        "name": "purecss",
+        "description": "Pure is a ridiculously tiny CSS library you can use to start any web project."
+    },
+    {
+        "name": "vite-plugin-inline-source",
+        "description": "A vite plugin for inlining files into HTML"
+    },
+    {
+        "name": "@pwrs/lit-css",
+        "description": "Import CSS files as css tagged-template literals"
+    },
+    {
+        "name": "@fontsource/oswald",
+        "description": "Self-host the Oswald font in a neatly bundled NPM package."
+    },
+    {
+        "name": "stylelint-selector-no-empty",
+        "description": "stylelint plugin to disallow empty selectors"
+    },
+    {
+        "name": "postcss-short-size",
+        "description": "Use this in CSS"
+    },
+    {
+        "name": "react-compat-css-styled",
+        "description": "This component is a lightweight, simple line style component for react-compat"
+    },
+    {
+        "name": "postcss-lightningcss",
+        "description": "PostCSS plugin to use lightningcss"
+    },
+    {
+        "name": "@spectrum-web-components/progress-circle",
+        "description": "An `<sp-progress-circle>` shows the progression of a system operation such as downloading, uploading, processing, etc. in a visual way. It can represent both determinate and indeterminate progress, helping users understand the status of ongoing operations"
+    },
+    {
+        "name": "@fontsource/ubuntu",
+        "description": "Self-host the Ubuntu font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/plus-jakarta-sans",
+        "description": "Self-host the Plus Jakarta Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@sanity/styled-components",
+        "description": "A fork of styled-components that supports concurrent rendering"
+    },
+    {
+        "name": "@fontsource/space-grotesk",
+        "description": "Self-host the Space Grotesk font in a neatly bundled NPM package."
+    },
+    {
+        "name": "stylelint-suitcss",
+        "description": "A collection of stylelint plugins for SUIT CSS"
+    },
+    {
+        "name": "@fontsource/rubik",
+        "description": "Self-host the Rubik font in a neatly bundled NPM package."
+    },
+    {
+        "name": "style-vendorizer",
+        "description": "Tiny CSS vendor prefixer and property alias mapper for runtime styling solutions"
+    },
+    {
+        "name": "sassdoc",
+        "description": "Release the docs!"
+    },
+    {
+        "name": "scrollreveal",
+        "description": "Animate elements as they scroll into view"
+    },
+    {
+        "name": "@fontsource/playfair-display",
+        "description": "Self-host the Playfair Display font in a neatly bundled NPM package."
+    },
+    {
+        "name": "postcss-root-to-host",
+        "description": "PostCSS plugin to swap :root for :host"
+    },
+    {
+        "name": "@spectrum-web-components/reactive-controllers",
+        "description": "ReactiveControllers for powering common UI patterns"
+    },
+    {
+        "name": "@spectrum-web-components/clear-button",
+        "description": "Web component implementation of a Spectrum design ClearButton"
+    },
+    {
+        "name": "typography",
+        "description": "Opinionated toolkit for building websites with beautiful typography"
+    },
+    {
+        "name": "@spectrum-web-components/button",
+        "description": "An `<sp-button>` represents an action a user can take. sp-buttons can be clicked or tapped to perform an action or to navigate to another page. Buttons in Spectrum have several variations for different uses and multiple levels of loudness for various atte"
+    },
+    {
+        "name": "stylelint-group-selectors",
+        "description": "stylelint plugin to identify the selectors can  be grouped as they have same set of properties and values"
+    },
+    {
+        "name": "@spectrum-web-components/styles",
+        "description": "Spectrum Web Components are a [`LitElement`](https://lit-element.polymer-project.org)-powered web component library of patterns built on top of the [Spectrum CSS](https://opensource.adobe.com/spectrum-css) specification. Styles for these components are ma"
+    },
+    {
+        "name": "css2xpath",
+        "description": "Advanced CSS to XPath converter"
+    },
+    {
+        "name": "code-tag",
+        "description": "noop functions to help formatters and syntax highlighters recognize embedded code"
+    },
+    {
+        "name": "typography-normalize",
+        "description": "Provides normalize.css as a commonjs module."
+    },
+    {
+        "name": "grunt-contrib-compass",
+        "description": "Compile Sass to CSS using Compass"
+    },
+    {
+        "name": "reset.css",
+        "description": "Genuine Eric Meyer's Reset CSS bundled as npm package"
+    },
+    {
+        "name": "@fontsource/geist-mono",
+        "description": "Self-host the Geist Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "intrinsic-scale",
+        "description": "Replicate background-size: cover/contain (scale+crop) for canvas/CSS/Node/… on any type of media."
+    },
+    {
+        "name": "postcss-focus",
+        "description": "PostCSS plugin to add :focus-visible selector to every :hover for keyboard accessibility"
+    },
+    {
+        "name": "react-chat-elements",
+        "description": "Reactjs chat components"
+    },
+    {
+        "name": "postcss-var-replace",
+        "description": "PostCSS plugin to replace CSS variables with their static values"
+    },
+    {
+        "name": "ember-css-url",
+        "description": "A helper for safely embedding URLs in style properties"
+    },
+    {
+        "name": "@spectrum-web-components/icon",
+        "description": "`<sp-icon>` renders an icon to the page. By default the `name` attribute will pair with separately registered icon sets to deliver the icons. When not present, `<sp-icon>` will subsequently check for its `src` attribute which could populate the icon via a"
+    },
+    {
+        "name": "@tsparticles/preset-confetti",
+        "description": "tsParticles confetti preset"
+    },
+    {
+        "name": "rainbow-sprinkles",
+        "description": "Responsive, theme-based style props for Vanilla Extract"
+    },
+    {
+        "name": "tailwindcss-textshadow",
+        "description": "A Utility Plugins for controlling Text Shadow of an text element."
+    },
+    {
+        "name": "@fontsource/libre-franklin",
+        "description": "Self-host the Libre Franklin font in a neatly bundled NPM package."
+    },
+    {
+        "name": "mega-linter-runner",
+        "description": "Local runner for MegaLinter"
+    },
+    {
+        "name": "seed-breakpoints",
+        "description": "Breakpoints mixin pack for Seed"
+    },
+    {
+        "name": "@fontsource-variable/roboto",
+        "description": "Self-host the Roboto font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource-variable/geist",
+        "description": "Self-host the Geist font in a neatly bundled NPM package."
+    },
+    {
+        "name": "gulp-iconfont-css",
+        "description": "Generate (S)CSS file for icon font created with Gulp"
+    },
+    {
+        "name": "@fontsource/material-icons-outlined",
+        "description": "Self-host the Material Icons Outlined font in a neatly bundled NPM package."
+    },
+    {
+        "name": "string-uglify",
+        "description": "Shorten sets of strings deterministically, to be git-friendly"
+    },
+    {
+        "name": "spinners-react",
+        "description": "Lightweight SVG/CSS spinners for React"
+    },
+    {
+        "name": "string-extract-class-names",
+        "description": "Extracts CSS class/id names from a string"
+    },
+    {
+        "name": "hex-to-css-filter",
+        "description": "hex-to-css-filter - Easy way to generate colors from HEX to CSS Filters"
+    },
+    {
+        "name": "stylelint-react-native",
+        "description": "A collection of React Native specific rules for stylelint"
+    },
+    {
+        "name": "node-bourbon",
+        "description": "node-sass wrapper for thoughtbot's bourbon library"
+    },
+    {
+        "name": "contrast-color",
+        "description": "Determines the best contrast color to use. Give it a background color and it returns a foreground color (black or white by default but customizable)."
+    },
+    {
+        "name": "postcss-trolling",
+        "description": "PostCSS plugin to increase the productivity of your co-workers"
+    },
+    {
+        "name": "website-scraper",
+        "description": "Download website to a local directory (including all css, images, js, etc.)"
+    },
+    {
+        "name": "postcss-object-fit-images",
+        "description": "PostCSS plugin that updates the standard object-fit tag to work with the object-fit-images polyfill for browsers that do not natively support object-fit."
+    },
+    {
+        "name": "@spectrum-web-components/overlay",
+        "description": "An `<sp-overlay>` element is used to decorate content that you would like to present to your visitors as \"overlaid\" on the rest of the application. This includes dialogs (modal and not), pickers, tooltips, context menus, et al."
+    },
+    {
+        "name": "nuxt-purgecss",
+        "description": "Drop superfluous CSS! A neat PurgeCSS wrapper for Nuxt.js"
+    },
+    {
+        "name": "aurelia-animator-css",
+        "description": "An implementation of the abstract Animator interface from templating which enables css-based animations."
+    },
+    {
+        "name": "tailwindcss-animatecss",
+        "description": "Add Animate CSS as Tailwind CSS plugin to your project."
+    },
+    {
+        "name": "@coveord/plasma-style",
+        "description": "Yet another CSS framework - but it's awesome & built by Coveo."
+    },
+    {
+        "name": "unocss-preset-animations",
+        "description": "💅 An animation preset for UnoCSS, which adapts the tailwindcss-animate plugin"
+    },
+    {
+        "name": "el-transition",
+        "description": "Apply Enter/Leave Transitions"
+    },
+    {
+        "name": "css-supports",
+        "description": "CSS.supports() shim"
+    },
+    {
+        "name": "styled-modern-css-reset",
+        "description": "A styled-components wrapper for modern-css-reset"
+    },
+    {
+        "name": "postcss-browser-reporter",
+        "description": "PostCSS plugin to report warning messages right in your browser"
+    },
+    {
+        "name": "postcss-nested-ancestors",
+        "description": "PostCSS plugin to reference any ancestor selector in nested CSS"
+    },
+    {
+        "name": "@fontsource-variable/noto-sans",
+        "description": "Self-host the Noto Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "pandacss-preset-radix-colors",
+        "description": "Brings Radix Colors to 🐼 PandaCSS"
+    },
+    {
+        "name": "postcss-map-get",
+        "description": "PostCSS plugin for sass-like Map Function"
+    },
+    {
+        "name": "postcss-input-range",
+        "description": "Style range inputs with unprefixed pseudo-classes"
+    },
+    {
+        "name": "@fontsource/work-sans",
+        "description": "Self-host the Work Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "stylint",
+        "description": "A linter for stylus"
+    },
+    {
+        "name": "@spectrum-web-components/close-button",
+        "description": "Web component implementation of a Spectrum design CloseButton"
+    },
+    {
+        "name": "grunt-contrib-csslint",
+        "description": "Lint CSS files"
+    },
+    {
+        "name": "stylelint-color-format",
+        "description": "Convert Hex colors to either RGBA or HSLA"
+    },
+    {
+        "name": "@itwin/itwinui-variables",
+        "description": "CSS variables for the iTwinUI design system"
+    },
+    {
+        "name": "gatsby-plugin-purgecss",
+        "description": "Gatsby plugin for purgecss. Removes unused css/sass/less/stylus from files and modules. Supports Tailwindcss, Bootstrap, Bulma etc."
+    },
+    {
+        "name": "@fontsource/fira-sans",
+        "description": "Self-host the Fira Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "css-resolve-import",
+        "description": "Resolves @import statements in CSS"
+    },
+    {
+        "name": "react-twc",
+        "description": "Create reusable Tailwind CSS components with React."
+    },
+    {
+        "name": "theme-change",
+        "description": "Change CSS theme with toggle, buttons or select using CSS Variables and localStorage"
+    },
+    {
+        "name": "ember-cli-inline-content",
+        "description": "An ember-cli add-on to render inline scripts, styles, or any content directly into your index.html file"
+    },
+    {
+        "name": "@firanorg/mollitia-molestias-accusamus",
+        "description": "[![github actions][actions-image]][actions-url] [![coverage][codecov-image]][codecov-url] [![License][license-image]][license-url] [![Downloads][downloads-image]][downloads-url]"
+    },
+    {
+        "name": "vite-plugin-lightningcss",
+        "description": "A Vite plugin for Lightning CSS."
+    },
+    {
+        "name": "gulp-stylus",
+        "description": "Stylus plugin for gulp"
+    },
+    {
+        "name": "@fontsource-variable/nunito",
+        "description": "Self-host the Nunito font in a neatly bundled NPM package."
+    },
+    {
+        "name": "vite-plugin-optimize-css-modules",
+        "description": "Mangles the classnames generated by postcss-modules in vite"
+    },
+    {
+        "name": "pseudo-classes",
+        "description": "Get a list of all CSS pseudo-classes."
+    },
+    {
+        "name": "@fontsource/geist-sans",
+        "description": "Self-host the Geist Sans font in a neatly bundled NPM package."
+    },
+    {
+        "name": "iconoir",
+        "description": "Iconoir - The biggest open source icon library with tons of free icons."
+    },
+    {
+        "name": "@fontsource-variable/figtree",
+        "description": "Self-host the Figtree font in a neatly bundled NPM package."
+    },
+    {
+        "name": "css-font-weight-names",
+        "description": "A JSON Object of all CSS font weight names mapped to their numeric value"
+    },
+    {
+        "name": "@zendeskgarden/css-bedrock",
+        "description": "Garden component CSS"
+    },
+    {
+        "name": "bootstrap-material-design",
+        "description": "Material Design for Bootstrap 4"
+    },
+    {
+        "name": "@workday/canvas-kit-css-core",
+        "description": "The core css for canvas-kit-css"
+    },
+    {
+        "name": "css-font-parser-papandreou",
+        "description": "A parser for the CSS font value"
+    },
+    {
+        "name": "@fontsource/space-mono",
+        "description": "Self-host the Space Mono font in a neatly bundled NPM package."
+    },
+    {
+        "name": "pseudo-elements",
+        "description": "List of all CSS pseudo-elements."
+    },
+    {
+        "name": "css-animation-sync",
+        "description": "Synchronise and control CSS Animations"
+    },
+    {
+        "name": "minify-css-string",
+        "description": "Remove new lines and extra space from a string of css."
+    },
+    {
+        "name": "perfectionist-dfd",
+        "description": "Beautify and/or normalize CSS files. Fork and update of a fork and update of an archived project."
+    },
+    {
+        "name": "is-vendor-prefixed",
+        "description": "Check whether a property is vendor prefixed"
+    },
+    {
+        "name": "stylelint-config-gds",
+        "description": "A Stylelint configuration for the UK Government Digital Service."
+    },
+    {
+        "name": "filter-css",
+        "description": "Filter CSS rules"
+    },
+    {
+        "name": "tailwind-clip-path",
+        "description": "plugin for tailwindcss clip-path utilities"
+    },
+    {
+        "name": "postcss-import-url",
+        "description": "PostCSS plugin inlines remote files."
+    },
+    {
+        "name": "@css-inline/css-inline-wasm",
+        "description": "High-performance library for inlining CSS into HTML 'style' attributes"
+    },
+    {
+        "name": "npm-font-open-sans",
+        "description": "Open Sans font family - incl. usage of CSS, SCSS, LESS"
+    },
+    {
+        "name": "jasny-bootstrap",
+        "description": "Additional features and components for Bootstrap"
+    },
+    {
+        "name": "zombie",
+        "description": "Insanely fast, full-stack, headless browser testing using Node.js"
+    },
+    {
+        "name": "primer-support",
+        "description": "Sass variables, mixins, and functions for use in our components."
+    },
+    {
+        "name": "transition-hook",
+        "description": "☄️ An extremely light-weight react transition animation hook which is simpler and easier to use than react-transition-group"
+    },
+    {
+        "name": "react-typography",
+        "description": "Helpful React components for Typography.js"
+    },
+    {
+        "name": "@spectrum-web-components/action-button",
+        "description": "An `<sp-action-button>` represents an action a user can take."
+    },
+    {
+        "name": "typography-breakpoint-constants",
+        "description": "Provide helpful constants for setting responsive breakpoints"
+    },
+    {
+        "name": "world-flags-sprite",
+        "description": "A sprite of all the worlds' flags"
+    },
+    {
+        "name": "@vtmn/css",
+        "description": "Decathlon Design System - Vitamin global CSS styles library"
+    },
+    {
+        "name": "@antebudimir/eslint-plugin-vanilla-extract",
+        "description": "ESLint plugin for enforcing best practices in vanilla-extract CSS styles, including CSS property ordering and additional linting rules."
+    },
+    {
+        "name": "postcss-sass-unicode",
+        "description": "PostCSS plugin for escape sass unicode characters"
+    },
+    {
+        "name": "load-styles",
+        "description": "Add a CSS <style> tag to the document's <head> node"
+    },
+    {
+        "name": "counteraction",
+        "description": "Compute CSS list-style-type and @counter-style values"
+    },
+    {
+        "name": "@thedutchcoder/postcss-rem-to-px",
+        "description": "PostCSS plugin to convert rem values to px values"
+    },
+    {
+        "name": "postcss-hash",
+        "description": "PostCSS plugin to replace output file names with HASH algorithms (md5, sha256, sha512, etc) and string length of your choice - for cache busting"
+    },
+    {
+        "name": "browserify-css",
+        "description": "A Browserify transform for bundling, rebasing, inlining, and minifying CSS files"
+    },
+    {
+        "name": "stylefmt",
+        "description": "stylefmt is a tool that automatically formats CSS according to stylelint rules"
+    },
+    {
+        "name": "@coveord/plasma-react",
+        "description": "Plasma components implemented with React!"
+    },
+    {
+        "name": "@fontsource/lora",
+        "description": "Self-host the Lora font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@digdir/designsystemet-css",
+        "description": "CSS for Designsystemet"
+    },
+    {
+        "name": "grunt-spritesmith",
+        "description": "Grunt task for converting a set of images into a spritesheet and corresponding CSS variables."
+    },
+    {
+        "name": "gulp-purgecss",
+        "description": "Gulp plugin for purgecss"
+    },
+    {
+        "name": "tram",
+        "description": "Cross-browser CSS3 transitions in JavaScript"
+    },
+    {
+        "name": "gulp-inline-css",
+        "description": "Inline linked css in an html file. Useful for emails."
+    },
+    {
+        "name": "@rebass/grid",
+        "description": "Responsive React grid system built with styled-system, with support for styled-components and emotion"
+    },
+    {
+        "name": "has-class-selector",
+        "description": "Check if a CSS selector string has a class."
+    },
+    {
+        "name": "@fontsource/libre-baskerville",
+        "description": "Self-host the Libre Baskerville font in a neatly bundled NPM package."
+    },
+    {
+        "name": "stylelint-media-use-custom-media",
+        "description": "Enforce usage of custom media queries in CSS"
+    },
+    {
+        "name": "@workday/canvas-kit-css-layout",
+        "description": "Layout css for canvas-kit-css"
+    },
+    {
+        "name": "@workday/canvas-kit-css-button",
+        "description": "The button css for canvas-kit-css"
+    },
+    {
+        "name": "posthtml-postcss",
+        "description": "Use PostCSS with PostHTML"
+    },
+    {
+        "name": "stylelint-at-rule-no-children",
+        "description": "Stylelint rule to disallow children inside at rules"
+    },
+    {
+        "name": "postcss-combine-media-query",
+        "description": "PostCSS plugin to combine equal media query rules."
+    },
+    {
+        "name": "postcss-em-media-query",
+        "description": "PostCSS plugin for transforming min/max-width/height media queries to ems."
+    },
+    {
+        "name": "minify-literals",
+        "description": "Minify CSS and HTML literals"
+    },
+    {
+        "name": "vendor-prefixes",
+        "description": "List of the current CSS vendor prefixes."
+    },
+    {
+        "name": "lesshat",
+        "description": "The most advanced LESS mixins library"
+    },
+    {
+        "name": "@fontsource-variable/mulish",
+        "description": "Self-host the Mulish font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@fontsource/lexend",
+        "description": "Self-host the Lexend font in a neatly bundled NPM package."
+    },
+    {
+        "name": "postcss-opacity",
+        "description": "PostCSS plugin to add opacity filter for IE8 and legacy browsers"
+    },
+    {
+        "name": "@fontsource-variable/material-symbols-rounded",
+        "description": "Self-host the Material Symbols Rounded font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@workday/canvas-kit-css-form-field",
+        "description": "The form css for canvas-kit-css"
+    },
+    {
+        "name": "wickes-css2",
+        "description": "CSS and JS and page templates in use by Wickes"
+    },
+    {
+        "name": "boosted",
+        "description": "Orange Boosted with Bootstrap is a Bootstrap based, Orange branded accessible and ergonomic components library."
+    },
+    {
+        "name": "@workday/canvas-kit-css-page-header",
+        "description": "The blue header at the top of a page to indicate page title and other details"
+    },
+    {
+        "name": "@codecademy/variance",
+        "description": "Constraint based CSS in JS for building scalable design systems"
+    },
+    {
+        "name": "cssjson",
+        "description": "Converts CSS to JSON and back."
+    },
+    {
+        "name": "@workday/canvas-kit-css-banner",
+        "description": "Errors and alerts for canvas-kit-css"
+    },
+    {
+        "name": "@fontsource/material-symbols-outlined",
+        "description": "Self-host the Material Symbols Outlined font in a neatly bundled NPM package."
+    },
+    {
+        "name": "schematics-scss-migrate",
+        "description": "A schematic to migrate from CSS to SCSS stylesheet format for an Angular CLI project"
+    },
+    {
+        "name": "crass",
+        "description": "A CSS utility library for JS"
+    },
+    {
+        "name": "jquery-cropper",
+        "description": "A jQuery plugin wrapper for Cropper.js."
+    },
+    {
+        "name": "tailwind-animate",
+        "description": "A v4.0 compatible Tailwind CSS plugin for creating beautiful animations, replacing `tailwindcss-animate`. Includes custom animations like `accordion-up` and `accordion-down`, and more!"
+    },
+    {
+        "name": "lit-css-loader",
+        "description": "Import CSS files as tagged template literals"
+    },
+    {
+        "name": "@fontsource/quicksand",
+        "description": "Self-host the Quicksand font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@linaria/webpack-loader",
+        "description": "Blazing fast zero-runtime CSS in JS library"
+    },
+    {
+        "name": "em-media-query",
+        "description": "Transform min/max-width/height media queries to ems."
+    },
+    {
+        "name": "postcss-safe-important",
+        "description": "PostCSS plugin that adds !important to style declarations safely"
+    },
+    {
+        "name": "grapesjs-parser-postcss",
+        "description": "Custom CSS parser via PostCSS for GrapesJS"
+    },
+    {
+        "name": "@workday/canvas-kit-css-action-bar",
+        "description": "Action bar CSS for canvas-kit-css"
+    },
+    {
+        "name": "@uiw/react-iframe",
+        "description": "This component allows you to wrap your entire React application or each component in an iFrame."
+    },
+    {
+        "name": "@workday/canvas-kit-css-menu",
+        "description": "Menu CSS for Canvas kit CSS"
+    },
+    {
+        "name": "postcss-conditionals",
+        "description": "PostCSS plugin that enables @if statements in your CSS"
+    },
+    {
+        "name": "@workday/canvas-kit-css-select",
+        "description": "The select css for canvas-kit-css"
+    },
+    {
+        "name": "@fontsource-variable/outfit",
+        "description": "Self-host the Outfit font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@linaria/preeval",
+        "description": "Blazing fast zero-runtime CSS in JS library"
+    },
+    {
+        "name": "@japont/unicode-range",
+        "description": "Unicode-range parser/builder."
+    },
+    {
+        "name": "@fontsource-variable/source-code-pro",
+        "description": "Self-host the Source Code Pro font in a neatly bundled NPM package."
+    },
+    {
+        "name": "rollup-plugin-lit-css",
+        "description": "Import CSS files as tagged template literals"
+    },
+    {
+        "name": "@fontsource/roboto-flex",
+        "description": "Self-host the Roboto Flex font in a neatly bundled NPM package."
+    },
+    {
+        "name": "stylelint-browser-compat",
+        "description": "Yet another linter rule to detect compatibility of CSS features."
+    },
+    {
+        "name": "is-color",
+        "description": "Check if a string is CSS color value"
+    },
+    {
+        "name": "postcss-critical-split",
+        "description": "A PostCSS plugin that takes existing CSS files and splits out the annotated critical styles into a seperate file."
+    },
+    {
+        "name": "systemjs-css-extra",
+        "description": "Simple CSS loader extra for SystemJS v4 and up"
+    },
+    {
+        "name": "stylelint-rem-over-px",
+        "description": "A stylelint rule to enforce the usage of rem units over px units."
+    },
+    {
+        "name": "postcss-rem-to-pixel",
+        "description": "Convert rem (root em) units to px units using PostCSS. Based on postcss-pxtorem."
+    },
+    {
+        "name": "postcss-responsive-type",
+        "description": "PostCSS plugin that adds responsive magic to font-size"
+    },
+    {
+        "name": "rucksack-css",
+        "description": "A little bag of CSS superpowers"
+    },
+    {
+        "name": "@fontsource/kanit",
+        "description": "Self-host the Kanit font in a neatly bundled NPM package."
+    },
+    {
+        "name": "postcss-easing-gradients",
+        "description": "PostCSS plugin to create smooth linear-gradients that approximate easing functions."
+    },
+    {
+        "name": "postcss-assign-layer",
+        "description": "PostCSS plugin to assign a cascade layer to files."
+    },
+    {
+        "name": "postcss-alias",
+        "description": "PostCSS plugin that lets you create custom aliases for CSS properties with an @rule"
+    },
+    {
+        "name": "@fontsource/noto-sans-sc",
+        "description": "Self-host the Noto Sans SC font in a neatly bundled NPM package."
+    },
+    {
+        "name": "@oruga-ui/oruga-next",
+        "description": "UI components for Vue.js and CSS framework agnostic"
+    },
+    {
+        "name": "postcss-vmin",
+        "description": "PostCSS plugin to convert vmin to vm for IE9"
+    },
+    {
+        "name": "@shopify/stylelint-plugin",
+        "description": "Shopify's stylelint rules and config"
+    },
+    {
+        "name": "parseunit",
+        "description": "Parse strings with a number and unit"
+    }
+]

@@ -1,0 +1,1314 @@
+[
+    {
+        "name": "msw",
+        "description": "Seamless REST/GraphQL API mocking library for browser and Node.js."
+    },
+    {
+        "name": "extract-colors",
+        "description": "Extract color palettes from images"
+    },
+    {
+        "name": "@amaui/ui-react",
+        "description": "UI for React"
+    },
+    {
+        "name": "enum-plus",
+        "description": "A drop-in replacement for native enum. Like native enum but much better!"
+    },
+    {
+        "name": "@zitterorg/magni-eos",
+        "description": "[![github actions][actions-image]][actions-url] [![coverage][codecov-image]][codecov-url] [![dependency status][deps-svg]][deps-url] [![dev dependency status][dev-deps-svg]][dev-deps-url] [![License][license-image]][license-url] [![Downloads][downloads-im"
+    },
+    {
+        "name": "@qooxdoo/framework",
+        "description": "The JS Framework for Coders"
+    },
+    {
+        "name": "post-me",
+        "description": "Use web Workers and other Windows through a simple Promise API"
+    },
+    {
+        "name": "@onesy/ui-react",
+        "description": "UI for React"
+    },
+    {
+        "name": "@skypilot/babel-config-node-typescript",
+        "description": "SkyPilot's babel.config.js for Node projects using TypeScript"
+    },
+    {
+        "name": "msw-signalr",
+        "description": "Adds simple signalR hub mocking to msw"
+    },
+    {
+        "name": "cpf_and_cnpj-generator",
+        "description": "Este repositório contém um código JavaScript que gera um CPF (Cadastro de Pessoas Físicas) e CNPJ (Cadastro Nacional da Pessoa Jurídica) brasileiro válido. CPF é um número de identificação exclusivo atribuído a indivíduos no Brasil. O código garante que o"
+    },
+    {
+        "name": "@amaui/style",
+        "description": "CSS in JS styling solution"
+    },
+    {
+        "name": "@amaui/utils",
+        "description": "Utils"
+    },
+    {
+        "name": "tiny-fixtures",
+        "description": "Simple database fixtures"
+    },
+    {
+        "name": "ku4es-kernel",
+        "description": "kodmunki Utilities for ECMAScript Kernel"
+    },
+    {
+        "name": "@onesy/icons-material-rounded-react",
+        "description": "Icons material rounded for React"
+    },
+    {
+        "name": "@mcabreradev/filter",
+        "description": "A powerful, SQL-like array filtering library for TypeScript and JavaScript with advanced pattern matching, MongoDB-style operators, deep object comparison, and zero dependencies"
+    },
+    {
+        "name": "waw",
+        "description": "waw is a minimalistic Node.js framework that serves as a foundation for building various types of projects. The core framework itself contains almost no code—its functionality is driven entirely by the modules you choose to include, making it highly flexi"
+    },
+    {
+        "name": "lamed_table",
+        "description": "Light table implementation"
+    },
+    {
+        "name": "xinjs",
+        "description": "path-based state management for web apps"
+    },
+    {
+        "name": "@amaui/style-react",
+        "description": "Amaui CSS in JS styling solution for React"
+    },
+    {
+        "name": "@amaui/date",
+        "description": "Time and date utils library"
+    },
+    {
+        "name": "ku4es-ui-kernel",
+        "description": "kodmunki Utilities for ECMAScript UI Kernel"
+    },
+    {
+        "name": "msw-ssr-interceptor",
+        "description": "Helper to use msw in SSR environments"
+    },
+    {
+        "name": "qwebs",
+        "description": "Web application framework"
+    },
+    {
+        "name": "jslingua",
+        "description": "Language processing modules"
+    },
+    {
+        "name": "@mornya/cli-libs",
+        "description": "The project of the utilities for CLI."
+    },
+    {
+        "name": "swiftly-tools",
+        "description": "A complete tool to shorten code and speed up your coding, all in one"
+    },
+    {
+        "name": "lang-json",
+        "description": "A lib for templating json"
+    },
+    {
+        "name": "@bee.js/node",
+        "description": "A JavaScript framework for making Node.js API´s"
+    },
+    {
+        "name": "@lintest/rules-mornya",
+        "description": "The integrated lint rules for mornya"
+    },
+    {
+        "name": "zxnz",
+        "description": "Zxnz is simple http server and custome your business."
+    },
+    {
+        "name": "zeanium-node",
+        "description": "Zeanium for Node.js, simple http server and custome your business."
+    },
+    {
+        "name": "@amaui/icons-material-rounded-react",
+        "description": "Icons material rounded for React"
+    },
+    {
+        "name": "@onesy/utils",
+        "description": "Utils"
+    },
+    {
+        "name": "@amaui/models",
+        "description": "Models"
+    },
+    {
+        "name": "@openveo/core",
+        "description": "OpenVeo core CMS"
+    },
+    {
+        "name": "vkrun",
+        "description": "Vkrun is a Node.js framework for building server-side applications"
+    },
+    {
+        "name": "@northscaler/service-support",
+        "description": "Artifacts that assist in writing service layers effectively"
+    },
+    {
+        "name": "@noxfly/canvas",
+        "description": "Backend canvas's static creation."
+    },
+    {
+        "name": "@amaui/subscription",
+        "description": "Subscription method management"
+    },
+    {
+        "name": "@warpjs/webpack-plugin",
+        "description": "This is the Webpack plugin for WarpJS"
+    },
+    {
+        "name": "fluvial",
+        "description": "Fluvial:  A light http/2 server framework, similar to Express"
+    },
+    {
+        "name": "@midware/mauth",
+        "description": "A simple auth middleware for Node.js"
+    },
+    {
+        "name": "@lintest/cli",
+        "description": "Integrated lint and test environment project"
+    },
+    {
+        "name": "para-client-js",
+        "description": "JavaScript Client for Para"
+    },
+    {
+        "name": "@tomjs/create-app",
+        "description": "create tomjs web app"
+    },
+    {
+        "name": "@kitabisa/smockr",
+        "description": "Supple mock server with random fake data using Faker.js"
+    },
+    {
+        "name": "safe-form",
+        "description": "⚡️ End-to-end type-safety from client to server."
+    },
+    {
+        "name": "@amaui/test",
+        "description": "Test suite for front end and back end"
+    },
+    {
+        "name": "antoinejs",
+        "description": "frame work similar off laravel"
+    },
+    {
+        "name": "@ethereum-js/multicall",
+        "description": "Multicall allows multiple smart contract constant function calls to be grouped into a single call and the results aggregated into a single result"
+    },
+    {
+        "name": "@storm-software/eslint-plugin",
+        "description": "⚡ The eslint-plugin package is an ESLint plugin that contains a collection of recommended ESLint rule configurations which you can extend from in your own ESLint configs, as well as an Nx-specific lint rule called enforce-module-boundaries."
+    },
+    {
+        "name": "nodart",
+        "description": "A complete framework for creating microservices and large-scale server-side applications for businesses"
+    },
+    {
+        "name": "@mornya/vessel",
+        "description": "Creates/publishes a Node.js module with no build configuration."
+    },
+    {
+        "name": "x-easy",
+        "description": "Make simple and modular, building a web application with express."
+    },
+    {
+        "name": "@amaui/mongo",
+        "description": "Utils for easier using of mongodb library."
+    },
+    {
+        "name": "@amaui/amqp",
+        "description": "AMQP"
+    },
+    {
+        "name": "@onesy/subscription",
+        "description": "Subscription method management"
+    },
+    {
+        "name": "tosijs",
+        "description": "path-based state management for web apps"
+    },
+    {
+        "name": "@typeheim/fire-legion",
+        "description": "Fire Legion"
+    },
+    {
+        "name": "@onesy/node",
+        "description": "Nodejs utils"
+    },
+    {
+        "name": "@amaui/api",
+        "description": "API"
+    },
+    {
+        "name": "lockenv",
+        "description": "lockenv is a system to have centralized all your environment variables, to be able to have different projects and an easy and simple way to switch between them, inspired on vercel env CLI"
+    },
+    {
+        "name": "@amaui/redis",
+        "description": "Redis"
+    },
+    {
+        "name": "@lintest/rules-cjconnect",
+        "description": "The integrated lint rules for CJConnect"
+    },
+    {
+        "name": "@cantinc/logger",
+        "description": "CANT inc. log system"
+    },
+    {
+        "name": "zely",
+        "description": "Build Productive, Convenient, Fast Backend"
+    },
+    {
+        "name": "@typeheim/orm-on-fire",
+        "description": "Firestore ORM"
+    },
+    {
+        "name": "@onesy/meta",
+        "description": "Meta"
+    },
+    {
+        "name": "byul",
+        "description": "Write commit messages in 3 second"
+    },
+    {
+        "name": "@amaui/huffman-code",
+        "description": "Huffman code"
+    },
+    {
+        "name": "magic-env",
+        "description": "package to set environment fast"
+    },
+    {
+        "name": "generator-columbia-angular",
+        "description": "Opinionated Yeoman Generator for AngularJS applications with an Express Sever and a MongoDB backend"
+    },
+    {
+        "name": "@amaui/aws",
+        "description": "AWS utils"
+    },
+    {
+        "name": "@onesy/style",
+        "description": "CSS in JS styling solution"
+    },
+    {
+        "name": "@mornya/node-vessel",
+        "description": "Creates Node.js application with no build configuration."
+    },
+    {
+        "name": "@amaui/zip",
+        "description": "Zip / Unzip"
+    },
+    {
+        "name": "welshguard",
+        "description": "This library is a validation modules group frontend and backend (for Express.js)"
+    },
+    {
+        "name": "@frontvue/plugin-js",
+        "description": "FrontVue plugin for JavaScript boilerplate template and processing"
+    },
+    {
+        "name": "@browserbox/browserbox",
+        "description": "BrowserBox CLI - Secure, cross-platform RBI. See dosaygo.com"
+    },
+    {
+        "name": "yammie-restaurant-backend-for-jones-by-jack-in-javascript",
+        "description": "Backend Rest API for an online restaurant written in js"
+    },
+    {
+        "name": "login-express",
+        "description": "Generates node.js user signup & login system"
+    },
+    {
+        "name": "@mornya/restful-libs",
+        "description": "The project of wrapped library for RESTful API processing module."
+    },
+    {
+        "name": "jumbojs",
+        "description": "JumboJS CLI and framework"
+    },
+    {
+        "name": "@hazeral/logger",
+        "description": "A simple package to log colourful messages for your program"
+    },
+    {
+        "name": "bee-backend",
+        "description": "A JavaScript framework for making Node.js API´s"
+    },
+    {
+        "name": "ku4es-data",
+        "description": "kodmunki Utilities for ECMAScript Data"
+    },
+    {
+        "name": "valiend",
+        "description": "a package for validate and check auth input"
+    },
+    {
+        "name": "assert-fine",
+        "description": "A lightweight wrapper making assertion testing much easier."
+    },
+    {
+        "name": "@lintest/core",
+        "description": "Integrated lint and test environment project"
+    },
+    {
+        "name": "@typeheim/fire-rx",
+        "description": "RxJS on steroids"
+    },
+    {
+        "name": "kotori-bot",
+        "description": "Cross-platform chatbot framework base on Node.js and TypeScript"
+    },
+    {
+        "name": "@krypton-org/krypton-auth",
+        "description": "Express authentication middleware, using GraphQL and JSON Web Tokens."
+    },
+    {
+        "name": "@onesy/style-react",
+        "description": "Onesy CSS in JS styling solution for React"
+    },
+    {
+        "name": "emoji-hash-gen",
+        "description": "Generates hash of string in emoji"
+    },
+    {
+        "name": "@rodbe/nsl",
+        "description": "List, fuzzy search and run scripts from any type of project"
+    },
+    {
+        "name": "@warpjs/warp",
+        "description": "WarpJS is a serverless platform with front-end integration capabilities. You focus on features with one JavaSscript fullStack codebase, WarpJS deals with the back-end for you: communication, routing, API, versioning, error management, deployment, scaling "
+    },
+    {
+        "name": "@scandinavia/mock",
+        "description": "A simple package to mock data when the backend is busy."
+    },
+    {
+        "name": "@onesy/date",
+        "description": "Time and date utils library"
+    },
+    {
+        "name": "@amaui/lz77",
+        "description": "LZ77"
+    },
+    {
+        "name": "generator-nodena-api-php",
+        "description": "Nodena API (PHP) Yeoman generator"
+    },
+    {
+        "name": "@amaui/diff",
+        "description": "Diff algorithm"
+    },
+    {
+        "name": "@amaui/log",
+        "description": "Log utils, very readable and clean logs"
+    },
+    {
+        "name": "eslint-plugin-storm-software",
+        "description": "⚡ The eslint-plugin package is an ESLint plugin that contains a collection of recommended ESLint rule configurations which you can extend from in your own ESLint configs, as well as an Nx-specific lint rule called enforce-module-boundaries."
+    },
+    {
+        "name": "fetchstrings",
+        "description": "fetch with multiple language strings"
+    },
+    {
+        "name": "@amaui/cache",
+        "description": "Cache"
+    },
+    {
+        "name": "mcwss",
+        "description": "Minecraft Bedrock Websocket Server Framework Base For Modern JavaScript"
+    },
+    {
+        "name": "ocat-lang",
+        "description": "A programming language for the web design and development"
+    },
+    {
+        "name": "toyweb",
+        "description": "An easy, light, and fast web framework"
+    },
+    {
+        "name": "@amaui/cookie",
+        "description": "Cookie"
+    },
+    {
+        "name": "@amaui/meta",
+        "description": "Meta"
+    },
+    {
+        "name": "angular-phone-helper",
+        "description": "Useful tool for piping and detecting phone format - 188 countries + International format"
+    },
+    {
+        "name": "webpack-stats",
+        "description": "The module of reporting to the console of webpack stats data."
+    },
+    {
+        "name": "@amaui/node",
+        "description": "Nodejs utils"
+    },
+    {
+        "name": "@amaui/heap",
+        "description": "Min/Max Heap"
+    },
+    {
+        "name": "decopress",
+        "description": "ExpressJS with TypeScript Decorators"
+    },
+    {
+        "name": "hyperz-utils",
+        "description": "A simple utilities package that offers many different functions that could be of use to you when writing ExpressJS websites or Discord bots!"
+    },
+    {
+        "name": "@onesy/log",
+        "description": "Log utils, very readable and clean logs"
+    },
+    {
+        "name": "grin-server",
+        "description": "Express-wrapper with TypeScript decorators"
+    },
+    {
+        "name": "abec",
+        "description": "Abstract Bios Evolution Core"
+    },
+    {
+        "name": "rocket-swap-sw",
+        "description": ""
+    },
+    {
+        "name": "@mornya/korean-libs",
+        "description": "The project of Korean process module."
+    },
+    {
+        "name": "shoehornjs",
+        "description": "A JavaScript tool for creating type safety."
+    },
+    {
+        "name": "webpack-concatjs-plugin",
+        "description": "A custom Webpack plugin to concatenate and optionally minify files."
+    },
+    {
+        "name": "cachebranch",
+        "description": "Not only caches data in a key-value format but also supports efficient data management with a hierarchical structure."
+    },
+    {
+        "name": "randx",
+        "description": "Module for randomizing arrays with position key."
+    },
+    {
+        "name": "@mrii/mock",
+        "description": "A simple package to mock data when the backend is busy."
+    },
+    {
+        "name": "generator-sf2",
+        "description": "Scaffold out a Symfony2 web app"
+    },
+    {
+        "name": "generator-weplajs",
+        "description": "REST API server by expressjs framework "
+    },
+    {
+        "name": "prismic-helpers-sanitize",
+        "description": "Sanitize/sanitise your Prismic response."
+    },
+    {
+        "name": "api-link",
+        "description": "Back-end API made easily accessible via auto-generated methods"
+    },
+    {
+        "name": "@onesy/models",
+        "description": "Models"
+    },
+    {
+        "name": "@onesy/errors",
+        "description": "Errors"
+    },
+    {
+        "name": "@amaui/request",
+        "description": "Requests client for browser and nodejs"
+    },
+    {
+        "name": "kasfy",
+        "description": "node js framework for smart back-end"
+    },
+    {
+        "name": "@amaui/amaui-binary-tree",
+        "description": "Binary tree"
+    },
+    {
+        "name": "userlogg",
+        "description": "Back-end framework for modelling platform users. "
+    },
+    {
+        "name": "@frontvue/plugin-stylus",
+        "description": "FrontVue plugin for Stylus boilerplate template and processing"
+    },
+    {
+        "name": "@post-me/mpi",
+        "description": "MPI-like concurrency for a pool of web workers"
+    },
+    {
+        "name": "@amaui/icons-material-react",
+        "description": "Icons material for React"
+    },
+    {
+        "name": "textpattern-hive-admin-theme",
+        "description": "The default admin theme that ships as standard with Textpattern CMS."
+    },
+    {
+        "name": "@scandinavia/deep-merge",
+        "description": "merge multiple objects with no time"
+    },
+    {
+        "name": "@steveylin/nestjs-configure",
+        "description": ""
+    },
+    {
+        "name": "@amaui/icons-material-sharp-react",
+        "description": "Icons material sharp for React"
+    },
+    {
+        "name": "@hphudev/create-expressjs-app",
+        "description": "CLI to scaffold Node.js apps"
+    },
+    {
+        "name": "layer-one-validator",
+        "description": "Expressjs middleware to validate data from client side requests"
+    },
+    {
+        "name": "simple-copy-files",
+        "description": "A simple but powerful cli command to copy files during e.g. a build without dependencies"
+    },
+    {
+        "name": "@eamic/server",
+        "description": "eamic-server is simple http server and custome your business."
+    },
+    {
+        "name": "generator-loopback-postgresql",
+        "description": "Loopback+PostgreSQL generator"
+    },
+    {
+        "name": "generator-sails-sass",
+        "description": "Yeoman generator for SailsJS with SASS"
+    },
+    {
+        "name": "bk-cli",
+        "description": "🛠️ Cli Tooling for Rest/GraphQL backend Development."
+    },
+    {
+        "name": "safe-router",
+        "description": "⚡️ Type-safe routing for Next.js"
+    },
+    {
+        "name": "random-number-six-quarter-degrees",
+        "description": "This is a Multi Utility Module for JS developers, this package includes day to day functions that are personally used by me as a coder"
+    },
+    {
+        "name": "@totea/core",
+        "description": "use decorator and js to build web server"
+    },
+    {
+        "name": "generator-saloon",
+        "description": "Yeoman generator for erlang/cowboy based webapp"
+    },
+    {
+        "name": "randomiz",
+        "description": "A npm library making randomness easier"
+    },
+    {
+        "name": "generator-nifty-az",
+        "description": "A collection of useful Azure apps generators"
+    },
+    {
+        "name": "linq-to-objects",
+        "description": "Linq for javascript"
+    },
+    {
+        "name": "api-mount-server",
+        "description": "Library for making communication between front-end and back-end simple"
+    },
+    {
+        "name": "@typeheim/fluent-states",
+        "description": "Easy and clear state management for Angular apps."
+    },
+    {
+        "name": "textpattern-classic-admin-theme",
+        "description": "The classic admin theme that ships as standard with Textpattern CMS."
+    },
+    {
+        "name": "real-logger",
+        "description": "logging package for real time monitoring"
+    },
+    {
+        "name": "@ordinateio/lexicon",
+        "description": "Manages translations of the user interface."
+    },
+    {
+        "name": "@engineers/firebase-admin",
+        "description": "tools for firebase-admin SDK"
+    },
+    {
+        "name": "simple-boot-http-server",
+        "description": "back end http server frameworks"
+    },
+    {
+        "name": "skylab",
+        "description": "SkyLab Coders Academy web launcher"
+    },
+    {
+        "name": "hypertext-templating",
+        "description": "Hypertext templating is a node module used for compiling html with custom user variables."
+    },
+    {
+        "name": "@mvanvu/ujs",
+        "description": "UMD JS work on the both browser and NodeJs"
+    },
+    {
+        "name": "@mornya/network-libs",
+        "description": "The project of gathering informations of network address."
+    },
+    {
+        "name": "api-mount-client",
+        "description": "Library for making communication between front-end and back-end simple"
+    },
+    {
+        "name": "chronometric",
+        "description": "JavaScript library for working with time durations in \"1mo 1w 1d\" format."
+    },
+    {
+        "name": "todite",
+        "description": "Connect your application to Todite, a free to-do list app"
+    },
+    {
+        "name": "blacktide-cli",
+        "description": "Provides a set of cli tools to work with Blacktide framework"
+    },
+    {
+        "name": "@onesy/icons-material-sharp-react",
+        "description": "Icons material sharp for React"
+    },
+    {
+        "name": "@mattcosta7/msw",
+        "description": "Seamless REST/GraphQL API mocking library for browser and Node.js."
+    },
+    {
+        "name": "ku4es-ui-data",
+        "description": "kodmunki Utilities for ECMAScript UI Data"
+    },
+    {
+        "name": "@onesy/zip",
+        "description": "Zip / Unzip"
+    },
+    {
+        "name": "api-mount",
+        "description": "Library for making communication between front-end and back-end simple"
+    },
+    {
+        "name": "northwind-rest-api",
+        "description": "Local REST API Exposing Northwind Database."
+    },
+    {
+        "name": "@onesy/icons-material-two-tone-react",
+        "description": "Icons material two tone for React"
+    },
+    {
+        "name": "mimic-js",
+        "description": "Module-Mediator-Controller architecture and framework for JavaScript back-end applications"
+    },
+    {
+        "name": "@frontvue/plugin-pug",
+        "description": "FrontVue plugin for Pug boilerplate template and processing"
+    },
+    {
+        "name": "buffingjs",
+        "description": "An easy yet complete to use iterable data buffer in javascript"
+    },
+    {
+        "name": "eslint-plugin-storm-graphql",
+        "description": "⚡ The eslint-plugin package is an ESLint plugin that contains a collection of recommended ESLint rule configurations which you can extend from in your own ESLint configs, as well as an Nx-specific lint rule called enforce-module-boundaries."
+    },
+    {
+        "name": "generator-mussia",
+        "description": "Yeoman generator for React with an Express server"
+    },
+    {
+        "name": "functions-date",
+        "description": "A package with an appropriate date in an appropriate format, according to the programmer's needs."
+    },
+    {
+        "name": "@amaui/hash-table",
+        "description": "Hash table"
+    },
+    {
+        "name": "@warpjs/warp-cli",
+        "description": "This is the CLI for WarpJS"
+    },
+    {
+        "name": "eslint-plugin-storm-react",
+        "description": "⚡ The eslint-plugin package is an ESLint plugin that contains a collection of recommended ESLint rule configurations which you can extend from in your own ESLint configs, as well as an Nx-specific lint rule called enforce-module-boundaries."
+    },
+    {
+        "name": "@onesy/cookie",
+        "description": "Cookie"
+    },
+    {
+        "name": "@onesy/queue",
+        "description": "Queue"
+    },
+    {
+        "name": "keep-tidy",
+        "description": "Simple utilities and ES5 base class for robust and maintainable code."
+    },
+    {
+        "name": "cpf_and_cnpj-validator",
+        "description": "Este repositório contém um validador de CPF (Cadastro de Pessoas Físicas) e CNPJ (Cadastro Nacional da Pessoa Jurídica) que pode ser utilizado tanto com JavaScript quanto com TypeScript. O código foi desenvolvido em TypeScript e garante que os números de "
+    },
+    {
+        "name": "@onesy/lz77",
+        "description": "LZ77"
+    },
+    {
+        "name": "amazon-framework-backend",
+        "description": "Modulo javascript para auxiliar o desenvolvimento de projetos com nodejs para a construção do back-end da aplicação."
+    },
+    {
+        "name": "img-report",
+        "description": "Extract image differences between directories and output HTML reports"
+    },
+    {
+        "name": "confeature-flag",
+        "description": "Sweet feature flag for JavaScript & TypeScript."
+    },
+    {
+        "name": "@onesy/linked-list",
+        "description": "Linked list"
+    },
+    {
+        "name": "@onesy/heap",
+        "description": "Min/Max Heap"
+    },
+    {
+        "name": "@onesy/aws",
+        "description": "AWS utils"
+    },
+    {
+        "name": "catalogg",
+        "description": "Back-end framework for modelling tangible item collections."
+    },
+    {
+        "name": "filter-shapes",
+        "description": "filter objects to save bandwidth and catch errors, powered by type-by-example"
+    },
+    {
+        "name": "dotenv-into-aws-secrets-manager",
+        "description": "Export .env keys and values into AWS Secrets Manager."
+    },
+    {
+        "name": "@amaui/errors",
+        "description": "Errors"
+    },
+    {
+        "name": "moment-machine",
+        "description": "a package for get runtime and compare runtime"
+    },
+    {
+        "name": "@onesy/hash-table",
+        "description": "Hash table"
+    },
+    {
+        "name": "@onesy/amqp",
+        "description": "AMQP"
+    },
+    {
+        "name": "@onesy/graph",
+        "description": "Graph"
+    },
+    {
+        "name": "route-repository",
+        "description": "Framework agnostic storage of front to back routing information."
+    },
+    {
+        "name": "logmyapp",
+        "description": "logging package for real time monitoring"
+    },
+    {
+        "name": "bsck",
+        "description": "bsck is a tool that checks and removes \b and ^H from file names."
+    },
+    {
+        "name": "@amaui/algorithms",
+        "description": "Algorithms"
+    },
+    {
+        "name": "@onesy/stack",
+        "description": "Stack"
+    },
+    {
+        "name": "@onesy/cache",
+        "description": "Cache"
+    },
+    {
+        "name": "es-reduxed",
+        "description": "Server side event sourcing powered by Redux"
+    },
+    {
+        "name": "abac-backend",
+        "description": "An abstract class implementing ABAC's back-end API."
+    },
+    {
+        "name": "@amaui/icons-material-two-tone-react",
+        "description": "Icons material two tone for React"
+    },
+    {
+        "name": "parse-count-html-markdown",
+        "description": "A frontend/backend library to supports parsing HTML to Markdown and Markdown to HTML with additional support of word counting for markdown text and HTML text."
+    },
+    {
+        "name": "@onesy/redis",
+        "description": "Redis"
+    },
+    {
+        "name": "@onesy/mongo",
+        "description": "Utils for easier using of mongodb library."
+    },
+    {
+        "name": "abexpress",
+        "description": "ABExpress is a framework that provides a web application server using Node.js and is based on the Express framework."
+    },
+    {
+        "name": "ijaw-names",
+        "description": "a collection of ijaw names"
+    },
+    {
+        "name": "@kariminf/jslingua",
+        "description": "Language processing modules"
+    },
+    {
+        "name": "@lintest/rules-hanstyle",
+        "description": "The integrated lint rules for (C) Lee&Han"
+    },
+    {
+        "name": "njsbacker",
+        "description": "Module for easy developing back-end projects at express.js"
+    },
+    {
+        "name": "@onesy/algorithms",
+        "description": "Algorithms"
+    },
+    {
+        "name": "projectphil-utils",
+        "description": "A simple utilities package that offers many different functions that could be of use to you when writing ExpressJS websites or Discord bots!"
+    },
+    {
+        "name": "@tradeb0t/core",
+        "description": "🤖 Core library for trading software with high integration possibilities"
+    },
+    {
+        "name": "liquid-framework",
+        "description": "Web-Liquid / Framework"
+    },
+    {
+        "name": "rgb-to-ansi",
+        "description": "rgb to ansi"
+    },
+    {
+        "name": "configure-yaml",
+        "description": "The integrated configuration loader using YAML."
+    },
+    {
+        "name": "ws-test-server",
+        "description": "starts a basic WebSocket server and allows line-by-line input from the stdin stream where each line must be a complete JSON object formatted so JSON.parse() can understand it. each line is sent as JSON.stringify() data to the front-end through the socket."
+    },
+    {
+        "name": "@onesy/request",
+        "description": "Requests client for browser and nodejs"
+    },
+    {
+        "name": "restriction",
+        "description": "The restriction of term."
+    },
+    {
+        "name": "@onesy/huffman-code",
+        "description": "Huffman code"
+    },
+    {
+        "name": "deg-to-turn-cli",
+        "description": "deg to turn in cli"
+    },
+    {
+        "name": "native-json-db",
+        "description": "A library to store data locally as JSON, inspired by no-sqls like MongoDB"
+    },
+    {
+        "name": "agenor",
+        "description": "Agenor CLI for creating portifolios to backend developers."
+    },
+    {
+        "name": "@onesy/diff",
+        "description": "Diff algorithm"
+    },
+    {
+        "name": "iraq",
+        "description": "```sh\r npm i iraq\r ```"
+    },
+    {
+        "name": "ottawa",
+        "description": "```sh\r npm i ottawa\r ```"
+    },
+    {
+        "name": "getenv-dotenv",
+        "description": "easy! dotenv"
+    },
+    {
+        "name": "clawdia",
+        "description": "a light-weight fast nodejs back-end framework"
+    },
+    {
+        "name": "moehub",
+        "description": "Your anime character collection gallery, easily build, freely share."
+    },
+    {
+        "name": "udplus",
+        "description": "This Package offers a simple and easy to set up wrapper around Nodes internal \"dgram\" Module. It offers server and client side Functions. The API is inspired by the \"Socket.io\" Package."
+    },
+    {
+        "name": "backend-simulator",
+        "description": "back-end simulator to front-end"
+    },
+    {
+        "name": "hex-to-ansi",
+        "description": "hex to ansi"
+    },
+    {
+        "name": "smorm",
+        "description": "A lightweight ORM for MySQL database with basic CRUD functionalities"
+    },
+    {
+        "name": "caldus",
+        "description": "caldus root placeholder"
+    },
+    {
+        "name": "@start-develop/csp",
+        "description": "CLI tool to scaffold front-end/back-end projects"
+    },
+    {
+        "name": "@mamdk/backend-framework",
+        "description": "A Node TypeScript Back-end Feamework"
+    },
+    {
+        "name": "precise_to_n_fractionals",
+        "description": "Precise to N fractional digits without rounding the Number. 99.9999 => precise_to_n_fractionals(99.9999,3) => 99.999 "
+    },
+    {
+        "name": "@amaui/binary-tree",
+        "description": "Binary tree"
+    },
+    {
+        "name": "@purete-ui/if",
+        "description": "<div align=\"center\">"
+    },
+    {
+        "name": "@amaui/queue",
+        "description": "Queue"
+    },
+    {
+        "name": "lla-simple-routes",
+        "description": ""
+    },
+    {
+        "name": "@amaui/linked-list",
+        "description": "Linked list"
+    },
+    {
+        "name": "alinex-rest",
+        "description": "IT Operator Console"
+    },
+    {
+        "name": "actionlogg",
+        "description": "Back-end framework for logging platform activity."
+    },
+    {
+        "name": "generator-node-puzzle-client",
+        "description": "> TODO: description"
+    },
+    {
+        "name": "@amaui/stack",
+        "description": "Stack"
+    },
+    {
+        "name": "retrocraft",
+        "description": "RetroCraft is a fun and nostalgic CLI tool to generate clean and structured front-end project setups using modern frameworks like React, Vue, Next.js, and Nuxt.js."
+    },
+    {
+        "name": "node-simple-template",
+        "description": "Solution to insert variables into HTML."
+    },
+    {
+        "name": "vbel2",
+        "description": "An opiniated back-end framework"
+    },
+    {
+        "name": "ncast",
+        "description": "Dynamic stream multiplexer by broadcasting over a network port"
+    },
+    {
+        "name": "testcasekit",
+        "description": "Testcasekit is a node.js package to create testcases easily"
+    },
+    {
+        "name": "jumbojs-master",
+        "description": "JumboJS CLI and framework"
+    },
+    {
+        "name": "safely-read",
+        "description": "A Javascript utility for access nested objects safely"
+    },
+    {
+        "name": "openai-memory",
+        "description": "provides functionality to remember conversations with OpenAI."
+    },
+    {
+        "name": "hello-friend",
+        "description": "Say hello to everyone"
+    },
+    {
+        "name": "@ordinateio/password",
+        "description": "Generates strong passwords."
+    },
+    {
+        "name": "generator-bam-back-service",
+        "description": "Yeoman generator for BAM back services"
+    },
+    {
+        "name": "check-fn",
+        "description": "A bool function that checks for type of a JS variable"
+    },
+    {
+        "name": "@amaui/graph",
+        "description": "Graph"
+    },
+    {
+        "name": "socket-metro",
+        "description": "An Eventual socket-server without any affiliation (just by built-in modules)"
+    },
+    {
+        "name": "@onesy/apis",
+        "description": "API"
+    },
+    {
+        "name": "turn-to-rad-cli",
+        "description": "turn to rad in cli"
+    },
+    {
+        "name": "@onesy/test",
+        "description": "Test suite for front end and back end"
+    },
+    {
+        "name": "regina-cmd",
+        "description": "Command Line Interface for create portifolios to backend developers."
+    },
+    {
+        "name": "hex-to-hsl-cli",
+        "description": "hex to hsl in cli"
+    },
+    {
+        "name": "jsx-koa",
+        "description": "Build Koa apps with JSX"
+    },
+    {
+        "name": "zono",
+        "description": "Zeanium for Node.js, simple http server and custome your business."
+    },
+    {
+        "name": "deg-to-rad-cli",
+        "description": "deg to rad in cli"
+    },
+    {
+        "name": "beginner-javascript-dsa",
+        "description": "a npm package that contains singley linked list, queue, stack, hash table and graph"
+    },
+    {
+        "name": "turn-to-deg-cli",
+        "description": "turn to deg in cli"
+    },
+    {
+        "name": "rgb-to-hex-cli",
+        "description": "rgb to hex in cli"
+    },
+    {
+        "name": "gulp-rev-origin",
+        "description": "Gulp-plugin for creating origin manifest without hash, witch pretty useful in development when you using rev-manifest in back-end."
+    },
+    {
+        "name": "msw-tobilen",
+        "description": "Seamless REST/GraphQL API mocking library for browser and Node.js."
+    },
+    {
+        "name": "@onesy/binary-tree",
+        "description": "Binary tree"
+    },
+    {
+        "name": "@dmfx/sdk",
+        "description": "The official Darkmatter SKD."
+    },
+    {
+        "name": "rgba-to-hex-cli",
+        "description": "rgba to hex in cli"
+    },
+    {
+        "name": "xublit-io",
+        "description": "Server-side application framework for Node.js"
+    },
+    {
+        "name": "tmkr",
+        "description": "1 second to create github issue and PR"
+    },
+    {
+        "name": "rad-to-deg-cli",
+        "description": "rad to deg in cli"
+    },
+    {
+        "name": "px-2-rem-cli",
+        "description": "px to rem in cli"
+    },
+    {
+        "name": "hsl-to-hex-cli",
+        "description": "hsl to hex in cli"
+    },
+    {
+        "name": "logmyapp-analytics",
+        "description": "Analytics package for real time analytics"
+    },
+    {
+        "name": "@sparesh/smash",
+        "description": ""
+    },
+    {
+        "name": "@ocmusic/api",
+        "description": ""
+    },
+    {
+        "name": "sublime-route",
+        "description": "Nunca crear un servidor fue tan facil"
+    },
+    {
+        "name": "hex-to-rgb-cli",
+        "description": "hex to rgb in cli"
+    },
+    {
+        "name": "rgba-to-hsla-cli",
+        "description": "rgba to hsla in cli"
+    },
+    {
+        "name": "rad-to-turn-cli",
+        "description": "rad to turn in cli"
+    },
+    {
+        "name": "nock-mock-server",
+        "description": "A simple mock server powered by nock"
+    },
+    {
+        "name": "kasfy-server",
+        "description": "node js framework for smart back-end"
+    },
+    {
+        "name": "rgb-to-hsl-cli",
+        "description": "rgb to hsl in cli"
+    },
+    {
+        "name": "@mornya/xlsx-libs",
+        "description": "The project of Excel download modules."
+    },
+    {
+        "name": "hex-to-rgba-cli",
+        "description": "hex to rgba in cli"
+    },
+    {
+        "name": "white_cats.pvp",
+        "description": "white_cats.pvp is a server side messaging example for WebRTC PvP on WebSockets"
+    },
+    {
+        "name": "generator-bam-service",
+        "description": "Yeoman generator for BAM services"
+    },
+    {
+        "name": "gift.db",
+        "description": "Database Module With JSON"
+    },
+    {
+        "name": "rem-to-em-cli",
+        "description": "rem to em in cli"
+    },
+    {
+        "name": "federicochats",
+        "description": ""
+    },
+    {
+        "name": "rhsh",
+        "description": "random hash generator in cli"
+    },
+    {
+        "name": "generator-assertivas-back-end-1",
+        "description": "Gerador para criação de projetos de back-end para Assertivas"
+    },
+    {
+        "name": "em-to-rem-cli",
+        "description": "em to rem in cli"
+    },
+    {
+        "name": "px-to-em-cli",
+        "description": "px to em in cli"
+    },
+    {
+        "name": "hsl-to-rgb-cli",
+        "description": "hsl to rgb in cli"
+    },
+    {
+        "name": "@mornya/reactive-libs",
+        "description": "Provides responsiveness to objects and enables callbacks."
+    },
+    {
+        "name": "em-to-px-cli",
+        "description": "em to px in cli"
+    },
+    {
+        "name": "rem-to-px-cli",
+        "description": "rem to px in cli"
+    },
+    {
+        "name": "rnbr",
+        "description": "random number generator in cli"
+    },
+    {
+        "name": "hsla-to-rgba-cli",
+        "description": "hsla to rgba in cli"
+    },
+    {
+        "name": "mvkoa",
+        "description": "Node.JS back-end framework based on Koa 2 & ECMAScript Decorator proposal"
+    },
+    {
+        "name": "veq",
+        "description": "An experimental server/browser framework"
+    },
+    {
+        "name": "generator-node-puzzle-vue",
+        "description": "Vue app generator"
+    },
+    {
+        "name": "isomorphic-msw",
+        "description": "MSW with the same API for Node.js and browsers"
+    }
+]

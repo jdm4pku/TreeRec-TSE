@@ -1,0 +1,24 @@
+{
+    "overall_statistics": {
+        "total_samples": 1416,
+        "total_reliable_samples": 1220,
+        "overall_acceptance_rate": 86.15819209039547
+    },
+    "ecosystem_statistics": {
+        "hf": {
+            "total_samples": 306,
+            "reliable_samples": 222,
+            "acceptance_rate": 72.54901960784314
+        },
+        "linux": {
+            "total_samples": 142,
+            "reliable_samples": 124,
+            "acceptance_rate": 87.32394366197182
+        },
+        "js": {
+            "total_samples": 968,
+            "reliable_samples": 874,
+            "acceptance_rate": 90.28925619834712
+        }
+    }
+}

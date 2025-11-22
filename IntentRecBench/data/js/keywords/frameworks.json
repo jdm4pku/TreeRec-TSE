@@ -1,0 +1,738 @@
+[
+    {
+        "name": "@nestjsx/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@nestjsx/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "@dataui/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "@dataui/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "embla",
+        "description": "Meta Framework to manage your applications across frameworks"
+    },
+    {
+        "name": "@mvx/identity",
+        "description": "identity is oidc for mvc, type-mvc is base on koa. Decorator, Ioc, AOP mvc framework on server."
+    },
+    {
+        "name": "@tsdi/platform-browser-boot",
+        "description": "tsioc is AOP, Ioc container, via typescript decorator"
+    },
+    {
+        "name": "@mvx/model",
+        "description": "@mvx/model is model for mvc frameworker on server."
+    },
+    {
+        "name": "expo-plugin-ios-ads-frameworks",
+        "description": "An Expo plugin to add iOS ad-related frameworks (AdSupport, AdServices, StoreKit, AppTrackingTransparency)."
+    },
+    {
+        "name": "@tsdi/platform-server-boot",
+        "description": "boot application on node server, AOP Ioc container, via typescript decorator"
+    },
+    {
+        "name": "@rewiko/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@alphaapps/nestjs-common",
+        "description": "> TODO: description"
+    },
+    {
+        "name": "@rewiko/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "@tsdi/components",
+        "description": "application components. base on AOP, Ioc container, via @tsdi/core ."
+    },
+    {
+        "name": "@alphaapps/nestjs-auth",
+        "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth i"
+    },
+    {
+        "name": "@mvx/typeorm-adapter",
+        "description": "@mvx/typeorm-adapter is typeorm adapter orm for mvc, type-mvc is base on koa. Decorator, Ioc, AOP mvc frameworker on server."
+    },
+    {
+        "name": "@patched-nestjsx/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "terserflow",
+        "description": "A modified enhanced version of terser and uglifyjs that will obfuscate code better than ever done before! Obfuscates code then encrypts all strings so that they cannot be edited by others."
+    },
+    {
+        "name": "@ondosys/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "@ihelpee/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "@patched-nestjsx/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "nest-crud-mongoose",
+        "description": "NestJs CRUD for RESTful APIs - Mongoose"
+    },
+    {
+        "name": "@alphaapps/nestjs-db",
+        "description": "This module was first created to support `sequelize` ORM because it wasn't supported yet by `NestJS` but now we use `@nestjs/sequelize` package.   Right now the only usage of it is to configure `sequelize` in a standard way. ### Installation: ```shell npm"
+    },
+    {
+        "name": "@ihelpee/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@alphaapps/nestjs-config",
+        "description": "> TODO: description"
+    },
+    {
+        "name": "cui-styles",
+        "description": "CSS styles for cUI framework"
+    },
+    {
+        "name": "@datafas/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@nests/mongoose-crud",
+        "description": "NestJs CRUD for RESTful APIs - Mongoose"
+    },
+    {
+        "name": "@n4it/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "@n4it/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@storm-software/eslint-plugin",
+        "description": "⚡ The eslint-plugin package is an ESLint plugin that contains a collection of recommended ESLint rule configurations which you can extend from in your own ESLint configs, as well as an Nx-specific lint rule called enforce-module-boundaries."
+    },
+    {
+        "name": "@femike/swagger-protect",
+        "description": "protect swagger openapi ui"
+    },
+    {
+        "name": "pusudb-use-static-file",
+        "description": "A static-file middleware for the pusudb-framework."
+    },
+    {
+        "name": "sqltt",
+        "description": "SQL Tagged Templates"
+    },
+    {
+        "name": "@datafas/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "@gentleduck/cli",
+        "description": "Add components to your apps."
+    },
+    {
+        "name": "@pelotech/nestjsx-crud-typeorm",
+        "description": "NestJS CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "@alphaapps/nestjs-logs",
+        "description": ""
+    },
+    {
+        "name": "@solid-nestjs/rest-api",
+        "description": "solid-nestjs Rest-API utilities"
+    },
+    {
+        "name": "simpleframework-front",
+        "description": "SimpleFrameworks Front-End"
+    },
+    {
+        "name": "@solid-nestjs/typeorm",
+        "description": "solid-nestjs TypeORM utilities"
+    },
+    {
+        "name": "@tsdi/boot",
+        "description": "Application bootstrap. base on AOP, Ioc container, via @tsdi/core ."
+    },
+    {
+        "name": "@solid-nestjs/common",
+        "description": "solid-nestjs common utilities"
+    },
+    {
+        "name": "pusudb-use-ejs",
+        "description": "A ejs middleware for the pusudb-framework."
+    },
+    {
+        "name": "create-new-webpack-app",
+        "description": "CLI for scaffolding webpack projects using default config, framework templates, loader or plugins templates"
+    },
+    {
+        "name": "@solid-nestjs/rest-graphql",
+        "description": "solid-nestjs Rest-API + GraphQL utilities"
+    },
+    {
+        "name": "@sdgoij/nestjsx-crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@solid-nestjs/graphql",
+        "description": "solid-nestjs GraphQL utilities"
+    },
+    {
+        "name": "@solid-nestjs/typeorm-hybrid-crud",
+        "description": "Complete SOLID NestJS TypeORM CRUD bundle - includes common utilities, TypeORM integration, Rest-API and GraphQL API generation"
+    },
+    {
+        "name": "pusudb-use-auth-jwt",
+        "description": "A authentiation middleware for the pusudb-framework."
+    },
+    {
+        "name": "pusudb",
+        "description": "Framework to build web- and micro-services."
+    },
+    {
+        "name": "@shiroi-shi/techstack",
+        "description": "List of programming languages, frameworks, libraries and other tools used by developers and companies with the name, logo, description and type."
+    },
+    {
+        "name": "nicot",
+        "description": "Nest.js interacting with class-validator + OpenAPI + TypeORM for Nest.js Restful API development."
+    },
+    {
+        "name": "caviar",
+        "description": "A pluggable and extendable web framework which integrates React, Next and Koa to create your own web application out of the box with even zero configuration"
+    },
+    {
+        "name": "@scinorandex/layout",
+        "description": "Generate Next.js layouts with ease"
+    },
+    {
+        "name": "@jayfong/nestjsx__crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "chowa",
+        "description": "UI component library based on React"
+    },
+    {
+        "name": "@ondosys/crud-mongoose",
+        "description": "NestJs CRUD for RESTful APIs - Mongoose"
+    },
+    {
+        "name": "@bjohansebas/scanner",
+        "description": "Simple scan the technologies used in a TypeScript/JavaScript project."
+    },
+    {
+        "name": "@solid-nestjs/typeorm-crud",
+        "description": "Complete SOLID NestJS TypeORM CRUD bundle - includes common utilities, TypeORM integration, and REST API generation"
+    },
+    {
+        "name": "eslint-plugin-storm-software",
+        "description": "⚡ The eslint-plugin package is an ESLint plugin that contains a collection of recommended ESLint rule configurations which you can extend from in your own ESLint configs, as well as an Nx-specific lint rule called enforce-module-boundaries."
+    },
+    {
+        "name": "@n-f9/quack.js",
+        "description": "A Discord.js bot framework for any purpose!"
+    },
+    {
+        "name": "@ondosys/crud-sequelize",
+        "description": "NestJs CRUD for RESTful APIs - Sequelize"
+    },
+    {
+        "name": "@tsdi/typeorm-adapter",
+        "description": "@tsdi/typeorm-adapter is typeorm adapter orm for boot application, mvc frameworks on server."
+    },
+    {
+        "name": "@indigolabs/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "@recalibratedsystems/nestjs-crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@indigolabs/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@ondosys/crud-objection",
+        "description": "NestJs CRUD for RESTful APIs - Objection.js"
+    },
+    {
+        "name": "@rettechnologys/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "@gift-adv/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@andresmeidla/crud-sequelize",
+        "description": "NestJs CRUD for RESTful APIs - Sequelize"
+    },
+    {
+        "name": "@solid-nestjs/typeorm-graphql-crud",
+        "description": "Complete SOLID NestJS TypeORM CRUD bundle - includes common utilities, TypeORM integration, and GraphQL API generation"
+    },
+    {
+        "name": "@rettechnologys/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@crudjs/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "meow-boilerplate",
+        "description": "It's just a little Meow Boilerplate for your next Project"
+    },
+    {
+        "name": "@crudjs/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "tcppubsub",
+        "description": "A simple node-js-tcp publish-subscribe framework. With a broker and a client called member."
+    },
+    {
+        "name": "tcpleveldb",
+        "description": "a implementation of the leveldb with a tcp-server and client in node.js"
+    },
+    {
+        "name": "mithril-coat",
+        "description": "A minimalistic frontend web framework that builds on Mithril"
+    },
+    {
+        "name": "@gift-adv/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "js-frameworks",
+        "description": "Create a base of a framework for JavaScript with diferents presets."
+    },
+    {
+        "name": "oats-i",
+        "description": "An open web framework for building web apps"
+    },
+    {
+        "name": "@pr4j3sh/create-frames",
+        "description": "frames CLI tool for cloning templates"
+    },
+    {
+        "name": "restviz",
+        "description": "A lightweight library designed to create a dynamic web interface for Express applications"
+    },
+    {
+        "name": "@oktein/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "valir-ui",
+        "description": "a simple UI frameworks"
+    },
+    {
+        "name": "@sdgoij/nestjsx-crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "cuecli",
+        "description": "Lightweight CLI for managing AI prompts. Store, organize, and instantly retrieve ChatGPT & Claude prompts. Features tags, variables, sanitization, and optional command execution."
+    },
+    {
+        "name": "@recalibratedsystems/nestjs-crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "@ondosys/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@pelotech/nestjsx-crud",
+        "description": "NestJS CRUD for RESTful APIs (temporary patch)"
+    },
+    {
+        "name": "ipcom-marketing-ai",
+        "description": "Zero-config MCP server for AI-powered marketing tools. Features automatic setup, standalone mode, Interactive Buyer Persona Generator with bilingual support (EN/PT-BR), and enterprise-grade content analysis with 2025 frameworks."
+    },
+    {
+        "name": "@gentleduck/duck-ui",
+        "description": "Add components to your apps."
+    },
+    {
+        "name": "@mfcsafe/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@scalio-oss/nest-couchbase",
+        "description": "Couchbase module for Nest framework"
+    },
+    {
+        "name": "codereducer",
+        "description": "Reduce the number of lines of code for getting some extensive UI/UX feature in your lovely website."
+    },
+    {
+        "name": "@jayfong/nestjsx__crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@visurel/nest-crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@tbf-tools/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "generator-flask-heroku",
+        "description": "Yeoman generator for Flask project to be deployed to Heroku"
+    },
+    {
+        "name": "@ihelpee/crud-mikroorm",
+        "description": "NestJs CRUD for RESTful APIs - MikroORM"
+    },
+    {
+        "name": "jsdl",
+        "description": "An library for downloading front-end js libraries"
+    },
+    {
+        "name": "fastnodejs",
+        "description": "this is nodejs web frameworks"
+    },
+    {
+        "name": "generator-flask-materialize",
+        "description": "Yeoman generator for Flask project to be deployed to materialize"
+    },
+    {
+        "name": "oats-i-cli",
+        "description": "Project generator for Oats~i"
+    },
+    {
+        "name": "@nests/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@mfcsafe/crud-mongoose",
+        "description": "NestJs CRUD for RESTful APIs - Mongoose"
+    },
+    {
+        "name": "eslint-plugin-storm-graphql",
+        "description": "⚡ The eslint-plugin package is an ESLint plugin that contains a collection of recommended ESLint rule configurations which you can extend from in your own ESLint configs, as well as an Nx-specific lint rule called enforce-module-boundaries."
+    },
+    {
+        "name": "mws-spotify-wrapper",
+        "description": "This project was created to test TDD Frameworks and tools"
+    },
+    {
+        "name": "@iscssoft/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "projectforge-cli",
+        "description": "Project Templating Engine that includes most templates with most of the popular languages and frameworks"
+    },
+    {
+        "name": "@qstyler/nestjsx-crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "eslint-plugin-storm-react",
+        "description": "⚡ The eslint-plugin package is an ESLint plugin that contains a collection of recommended ESLint rule configurations which you can extend from in your own ESLint configs, as well as an Nx-specific lint rule called enforce-module-boundaries."
+    },
+    {
+        "name": "fyu",
+        "description": "Do your users take your website for granted? Do want to make them using your website living hell? Look no further, F.Y.U. is here!"
+    },
+    {
+        "name": "appleframeworks",
+        "description": "All Core Framework for Zapp Team"
+    },
+    {
+        "name": "@awesomelioncodes/diamond",
+        "description": "A simple Vue.JS clone"
+    },
+    {
+        "name": "express-prerender",
+        "description": "A prerender middleware for express. This middleware serves cached prerendered pages for crawlers or if no cached page exists for a requested page it will cache a page using PhantomJS and respond with that newly cached page."
+    },
+    {
+        "name": "@qstyler/nestjsx-crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@phoenix-plugin-registry/brackets-bower",
+        "description": "Manage your application's front-end dependencies using Bower. You can install and prune dependencies using the bower.json file and configure Bower through .bowerrc. Also, quickly install front-end packages by hitting Ctrl/Cmd-Alt-B, then start typing the "
+    },
+    {
+        "name": "cordova-plugin-ios-framework-adsupport",
+        "description": "Add AdSupport.framework to your xcode project generated by cordova"
+    },
+    {
+        "name": "@gladstone-healthware/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "sf-front",
+        "description": "SimpleFrameworks Front-End"
+    },
+    {
+        "name": "@iscssoft/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@chewhx/inz",
+        "description": "Command-line automation for installations, configurations, and more with the 'inz' command."
+    },
+    {
+        "name": "@nestjs-extend/mongoose-crud",
+        "description": "Nest.js CRUD for RESTful APIs - Mongoose"
+    },
+    {
+        "name": "@visurel/nest-crud-mongoose",
+        "description": "NestJs CRUD for RESTful APIs - Mongoose"
+    },
+    {
+        "name": "raven-bank-css",
+        "description": "A utility first css framework by Raven bank."
+    },
+    {
+        "name": "@appt-digital/crud",
+        "description": "<div align=\"center\">   <h1>CRUD (@nestjsx/crud)</h1> </div> <div align=\"center\">   <strong>for RESTful APIs built with NestJs</strong> </div>"
+    },
+    {
+        "name": "clanga",
+        "description": "Generate responsive and reusable CSS using clean JavaScript. No more raw CSS or utility class clutter."
+    },
+    {
+        "name": "console-suppressor",
+        "description": "A console suppressor for your production apps works across all major Javascript and Typescript frameworks."
+    },
+    {
+        "name": "native-edge",
+        "description": "A React.JS Clone"
+    },
+    {
+        "name": "@stewartmcgown/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@braxtondiggs/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "@tbf-tools/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "flag-color-for-languages",
+        "description": "HEX codes corresponding to the colors of programming languages"
+    },
+    {
+        "name": "generator-flask",
+        "description": "Yeoman generator for Flask project"
+    },
+    {
+        "name": "clanga-compose",
+        "description": "A libaray built to r"
+    },
+    {
+        "name": "wawecss",
+        "description": "WaweCss is a modern and multi-support CSS framework."
+    },
+    {
+        "name": "nestjs-crud-utils",
+        "description": "NestJS Crud Utils"
+    },
+    {
+        "name": "nestjsx-tmp-crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "rebox",
+        "description": "Simple REST sandbox for local developments"
+    },
+    {
+        "name": "@braxtondiggs/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@gladstone-healthware/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "@opala-studios/crud-firestore",
+        "description": "NestJs CRUD for RESTful APIs - Firestore"
+    },
+    {
+        "name": "leaftech-crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "@jifeon/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "npm-framework-common-library",
+        "description": "Framework Common Library Components"
+    },
+    {
+        "name": "katalyst",
+        "description": "Full-stack, highly-scalable web frameworks, based on koa"
+    },
+    {
+        "name": "@jifeon/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "nestjs-crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "@governed/frameworks",
+        "description": "OWASP, NIST, ISO, MITRE AI threat coverage scores with evaluation methodology"
+    },
+    {
+        "name": "js-templates-generator",
+        "description": "[![CircleCI](https://circleci.com/gh/onwuvic/templetes-generator.svg?style=svg)](https://circleci.com/gh/onwuvic/templetes-generator)  [![Maintainability](https://api.codeclimate.com/v1/badges/87660de3566aad73ebdd/maintainability)](https://codeclimate.com"
+    },
+    {
+        "name": "@n4it/crud-mikroorm",
+        "description": "NestJs CRUD for RESTful APIs - MikroORM"
+    },
+    {
+        "name": "typescript-util-functions",
+        "description": "A library encompassing valuable functions applicable across frameworks utilizing TypeScript."
+    },
+    {
+        "name": "@appt-digital/crud-typeorm",
+        "description": "<div align=\"center\">   <h1>CRUD (@nestjsx/crud-typeorm)</h1> </div> <div align=\"center\">   <strong>for RESTful APIs built with NestJs</strong> </div>"
+    },
+    {
+        "name": "aspirin",
+        "description": "A Promise-based web framework for NodeJS"
+    },
+    {
+        "name": "@letoche/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "cordova-plugin-ios-frameworks",
+        "description": "Add additional libraries/frameworks to your Xcode project on Prepare/Build/Run"
+    },
+    {
+        "name": "run-sass",
+        "description": "Package to manage and compile sass-files at startup or in runtime without restarting."
+    },
+    {
+        "name": "@vianneybr/nestjsx-crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "nestjsx-crud-firestore",
+        "description": "NestJs CRUD for RESTful APIs - Firestore"
+    },
+    {
+        "name": "nestjsx-tmp-crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "@vianneybr/nestjsx-crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "nessim",
+        "description": "Nessim CLI is a powerful tool for building full-stack apps quickly using multiple frameworks, templates, and customizable workflows."
+    },
+    {
+        "name": "@htcsa/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "tailwind-vite-installer",
+        "description": "Outil d'installation automatisée de Tailwind CSS pour différents frameworks"
+    },
+    {
+        "name": "@nestjs-extend/crud",
+        "description": "Nest.js CRUD for RESTful APIs"
+    },
+    {
+        "name": "stackcrte-npm",
+        "description": "A global CLI tool to quickly scaffold projects with popular frontend frameworks. Choose from React, Vue, Angular, Svelte, and Astro to start your web development projects with ease."
+    },
+    {
+        "name": "@claudeautopm/plugin-frameworks",
+        "description": "Complete frontend frameworks plugin with React, Vue, Tailwind CSS agents, UI commands, performance rules, and optimization scripts for ClaudeAutoPM"
+    },
+    {
+        "name": "retro-shadow-buttons",
+        "description": "Fun little library to get those text-based retro game styled buttons on your website!"
+    },
+    {
+        "name": "dockrize",
+        "description": "A command line tool to auto generate Dockerfiles for popular frameworks."
+    },
+    {
+        "name": "@oktein/crud",
+        "description": "NestJs CRUD for RESTful APIs"
+    },
+    {
+        "name": "quickstruct-cli",
+        "description": "A simple CLI tool to generate starter file structures for popular frameworks and languages like React, Vue, Solid, JavaScript, TypeScript, and Dart."
+    },
+    {
+        "name": "ghanta",
+        "description": "'When in doubt about which framework to use, choose Ghanta JS!'"
+    },
+    {
+        "name": "crud-typeorm-mongo-db",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "@htcsa/crud-typeorm",
+        "description": "NestJs CRUD for RESTful APIs - TypeORM"
+    },
+    {
+        "name": "litestyle.css",
+        "description": "a light weight css micro framework"
+    },
+    {
+        "name": "sitetransform",
+        "description": "Want to transform your bad-looking site into a great-looking site? Look no further! Sitetransform.css is here to help! Little classes to remember. Best of all, its only 2KB gzipped, 10KB unzipped, so you could build faster websites."
+    },
+    {
+        "name": "create-develop-framework",
+        "description": "A tool to quickly create scaffolding for front-end development frameworks"
+    },
+    {
+        "name": "ion-test",
+        "description": "ion css making you code faster"
+    },
+    {
+        "name": "swagger-protect",
+        "description": "protect swagger openapi ui"
+    },
+    {
+        "name": "@gustavogsb/nest-couchdb",
+        "description": "CouchDB module for Nest framework"
+    },
+    {
+        "name": "ioncss",
+        "description": "ion css making you code faster"
+    },
+    {
+        "name": "@maquestiaux-devs/multitech-cli",
+        "description": "This tool will help you create projects based on your selected category and technology."
+    }
+]

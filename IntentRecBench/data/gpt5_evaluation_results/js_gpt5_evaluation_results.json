@@ -1,0 +1,770 @@
+[
+    {
+        "intent": "I want to generate OPC UA modules in Node.js for industrial automation or IoT applications.",
+        "artifact": "node-opcua-generator",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to intercept and modify HTTP, HTTPS, XHR, or fetch requests in my JavaScript application.",
+        "artifact": "@mswjs/interceptors",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to control and monitor a wide range of smart locks through HomeKit using a Homebridge plugin that connects to the Seam.co API.",
+        "artifact": "@350d/homebridge-seam",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to add a customizable and mobile-friendly audio player to my React app.",
+        "artifact": "react-h5-audio-player",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to integrate robotics services into my TypeScript application using an SDK.",
+        "artifact": "@cognite/robotics-sdk-ts",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to read data from OPC UA servers using Node.js.",
+        "artifact": "node-opcua-service-read",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to measure JavaScript code coverage when running my tests using a require plugin.",
+        "artifact": "runforcover",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": false,
+        "agreement": false
+    },
+    {
+        "intent": "I want to display interactive and visually appealing command-line prompts to collect user input.",
+        "artifact": "prompts",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to perform precise calculations with fractions and rational numbers in JavaScript.",
+        "artifact": "fraction.js",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to measure code coverage for my JavaScript files bundled with Browserify.",
+        "artifact": "browserify-istanbul",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to add authentication features to my NestJS application.",
+        "artifact": "@alphaapps/nestjs-auth",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to add a search feature to my VuePress documentation site so users can quickly find content.",
+        "artifact": "@vuepress/plugin-search",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to add extra helper functions to my Handlebars templates for tasks like formatting, comparisons, and string manipulation.",
+        "artifact": "handlebars-helpers",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to automatically create icons and splash screens for my Capacitor mobile app.",
+        "artifact": "@capacitor/assets",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to automatically upload my test coverage reports to Coveralls.io using Grunt.",
+        "artifact": "grunt-coveralls",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to parse and evaluate mathematical or string formulas in my JavaScript application.",
+        "artifact": "@sideway/formula",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": true,
+        "agreement": false
+    },
+    {
+        "intent": "I want to write and run JavaScript tests for my code in the browser or Node.js.",
+        "artifact": "jasmine",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to add quad easing effects to particle animations in my web project.",
+        "artifact": "@tsparticles/plugin-easing-quad",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to automate end-to-end testing for my web application using WebDriver in Node.js.",
+        "artifact": "nightwatch",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want a set of ready-made UI components to use in my React application.",
+        "artifact": "@amaui/ui-react",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to convert Markdown files into VuePress-compatible content for my documentation site.",
+        "artifact": "@vuepress/markdown-loader",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": true,
+        "agreement": false
+    },
+    {
+        "intent": "I want quick access to documentation for all global variables and objects in Node.js and web browsers.",
+        "artifact": "globals-docs",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to generate a style guide for my React components to document and showcase them.",
+        "artifact": "react-styleguidist",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to use double-position gradients in my CSS stylesheets.",
+        "artifact": "postcss-double-position-gradients",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to manage and organize multiple applications built with different JavaScript frameworks in one place.",
+        "artifact": "embla",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": false,
+        "agreement": true
+    },
+    {
+        "intent": "I want tools to make testing NestJS applications with Jest easier and more efficient.",
+        "artifact": "@golevelup/ts-jest",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": true,
+        "agreement": false
+    },
+    {
+        "intent": "I want to connect my Node.js application running on an embedded device to AWS IoT services.",
+        "artifact": "aws-iot-device-sdk",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want a local web server that automatically reloads my site when I make changes during development.",
+        "artifact": "live-server",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to create interactive command-line prompts for user input in my Node.js application.",
+        "artifact": "@inquirer/core",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I need predefined constants for working with OPC UA protocols in a Node.js application.",
+        "artifact": "node-opcua-constants",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to generate dynamic JSON structures using templates.",
+        "artifact": "lang-json",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": false,
+        "agreement": true
+    },
+    {
+        "intent": "I want to reduce the size of my CSS by shortening selectors using PostCSS.",
+        "artifact": "postcss-minify-selectors",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to add colored icons or symbols to my console logs to visually indicate success, error, or warning messages.",
+        "artifact": "log-symbols",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to restrict a number so it doesn’t go below a minimum or above a maximum value.",
+        "artifact": "clamp",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I need a way to safely escape strings for use in CSS selectors across different browsers.",
+        "artifact": "css.escape",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to define and use enums in JavaScript with more features and flexibility than the native implementation.",
+        "artifact": "enum-plus",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to mock SignalR hubs in my tests using Mock Service Worker (MSW).",
+        "artifact": "msw-signalr",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to create native apps for Apple TV using React.",
+        "artifact": "react-native-tvos",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to colorize terminal output in my Node.js scripts using ANSI escape codes.",
+        "artifact": "ansi-colors",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to add a horizontal scrolling menu to my React app that works with both mouse and touch controls.",
+        "artifact": "react-horizontal-scrolling-menu",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to safely evaluate mathematical expressions from user input in my JavaScript application.",
+        "artifact": "expr-eval-fork",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to use the standard theme for VuePress to style my documentation site.",
+        "artifact": "@vuepress/theme-default",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to automatically generate Swagger API documentation for my NestJS project.",
+        "artifact": "@globalart/nestjs-swagger",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to measure code coverage in my Vitest tests using Istanbul reports.",
+        "artifact": "@vitest/coverage-istanbul",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to reduce image file sizes in the browser before uploading them.",
+        "artifact": "compressorjs",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to generate test reports for my Playwright tests using Allure.",
+        "artifact": "allure-playwright",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to set up automatic HTTP redirects for pages on my Antora documentation site.",
+        "artifact": "@antora/redirect-producer",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want a function that sets the sign of one number to match another number in JavaScript.",
+        "artifact": "@stdlib/math-base-special-copysign",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want a local development server that automatically reloads my site when I make changes to the code.",
+        "artifact": "@compodoc/live-server",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": false,
+        "agreement": true
+    },
+    {
+        "intent": "I want to style my React components using CSS-in-JS for better flexibility and maintainability.",
+        "artifact": "styled-components",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to measure code coverage for my JavaScript project that uses Browserify.",
+        "artifact": "coverify",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I need to find the maximum base 2 exponent value for subnormal double-precision floating-point numbers in JavaScript.",
+        "artifact": "@stdlib/constants-float64-max-base2-exponent-subnormal",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to control how particles behave when they move outside the boundaries in a particle animation.",
+        "artifact": "@tsparticles/updater-out-modes",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to generate a grouped HTML report from my code coverage data using a command-line tool.",
+        "artifact": "@lcov-viewer/cli",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to use a preconfigured TypeScript setup that's compatible with Appium projects.",
+        "artifact": "@appium/tsconfig",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to simulate XMLHttpRequests and server responses for testing my web application without making real network calls.",
+        "artifact": "nise",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to measure how much of my code is covered by tests using a command-line tool.",
+        "artifact": "covert",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": false,
+        "agreement": true
+    },
+    {
+        "intent": "I want to add colors and styles to text output in my terminal using ANSI escape codes.",
+        "artifact": "ansi-styles",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to adjust my code coverage reports to match my original source files using source maps.",
+        "artifact": "remap-istanbul",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I need a fast way to organize and search for rectangles or spatial objects in 2D space.",
+        "artifact": "rbush",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I need a collection of general-purpose utility functions to simplify common JavaScript tasks.",
+        "artifact": "@amaui/utils",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I need to read and parse PX4 ULog flight log files in my JavaScript project.",
+        "artifact": "@foxglove/ulog",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to easily convert and manipulate colors between different formats in my JavaScript project.",
+        "artifact": "@csstools/color-helpers",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to calculate the specificity of CSS selectors in my project.",
+        "artifact": "@csstools/selector-specificity",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to ask users a yes/no question in my command-line application.",
+        "artifact": "@inquirer/confirm",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to simulate HTTP requests and responses to test my Express, Next.js, or Koa routes.",
+        "artifact": "node-mocks-http",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to automatically report code coverage results in my project's pull requests or CI workflow.",
+        "artifact": "danger-plugin-coverage",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to add an input field that formats and validates international phone numbers.",
+        "artifact": "intl-tel-input",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I need cryptographic utilities to secure OPC UA communications in my Node.js application.",
+        "artifact": "node-opcua-crypto",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to define and use custom media queries in my CSS stylesheets.",
+        "artifact": "postcss-custom-media",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to wrap text that contains ANSI color codes without breaking the formatting.",
+        "artifact": "wrap-ansi",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to verify TypeScript types in my tests to ensure type correctness.",
+        "artifact": "expect-type",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to manage OPC UA nodes in my Node.js application.",
+        "artifact": "node-opcua-service-node-management",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I need math utilities or classes to perform calculations when working with data loading or visualization in JavaScript.",
+        "artifact": "@loaders.gl/math",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to compare two text strings in JavaScript and highlight the differences between them.",
+        "artifact": "diff",
+        "reliable": false,
+        "evaluation_result": "不可靠",
+        "gpt4o_reliable": false,
+        "agreement": true
+    },
+    {
+        "intent": "I want to add colored and styled text output to my Node.js terminal applications.",
+        "artifact": "kleur",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to automatically generate documentation for my Appium project or related tools.",
+        "artifact": "@appium/docutils",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to add a QR code modal to my app so users can connect their crypto wallets using WalletConnect.",
+        "artifact": "@walletconnect/legacy-modal",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to generate code coverage reports for my Solidity smart contracts.",
+        "artifact": "sc-istanbul",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to write JavaScript tests with more informative and readable assertion error messages.",
+        "artifact": "power-assert",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to automatically generate documentation for my UI components using Storybook and MDX.",
+        "artifact": "@storybook/addon-docs",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to detect both mouse clicks and quick tap gestures on elements, but ignore scrolls and drags.",
+        "artifact": "teeny-tap",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to check my code coverage in CI and fail the build if it doesn't meet a required threshold.",
+        "artifact": "lcov-total",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to parse and render mathematical expressions in Markdown documents.",
+        "artifact": "mdast-util-math",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to extract and parse front-matter metadata from files or strings in formats like YAML, JSON, or TOML.",
+        "artifact": "gray-matter",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to generate API documentation automatically for my TypeScript project.",
+        "artifact": "typedoc",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to make sure the cursor in my command-line app returns to normal when the program finishes or exits.",
+        "artifact": "restore-cursor",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to communicate with hardware devices through serial ports using JavaScript on different operating systems.",
+        "artifact": "serialport",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to run several npm scripts at once or in a specific order from the command line.",
+        "artifact": "npm-run-all",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to update terminal output in place, like showing progress bars or live status messages without cluttering the console.",
+        "artifact": "log-update",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to add an input field in my React Native app that lets users enter and format international phone numbers.",
+        "artifact": "react-native-international-phone-number",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to build mobile apps for iOS and Android using React and JavaScript.",
+        "artifact": "react-native",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to set up code coverage reporting for my TypeScript and TSX files using Istanbul.js.",
+        "artifact": "nyc-config-tsx",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to dynamically change the size of particles in my particle animation or effects.",
+        "artifact": "@tsparticles/updater-size",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to fix or resolve relative paths in CSS url() statements when bundling files with Webpack.",
+        "artifact": "resolve-url-loader",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": true,
+        "agreement": true
+    },
+    {
+        "intent": "I want to quickly set up CRUD operations for RESTful APIs in my NestJS project.",
+        "artifact": "@dataui/crud",
+        "reliable": true,
+        "evaluation_result": "可靠",
+        "gpt4o_reliable": false,
+        "agreement": false
+    }
+]

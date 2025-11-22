@@ -1,0 +1,4002 @@
+[
+    {
+        "name": "libphonenumber-js",
+        "description": "A simpler (and smaller) rewrite of Google Android's libphonenumber library in javascript"
+    },
+    {
+        "name": "react-native",
+        "description": "A framework for building native apps using React"
+    },
+    {
+        "name": "swiper",
+        "description": "Most modern mobile touch slider and framework with hardware accelerated transitions"
+    },
+    {
+        "name": "css-mediaquery",
+        "description": "Parses and determines if a given CSS Media Query matches a set of values."
+    },
+    {
+        "name": "body-scroll-lock",
+        "description": "Enables body scroll locking (for iOS Mobile and Tablet, Android, desktop Safari/Chrome/Firefox) without breaking scrolling of a target element (eg. modal/lightbox/flyouts/nav-menus)"
+    },
+    {
+        "name": "react-device-detect",
+        "description": "Detect device type and render your component according to it"
+    },
+    {
+        "name": "react-responsive",
+        "description": "Media queries in react for responsive design"
+    },
+    {
+        "name": "is-mobile",
+        "description": "Check if mobile browser."
+    },
+    {
+        "name": "dom7",
+        "description": "Minimalistic JavaScript library for DOM manipulation, with a jQuery-compatible API"
+    },
+    {
+        "name": "native-run",
+        "description": "A CLI for running apps on iOS/Android devices and simulators/emulators"
+    },
+    {
+        "name": "toastify-react-native",
+        "description": "🎉 toastify-react-native allows you to add notifications to your react-native app (ios, android) with ease. No more nonsense!"
+    },
+    {
+        "name": "ionicons",
+        "description": "Premium icons for Ionic."
+    },
+    {
+        "name": "intl-tel-input",
+        "description": "A JavaScript plugin for entering and validating international telephone numbers"
+    },
+    {
+        "name": "react-native-animatable",
+        "description": "Easy to use declarative transitions and animations for React Native"
+    },
+    {
+        "name": "appium-android-driver",
+        "description": "Android UiAutomator and Chrome support for Appium"
+    },
+    {
+        "name": "@ionic/core",
+        "description": "Base components for Ionic"
+    },
+    {
+        "name": "react-native-keychain",
+        "description": "Keychain Access for React Native"
+    },
+    {
+        "name": "mobile-detect",
+        "description": "Device detection (phone, tablet, desktop, mobile grade, os, versions)"
+    },
+    {
+        "name": "react-native-progress",
+        "description": "Progress indicators and spinners for React Native using ReactART"
+    },
+    {
+        "name": "@ionic/angular",
+        "description": "Angular specific wrappers for @ionic/core"
+    },
+    {
+        "name": "epub2",
+        "description": "Parse ePub electronic book files with Node.JS"
+    },
+    {
+        "name": "react-native-collapsible",
+        "description": "Animated collapsible component for React Native using the Animated API. Good for accordions, toggles etc"
+    },
+    {
+        "name": "nightwatch",
+        "description": "Easy to use Node.js based end-to-end testing solution for web applications using the W3C WebDriver API."
+    },
+    {
+        "name": "@wordpress/primitives",
+        "description": "WordPress cross-platform primitives."
+    },
+    {
+        "name": "@capacitor/assets",
+        "description": "Generate icon and splash screen images for Capacitor apps"
+    },
+    {
+        "name": "@walletconnect/browser-utils",
+        "description": "Browser Utilities for WalletConnect"
+    },
+    {
+        "name": "vue-draggable-next",
+        "description": "Vue 3 drag-and-drop component based on Sortable.js - Touch-friendly, lightweight, and TypeScript ready"
+    },
+    {
+        "name": "device-detector-js",
+        "description": "A javascript port of Matomo device-detector"
+    },
+    {
+        "name": "@walletconnect/iso-crypto",
+        "description": "Isomorphic Crypto for WalletConnect"
+    },
+    {
+        "name": "react-native-youtube-iframe",
+        "description": "A simple wrapper around the youtube iframe js API for react native"
+    },
+    {
+        "name": "parse",
+        "description": "Parse JavaScript SDK"
+    },
+    {
+        "name": "tua-body-scroll-lock",
+        "description": "🔐Body scroll locking that just works with everything"
+    },
+    {
+        "name": "magnific-popup",
+        "description": "Lightbox and modal dialog plugin. Can display inline HTML, iframes (YouTube video, Vimeo, Google Maps), or an image gallery. Animation effects are added with CSS3 transitions. For jQuery or Zepto."
+    },
+    {
+        "name": "@walletconnect/socket-transport",
+        "description": "Socket Transport for WalletConnect"
+    },
+    {
+        "name": "@ionic/cli",
+        "description": "A tool for creating and developing Ionic Framework mobile apps."
+    },
+    {
+        "name": "rc-hammerjs",
+        "description": "ReactJS / HammerJS integration. Support touch events in your React app."
+    },
+    {
+        "name": "@bugsnag/react-native",
+        "description": "Bugsnag error reporter for React Native applications"
+    },
+    {
+        "name": "react-native-svg-charts",
+        "description": "Customizable charts (Line, Bar, Area, Pie, Circle, Progress) for React Native"
+    },
+    {
+        "name": "@ionic/react",
+        "description": "React specific wrapper for @ionic/core"
+    },
+    {
+        "name": "react-native-file-viewer",
+        "description": "Native file viewer for react-native"
+    },
+    {
+        "name": "react-native-aes-crypto",
+        "description": "AES crypto native module for react-native"
+    },
+    {
+        "name": "loki",
+        "description": "Visual Regression Testing for Storybook"
+    },
+    {
+        "name": "fastclick",
+        "description": "Polyfill to remove click delays on browsers with touch UIs."
+    },
+    {
+        "name": "react-native-lightbox-v2",
+        "description": "Images etc in Full Screen Lightbox Popovers for React Native"
+    },
+    {
+        "name": "body-scroll-lock-upgrade",
+        "description": "Enables body scroll locking (for iOS Mobile and Tablet, Android, desktop Safari/Chrome/Firefox) without breaking scrolling of a target element (eg. modal/lightbox/flyouts/nav-menus)"
+    },
+    {
+        "name": "react-h5-audio-player",
+        "description": "A customizable React audio player. Written in TypeScript. Mobile compatible. Keyboard friendly"
+    },
+    {
+        "name": "react-responsive-modal",
+        "description": "A simple responsive and accessible react modal"
+    },
+    {
+        "name": "react-camera-pro",
+        "description": "Universal Camera component for React. Designed with focus on Android, iOS cameras and standard webcams."
+    },
+    {
+        "name": "vant",
+        "description": "Mobile UI Components built on Vue"
+    },
+    {
+        "name": "react-native-macos",
+        "description": "React Native for macOS"
+    },
+    {
+        "name": "@ionic/react-router",
+        "description": "React Router wrapper for @ionic/react"
+    },
+    {
+        "name": "@ionic/vue",
+        "description": "Vue specific wrapper for @ionic/core"
+    },
+    {
+        "name": "emoji-js",
+        "description": "A JS Emoji conversion library"
+    },
+    {
+        "name": "react-native-lightbox",
+        "description": "Images etc in Full Screen Lightbox Popovers for React Native"
+    },
+    {
+        "name": "react-native-tvos",
+        "description": "A framework for building native apps using React"
+    },
+    {
+        "name": "lory.js",
+        "description": "Touch enabled minimalistic slider written in vanilla JavaScript."
+    },
+    {
+        "name": "@react-native-vector-icons/common",
+        "description": "Customizable Icons for React Native with support for image source and full styling."
+    },
+    {
+        "name": "vconsole",
+        "description": "A lightweight, extendable front-end developer tool for mobile web page."
+    },
+    {
+        "name": "teeny-tap",
+        "description": "Listen for both clicks and click-like touches (not scrolls or drags)"
+    },
+    {
+        "name": "eruda",
+        "description": "Console for Mobile Browsers"
+    },
+    {
+        "name": "react-simple-pull-to-refresh",
+        "description": "A Simple Pull To Refresh Component for React Application"
+    },
+    {
+        "name": "@ionic/vue-router",
+        "description": "Vue Router integration for @ionic/vue"
+    },
+    {
+        "name": "@egjs/flicking",
+        "description": "Everyday 30 million people experience. It's reliable, flexible and extendable carousel."
+    },
+    {
+        "name": "@enact/core",
+        "description": "Enact is an open source JavaScript framework containing everything you need to create a fast, scalable mobile or web application."
+    },
+    {
+        "name": "react-native-htmlview",
+        "description": "A component which renders HTML content as native views"
+    },
+    {
+        "name": "@openspacelabs/react-native-zoomable-view",
+        "description": "A view component for react-native with pinch to zoom, tap to move and double tap to zoom capability."
+    },
+    {
+        "name": "pwa-asset-generator",
+        "description": "Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Hum"
+    },
+    {
+        "name": "@walletconnect/legacy-modal",
+        "description": "Legacy QR Code Modal (v1.0) for WalletConnect"
+    },
+    {
+        "name": "mobile-drag-drop",
+        "description": "Polyfill for making HTML5 drag and drop possible in all browsers."
+    },
+    {
+        "name": "@walletconnect/legacy-provider",
+        "description": "Legacy Ethereum Provider (v1.0) for WalletConnect Protocol"
+    },
+    {
+        "name": "leaflet-gesture-handling",
+        "description": "Prompt mobile user to use 2 fingers to move the map. Prompt desktop users to use Ctrl+Mouse Wheel to zoom. Brings Google Maps gesture handling into Leaflet. "
+    },
+    {
+        "name": "loopback",
+        "description": "LoopBack: Open Source Framework for Node.js"
+    },
+    {
+        "name": "device",
+        "description": "Device type detection library based on the useragent string. Refactored from express-device."
+    },
+    {
+        "name": "react-hammerjs",
+        "description": "ReactJS / HammerJS integration. Support touch events in your React app."
+    },
+    {
+        "name": "mobile-device-detect",
+        "description": "Helpers for handling mobile devices"
+    },
+    {
+        "name": "@enact/webos",
+        "description": "webOS support library"
+    },
+    {
+        "name": "react-native-store-review",
+        "description": "Rate on App Store or Google Play directly in your React Native app"
+    },
+    {
+        "name": "appium-tizen-driver",
+        "description": "Tizen support for Appium"
+    },
+    {
+        "name": "express-device",
+        "description": "Browser detection library, built on top of express"
+    },
+    {
+        "name": "@silk-hq/components",
+        "description": "UI Components by Silk"
+    },
+    {
+        "name": "@walletconnect/http-connection",
+        "description": "Http Connection for WalletConnect Providers"
+    },
+    {
+        "name": "uploadcare-widget",
+        "description": "Uploadcare Widget: file uploader."
+    },
+    {
+        "name": "nativescript",
+        "description": "Command-line interface for building NativeScript projects"
+    },
+    {
+        "name": "react-native-circular-progress-indicator",
+        "description": "React Native customizable circular progress indicator"
+    },
+    {
+        "name": "@atlaskit/editor-mobile-bridge",
+        "description": "Mobile distribution of the Editor"
+    },
+    {
+        "name": "tabris",
+        "description": "Mobile apps with native UIs in JavaScript"
+    },
+    {
+        "name": "@hcaptcha/react-native-hcaptcha",
+        "description": "hCaptcha Library for React Native (both Android and iOS)"
+    },
+    {
+        "name": "cordova-plugin-ionic",
+        "description": "Ionic Cordova SDK"
+    },
+    {
+        "name": "smartbanner.js",
+        "description": "Customisable smart app banner for iOS and Android"
+    },
+    {
+        "name": "react-native-switch",
+        "description": "Customisable switch component for RN"
+    },
+    {
+        "name": "cordova-res",
+        "description": "This tool will crop and resize PNG source images into appropriate sizes for modern iOS and Android devices."
+    },
+    {
+        "name": "ionic-angular",
+        "description": "A powerful framework for building mobile and progressive web apps with JavaScript and Angular"
+    },
+    {
+        "name": "@quasar/fastclick",
+        "description": "Polyfill used by Quasar Framework to remove click delays on browsers with touch UIs"
+    },
+    {
+        "name": "cy-mobile-commands",
+        "description": "Mobile testing helper for Cypress"
+    },
+    {
+        "name": "@react-native-vector-icons/material-design-icons",
+        "description": "Material Design Icons font for react native vector icons"
+    },
+    {
+        "name": "rezponsive",
+        "description": "React decorator for responsive behaviors"
+    },
+    {
+        "name": "react-native-international-phone-number",
+        "description": "International mobile phone input component with mask for React Native"
+    },
+    {
+        "name": "is-ua-webview",
+        "description": "useragent parsing for webview detection"
+    },
+    {
+        "name": "@zoom-image/core",
+        "description": "A core implementation of zoom image"
+    },
+    {
+        "name": "@dynatrace/react-native-plugin",
+        "description": "This plugin gives you the ability to use the Dynatrace Mobile agent in your react native application."
+    },
+    {
+        "name": "tdesign-mobile-vue",
+        "description": "tdesign-mobile-vue"
+    },
+    {
+        "name": "@flaticon/flaticon-uicons",
+        "description": "Interface icons from Flaticon"
+    },
+    {
+        "name": "react-native-image-progress",
+        "description": "Progress indicator for networked images, supports progress bar and spinner"
+    },
+    {
+        "name": "@splainez/n8n-nodes-phonenumber-parser",
+        "description": "Parse a phone number and return its information"
+    },
+    {
+        "name": "@react-native-vector-icons/ionicons",
+        "description": "Ionicons font for react native vector icons"
+    },
+    {
+        "name": "antd-mobile-alita",
+        "description": "基于 React 的移动设计规范实现"
+    },
+    {
+        "name": "framework7",
+        "description": "Full featured mobile HTML framework for building iOS & Android apps"
+    },
+    {
+        "name": "react-native-touch-id",
+        "description": "React Native authentication with the native Touch ID popup."
+    },
+    {
+        "name": "react-swipeable-list",
+        "description": "Swipeable list component for React"
+    },
+    {
+        "name": "react-native-extended-stylesheet",
+        "description": "Extended StyleSheets for React Native"
+    },
+    {
+        "name": "shufflejs",
+        "description": "Categorize, sort, and filter a responsive grid of items"
+    },
+    {
+        "name": "blueimp-gallery",
+        "description": "blueimp Gallery is a touch-enabled, responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. It features swipe, mouse and keyboard navigation, transition effects, slideshow functionali"
+    },
+    {
+        "name": "ngx-mat-intl-tel-input",
+        "description": "An Angular Material package for entering and validating international telephone numbers. It adds a flag dropdown to any input, detects the user's country, displays a relevant placeholder and provides formatting/validation methods."
+    },
+    {
+        "name": "@eabdullazyanov/react-native-sms-user-consent",
+        "description": "React Native wrapper for Android's SMS User Consent API, ready to use in React Native apps with minimum effort"
+    },
+    {
+        "name": "@binance/w3w-types",
+        "description": "Typescript Types for binance-w3w"
+    },
+    {
+        "name": "@taiga-ui/addon-mobile",
+        "description": "Extension package for Taiga UI that adds support for mobile specific behaviors such as custom data pickers, dropdowns, etc."
+    },
+    {
+        "name": "@fawazahmed/react-native-read-more",
+        "description": "A simple react native library to show large blocks of text in a condensed manner with the ability to collapse and expand."
+    },
+    {
+        "name": "mmenu-light",
+        "description": "The (extremely) lightweight alternative to the mmenu.js plugin for creating off-canvas mobile menus with the exact look and feel."
+    },
+    {
+        "name": "backendless",
+        "description": "Backendless JavaScript SDK for Node.js and the browser"
+    },
+    {
+        "name": "@bugsnag/expo",
+        "description": "Bugsnag error reporter for Expo applications"
+    },
+    {
+        "name": "stage-js",
+        "description": "2D HTML5 Rendering and Layout"
+    },
+    {
+        "name": "@zoom-image/svelte",
+        "description": "Adapter of zoom image core for Svelte"
+    },
+    {
+        "name": "@ant-design/react-native",
+        "description": "基于蚂蚁金服移动设计规范的 React Native 组件库"
+    },
+    {
+        "name": "react-native-play-install-referrer",
+        "description": "Play Install Referrer Library wrapper for React Native"
+    },
+    {
+        "name": "backendless-rt-client",
+        "description": "Backendless RT Client for connect to Backendless RT Server"
+    },
+    {
+        "name": "react-native-use-modal-hooks",
+        "description": "React hooks for displaying a modal window in React Native"
+    },
+    {
+        "name": "mcc-mnc-list",
+        "description": "List of MCC and MNC codes from up-to-date Wikipedia page"
+    },
+    {
+        "name": "storybook-mobile",
+        "description": "This addon offers suggestions on how you can improve the HTML, CSS and UX of your components to be more mobile-friendly."
+    },
+    {
+        "name": "react-fastclick",
+        "description": "Fast Touch Events for React"
+    },
+    {
+        "name": "@ks89/angular-modal-gallery",
+        "description": "Image gallery for Angular"
+    },
+    {
+        "name": "planck",
+        "description": "2D JavaScript/TypeScript physics engine for cross-platform HTML5 game development"
+    },
+    {
+        "name": "cupertino-pane",
+        "description": "Cupertino Panes is multi-functional modals, cards & panes with touch technologies."
+    },
+    {
+        "name": "alloy",
+        "description": "TiDev Titanium MVC Framework"
+    },
+    {
+        "name": "@react-native-vector-icons/material-icons",
+        "description": "Material Icons font for react native vector icons"
+    },
+    {
+        "name": "vue-croppa",
+        "description": "A simple straightforward customizable lightweight mobile-friendly image cropper for Vue 2.0."
+    },
+    {
+        "name": "onsenui",
+        "description": "HTML5 Mobile Framework & UI Components"
+    },
+    {
+        "name": "@dramaorg/delectus-culpa-reprehenderit",
+        "description": "[![github actions][actions-image]][actions-url] [![coverage][codecov-image]][codecov-url] [![dependency status][deps-svg]][deps-url] [![dev dependency status][dev-deps-svg]][dev-deps-url] [![License][license-image]][license-url] [![Downloads][downloads-im"
+    },
+    {
+        "name": "react-mobile-datepicker",
+        "description": "一个移动端时间选择器react组件"
+    },
+    {
+        "name": "vh-check",
+        "description": "vh unit buggyfill"
+    },
+    {
+        "name": "@dragdroptouch/drag-drop-touch",
+        "description": "A polyfill that enables HTML5 drag-and-drop support for touch devices"
+    },
+    {
+        "name": "react-tappable",
+        "description": "Touch / Tappable Event Handling Component for React"
+    },
+    {
+        "name": "@enact/ui",
+        "description": "A collection of simplified unstyled cross-platform UI components for Enact"
+    },
+    {
+        "name": "jquery.nicescroll",
+        "description": "Nicescroll is a jquery plugin, for nice customizabled scrollbars with a very similar ios/mobile style. It supports DIVs, IFrames and document page (body) scrollbars. Compatible with modern browsers Chrome/Firefox/Edge/Safari/Opera for smartphone ios/andro"
+    },
+    {
+        "name": "@xiaogaozi/emoji-js",
+        "description": "A JS Emoji conversion library"
+    },
+    {
+        "name": "react-native-countdown-component",
+        "description": "React Native CountDown Component"
+    },
+    {
+        "name": "react-native-hole-view",
+        "description": "Component to made an overlay with touch-through hole"
+    },
+    {
+        "name": "ember-gestures",
+        "description": "TouchAction and Gesture support for Ember Applications"
+    },
+    {
+        "name": "basiclightbox",
+        "description": "The lightest lightbox ever made"
+    },
+    {
+        "name": "react-native-simple-crypto",
+        "description": "A simpler React-Native crypto library"
+    },
+    {
+        "name": "@callstack/react-native-visionos",
+        "description": "React Native for visionOS"
+    },
+    {
+        "name": "ember-useragent",
+        "description": "An Ember addon for Fastboot-enabled userAgent parsing via UAParser.js."
+    },
+    {
+        "name": "zoomist",
+        "description": "A TypeScript library for zooming any element. Also supports mobile devices."
+    },
+    {
+        "name": "react-simple-phone-input",
+        "description": "A simple react phone input component with calling code dropdown🤷"
+    },
+    {
+        "name": "react-native-sms",
+        "description": "A React Native library for Sending an SMS with Callback"
+    },
+    {
+        "name": "tocca",
+        "description": "Super lightweight script (1kb) to detect via Javascript events like 'tap' 'dbltap' 'swipeup' 'swipedown' 'swipeleft' 'swiperight' on any kind of device."
+    },
+    {
+        "name": "ionic-plugin-deeplinks",
+        "description": "Ionic Deeplinks Plugin"
+    },
+    {
+        "name": "better-auth-harmony",
+        "description": "Validation and normalization for better-auth"
+    },
+    {
+        "name": "react-native-floating-label-input",
+        "description": "A simple and customizable React Native TextInput with it's placeholder always shown."
+    },
+    {
+        "name": "@react-native-vector-icons/fontawesome6",
+        "description": "Fontawesome6 font for react native vector icons"
+    },
+    {
+        "name": "ember-hammertime",
+        "description": "TouchAction Support for Ember Applications."
+    },
+    {
+        "name": "@react-native-vector-icons/icomoon",
+        "description": "Icomoon font for react native vector icons"
+    },
+    {
+        "name": "mmenu-js",
+        "description": "The best javascript plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp."
+    },
+    {
+        "name": "react-native-shimmer",
+        "description": "Simple shimmering effect in React Native"
+    },
+    {
+        "name": "framework7-react",
+        "description": "Build full featured iOS & Android apps using Framework7 & React"
+    },
+    {
+        "name": "react-native-modalfy",
+        "description": "Modal citizen of React Native"
+    },
+    {
+        "name": "vue-gallery",
+        "description": "VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers."
+    },
+    {
+        "name": "icon-set-creator",
+        "description": "Android & iOS icon generator for React Native"
+    },
+    {
+        "name": "@eastdesire/jscolor",
+        "description": "Web color picker with opacity channel (alpha channel) and custom palette. Supports CSS colors such as rgba() and hex, including #rrggbbaa."
+    },
+    {
+        "name": "wecui",
+        "description": "一款基于Vue2.x版本的移动端web组件"
+    },
+    {
+        "name": "@react-native-vector-icons/feather",
+        "description": "Feather font for react native vector icons"
+    },
+    {
+        "name": "tiny-swiper",
+        "description": "Ingenious JavaScript Carousel powered by wonderful plugins with native-like experience for the web."
+    },
+    {
+        "name": "@react-native-vector-icons/fontawesome",
+        "description": "Fontawesome font for react native vector icons"
+    },
+    {
+        "name": "framework7-vue",
+        "description": "Build full featured iOS & Android apps using Framework7 & Vue"
+    },
+    {
+        "name": "@antv/f2",
+        "description": "Charts for mobile visualization."
+    },
+    {
+        "name": "@tremho/jove-common",
+        "description": "Common component of the Jove framework"
+    },
+    {
+        "name": "@zitterorg/magni-eos",
+        "description": "[![github actions][actions-image]][actions-url] [![coverage][codecov-image]][codecov-url] [![dependency status][deps-svg]][deps-url] [![dev dependency status][dev-deps-svg]][dev-deps-url] [![License][license-image]][license-url] [![Downloads][downloads-im"
+    },
+    {
+        "name": "@coddicat/vue-pinch-scroll-zoom",
+        "description": "Vue component enabling scroll and zoom functionalities for content, leveraging mouse interactions on desktop and two-finger pinch gestures on mobile devices"
+    },
+    {
+        "name": "backendless-ui-sdk",
+        "description": "Backendless UI-SDK"
+    },
+    {
+        "name": "inliner",
+        "description": "Utility to inline images, CSS and JavaScript for a web page - useful for mobile sites"
+    },
+    {
+        "name": "react-mobile-cropper",
+        "description": "The react mobile cropper inspired by Android mobile croppers"
+    },
+    {
+        "name": "@tremho/jove-desktop",
+        "description": "Desktop (Electron) component of Jove framework"
+    },
+    {
+        "name": "react-native-progress-steps",
+        "description": "A simple and fully customizable React Native component that implements a progress stepper UI."
+    },
+    {
+        "name": "@react-native-vector-icons/fontawesome5",
+        "description": "Fontawesome5 font for react native vector icons"
+    },
+    {
+        "name": "amfe-flexible",
+        "description": "Build flexible page on mobile platform"
+    },
+    {
+        "name": "clevertap",
+        "description": "CleverTap API library for node"
+    },
+    {
+        "name": "angular-device-information",
+        "description": "<head> <meta name=\"google-site-verification\" content=\"zApSXb8oh9SIBjqaVNlIs_IPT7sTwY4vwk59YS_CshE\" /></head>    <h1 align=\"center\">angular device information</h1>"
+    },
+    {
+        "name": "@tremho/jove-cli",
+        "description": "tbx command line utility for Jove development"
+    },
+    {
+        "name": "weui",
+        "description": "A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications."
+    },
+    {
+        "name": "@titanium/turbo",
+        "description": "🚀 Axway Amplify tool to use Turbo for turbo charging your Appcelerator Titanium SDK Framework!"
+    },
+    {
+        "name": "@sandstreamdev/react-swipeable-list",
+        "description": "Swipeable list component for React"
+    },
+    {
+        "name": "weaver-mobile",
+        "description": "泛微移动端组件库"
+    },
+    {
+        "name": "@lykmapipo/phone",
+        "description": "Helper utilities for parsing and validate phone numbers"
+    },
+    {
+        "name": "vue-mobile-detection",
+        "description": "Vue.js prototype function `this.$isMobile()` that returns a Boolean value depending on whether or not the user is browsing with a mobile"
+    },
+    {
+        "name": "ngx-mat-input-tel",
+        "description": "An Angular Material package for entering and validating international telephone numbers. It adds a flag dropdown to any input, detects the user's country, displays a relevant placeholder and provides formatting/validation methods."
+    },
+    {
+        "name": "mongoose-valid8",
+        "description": "Additional mongoose schema validations"
+    },
+    {
+        "name": "@enact/sandstone",
+        "description": "Large-screen/TV support library for Enact, containing a variety of UI components."
+    },
+    {
+        "name": "react-onsenui",
+        "description": "Onsen UI - React Components for Hybrid Cordova/PhoneGap Apps with Material Design and iOS UI components"
+    },
+    {
+        "name": "zinfinitescroll",
+        "description": "angular directive to handle element scroll"
+    },
+    {
+        "name": "react-native-simple-bottom-sheet",
+        "description": "A simple react native bottom sheet component"
+    },
+    {
+        "name": "@oroinc/jquery.nicescroll",
+        "description": "Nicescroll is a jquery plugin, for nice customizabled scrollbars with a very similar ios/mobile style. It supports DIVs, IFrames and document page (body) scrollbars. Compatible with Firefox 4+, Chrome 5+, Safari 4+ (win/mac), Opera 10+, IE 6+ (all A-grade"
+    },
+    {
+        "name": "grapesjs-touch",
+        "description": "GrapesJS touch support for mobile devices"
+    },
+    {
+        "name": "react-native-image-slider-box",
+        "description": "A simple and fully customizable React Native component that implements an Image Slider UI."
+    },
+    {
+        "name": "lazyloadxt",
+        "description": "Lazy Load XT is mobile-oriented, fast and extensible jQuery plugin for lazy loading of images, videos and other media with built-in support of jQueryMobile framework. It improves performance of website by loading visible media elements only, and elements "
+    },
+    {
+        "name": "backendless-dashboards",
+        "description": "Backendless Dashboards SDK"
+    },
+    {
+        "name": "@react-native-vector-icons/ant-design",
+        "description": "Ant Design font for react native vector icons"
+    },
+    {
+        "name": "storybook-mobile-addon",
+        "description": "This addon offers suggestions on how you can improve the HTML, CSS and UX of your components to be more mobile-friendly."
+    },
+    {
+        "name": "@appetize/playwright",
+        "description": "Test your mobile apps on Appetize.io with Playwright"
+    },
+    {
+        "name": "linq-collections",
+        "description": "Linq-Collections (ES5): [IEnumerable, IQueryable, ...] + [List, Dictionary, Stack, ... + readonly]"
+    },
+    {
+        "name": "large-small-dynamic-viewport-units-polyfill",
+        "description": "Polyfill for svh, dvh and lvh CSS viewport units"
+    },
+    {
+        "name": "react-responsive-select",
+        "description": "A customisable, touchable, React single-select / multi-select form control."
+    },
+    {
+        "name": "@react-native-vector-icons/evil-icons",
+        "description": "Evil Icons font for react native vector icons"
+    },
+    {
+        "name": "react-reorder",
+        "description": "Drag & drop, touch enabled, reorderable / sortable list, React component"
+    },
+    {
+        "name": "vue-light-gallery",
+        "description": "VueJS lightweight image gallery for both mobile and desktop browsers."
+    },
+    {
+        "name": "@react-native-vector-icons/lucide",
+        "description": "Lucide font for react native vector icons"
+    },
+    {
+        "name": "react-vant",
+        "description": "React Mobile UI Components base on Vant UI"
+    },
+    {
+        "name": "svelte-device-info",
+        "description": "informs about a device's form factor and pointing accuracy"
+    },
+    {
+        "name": "@exodus/react-native-keychain",
+        "description": "Keychain Access for React Native"
+    },
+    {
+        "name": "@react-native-vector-icons/get-image",
+        "description": "Glyph to png conversion for react native vector icons"
+    },
+    {
+        "name": "@qooxdoo/framework",
+        "description": "The JS Framework for Coders"
+    },
+    {
+        "name": "toloframework",
+        "description": "Javascript/HTML/CSS compiler for Firefox OS or nodewebkit apps using modules in the nodejs style."
+    },
+    {
+        "name": "ftscroller",
+        "description": "FTScroller is a cross-browser Javascript/CSS library to allow touch, mouse or scrollwheel scrolling within specified elements, with pagination, snapping and bouncing support."
+    },
+    {
+        "name": "titanium",
+        "description": "Command line interface for building Titanium SDK apps"
+    },
+    {
+        "name": "postcss-amp",
+        "description": "PostCSS plugin to convert CSS according Accelerated Mobile Pages requirements"
+    },
+    {
+        "name": "node-app-attest",
+        "description": "A JavaScript implementation of the App Attest protocol, which checks whether clients connecting to your server are valid instances of your app."
+    },
+    {
+        "name": "react-mobile-app-button",
+        "description": "Discover our versatile React component designed to effortlessly integrate download buttons for iOS App Store, Google Play Store, and Huawei AppGallery. With our component, you can easily enhance user experience by providing seamless access to your mobile "
+    },
+    {
+        "name": "ember-phone-input",
+        "description": "A component to input / validate / submit phone numbers"
+    },
+    {
+        "name": "@guardian/mobile-apps-article-templates",
+        "description": "Templates for articles on both iOS and Android next-gen apps"
+    },
+    {
+        "name": "cordova-plugin-secure-key-store",
+        "description": "Cordova plugin for securely saving keys, passwords or strings on devices."
+    },
+    {
+        "name": "detect-mobile-browser",
+        "description": "It is a very simple & small javascript plugin to detect all major modern mobile browsers."
+    },
+    {
+        "name": "popup-ui",
+        "description": "A simple and fully customizable React Native component that implements a popup UI."
+    },
+    {
+        "name": "pulling",
+        "description": "Flexible slideout menu for mobile webapps"
+    },
+    {
+        "name": "react-native-image-rotate",
+        "description": "Rotate images from your react-native JavaScript code"
+    },
+    {
+        "name": "react-native-pinchable",
+        "description": "Pinch to zoom for React Native"
+    },
+    {
+        "name": "awesome-fastclick",
+        "description": "Polyfill to remove click delays on browsers with touch UIs."
+    },
+    {
+        "name": "piral-native",
+        "description": "The Piral framework for use in React Native."
+    },
+    {
+        "name": "zarm",
+        "description": "基于 React 的移动端UI库"
+    },
+    {
+        "name": "use-mobile-detect-hook",
+        "description": "The React hook to detect if the device is mobile or desktop."
+    },
+    {
+        "name": "milligram",
+        "description": "A minimalist CSS framework."
+    },
+    {
+        "name": "@tremho/jove-mobile",
+        "description": "Mobile (Nativescript) component of Jove framework"
+    },
+    {
+        "name": "template7",
+        "description": "Mobile-first HTML template engine"
+    },
+    {
+        "name": "react-native-google-recaptcha-v2",
+        "description": "Implement Google recaptcha v2 in React Native (both Android an iOS)"
+    },
+    {
+        "name": "cursor-position",
+        "description": "Simple module for getting the current mouse position in element or window."
+    },
+    {
+        "name": "mint-ui",
+        "description": "Mobile UI elements for vue.js"
+    },
+    {
+        "name": "react-mgm",
+        "description": "## z-index 层级管理"
+    },
+    {
+        "name": "@beisen/beisencloud-mobile",
+        "description": "beisencloud mobile business react components based on chaosui"
+    },
+    {
+        "name": "swiffy-slider",
+        "description": "Swiffy slider is a touch enabled super lightweight html slider and carousel using browser scroll, css grid and scroll snap align and less than 1.5 kb javascript. Comes in css mode only version"
+    },
+    {
+        "name": "@enact/moonstone",
+        "description": "Large-screen/TV support library for Enact, containing a variety of UI components."
+    },
+    {
+        "name": "@react-native-vector-icons/entypo",
+        "description": "Entypo font for react native vector icons"
+    },
+    {
+        "name": "cht-nootils",
+        "description": "CHT extensions for Nools for use in tasks-rules"
+    },
+    {
+        "name": "@react-native-vector-icons/simple-line-icons",
+        "description": "Simple Line Icons font for react native vector icons"
+    },
+    {
+        "name": "@merger203/expert-invention",
+        "description": "<h3 align=\"center\">   @merger203/expert-invention </h3>"
+    },
+    {
+        "name": "postcss-mobile-forever",
+        "description": "PostCSS 伸缩视图转换插件。To adapt different displays by one mobile viewport."
+    },
+    {
+        "name": "@klarna/react-native-vector-drawable",
+        "description": "Android vector drawables in React Native"
+    },
+    {
+        "name": "react-image-video-lightbox",
+        "description": "A React lightbox that supports videos, images and pinch zooming on images. Optimized for mobile UI with swiping, but can be used on desktop as well."
+    },
+    {
+        "name": "add-to-homescreen",
+        "description": "Add to homescreen call out for iOS and Android"
+    },
+    {
+        "name": "@react-native-vector-icons/octicons",
+        "description": "Octicons font for react native vector icons"
+    },
+    {
+        "name": "react-native-animated-progress",
+        "description": "Need an animated and customizable ProgressBar? Here it ts!"
+    },
+    {
+        "name": "@tremho/jove-test",
+        "description": "Test API Module for Jove Framework"
+    },
+    {
+        "name": "@flagship.io/react-native-sdk",
+        "description": "Flagship SDK for React Native"
+    },
+    {
+        "name": "antd-mobile-v2",
+        "description": "基于 React 的移动设计规范实现"
+    },
+    {
+        "name": "@peersyst/near-mobile-signer",
+        "description": "Near Mobile Signer"
+    },
+    {
+        "name": "@midscene/webdriver",
+        "description": "WebDriver protocol implementation for Midscene automation"
+    },
+    {
+        "name": "ionic-angular-buu",
+        "description": "A powerful framework for building mobile and progressive web apps with JavaScript and Angular"
+    },
+    {
+        "name": "mobile-more",
+        "description": "基于 antd-mobile v5 扩展移动端 UI 组件"
+    },
+    {
+        "name": "radio-buttons-react-native",
+        "description": "Animated radio buttons component for react native"
+    },
+    {
+        "name": "cloudcms-server",
+        "description": "Cloud CMS Application Server Module"
+    },
+    {
+        "name": "react-native-intl-phone-input",
+        "description": "It is an international phone component."
+    },
+    {
+        "name": "ng-zorro-antd-mobile",
+        "description": "An enterprise-class mobile UI components based on Ant Design and Angular"
+    },
+    {
+        "name": "react-native-stories-view",
+        "description": "A simple and fully customizable React Native component that implements a status/stories view like Whatsapp, Instagram"
+    },
+    {
+        "name": "pdfh5",
+        "description": " JS plugin of preview PDF  for mobile. web/h5/移动端PDF预览手势缩放插件"
+    },
+    {
+        "name": "@funktechno/texthighlighter",
+        "description": "a no dependency typescript supported tool for highlighting user selected content"
+    },
+    {
+        "name": "nodejs-mobile-react-native",
+        "description": "Node.js for Mobile Apps React Native plugin"
+    },
+    {
+        "name": "react-native-numeric-input",
+        "description": "a stylish numeric input for react native"
+    },
+    {
+        "name": "@data-client/react",
+        "description": "Async State Management without the Management. REST, GraphQL, SSE, Websockets, Fetch"
+    },
+    {
+        "name": "@nevis-security/nevis-mobile-authentication-sdk-react",
+        "description": "React Native plugin for Nevis Mobile Authentication SDK. Supports only mobile."
+    },
+    {
+        "name": "ng-lib-mobile",
+        "description": "app端基础类库"
+    },
+    {
+        "name": "fiftyone.devicedetection.shared",
+        "description": "Shared functionality for implementing device detection engine for the 51Degrees Pipeline API"
+    },
+    {
+        "name": "fiftyone.devicedetection.cloud",
+        "description": "Device detection cloud services for the 51Degrees Pipeline API"
+    },
+    {
+        "name": "@data-client/endpoint",
+        "description": "Declarative Network Interface Definitions"
+    },
+    {
+        "name": "@zoom-image/react",
+        "description": "Adapter of zoom image core for React"
+    },
+    {
+        "name": "react-hammerjs-18",
+        "description": "ReactJS / HammerJS integration. Support touch events in your React app."
+    },
+    {
+        "name": "@chatwoot/react-native-widget",
+        "description": "React Native widget for Chatwoot"
+    },
+    {
+        "name": "@exodus/react-native-touch-id",
+        "description": "React Native authentication with the native Touch ID popup."
+    },
+    {
+        "name": "@react-native-vector-icons/fontisto",
+        "description": "Fontisto font for react native vector icons"
+    },
+    {
+        "name": "framework7-svelte",
+        "description": "Build full featured iOS & Android apps using Framework7 & Svelte"
+    },
+    {
+        "name": "easy-web-app",
+        "description": "Create web applications easily."
+    },
+    {
+        "name": "@axinvd/icomoon-cli",
+        "description": "cli for icomoon font creation"
+    },
+    {
+        "name": "vue-onsenui",
+        "description": "Vue.js bindings for Onsen UI"
+    },
+    {
+        "name": "fiftyone.devicedetection.onpremise",
+        "description": "Device detection on-premise services for the 51Degrees Pipeline API"
+    },
+    {
+        "name": "@molejs/mole-components-web",
+        "description": "React组件库"
+    },
+    {
+        "name": "create-fleetbo-project",
+        "description": "Creates a new Fleetbo project."
+    },
+    {
+        "name": "react-native-style-tachyons",
+        "description": "functional, maintainable styling for react-native"
+    },
+    {
+        "name": "@zoom-image/vue",
+        "description": "Adapter of zoom image core for Vue"
+    },
+    {
+        "name": "@xoi/gps-metadata-remover",
+        "description": "Removes GPS metadata from images and videos"
+    },
+    {
+        "name": "react-viewport-height",
+        "description": "A utility for React to set 100vh equal to the actual browser inner window height."
+    },
+    {
+        "name": "@enact/cli",
+        "description": "Full-featured build environment tool for Enact applications."
+    },
+    {
+        "name": "react-native-photo-view",
+        "description": "Displaying photos with pinch-to-zoom"
+    },
+    {
+        "name": "react-native-netwatch",
+        "description": "Network traffic logger for React Native"
+    },
+    {
+        "name": "vue-ydui",
+        "description": "A mobile components Library with Vue2.js."
+    },
+    {
+        "name": "@data-client/rest",
+        "description": "Quickly define typed REST resources and endpoints"
+    },
+    {
+        "name": "react-native-icons",
+        "description": "Use 1000's of icon fonts easily in your React Native apps."
+    },
+    {
+        "name": "detect-touch-device",
+        "description": "Javascript library to detect touch friendly devices"
+    },
+    {
+        "name": "@de./sdk-rn",
+        "description": "Complete SDK pack for MSI React Native (Map Service Interface) and DClient services"
+    },
+    {
+        "name": "node-deeplink",
+        "description": "Easily create an endpoint in your web server that redirects deep links to mobile apps"
+    },
+    {
+        "name": "zcanvas",
+        "description": "Compact JavaScript library that provides an Object based solution for working with HTMLCanvas drawables as if they were tangible, separate objects. Good for lightweight game engines and mobile friendly."
+    },
+    {
+        "name": "v-dragged",
+        "description": "Vue directive plugin for advanced drag event detection."
+    },
+    {
+        "name": "fiftyone.devicedetection",
+        "description": "Parse HTTP headers to detect the device type, model, operating system, browser, and crawler information"
+    },
+    {
+        "name": "web-cardscan",
+        "description": "This library provides payment card scanning and verification functionality for your web app."
+    },
+    {
+        "name": "detectizr",
+        "description": "Detectizr is a Modernizr extension to detect device, browser, operating system and screen."
+    },
+    {
+        "name": "vue-device-detector",
+        "description": "A tiny device detector plugin of vue for mobile"
+    },
+    {
+        "name": "cordova-adcel-plugin",
+        "description": "AdCel plugin. This plugin allows you to show ads in your app."
+    },
+    {
+        "name": "capacitor-audio-engine",
+        "description": "High-quality audio recording Capacitor plugin with native iOS & Android support. Features pause/resume, microphone management, real-time monitoring, audio trimming, and comprehensive mobile audio recording capabilities."
+    },
+    {
+        "name": "mobile-router.js",
+        "description": "A lightweight single page bone for mobile web App."
+    },
+    {
+        "name": "react-native-photo-view-ex",
+        "description": "Displaying photos with pinch-to-zoom, based on react-native-photo-view"
+    },
+    {
+        "name": "@data-client/use-enhanced-reducer",
+        "description": "Add powerful orchestration to hooks-based Flux stores"
+    },
+    {
+        "name": "ngx-responsive",
+        "description": "Superset of RESPONSIVE DIRECTIVES to show or hide items according to the size of the device screen and another features in Angular 9"
+    },
+    {
+        "name": "jquery.event.ue",
+        "description": "Respond to Touch and Desktop events using the same handlers, including tap (click), long-press, drag, long-press-drag, pinch/mouse zoom. Used in commercial SPAs and featured in the best-selling book Single Page Web Applications - JavaScript end-to-end."
+    },
+    {
+        "name": "ember-mobile-menu",
+        "description": "A draggable sidebar menu for Ember."
+    },
+    {
+        "name": "flipsnap",
+        "description": "Provides UI of snap and slide"
+    },
+    {
+        "name": "walletconnect",
+        "description": "WalletConnect SDK"
+    },
+    {
+        "name": "molpay-mobile-xdk-reactnative-beta",
+        "description": "Razer Merchant Services mobile payment for React Native"
+    },
+    {
+        "name": "antd-mobile-rn",
+        "description": "基于蚂蚁金服移动设计规范的 React Native 组件库"
+    },
+    {
+        "name": "framework7-cli",
+        "description": "Framework7 command line utility (CLI)"
+    },
+    {
+        "name": "vue-scrollbar-live",
+        "description": "A vue scrollbar component, support SSR."
+    },
+    {
+        "name": "publish-aab-google-play",
+        "description": "Publish Android App Bundle to Google Play"
+    },
+    {
+        "name": "mobile-navigation-controller",
+        "description": "Navigator for JavaScript mobile app, This will help you to manage your pages history in the app and change pages with animation."
+    },
+    {
+        "name": "jquery.event.dragscroll",
+        "description": "Dragscroll allows you to create numerous inertia scrolling areas all with their own properties."
+    },
+    {
+        "name": "@raruto/leaflet-gesture-handling",
+        "description": "A Leaflet plugin that allows to prevent default map scroll/touch behaviours"
+    },
+    {
+        "name": "viewport-extra",
+        "description": "Enable to set min-width and max-width to viewport"
+    },
+    {
+        "name": "@0xshariq/package-installer",
+        "description": "A cross-platform, interactive CLI to scaffold modern web app templates with framework, language, UI, bundler support and feature integration."
+    },
+    {
+        "name": "stacked-menu",
+        "description": "A flexible stacked navigation menu."
+    },
+    {
+        "name": "melonjs",
+        "description": "melonJS Game Engine"
+    },
+    {
+        "name": "react-native-neomorph-shadows",
+        "description": "Shadows and neumorphism/neomorphism UI for iOS & Android (like iOS)."
+    },
+    {
+        "name": "@taroify/icons",
+        "description": "Taroify icon components built on Taro"
+    },
+    {
+        "name": "mint-ui-xlq",
+        "description": "Mobile UI elements for vue.js"
+    },
+    {
+        "name": "emoji-js-clean",
+        "description": "A JS Emoji conversion library"
+    },
+    {
+        "name": "postcss-safe-area",
+        "description": "PostCSS plugin that adds browser fallbacks for safe-area env variables."
+    },
+    {
+        "name": "@react-native-vector-icons/fontawesome-common",
+        "description": "Fontawesome 5 & 6 Pro Common library for react native vector icons"
+    },
+    {
+        "name": "react-native-analytics-debugger",
+        "description": "The Avo react-native debugger"
+    },
+    {
+        "name": "hc-offcanvas-nav",
+        "description": "JavaScript library for creating off-canvas multi-level navigations"
+    },
+    {
+        "name": "generator-ngx-rocket",
+        "description": "Extensible Angular 13+ enterprise-grade project generator based on angular-cli with best practices from the community. Includes PWA/Cordova/Electron support, coding guides and more!"
+    },
+    {
+        "name": "faster",
+        "description": "Faster way to reload your web project on all connected devices"
+    },
+    {
+        "name": "vue-superset",
+        "description": "Front-end development collection built on Vue"
+    },
+    {
+        "name": "rn-swipeable-panel",
+        "description": "Swipeable bottom panel for react native"
+    },
+    {
+        "name": "react-native-voximplant",
+        "description": "VoxImplant Mobile SDK for embedding voice and video communication into React Native apps."
+    },
+    {
+        "name": "quickship-cli",
+        "description": "Ship production-ready web, mobile, and backend projects in 60 seconds. Create Next.js, React, T3 Stack, MERN, Expo React Native, Express, or NestJS apps with TypeScript, flexible database options (Prisma/Mongoose or raw drivers), and modern tooling - then"
+    },
+    {
+        "name": "@taroify/hooks",
+        "description": "Taroify hooks"
+    },
+    {
+        "name": "@evm-ionic/ionic-angular",
+        "description": "A powerful framework for building mobile and progressive web apps with JavaScript and Angular"
+    },
+    {
+        "name": "cute-clever-carousel",
+        "description": "js carousel"
+    },
+    {
+        "name": "react-native-image-slider-banner",
+        "description": "A simple and fully customizable React Native Component that implements Image and Banner Slider UI with animations."
+    },
+    {
+        "name": "@easy-smart-app-banner/vue-plugin",
+        "description": "A Vue Plugin for the Easy Smart App Banner"
+    },
+    {
+        "name": "mat-tel-input",
+        "description": "An Angular Material package for entering and validating international telephone numbers. It adds a flag dropdown to any input, detects the user's country, displays a relevant placeholder and provides formatting/validation methods."
+    },
+    {
+        "name": "@klarna/platform-colors",
+        "description": "Generate platform native colors for iOS, Android & Web"
+    },
+    {
+        "name": "@rucken/cli",
+        "description": "Console tools for create and build Angular7+, Bootstrap, Ionic and NestJS application based on Rucken template"
+    },
+    {
+        "name": "telegram-mtproto",
+        "description": "Telegram MTProto library"
+    },
+    {
+        "name": "beesoft-components",
+        "description": "https://github.com/Beehive-Software-Consultants/beesoft-components#readme"
+    },
+    {
+        "name": "next-vue-device-detector",
+        "description": "A tiny device detector plugin of vue 3 for mobile"
+    },
+    {
+        "name": "@ion-phaser/core",
+        "description": "A web component to integrate Phaser Framework with Angular, React, Vue, etc"
+    },
+    {
+        "name": "res",
+        "description": "Device resolution detection module"
+    },
+    {
+        "name": "@titanium/template-turbo-fully-loaded",
+        "description": "⭐  Axway Amplify Template for building new apps with Appcelerator Titanium Alloy Turbo"
+    },
+    {
+        "name": "@titanium/essentials",
+        "description": "⭐  Axway Amplify Essential Toolkit for Appcelerator Titanium SDK"
+    },
+    {
+        "name": "@easy-smart-app-banner/core",
+        "description": "An Easy Smart App Banner for promoting mobile app installs based on the Safari Apple Experience. Includes support for Safari too."
+    },
+    {
+        "name": "@dvlden/is-webview",
+        "description": "Detect if a visitor is coming through a webview or a native browser using user-agent."
+    },
+    {
+        "name": "@basitcodeenv/vue3-device-detect",
+        "description": "A device detector plugin of Vue 3"
+    },
+    {
+        "name": "react-native-gesture-bottom-sheet",
+        "description": "A simple and easy to use bottom sheet component with drag gestures for React Native"
+    },
+    {
+        "name": "bootflat",
+        "description": "BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.2.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps."
+    },
+    {
+        "name": "@titanium/authentication-oauth",
+        "description": "⭐  Axway Amplify module for OAuth authentication with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "vue3-mobile-detection",
+        "description": "Mobile browser detection for Vue.js 3"
+    },
+    {
+        "name": "deviceorientation-js",
+        "description": "Obatin current horizontal angle of device. Determine landscape/portrait mode,"
+    },
+    {
+        "name": "@testwizard/mobile",
+        "description": "> Javascript language support for testing Mobile devices using testwizard"
+    },
+    {
+        "name": "@olton/metroui",
+        "description": "A progressive front-end framework for creating high-performance responsive web applications!"
+    },
+    {
+        "name": "mobile-swipe-menu",
+        "description": "Swipe Menu with Vanilla JS for mobile"
+    },
+    {
+        "name": "zmp-core",
+        "description": "Full featured mobile HTML framework for building iOS & Android apps"
+    },
+    {
+        "name": "vue-masonry-gallery",
+        "description": "Masonry gallery layout component for Vue.js"
+    },
+    {
+        "name": "react-swp",
+        "description": "react-swp is a lightweight swiper component for React with zero dependencies. the component works seamlessly on desktop and mobile apps with touch and swiping."
+    },
+    {
+        "name": "@taroify/core",
+        "description": "<p align=\"center\">   <img alt=\"logo\" src=\"https://img.yzcdn.cn/vant/logo.png\" width=\"120\" style=\"margin-bottom: 10px;\"> </p> <h3 align=\"center\">轻量、可靠的小程序端 Taro React UI 组件库</h3>"
+    },
+    {
+        "name": "zartui",
+        "description": "面向政务场景的移动端组件库"
+    },
+    {
+        "name": "test-type-js-cli",
+        "description": "RTD-CSS is the compiler intended to split a CSS to different devices"
+    },
+    {
+        "name": "slicknav",
+        "description": "[![Join the chat at https://gitter.im/ComputerWolf/SlickNav](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ComputerWolf/SlickNav?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)"
+    },
+    {
+        "name": "@modus/ionic-vue",
+        "description": "Ionic integration adapters for Vue"
+    },
+    {
+        "name": "liveapicreator-admin-cli",
+        "description": "The NodeJS command line utility for 'CA Live API Creator' DevOps Administration from CA Technologies"
+    },
+    {
+        "name": "@siteboon/claude-code-ui",
+        "description": "A web-based UI for Claude Code CLI"
+    },
+    {
+        "name": "lighting",
+        "description": "恒生移动web应用平台（Light）快速开发集成工具箱"
+    },
+    {
+        "name": "@react-native-vector-icons/foundation",
+        "description": "Foundation font for react native vector icons"
+    },
+    {
+        "name": "@testwizard/testobjects-core",
+        "description": ""
+    },
+    {
+        "name": "react-native-animated-splash-screen",
+        "description": "Animated splash screen component for React Native project."
+    },
+    {
+        "name": "@proyecto26/animatable-component",
+        "description": "Animate once, use Everywhere! 💫"
+    },
+    {
+        "name": "@titanium/please",
+        "description": "⭐  Axway Amplify module for REST API calls using Appcelerator Titanium SDK"
+    },
+    {
+        "name": "mobile-pdf",
+        "description": "A mobile-friendly PDF viewer based on pdfjs-dist."
+    },
+    {
+        "name": "jquery-touch-events",
+        "description": "A mobile events plugin for jQuery"
+    },
+    {
+        "name": "console-panel",
+        "description": "A console panel in webpage to help 3 use-cases: show console message automatically ; debug mobile ; debug IE/Edge"
+    },
+    {
+        "name": "@react-native-vector-icons/fontawesome6-pro",
+        "description": "Fontawesome6 Pro font for react native vector icons"
+    },
+    {
+        "name": "@data-client/vue",
+        "description": "Async State Management without the Management. REST, GraphQL, SSE, Websockets, Fetch"
+    },
+    {
+        "name": "@testwizard/commands-mobile",
+        "description": ""
+    },
+    {
+        "name": "ionic-logging-service",
+        "description": "Logging functionalities for apps built with Ionic framework"
+    },
+    {
+        "name": "@divvi/react-native-keychain",
+        "description": "Keychain Access for React Native"
+    },
+    {
+        "name": "salesforce-mobilesdk-cordova-plugin",
+        "description": "Cordova Plugin for Salesforce Mobile SDK"
+    },
+    {
+        "name": "react-native-fabric",
+        "description": "A React Native library for Fabric, Crashlytics and Answers"
+    },
+    {
+        "name": "@enact/agate",
+        "description": "A theme library for Enact, containing a variety of UI components."
+    },
+    {
+        "name": "swiperia-react",
+        "description": "Swiperia React: A powerful suite of JavaScript libraries for building intuitive swipe-driven user interfaces. Provides core gesture handling, web-specific implementations, and React components for seamless integration."
+    },
+    {
+        "name": "drag-drop-polyfill",
+        "description": "Polyfill for making HTML5 drag and drop possible in all browsers."
+    },
+    {
+        "name": "ionic-app-lib",
+        "description": "A library for creating and developing Ionic Framework mobile apps."
+    },
+    {
+        "name": "@shopgate/react-hammerjs",
+        "description": "ReactJS / HammerJS integration. Support touch events in your React app."
+    },
+    {
+        "name": "@titanium/facebook",
+        "description": "⭐  Axway Amplify modules to use Facebook SDK for Appcelerator Titanium SDK Framework"
+    },
+    {
+        "name": "@rucken/schematics",
+        "description": "A schematics collections for generate source files for Angular7+ application based on Rucken template"
+    },
+    {
+        "name": "@pandaninjas3017/react-native",
+        "description": "A framework for building native apps using React"
+    },
+    {
+        "name": "@tknight-dev/gaming-canvas",
+        "description": "A better/faster way to start writing games"
+    },
+    {
+        "name": "@titanium/lottie",
+        "description": "⭐  Axway Amplify modules to use Airbnb Lottie animations with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "node-ios-device",
+        "description": "Simple library for detecting and installing apps on iOS devices"
+    },
+    {
+        "name": "jquery-clock-timepicker",
+        "description": "A free jQuery Plug-in to select the time with a clock inspired by the Android time picker. This plugin works on Desktop and Mobile phones."
+    },
+    {
+        "name": "@antv/f-lottie",
+        "description": "FEngine for Lottie"
+    },
+    {
+        "name": "react-native-password-eye",
+        "description": "A simple and fully customizable React Native component for TextInputs"
+    },
+    {
+        "name": "swiperia-js",
+        "description": "Swiperia JS: A powerful suite of JavaScript libraries for building intuitive swipe-driven user interfaces. Provides core gesture handling, web-specific implementations, and React components for seamless integration."
+    },
+    {
+        "name": "@ion-phaser/react",
+        "description": "React specific wrapper for @ion-phaser/core"
+    },
+    {
+        "name": "sun-card-design",
+        "description": "Vue3 卡片设计组件库，支持 PC 和移动端预览"
+    },
+    {
+        "name": "algorand-walletconnect-qrcode-modal",
+        "description": "QR Code Modal for WalletConnect on Algorand"
+    },
+    {
+        "name": "react-native-local-auth",
+        "description": "React Native local authentication with touch id or passcode"
+    },
+    {
+        "name": "ng2-responsive",
+        "description": "Superset of RESPONSIVE DIRECTIVES to show or hide items according to the size of the device screen and another features in Angular 2"
+    },
+    {
+        "name": "@naarang/ccc",
+        "description": "Claude Code Chat - Control Claude Code from your mobile device"
+    },
+    {
+        "name": "jquery-slinky",
+        "description": "Rather sweet menus"
+    },
+    {
+        "name": "react-native-chatify-2",
+        "description": "React native chat easy to use and integrate"
+    },
+    {
+        "name": "@titanium/identity",
+        "description": "⭐  Axway Amplify modules to use Fingerprint authentication, Keychain Access and Face authentication (iOS) with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "ionic-angular-acoreyj",
+        "description": "A powerful framework for building mobile and progressive web apps with JavaScript and Angular"
+    },
+    {
+        "name": "@familyjs/core",
+        "description": "Base components for Family"
+    },
+    {
+        "name": "react-native-viewport-detector",
+        "description": "React Native library for detecting component visibility in the viewport."
+    },
+    {
+        "name": "mobile-touch-menu",
+        "description": "```\r npm install mobile-touch-menu --save\r ```\r or\r ```\r yarn add mobile-touch-menu\r ```"
+    },
+    {
+        "name": "react-native-countdown-timer-hooks",
+        "description": "Countdown Timer Functional Component Package for React Native Projects."
+    },
+    {
+        "name": "linq-collection",
+        "description": "Linq-Collections (ES5): [IEnumerable, IQueryable, ...] + [List, Dictionary, Stack, ... + readonly]"
+    },
+    {
+        "name": "leaflet-freehandshapes",
+        "description": "Refactored Leaflet plugin for drawing freehand polygons, with support for mobile"
+    },
+    {
+        "name": "lume",
+        "description": "Build next-level interactive web applications."
+    },
+    {
+        "name": "@titanium/updater",
+        "description": "⭐  Axway Amplify module to check for app updates with Appcelerator Titanium SDK Framework"
+    },
+    {
+        "name": "@titanium/scandit",
+        "description": "⭐  Axway Amplify module using Scandit SDK Barcode Scanner with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "swiperia-core",
+        "description": "Swiperia Core: The foundational engine for handling swipe gestures in JavaScript. Provides platform-agnostic utilities to detect swipe direction, calculate distance and velocity, and analyze swipe movement data."
+    },
+    {
+        "name": "svelte-zoom",
+        "description": "Nearly native image scaling in web (mobile/desktop), rich in functionality. This will make your mobile users happy"
+    },
+    {
+        "name": "@titanium/template-turbo-next",
+        "description": "⭐  Axway Amplify Template for creating awesome next-generation apps with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "@feathersjs-offline/localforage",
+        "description": "A FeathersJS client side service based on localforage that persists to IndexedDB, WebSQL, or LocalStorage"
+    },
+    {
+        "name": "@titanium/module-copier",
+        "description": "⭐  Axway Amplify module for copying dependencies to Appcelerator Titanium Resources SDK"
+    },
+    {
+        "name": "@walletconnect/node-crypto",
+        "description": "Node Crypto for WalletConnect"
+    },
+    {
+        "name": "@titanium/polyfill",
+        "description": "⭐  Axway Amplify native polyfills necessary to use Node.js modules for Appcelerator Titanium SDK"
+    },
+    {
+        "name": "quicktap",
+        "description": "An :active replacement that doesn't delay on mobile"
+    },
+    {
+        "name": "react-native-accordion-list-view",
+        "description": "Animated accordion collapsable List for react native."
+    },
+    {
+        "name": "jquery-weui",
+        "description": "为微信 Web 服务量身设计"
+    },
+    {
+        "name": "cca",
+        "description": "Run Chrome Apps on mobile using Apache Cordova"
+    },
+    {
+        "name": "magically-sdk",
+        "description": "Official SDK for Magically - Build mobile apps with AI"
+    },
+    {
+        "name": "react-native-images-preview",
+        "description": "A React Native animated custom images preview component."
+    },
+    {
+        "name": "@react-native-vector-icons/fontello",
+        "description": "Fontello font for react native vector icons"
+    },
+    {
+        "name": "@titanium/applesignin",
+        "description": "⭐  Axway Amplify module that allows you to use the iOS 13+ Apple Sign In API with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "backendless-visualizations",
+        "description": "Backendless Visualisations"
+    },
+    {
+        "name": "styled-off-canvas",
+        "description": "styled components off-canvas menu"
+    },
+    {
+        "name": "@remobile/react-native-toast",
+        "description": "A android like toast for react-native support for ios and android"
+    },
+    {
+        "name": "abhi9-ionic-angular",
+        "description": "A modified version with stripped down CSS of a powerful framework for building mobile and progressive web apps with JavaScript and Angular"
+    },
+    {
+        "name": "@titanium/authentication",
+        "description": "⭐  Axway Amplify authentication module for Appcelerator Titanium SDK"
+    },
+    {
+        "name": "@titanium/permissions",
+        "description": "⭐  Axway Amplify module for permission requests for Appcelerator Titanium SDK Framework"
+    },
+    {
+        "name": "rn-segmented-control",
+        "description": "A simple and customizable React Native component to have a segmented control"
+    },
+    {
+        "name": "moralis-v1",
+        "description": "The Moralis JavaScript SDK"
+    },
+    {
+        "name": "tapjs",
+        "description": "`Tap` is a Javascript library for easy unified handling of user interactions such as mouse, touch and pointer events."
+    },
+    {
+        "name": "@leeguoo/pwtk-network-debugger",
+        "description": "PWTK 解密小工具 - 网络请求拦截、自动解密、分享功能 (Created by Leo)"
+    },
+    {
+        "name": "@wavemaker/wm-cordova-cli",
+        "description": "command line tool to easily build a wavemaker mobile project"
+    },
+    {
+        "name": "react-native-template-basic-typescript",
+        "description": "Template de react native com styled-components e react-navigation já configurados"
+    },
+    {
+        "name": "media-blender",
+        "description": "Easy and predictable media queries"
+    },
+    {
+        "name": "eslint-config-expo-magic",
+        "description": "A powerful, opinionated ESLint configuration for React Native and Expo projects with TypeScript support"
+    },
+    {
+        "name": "react-native-secure-storage",
+        "description": "A secure AsyncStorage partial implementation"
+    },
+    {
+        "name": "react-native-repro",
+        "description": "Repro is a mobile analytics tool that lets you have much deeper understanding of mobile app users."
+    },
+    {
+        "name": "react-windows-ui",
+        "description": "Build full featured Windows fluent UI apps using reactjs."
+    },
+    {
+        "name": "firebase-engine",
+        "description": "Engine for Backup, Clean and Restore your Firebase Project data"
+    },
+    {
+        "name": "@titanium/template-turbo-default",
+        "description": "⭐  Axway Amplify template for creating new Turbo modules for Appcelerator Titanium SDK"
+    },
+    {
+        "name": "win-iap",
+        "description": "Verifies windows store receipts."
+    },
+    {
+        "name": "tbsui",
+        "description": "Supremely responsive UI components for React, built from the ground up with SSR and accessibility in mind for the sashaphoto family of websites."
+    },
+    {
+        "name": "navigation-react-mobile",
+        "description": "React Mobile plugin for the Navigation router"
+    },
+    {
+        "name": "@titanium/eventsource",
+        "description": "⭐  Axway Amplify module to implement EventSource for Appcelerator Titanium SDK"
+    },
+    {
+        "name": "jssor-slider",
+        "description": "touch swipe image slider/slideshow/gallery/carousel/banner mobile responsive bootstrap"
+    },
+    {
+        "name": "react-swipe-to-delete-component",
+        "description": "A simple React component implement 'swipe to delete' UI-pattern."
+    },
+    {
+        "name": "vue-breakpoints",
+        "description": "Vue.js utility component to show and hide components based on breakpoints"
+    },
+    {
+        "name": "@mks2508/mobile-bottom-nav",
+        "description": "Production-ready mobile bottom navigation for Next.js with advanced viewport handling"
+    },
+    {
+        "name": "@antv/f2-react",
+        "description": "F2 for React"
+    },
+    {
+        "name": "generator-titpl",
+        "description": "Scalfolding Axway Appcelerator Titanium mobile application"
+    },
+    {
+        "name": "react-native-fullwidth-image",
+        "description": "A responsive Image element that takes the full width of its parent element while maintaining aspect ratio."
+    },
+    {
+        "name": "vue-device-detect",
+        "description": "检测设备类型，根据设备类型渲染内容"
+    },
+    {
+        "name": "@titanium/jwt",
+        "description": "⭐  Axway Amplify module to add JWT parser for Appcelerator Titanium SDK"
+    },
+    {
+        "name": "@vnmfify/core",
+        "description": "```shell\r npm i @vnmfify/core -S\r ```"
+    },
+    {
+        "name": "rn-gesture-swipeable-flatlist",
+        "description": "Swipeable FlatList for React Native"
+    },
+    {
+        "name": "@morphixai/code",
+        "description": "Rapidly build and ship ready-to-use cross-platform mini-apps with AI-powered development experience"
+    },
+    {
+        "name": "react-native-animatable-unmountable",
+        "description": "Declarative transitions and animations for React Native (with unmount effect)"
+    },
+    {
+        "name": "textmagic-rest-client",
+        "description": "A Textmagic REST client"
+    },
+    {
+        "name": "@jojobo/jing-ui",
+        "description": "## 先打包"
+    },
+    {
+        "name": "reactors",
+        "description": "View components and APIs that work web, mobile and desktop!"
+    },
+    {
+        "name": "@titanium/template-alloy-default",
+        "description": "⭐ Axway Amplify template for using basic Alloy with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "@red-mobile/nodejs-mobile-cordova",
+        "description": "Node.js for Mobile Apps Cordova plugin"
+    },
+    {
+        "name": "unvired-cordova-sdk",
+        "description": "Unvired Mobile SDK to build mobile apps using the Apache Cordova SDK"
+    },
+    {
+        "name": "react-touch-drag-slider",
+        "description": "Touch and drag slider carousel component for React"
+    },
+    {
+        "name": "@titanium/axios",
+        "description": "⭐  Axway Amplify module for using axios with http/https/api with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "react-native-pdf-jsi",
+        "description": "🚀 Ultra-fast React Native PDF viewer with JSI (JavaScript Interface) integration for maximum performance. Features lazy loading, smart caching, progressive loading, and zero-bridge overhead operations. Perfect for large PDF files with 30-day persistent c"
+    },
+    {
+        "name": "deploid",
+        "description": "Build → package → sign → publish web apps to Android"
+    },
+    {
+        "name": "dragend",
+        "description": "A javascript for content swiping"
+    },
+    {
+        "name": "@mapgis/mobile-react-native",
+        "description": "MapGIS Mobile for React Native，是MapGIS推出的一款基于React-Native的跨平台移动开发框架，用户可以基于它使用JavaScript开发出在Android和iOS平台下运行的原生移动GIS应用。"
+    },
+    {
+        "name": "@fecp/mobile",
+        "description": ""
+    },
+    {
+        "name": "@react-native-vector-icons/zocial",
+        "description": "Zocial font for react native vector icons"
+    },
+    {
+        "name": "@sishuguojixuefu/antd-mobile-rn",
+        "description": "基于蚂蚁金服移动设计规范的 React Native 组件库"
+    },
+    {
+        "name": "prouter",
+        "description": "Fast, unopinionated, minimalist client-side routing library inspired by the simplicity and flexibility of express middlewares"
+    },
+    {
+        "name": "scroll-carousel",
+        "description": "Scroll carousel, a unique content slider that specially works on window scroll."
+    },
+    {
+        "name": "@varienos/device-detector-js",
+        "description": "Modern device detection with Client Hints support - Enhanced iOS detection including iPad desktop mode, SSR compatible"
+    },
+    {
+        "name": "@titanium/tiapp-xml",
+        "description": "⭐  Axway Amplify module to modify app config - tiapp.xml for Appcelerator Titanium SDK"
+    },
+    {
+        "name": "natively",
+        "description": "Natively SDK for building native-like web applications"
+    },
+    {
+        "name": "ios-pwa-splash",
+        "description": "Generate iOS PWA splash screens on the fly!"
+    },
+    {
+        "name": "react-native-dot-typing",
+        "description": "React-rative dot typing animation component"
+    },
+    {
+        "name": "@onsenui/fastclick",
+        "description": "Polyfill to remove click delays on browsers with touch UIs."
+    },
+    {
+        "name": "medic-nootils",
+        "description": "medic mobile extensions for nools for use in tasks-rules"
+    },
+    {
+        "name": "vue-fastclick",
+        "description": "Polyfill to remove click delays on browsers with touch UIs"
+    },
+    {
+        "name": "@form-create/vant",
+        "description": "VantUI版本低代码表单|FormCreate 是一个可以通过 JSON 生成具有动态渲染、数据收集、验证和提交功能的低代码表单生成组件。支持6个UI框架，适配移动端，并且支持生成任何 Vue 组件。内置20种常用表单组件和自定义组件，再复杂的表单都可以轻松搞定。"
+    },
+    {
+        "name": "light-toast",
+        "description": "A light-weight react toast component built for mobile web app"
+    },
+    {
+        "name": "@titanium/barcode",
+        "description": "⭐  Axway Amplify module for scanning barcodes with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "mia-js-core",
+        "description": "mia.js - Middleware API framework"
+    },
+    {
+        "name": "react-native-lnssh",
+        "description": "Provide lnssh to your React Native application"
+    },
+    {
+        "name": "chameleon-tool",
+        "description": "chameleon 脚手架工具"
+    },
+    {
+        "name": "format-utils",
+        "description": "Utilities for validating various formats of Indian system codes like Mobile, PAN, AADHAAR, GST and more!"
+    },
+    {
+        "name": "@riderclub/ng-zorro-antd-mobile",
+        "description": "An enterprise-class mobile UI components based on Ant Design and Angular"
+    },
+    {
+        "name": "@fivethree/core",
+        "description": "Fivethree Core Components"
+    },
+    {
+        "name": "animated-backgrounds",
+        "description": "A feature-rich React package for stunning animated backgrounds with interactive controls, themes, performance monitoring, and layered compositions."
+    },
+    {
+        "name": "react-native-social-share",
+        "description": "Use the iOS native Twitter and Facebook share view from react native"
+    },
+    {
+        "name": "react-native-flatlist-slider",
+        "description": "React Native FlatList Slider Component "
+    },
+    {
+        "name": "mobiscroll",
+        "description": "A wheel scroller control optimized for touchscreens to easily enter date/time. It can easily be customized to support any custom values."
+    },
+    {
+        "name": "loopback-component-push",
+        "description": "Loopback Push Notification"
+    },
+    {
+        "name": "@awesome-cordova-library/social-sharing",
+        "description": "This plugin allows you to use the native sharing window of your mobile device."
+    },
+    {
+        "name": "react-native-des-cbc",
+        "description": "A des crypto for react-native"
+    },
+    {
+        "name": "ember-cli-fastclick",
+        "description": "Drop-in FastClick support for Ember CLI apps"
+    },
+    {
+        "name": "@responsive-toolbar/core",
+        "description": "Responsive Toolbar is a JavaScript library for responsive design and testing."
+    },
+    {
+        "name": "@titanium/playservices",
+        "description": "⭐  Axway Amplify module for using Google Play Services with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "@gulw/components",
+        "description": "Mobile UI for Hyperapp"
+    },
+    {
+        "name": "linq-typescript",
+        "description": "Linq-Collections (ES5): [IEnumerable, IQueryable, ...] + [List, Dictionary, Stack, ... + readonly]"
+    },
+    {
+        "name": "screen-size-detector",
+        "description": "A small utility to detect screen (viewport) size (resolution height and width) and listener to resize event with additional features"
+    },
+    {
+        "name": "@ott-smarttv/list-view",
+        "description": "Most modern mobile touch slider and framework with hardware accelerated transitions"
+    },
+    {
+        "name": "@titanium/webdialog",
+        "description": "⭐  Axway Amplify module to use native SFSafariViewController (iOS) and Chrome Pages (Android) with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "@ascendtis/react-native-voice-to-text",
+        "description": "This can use to convert voice to text real time in device"
+    },
+    {
+        "name": "@kv-design/kui-mobile",
+        "description": "Mobile for ui"
+    },
+    {
+        "name": "@react-native-vector-icons/fontawesome5-pro",
+        "description": "Fontawesome5 Pro font for react native vector icons"
+    },
+    {
+        "name": "vue-split-drag-pane",
+        "description": "一个可拖动调整面板布局大小的vue组件，支持vue2与vue3，支持PC与移动端操作"
+    },
+    {
+        "name": "@smartface/dispatcher",
+        "description": "Handles Emulator Dispatcher Part of SmartfaceCloud"
+    },
+    {
+        "name": "@evernym/react-native-white-label-app",
+        "description": "The official Evernym white label application which can be easily customized for company branding"
+    },
+    {
+        "name": "react-native-owl",
+        "description": "Visual regression testing for React Native"
+    },
+    {
+        "name": "country-code-splitter",
+        "description": "Split country code and mobile number from mobile number. The module returns mobile number and country code."
+    },
+    {
+        "name": "react-preview-image",
+        "description": "is a react component that shows the image, built for mobile web app"
+    },
+    {
+        "name": "@termly-dev/cli-dev",
+        "description": "Mirror your AI coding sessions to mobile - control Claude, Aider, Copilot, and 17+ tools from your phone (Development version)"
+    },
+    {
+        "name": "@keybittech/awayto",
+        "description": "Deploy a fully-featured application in about 10 minutes that is primed for quick development. Do business, impress a client with a quick demo, finish your poc with time to spare; all easily achievable with Awayto."
+    },
+    {
+        "name": "mobitru-mcp-server-beta",
+        "description": "Mobitru MCP Server - Bundled distribution for mobile device automation and web browser testing with Mobitru cloud platform"
+    },
+    {
+        "name": "@gem-sdk/swiper",
+        "description": "Gem SDK - Swiper, Customized of swiper"
+    },
+    {
+        "name": "paydunya",
+        "description": "PAYDUNYA Node.JS Library"
+    },
+    {
+        "name": "react-native-spotify-remote",
+        "description": "React Native wrapper around the Spotify Remote SDK"
+    },
+    {
+        "name": "@antv/f-react",
+        "description": "FEngine for React"
+    },
+    {
+        "name": "@trafficguard/device-detector-js",
+        "description": "A javascript port of Matomo device-detector"
+    },
+    {
+        "name": "svelte-drag-drop-touch",
+        "description": "HTML5 Drag-and-Drop support for mobile devices"
+    },
+    {
+        "name": "gitana",
+        "description": "Gitana Cloud CMS Driver for Node JS"
+    },
+    {
+        "name": "dotnetify",
+        "description": "Simple, lightweight, yet powerful way to build realtime .NET web apps."
+    },
+    {
+        "name": "@titanium/sdk-manager",
+        "description": "⭐  Axway Amplify module for managing and installing SDK for Appcelerator Titanium SDK Framework"
+    },
+    {
+        "name": "smartfacecloud-emulator-dispatcher",
+        "description": "Handles Emulator Dispatcher Part of SmartfaceCloud"
+    },
+    {
+        "name": "@squareetlabs/capacitor-subscriptions",
+        "description": "A capacitor plugin which simplifies subscription handling - implementing StoreKit 2 and Google Billing 7"
+    },
+    {
+        "name": "ngx-device-info",
+        "description": "Angular library which provides device information / type / name and also it provides much more device independent features & informations."
+    },
+    {
+        "name": "phoneparser",
+        "description": "A parser for phone numbers."
+    },
+    {
+        "name": "mobileprovision",
+        "description": "import mobileprovision file to your mac os"
+    },
+    {
+        "name": "is-webview",
+        "description": "JavaScript library to indicate if we are dealing with a WebView or a Web page."
+    },
+    {
+        "name": "jquery.pep.js",
+        "description": "Kinetic drag for mobile & desktop"
+    },
+    {
+        "name": "greatjoy-input",
+        "description": "A React input component based on antd-mobile with enhanced features"
+    },
+    {
+        "name": "react-native-custom-qr-codes",
+        "description": "A customisable QR code component for React Native applications."
+    },
+    {
+        "name": "@awesome-cordova-library/oidc",
+        "description": "OIDC cordova plugin."
+    },
+    {
+        "name": "@titanium/coremotion",
+        "description": "⭐  Axway Amplify modules for iOS CoreMotion framework with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "hxy-stencil-ai-chat",
+        "description": "A mobile-first AI chat component library built with Stencil, supporting text, markdown, and echarts rendering"
+    },
+    {
+        "name": "@titanium/screenshot",
+        "description": "⭐  Axway Amplify modules that to detect that a screenshot was taken on iOS with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "@manojkanth/react-native-google-recaptchav3",
+        "description": "A React native component to use the invisible recaptcha v3 from Google"
+    },
+    {
+        "name": "vonic",
+        "description": "Mobile UI Components, based on Vue.js and ionic CSS."
+    },
+    {
+        "name": "@decaf-ts/ui-decorators",
+        "description": "Extension of decorator validation to ui elements to allow for web integration"
+    },
+    {
+        "name": "@poups/nuxt3-capacitor",
+        "description": "Interactive script to configure Capacitor with Android and iOS for Nuxt/SPA projects - Now with Hot Reload support and optimized Android setup!"
+    },
+    {
+        "name": "@titanium/googlesignin",
+        "description": "⭐  Axway Amplify module for using Google Sign-in with Appcelerator Titanium SDK Framework"
+    },
+    {
+        "name": "@titanium/calendar-picker",
+        "description": "⭐  Axway Amplify module for calendar dates times for Appcelerator Titanium SDK"
+    },
+    {
+        "name": "@open-xchange/jquery-touch-events",
+        "description": "Polyfill to remove click delays on browsers with touch UIs."
+    },
+    {
+        "name": "mobile-p5-permissions",
+        "description": "Easy-to-use permission handling and gesture blocking for mobile p5.js projects"
+    },
+    {
+        "name": "vue-device-detector-js",
+        "description": "vue wrapper library for device-detector-js"
+    },
+    {
+        "name": "@titanium/xml2json",
+        "description": "⭐  Axway Amplify module to convert XML to JSON for Appcelerator Titanium apps"
+    },
+    {
+        "name": "phonon",
+        "description": "Phonon is an open source HTML, CSS and JavaScript agnostic framework that allows to create a website or a hybrid Web app."
+    },
+    {
+        "name": "appmake-mcp-client",
+        "description": "AppMake MCP Server Client for Claude Desktop - Mobile app development tools integration"
+    },
+    {
+        "name": "@thegrizzlylabs/web-geniusscan-sdk",
+        "description": "Add a custom document scanner to your web apps by using and customizing our proven imaging technology. The Document Scanner SDK is the same software that we use at the core of Genius Scan: it's tried and trusted every day by millions of people on iOS and "
+    },
+    {
+        "name": "react-better-password",
+        "description": "Password input for ReactJS that mimics mobile password masking behavior. Delays the masking of the last character to improve user accuracy."
+    },
+    {
+        "name": "despia-native",
+        "description": "JavaScript SDK for Despia native integrations with command queuing and variable watching"
+    },
+    {
+        "name": "@thesoulfresh/pan-z",
+        "description": "Pan-Z is a framework agnostic, 0 dependency, mobile and desktop friendly, GPU accelerated and easy to use pan/zoom library with an programmatic API."
+    },
+    {
+        "name": "cleverstack-cli",
+        "description": "Command line interface for CleverStack"
+    },
+    {
+        "name": "yun-ui",
+        "description": "Mobile UI Components Library for Vue.js by yunzhijia."
+    },
+    {
+        "name": "zmp-react",
+        "description": "Build full featured iOS & Android apps using ZMP & React"
+    },
+    {
+        "name": "@beisen/bsapp-mobile-ui",
+        "description": "React组件库"
+    },
+    {
+        "name": "im-mobile-sdk",
+        "description": "React Native components"
+    },
+    {
+        "name": "@familyjs/react-router",
+        "description": "React Router wrapper for @familyjs/react"
+    },
+    {
+        "name": "out-of-the-vue",
+        "description": "Functional UX components built with Vue 3"
+    },
+    {
+        "name": "react-tabbar",
+        "description": "create tab bars"
+    },
+    {
+        "name": "unsemantic",
+        "description": "Fluid grid for mobile, tablet, and desktop."
+    },
+    {
+        "name": "less-query",
+        "description": "grid-system and flexible mixins for less"
+    },
+    {
+        "name": "svelte-swipeout",
+        "description": "iOS-style swipeable list component for Svelte 5 with delete animations and mobile-optimized touch handling"
+    },
+    {
+        "name": "vue-star-rate",
+        "description": "a vue star  rating component for mobile"
+    },
+    {
+        "name": "@titanium/hashids",
+        "description": "⭐  Axway Amplify module for generating YouTube-like ids for Appcelerator Titanium SDK"
+    },
+    {
+        "name": "lumbar",
+        "description": "Supporting your backbone since 2011, Lumbar is a module build system that allows for generation of platform specific javascript modules."
+    },
+    {
+        "name": "zuv-view",
+        "description": "UI components library, based on Vue.js and ionic CSS."
+    },
+    {
+        "name": "terserflow",
+        "description": "A modified enhanced version of terser and uglifyjs that will obfuscate code better than ever done before! Obfuscates code then encrypts all strings so that they cannot be edited by others."
+    },
+    {
+        "name": "@familyjs/kdu",
+        "description": "Kdu specific wrapper for @familyjs/core"
+    },
+    {
+        "name": "react-native-expandable-listview",
+        "description": "A simple and customizable React Native ExpandableListView component."
+    },
+    {
+        "name": "@w11r/use-breakpoint",
+        "description": "React useBreakpoint hook to have different values for a variable based on a breakpoints."
+    },
+    {
+        "name": "recharger",
+        "description": " A component library based on the vue2"
+    },
+    {
+        "name": "grunt-stripmq",
+        "description": "Create a desktop version of your mobile-first CSS"
+    },
+    {
+        "name": "@familyjs/kdu-router",
+        "description": "Kdu Router integration for @familyjs/kdu"
+    },
+    {
+        "name": "@niyang-es/mux-ui",
+        "description": "A Vue.js project"
+    },
+    {
+        "name": "@smartface/styler",
+        "description": "Component styling wrapper"
+    },
+    {
+        "name": "@titanium/deeply",
+        "description": "⭐ Axway Amplify modules to capture Android deep links with Appcelerator Titanium SDK."
+    },
+    {
+        "name": "@nativescript/template-blank-svelte",
+        "description": "Blank template for NativeScript apps using Svelte"
+    },
+    {
+        "name": "@auth0/cordova",
+        "description": "Auth0 integration for Cordova applications"
+    },
+    {
+        "name": "zmp-vue",
+        "description": "Build full featured iOS & Android apps using ZMP & Vue"
+    },
+    {
+        "name": "bh-mint-ui2",
+        "description": "Mobile UI elements for vue.js"
+    },
+    {
+        "name": "lf-ui",
+        "description": "LfUI"
+    },
+    {
+        "name": "react-native-global-exception-handler",
+        "description": "A modern, cross-platform React Native library to capture uncaught JS & native exceptions, show custom error UIs, and optionally restart the app. Supports TurboModules, Fabric, and both new/old architectures."
+    },
+    {
+        "name": "@farfetch/react-context-responsive",
+        "description": "A responsive API using React's Context API"
+    },
+    {
+        "name": "@blueromans/react-native-ui-kit",
+        "description": "Ui kit for React Native"
+    },
+    {
+        "name": "offcanvas",
+        "description": "Offcanvas menu library for browser"
+    },
+    {
+        "name": "pinchit",
+        "description": "Zoom images without dependencies"
+    },
+    {
+        "name": "@ibenvandeveire/ngx-layout",
+        "description": "An Angular package with several common layout use-cases, created by Iben Van de Veire."
+    },
+    {
+        "name": "vimo",
+        "description": "A Vue2.x UI Project For Mobile & HyBrid"
+    },
+    {
+        "name": "@titanium/querystring",
+        "description": "⭐  Axway Amplify module adding querystring support to Appcelerator Titanium SDK"
+    },
+    {
+        "name": "@titanium/colors",
+        "description": "⭐  Axway Amplify module for SAFE use of colors in Appcelerator Titanium SDK Framework"
+    },
+    {
+        "name": "@titanium/icloud",
+        "description": "⭐  Axway Amplify module to use the Apple iCloud framework with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "@globules-io/ogx.js",
+        "description": "Javascript framework for webviews"
+    },
+    {
+        "name": "@taroify/commerce",
+        "description": "## Install"
+    },
+    {
+        "name": "@hurshore/react-native-htmlview",
+        "description": "A component which renders HTML content as native views"
+    },
+    {
+        "name": "material-ui-fullscreen-dialog",
+        "description": "A fullscreen dialog for Material-UI."
+    },
+    {
+        "name": "catjs",
+        "description": "(Mobile) Web Automation Framework "
+    },
+    {
+        "name": "@titanium/jsonc",
+        "description": "⭐  Axway Amplify module for using JSONC with Appcelerator Titanium SDK Framework"
+    },
+    {
+        "name": "@fivvy/contextual-profiler",
+        "description": "Contextual Profiler SDK for React Native. Recommended for 0.69.X or higher React Native versions."
+    },
+    {
+        "name": "coui",
+        "description": "Mobile UI Coracle for vue.js"
+    },
+    {
+        "name": "laymur",
+        "description": "Constraint-based UI library for Three.js mobile advertisements"
+    },
+    {
+        "name": "gms-mobile-news",
+        "description": "This is UnOfficial Mobile News Information Web Scraper. Created By MrNima."
+    },
+    {
+        "name": "@titanium/plugin-turbo",
+        "description": "⭐  Axway Amplify plugin to use Turbo or Alloy with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "@socketsupply/socket",
+        "description": "A Cross-Platform, Native Runtime for Desktop and Mobile Apps — Create apps using HTML, CSS, and JavaScript. Written from the ground up to be small and maintainable."
+    },
+    {
+        "name": "@devloops/jcron",
+        "description": "A high-performance, type-safe job scheduler for Node.js and React Native, inspired by Go's jcron."
+    },
+    {
+        "name": "react-native-cardscan",
+        "description": "This library provides payment card scanning functionality for your react-native app."
+    },
+    {
+        "name": "@familyjs/react",
+        "description": "React specific wrapper for @familyjs/core"
+    },
+    {
+        "name": "@taoyage/react-mobile-ui",
+        "description": "A react mobile components lib"
+    },
+    {
+        "name": "@dfhernandez/sds-react-native-components",
+        "description": "React native library for shareable components"
+    },
+    {
+        "name": "@nativescript/template-hello-world-ng",
+        "description": "NativeScript Angular Hello World template"
+    },
+    {
+        "name": "react-native-countdown-fixed",
+        "description": "React Native CountDown Component (Fixed)"
+    },
+    {
+        "name": "itemslide",
+        "description": "A simple and beautiful vanilla JavaScript touch carousel"
+    },
+    {
+        "name": "nestjs-expo-notifications",
+        "description": "Injectable Expo Notifications client for Nestjs"
+    },
+    {
+        "name": "benmajor-jquery-touch-events",
+        "description": "Polyfill to remove click delays on browsers with touch UIs."
+    },
+    {
+        "name": "snapai",
+        "description": "AI-powered icon generation CLI for mobile app developers"
+    },
+    {
+        "name": "react-native-animated-circular-progress",
+        "description": "Animated circular progress components for React Native project, with all pure React Native API"
+    },
+    {
+        "name": "antui-admin",
+        "description": "admin ui for antd"
+    },
+    {
+        "name": "@fuse-open/fuselibs",
+        "description": "Fuselibs is a collection of Uno libraries that provide the UI framework used to build Fuse apps."
+    },
+    {
+        "name": "@applitools/eyes-storybook-addon",
+        "description": "Bring the power of Applitools Eyes Visual AI addon into your Storybook UI to instantly detect visual bugs and ensure every component looks right, every time"
+    },
+    {
+        "name": "tile-cli",
+        "description": "Apptile CLI - Web server and command-line tools for managing Apptile apps, plugins, and development workflow"
+    },
+    {
+        "name": "mobile-view",
+        "description": "A front-end tool for previewing mobile web page on a large screen."
+    },
+    {
+        "name": "query-mobile-phone-area",
+        "description": "查询手机号码归属地"
+    },
+    {
+        "name": "@gstat/leaflet-gesture-handling",
+        "description": "[FORK] Prompt mobile user to use 2 fingers to move the map. Prompt desktop users to use Ctrl+Mouse Wheel to zoom. Brings Google Maps gesture handling into Leaflet. "
+    },
+    {
+        "name": "@geek/logger",
+        "description": "Logging module for Node.js and Axway Titanium"
+    },
+    {
+        "name": "@vizmo/parse",
+        "description": "Parse JavaScript SDK"
+    },
+    {
+        "name": "@cronapp/intent-activity",
+        "description": "Cronapp Intent Activity"
+    },
+    {
+        "name": "@react-native-vector-icons/codemod",
+        "description": "Tool to help users migrate from react-native-vector-icons to @react-native-vector-icons/*"
+    },
+    {
+        "name": "obedience",
+        "description": "App to send commands to your servers from your mobile, talking with celular"
+    },
+    {
+        "name": "@data-client/graphql",
+        "description": "Quickly define typed GraphQL resources and endpoints"
+    },
+    {
+        "name": "pushover-js",
+        "description": "Library to send notifications with Pushover"
+    },
+    {
+        "name": "tipso",
+        "description": "A Lightweight Responsive jQuery Tooltip Plugin"
+    },
+    {
+        "name": "@winner-fed/win-ui",
+        "description": "Financial Mobile UI Components built on Vue"
+    },
+    {
+        "name": "uv-ui",
+        "description": "基于vue3的移动端组件库"
+    },
+    {
+        "name": "@docutain/react-native-docutain-sdk",
+        "description": "React Native plugin of the Docutain Document Scanner SDK for Android and iOS. High quality document scanning, data extraction, text recognition and PDF creation for your apps. Easily scan documents in your app."
+    },
+    {
+        "name": "@suoqiu/f-react",
+        "description": "FEngine for React"
+    },
+    {
+        "name": "@jiabaida/ui",
+        "description": "基于uniapp+vue的业务组件库"
+    },
+    {
+        "name": "@livei18n/react-native-expo-sdk",
+        "description": "Expo SDK for LiveI18n real-time translation platform"
+    },
+    {
+        "name": "chisel.css",
+        "description": "A minimalist CSS framework."
+    },
+    {
+        "name": "pinia-plugin-capacitor-persist",
+        "description": "A Vue 3 Pinia plugin which persists store content using the CapacitorJS Preferences store."
+    },
+    {
+        "name": "@syberos/jsbridge",
+        "description": "js-sdk for syberh"
+    },
+    {
+        "name": "dragdroptouch-bug-fixed",
+        "description": "Polyfill that enables HTML5 drag drop support on mobile (touch) devices"
+    },
+    {
+        "name": "create-web3mobile",
+        "description": "An opinionated starter kit for building web3 mobile React Native applications"
+    },
+    {
+        "name": "@codaline-io/ionic-datepicker",
+        "description": "A datepicker component for ionic"
+    },
+    {
+        "name": "@kalisio/feathers-localforage",
+        "description": "A FeathersJS client side service based on localforage that persists to IndexedDB, WebSQL, or LocalStorage"
+    },
+    {
+        "name": "xald-parse-sdk",
+        "description": "The Parse JavaScript SDK"
+    },
+    {
+        "name": "mcp-appium-visual",
+        "description": "MCP Server for Appium mobile automation with visual recovery"
+    },
+    {
+        "name": "nptconnect-qrcode-modal",
+        "description": "QR Code Modal for Neopin Connect"
+    },
+    {
+        "name": "pwa-synergy-api",
+        "description": "synergy application api"
+    },
+    {
+        "name": "dreamface",
+        "description": "Cloud Application Development Platform designed to build mobile and web applications"
+    },
+    {
+        "name": "r1-create",
+        "description": "Unofficial community SDK for building R1/RabbitOS plugins with hardware access, storage, LLM integration, and optimized UI utilities"
+    },
+    {
+        "name": "react-image-video-viewer",
+        "description": "A React lightbox that supports videos, images and pinch zooming on images. Optimized for mobile UI with swiping, but can be used on desktop as well."
+    },
+    {
+        "name": "@arelstone/react-native-email-chip",
+        "description": "React Native component to display a list of emails as editable chips"
+    },
+    {
+        "name": "@feizheng/next-js-core2",
+        "description": "A javascript OOP toolkit for mobile."
+    },
+    {
+        "name": "react-native-mentions-editor",
+        "description": "Mentions for React-Native. Tested on iOS. Should work on Andriod."
+    },
+    {
+        "name": "ngx-mat-intl-tel-input-v16",
+        "description": ""
+    },
+    {
+        "name": "cabin-mobile-rn",
+        "description": "cabin mobile react native ui components"
+    },
+    {
+        "name": "webview.io",
+        "description": "Easy and friendly API to connect and interact between React Native and WebView with enhanced security, reliability, and modern async/await support."
+    },
+    {
+        "name": "react-native-wlkt",
+        "description": "Simple and fully customizable walkthrough guide for your app"
+    },
+    {
+        "name": "enable-mobile",
+        "description": "Enable mobile metas for app, demo or tests"
+    },
+    {
+        "name": "mobile-table-pagination",
+        "description": "A mobile-friendly table component for dynamic data display."
+    },
+    {
+        "name": "@docutain/capacitor-plugin-docutain-sdk",
+        "description": "Capacitor plugin of the Docutain Document Scanner SDK for Android and iOS. High quality document scanning, data extraction, text recognition and PDF creation for your apps. Easily scan documents in your app."
+    },
+    {
+        "name": "@tourmalinecore/react-table-responsive",
+        "description": "React Table Responsive"
+    },
+    {
+        "name": "@termly-dev/cli",
+        "description": "Mirror your AI coding sessions to mobile - control Claude, Aider, Copilot, and 17+ tools from your phone"
+    },
+    {
+        "name": "nodejs-mobile-react-native-expo-fork",
+        "description": "Node.js for Mobile Apps React Native plugin"
+    },
+    {
+        "name": "onscrolling",
+        "description": "A better, smoother, more performant window.onscroll event interface using requestAnimationFrame for performance and mobile-compatibility"
+    },
+    {
+        "name": "vision-ui-ext",
+        "description": "Extension of UI design guideline of Wepiao"
+    },
+    {
+        "name": "react-native-loading-modal",
+        "description": "A React native component for showing loading modal."
+    },
+    {
+        "name": "@walletconnect/rpc-connection",
+        "description": "Rpc Connection for WalletConnect Providers"
+    },
+    {
+        "name": "@hiraku-ai/react-native-emoji-picker",
+        "description": "A flexible emoji picker for React Native with both modal and inline options"
+    },
+    {
+        "name": "@helium/onboarding",
+        "description": "HTTP library for interacting with an onboarding server"
+    },
+    {
+        "name": "@jeongshin/react-native-youtube-iframe",
+        "description": "A simple wrapper around the youtube iframe js API for react native"
+    },
+    {
+        "name": "@egendata/react-native-simple-crypto",
+        "description": "A simpler React-Native crypto library"
+    },
+    {
+        "name": "@gic/core",
+        "description": "Gnucoop Ionic Components"
+    },
+    {
+        "name": "react-native-app-store-review",
+        "description": "Rate on app store inside your app"
+    },
+    {
+        "name": "quadpay-merchant-sdk-react-native",
+        "description": "This library provides the ability to offer QuadPay as a payment in your app!"
+    },
+    {
+        "name": "grapesjs-click",
+        "description": "GrapesJS click plugin (no more drag-and-drop)"
+    },
+    {
+        "name": "@wako-app/mobile-sdk",
+        "description": "wako's mobile SDK"
+    },
+    {
+        "name": "@canard/schema-form-antd-mobile-plugin",
+        "description": "Ant Design Mobile components plugin for @canard/schema-form providing mobile-optimized form inputs for React Native and mobile web"
+    },
+    {
+        "name": "@redquill/rq-audio-player",
+        "description": "Redquill Audio Player"
+    },
+    {
+        "name": "@titanium/json5",
+        "description": "⭐  Axway Amplify module for using JSON5 with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "@titanium/review-dialog",
+        "description": "⭐  Axway Amplify module to use the Apple's Store Review Dialog with Appcelerator Titanium SDK Framework"
+    },
+    {
+        "name": "@walletconnect/starkware-provider",
+        "description": "Starkware Provider for WalletConnect"
+    },
+    {
+        "name": "@coralogix/react-native-plugin",
+        "description": "Official Coralogix React Native plugin"
+    },
+    {
+        "name": "@gic/angular",
+        "description": "Angular specific wrappers for @gic/core"
+    },
+    {
+        "name": "cloudcms-cli",
+        "description": "Cloud CMS Command-Line client"
+    },
+    {
+        "name": "@react-form-fields/native-base",
+        "description": "Native Base Form Fields"
+    },
+    {
+        "name": "gem-sdk-swiper",
+        "description": "Gem SDK - Swiper, Customized of swiper"
+    },
+    {
+        "name": "react-native-value-picker",
+        "description": "Cross-platform scroll picker"
+    },
+    {
+        "name": "@titanium/observer",
+        "description": "⭐  Axway Amplify module for supporting observability to Appcelerator Titanium SDK"
+    },
+    {
+        "name": "web3-signer-provider",
+        "description": "A wallet connect provider in EIP1193"
+    },
+    {
+        "name": "barkoder-react-native",
+        "description": "React native support for Barkoder - a Barcode Scanner SDK for the modern enterprise."
+    },
+    {
+        "name": "node-titanium-sdk",
+        "description": "Appcelerator Titanium SDK Library"
+    },
+    {
+        "name": "loopback-connector-twilio",
+        "description": "LoopBack connector for Twilio & SendGrid"
+    },
+    {
+        "name": "@luminati-io/css-mediaquery",
+        "description": "Parses and determines if a given CSS Media Query matches a set of values."
+    },
+    {
+        "name": "samson.js",
+        "description": "A performant and easy to learn mobile app framework that will allow you to rapidly build native-like apps that target modern devices (iOS 8+ / Android 4+)"
+    },
+    {
+        "name": "fake-generator",
+        "description": "fake name,address,mobile numbers,emails generator"
+    },
+    {
+        "name": "react-native-signature-capture-view",
+        "description": "A webview wrapper around signaturepad.js"
+    },
+    {
+        "name": "scrat",
+        "description": "Modular front-end integrated solution for mobile"
+    },
+    {
+        "name": "forcedroid",
+        "description": "Utilities for creating mobile apps based on the Salesforce Mobile SDK for Android"
+    },
+    {
+        "name": "create-devanthos-app",
+        "description": "CLI oficial para crear proyectos con las plantillas modernas Devanthos (Astro, Next.js, Expo y más) - Con sistema de plugins, actualizaciones automáticas, CLI flags, Git auto-init, presets y configuración personalizable."
+    },
+    {
+        "name": "react-weui",
+        "description": "weui for react"
+    },
+    {
+        "name": "@titanium/authentication-mock",
+        "description": "⭐  Axway Amplify module for mocking OAuth Authentication with Appcelerator Titanium SDK Framework"
+    },
+    {
+        "name": "mobile-react-calendar",
+        "description": "[mobile-react-calendar](https://github.com/Li-DaDa/mobile-react-calendar)基于react的移动端日期选择组件，仿携程日历，可选区间日期，也可选一天"
+    },
+    {
+        "name": "create-mobile-assets",
+        "description": "Automates the generation of mobile assets. Automatically generates screen images for send to stores"
+    },
+    {
+        "name": "@antv/f-my",
+        "description": "FEngine for alipay mini-program"
+    },
+    {
+        "name": "random-mobile",
+        "description": "Generate a random (U.S.) mobile phone number."
+    },
+    {
+        "name": "react-native-tear-lines",
+        "description": "Zig-zag borders to simulate tear lines normally seen on receipts"
+    },
+    {
+        "name": "expo-react-native-toastify",
+        "description": "expo-react-native-toastify allows you to add notifications to your expo react-native app (ios, android, web) with ease."
+    },
+    {
+        "name": "expo-roomplan",
+        "description": "React Native implementation of Apple's RoomPlan SDK"
+    },
+    {
+        "name": "bun-is-mobile",
+        "description": "The fastest, lightweight, dependency-free mobile device detection for Bun and the browser (UA-CH + User-Agent regex)."
+    },
+    {
+        "name": "postcss-mobile-hover",
+        "description": "PostCSS plugin that transforms :hover selectors to :active on devices where a mouse isn't the primary input mechanism"
+    },
+    {
+        "name": "boombox.js",
+        "description": "Browser sound library which blended HTMLVideo and HTMLAudio and WebAudio"
+    },
+    {
+        "name": "clxx",
+        "description": "Basic JS library for mobile devices"
+    },
+    {
+        "name": "react-native-leader-line",
+        "description": "React Native port of leader-line library for drawing arrow lines and connectors"
+    },
+    {
+        "name": "react-native-buglife",
+        "description": "Buglife for React Native"
+    },
+    {
+        "name": "@papinotas/phoenix-mobile-toolbox",
+        "description": "Components for react-native"
+    },
+    {
+        "name": "baasatrakuza",
+        "description": "BaaS@rakuza SDK for JavaScript"
+    },
+    {
+        "name": "ripple-emulator",
+        "description": "A browser based html5 mobile application development and testing tool"
+    },
+    {
+        "name": "@dynamicsmobile/sdk-core",
+        "description": "Allows development of off-line mobile and web business apps over the Dynamics Mobile platform. More info on https://www.dynamicsmobile.com"
+    },
+    {
+        "name": "react-mobile-datepicker-ts",
+        "description": "react based date picker like native"
+    },
+    {
+        "name": "@cpp.js/plugin-metro",
+        "description": "Cpp.js Metro plugin: A tool for seamless C++ integration with the Metro bundler."
+    },
+    {
+        "name": "cordova-adtoapp-plugin",
+        "description": "This plugin allows you to show ads in your app."
+    },
+    {
+        "name": "expo-draw",
+        "description": "Drawing library for expo using svg."
+    },
+    {
+        "name": "@vishnucss/vishnu",
+        "description": "A simple and minimalist toolkit with modern css"
+    },
+    {
+        "name": "ngx-mat-phone-input",
+        "description": "An Angular Material package for entering and validating international telephone numbers. It adds a flag dropdown to any input, detects the user's country, displays a relevant placeholder and provides formatting/validation methods."
+    },
+    {
+        "name": "tocada",
+        "description": "Touch events with ease! (Inspired by the wonderful Tocca.js library). Written in Typescript with love"
+    },
+    {
+        "name": "mobile-message",
+        "description": "'mobile-message'是移动端的弹窗组件。"
+    },
+    {
+        "name": "react-native-svg-charts-updated-peers",
+        "description": "Customizable charts (Line, Bar, Area, Pie, Circle, Progress) for React Native"
+    },
+    {
+        "name": "@arelstone/react-native-swipe-button",
+        "description": "A UI component for displaying a button that can be swiped."
+    },
+    {
+        "name": "@lazorkit/wallet-mobile-adapter",
+        "description": "React Native adapter for LazorKit smart wallet with WebAuthn/passkey authentication on Solana"
+    },
+    {
+        "name": "miappio-sdk",
+        "description": "miapp.io client SDK"
+    },
+    {
+        "name": "epub-maker2",
+        "description": "Easily create epub files with javascript"
+    },
+    {
+        "name": "snap-this",
+        "description": "A tool to make quick screenshots for multiple mobile devices of your web app in a couple of minutes."
+    },
+    {
+        "name": "react-native-modal-spinner",
+        "description": "A simple and fully customizable React Native component that implements a spinner UI."
+    },
+    {
+        "name": "react-native-super-photo-view",
+        "description": "Displaying photos with pinch-to-zoom , via https://github.com/alwx/react-native-photo-view"
+    },
+    {
+        "name": "tns-template-master-detail-kinvey-ts",
+        "description": "Master-detail interface to display collection of items from Kinvey and inspect and edit selected item properties."
+    },
+    {
+        "name": "@aerogear/core",
+        "description": "JavaScript Core SDK for AeroGear services"
+    },
+    {
+        "name": "@kkx64/react-simple-carousel",
+        "description": "Simple carousel component for React"
+    },
+    {
+        "name": "@titanium/bluebird",
+        "description": "⭐  Axway Amplify module for using Promises with Appcelerator Titanium using bluebird.js"
+    },
+    {
+        "name": "zx-editor",
+        "description": "ZxEditor is a HTML5 rich text editor"
+    },
+    {
+        "name": "nobari",
+        "description": "Talented => mailto:jobs@sevenapp.co"
+    },
+    {
+        "name": "detonator",
+        "description": "Build native mobile apps with Untrue."
+    },
+    {
+        "name": "mobi.css",
+        "description": "A lightweight, scalable, mobile-first CSS framework"
+    },
+    {
+        "name": "@nativescript/template-hello-world",
+        "description": "Nativescript hello-world project template"
+    },
+    {
+        "name": "mo-framework",
+        "description": "Hybrid mobile app framework with generators"
+    },
+    {
+        "name": "react-native-drop-zone",
+        "description": "React Native module for drag-n-drop function on iOS"
+    },
+    {
+        "name": "@sweetui/sweet-mobile",
+        "description": "Sweet Mobile Core"
+    },
+    {
+        "name": "@awesome-cordova-library/onesignal",
+        "description": "OneSignal is a free email, sms, push notification, and in-app message service for mobile apps. This plugin makes it easy to integrate your Cordova based (e.g. Ionic, PhoneGap, and PhoneGap Build app with OneSignal."
+    },
+    {
+        "name": "@iota/pearl-diver-react-native",
+        "description": "Transaction nonce searcher for IOTA apps built with react-native."
+    },
+    {
+        "name": "forceios",
+        "description": "Utilities for creating mobile apps based on the Salesforce Mobile SDK for iOS"
+    },
+    {
+        "name": "react-native-sbxui",
+        "description": "A navigation UI inspired by the Starbucks mobile app."
+    },
+    {
+        "name": "ng-metro4",
+        "description": "Angular components for Metro4 UI library in modern ui style."
+    },
+    {
+        "name": "@personql/react-native",
+        "description": "React Native SDK for PersonQL authentication and multi-tenant support"
+    },
+    {
+        "name": "react-native-navigation-apps",
+        "description": "Open & Navigate With External Navigation Apps (Waze,GoogleMaps,iOS Maps) from react native"
+    },
+    {
+        "name": "modo-mobile",
+        "description": "A mobile UI toolkit, based on React"
+    },
+    {
+        "name": "framework7.angular",
+        "description": "Full Featured Mobile HTML Framework For Building iOS & Android Apps using Angularjs"
+    },
+    {
+        "name": "generator-tabris-js",
+        "description": "A Yeoman generator for Tabris.js"
+    },
+    {
+        "name": "uk.co.workingedge.phonegap.plugin.istablet",
+        "description": "Cordova/Phonegap plugin to determine if current device is a tablet."
+    },
+    {
+        "name": "@remobile/react-native-qrcode-local-image",
+        "description": "A local qrcode image parse for react-native, support for ios and android"
+    },
+    {
+        "name": "react-wx-images-viewer",
+        "description": "Images viewer is a react component use in mobile website App, that function same as Weixin native viewer."
+    },
+    {
+        "name": "@solfacil/components-ui",
+        "description": "Component library based on Vue and Tailwind"
+    },
+    {
+        "name": "@aerogear/auth",
+        "description": "JavaScript Auth module for AeroGear services"
+    },
+    {
+        "name": "react-native-select-two",
+        "description": "Component like Select2 on web for React Native"
+    },
+    {
+        "name": "react-native-slider-intro",
+        "description": "A simple and full customizable React Native package which implements a unique slider."
+    },
+    {
+        "name": "@cronapp/precise-calculations",
+        "description": "Cronapp Precise Calculations Plugin"
+    },
+    {
+        "name": "vue-etc-ui",
+        "description": "vue-etc-ui for mobile"
+    },
+    {
+        "name": "mobile-react-infinite-calendar",
+        "description": "A mobile-optimized infinite scroll calendar component for React"
+    },
+    {
+        "name": "@viablelogic/ngx-responsive",
+        "description": "Superset of RESPONSIVE DIRECTIVES to show or hide items according to the size of the device screen and another features in Angular 15"
+    },
+    {
+        "name": "@rokku/design",
+        "description": "Mobile UI Components built on React"
+    },
+    {
+        "name": "@titanium/events",
+        "description": "⭐  Axway Amplify event emitter implementation for Appcelerator Titanium SDK"
+    },
+    {
+        "name": "vconsole-atzuche-env",
+        "description": "```bash npm install vconsole-atzuche-env or yarn add vconsole-atzuche-env -D"
+    },
+    {
+        "name": "ngx-onsenui",
+        "description": "Official Angular directives for Onsen UI."
+    },
+    {
+        "name": "ngx-calendar-view",
+        "description": "A responsive Angular calendar component library with day/week/month views, drag-and-drop events, and mobile swipe support"
+    },
+    {
+        "name": "mobile-simple-rest-call",
+        "description": "A simpler way to call HTTP REST endpoints from a mobile Cordova application."
+    },
+    {
+        "name": "simple-mobile-swiper",
+        "description": "a simple swiper for mobile device"
+    },
+    {
+        "name": "@antv/f-wx",
+        "description": "FEngine for weixin mini-program"
+    },
+    {
+        "name": "smdm-slide-menu",
+        "description": "A library agnostic multilevel page menu with a smooth slide effect based on CSS transitions, focused on accessibility."
+    },
+    {
+        "name": "@quintenkasteel/useswipe",
+        "description": "A simple to use library that provides useSwipe hook for React that enables swipe gestures for touch screens."
+    },
+    {
+        "name": "@tofandel/min-viewport",
+        "description": "This package allows you to specify a minimum viewport for your web application"
+    },
+    {
+        "name": "pinchable",
+        "description": "Lightweight, dependency-free library for smooth mobile pinch-zoom and panning on any HTML element."
+    },
+    {
+        "name": "vue-directive-touch",
+        "description": "Touch directive of vue 2.0"
+    },
+    {
+        "name": "react-native-module-insurance",
+        "description": "App Module Insurance"
+    },
+    {
+        "name": "responsive-directives-angular2",
+        "description": "Superset of RESPONSIVE DIRECTIVES to show or hide items according to the size of the device screen and another features in Angular 2"
+    },
+    {
+        "name": "mobile-select-mini",
+        "description": "A mobile select component for Vue.js"
+    },
+    {
+        "name": "@vishnucss/extensions",
+        "description": "Extensions packages for Vishnucss toolkit with modern css"
+    },
+    {
+        "name": "xajs",
+        "description": "🪄 Just another javascript utility library."
+    },
+    {
+        "name": "@antv/f2-wordcloud",
+        "description": "F2 wordcloud extension"
+    },
+    {
+        "name": "px2rem2js",
+        "description": "Init global rem setting ,support transforms utils."
+    },
+    {
+        "name": "select-options",
+        "description": "SelectOptions replaces standard HTML drop-down lists with custom ones, improving their appearance and user interaction."
+    },
+    {
+        "name": "retail-dashboard-v2",
+        "description": "零售管理仪表板组件包 - 支持移动端和桌面端响应式设计"
+    },
+    {
+        "name": "forcehybrid",
+        "description": "Utilities for creating hybrid mobile apps based on the Salesforce Mobile SDK for iOS and Android"
+    },
+    {
+        "name": "sveltekit-device-detector",
+        "description": "Detect device type and render your component according to it"
+    },
+    {
+        "name": "@koterion/country_list",
+        "description": "A react component for entering mobile numbers"
+    },
+    {
+        "name": "forcereact",
+        "description": "Utilities for creating react native mobile apps based on the Salesforce Mobile SDK for iOS and Android"
+    },
+    {
+        "name": "react-native-modalfy-ts-fix",
+        "description": "Modal citizen of React Native"
+    },
+    {
+        "name": "bootstrap-carousel-swipe",
+        "description": "Adding swipe behavior to Bootstrap's Carousel"
+    },
+    {
+        "name": "@savicheema/react-mobile-navigation",
+        "description": "A library to build navigation in your React app similar to a native mobile application, especially useful incase of building for PWA."
+    },
+    {
+        "name": "@aegenet/belt-platform-detector",
+        "description": "Platform Detector - Is NodeJS?"
+    },
+    {
+        "name": "tactus",
+        "description": "Add native-like haptic feedback to any web app."
+    },
+    {
+        "name": "react-native-pixfactory-accordion",
+        "description": "React Native Accordion implementation using react-native-collapsible"
+    },
+    {
+        "name": "@antv/f-vue",
+        "description": "FEngine for Vue.js"
+    },
+    {
+        "name": "@beisen/BeisenCloudMobile",
+        "description": "beisencloud mobile business react components based on chaosui"
+    },
+    {
+        "name": "universal-parallax",
+        "description": "Easy parallax plugin using vanilla javascript. Works on mobile devices (really). Lightweight (2kb). Cross browser compatibility"
+    },
+    {
+        "name": "bootstrap4-fs-modal",
+        "description": "A simple way to improve Bootstrap 4 modals UX on mobile phones"
+    },
+    {
+        "name": "react-native-step-by-step-process",
+        "description": "React Native Step by Step Process Library"
+    },
+    {
+        "name": "vue3-flashcards",
+        "description": "Tinder-like flashcards component with dragging and flipping"
+    },
+    {
+        "name": "@vishnucss/base",
+        "description": "A simple and minimalist toolkit with modern css"
+    },
+    {
+        "name": "ymaps-touch-scroll",
+        "description": "Library add touch or/and scroll description block in ymaps"
+    },
+    {
+        "name": "@husam287/react-native-countdown-component",
+        "description": "React Native CountDown Component"
+    },
+    {
+        "name": "vue-device",
+        "description": "Display your app in a device sized window."
+    },
+    {
+        "name": "prevent-ghost-click",
+        "description": "Prevent click events after a touchend."
+    },
+    {
+        "name": "npm-adaptiveme-nibble",
+        "description": "Adaptive.me Nibble - The multi-platform mobile device simulator for desktop using NodeJS."
+    },
+    {
+        "name": "smartmenus-bootstrap",
+        "description": "Provides support for creating zero config advanced Bootstrap 3 navbars with the SmartMenus jQuery plugin (smartmenus)."
+    },
+    {
+        "name": "mpesapay",
+        "description": "A module for processing MPESA payments"
+    },
+    {
+        "name": "novel-epub",
+        "description": "製作 node-novel 風格的 ePub 電子書 / create epub from node-novel style"
+    },
+    {
+        "name": "rest-api-kit",
+        "description": "Enterprise-grade TypeScript REST API management library for React and React Native with advanced caching, state management, and performance optimization"
+    },
+    {
+        "name": "tns-template-master-detail-kinvey-ng",
+        "description": "Master-detail interface to display collection of items from Kinvey and inspect and edit selected item properties. "
+    },
+    {
+        "name": "@wili/react-native-image-rotate",
+        "description": "Rotate images from your react-native JavaScript code"
+    },
+    {
+        "name": "realtime-player",
+        "description": "A realtime player based on webrtc"
+    },
+    {
+        "name": "react-smartphone",
+        "description": "![Demo](https://github.com/Turutupa/react-smartphone/blob/main/demo.gif)"
+    },
+    {
+        "name": "simple-breakpoints",
+        "description": "A simple js plugin to define conditionally check defined breakpoints"
+    },
+    {
+        "name": "malia-onboarding",
+        "description": "Puzzl onboarding for React Native"
+    },
+    {
+        "name": "tns-template-master-detail-kinvey",
+        "description": "Master-detail interface to display collection of items from Kinvey and inspect and edit selected item properties."
+    },
+    {
+        "name": "reactive-blueimp-gallery",
+        "description": "A React wrapper for BlueImp gallery"
+    },
+    {
+        "name": "vite-plugin-debugger",
+        "description": "A vite plugin provide the debugger tools for mobile devices."
+    },
+    {
+        "name": "@pooleno/react-mobile-datepicker",
+        "description": "react based date picker like native"
+    },
+    {
+        "name": "sintesis-pasarela-universal",
+        "description": "SDK Universal Sintesis Pasarela - Compatible con Web, Mobile y Desktop. Una librería JavaScript universal para integración de pasarela de pagos."
+    },
+    {
+        "name": "react-native-vector-icons-qmicon",
+        "description": "iconfont fontawesome"
+    },
+    {
+        "name": "jb-mobile-ui",
+        "description": "JinBiWuYe Mobile UI Components base on Vant"
+    },
+    {
+        "name": "ember-mobile-inputs",
+        "description": "Mobile- and Desktop- friendly inputs"
+    },
+    {
+        "name": "react-native-detect-press-outside",
+        "description": "a wrapper view help to detect when user press outside a child component by passing a ref to this component as a prop"
+    },
+    {
+        "name": "tns-template-hello-world",
+        "description": "Nativescript hello-world project template"
+    },
+    {
+        "name": "@zoom-image/solid",
+        "description": "Adapter of zoom image core for Solid"
+    },
+    {
+        "name": "react-native-ambient-light-sensor",
+        "description": "test"
+    },
+    {
+        "name": "react-native-fb-collage",
+        "description": "Image Grid or Collage component for React Native"
+    },
+    {
+        "name": "react-native-number-scroll",
+        "description": "react native number scroller"
+    },
+    {
+        "name": "@zeeshan404/react-native-tiktok-iframe",
+        "description": "React Native TikTok embedded player using iframe (WebView)"
+    },
+    {
+        "name": "aki-datepicker",
+        "description": "A calendar friendly for mobile, which can select the date by the range.It is typically used for hotel."
+    },
+    {
+        "name": "react-native-confirm-dialog",
+        "description": "Custom confirmation and alert dialogs for react native"
+    },
+    {
+        "name": "@antv/f2-my",
+        "description": "F2 for alipay mini-program"
+    },
+    {
+        "name": "diawi-nodejs-uploader",
+        "description": "A nodejs integration with Diawi app distribution api"
+    },
+    {
+        "name": "js-essential-kit",
+        "description": "This library provides a comprehensive set of utility functions for various common tasks, including date calculations, formatting, masking, normalizing data, and validation"
+    },
+    {
+        "name": "tn",
+        "description": "Appcelerator & Titanium CLI wrapper to save you keystrokes."
+    },
+    {
+        "name": "react-native-photo-zoom",
+        "description": "Displaying photos with pinch-to-zoom"
+    },
+    {
+        "name": "@gem-mine/sapphire",
+        "description": "a fantastic react boilerplate "
+    },
+    {
+        "name": "taro-react-table",
+        "description": "taro表格"
+    },
+    {
+        "name": "rc-ui-lib",
+        "description": "React Mobile UI Components Library base on Vant"
+    },
+    {
+        "name": "react-native-component-library-template-demo",
+        "description": "RN Component Library Template for NPM, within a project."
+    },
+    {
+        "name": "tns-template-hello-world-ng",
+        "description": "NativeScript Angular Hello World template"
+    },
+    {
+        "name": "@ethion/capacitor-navigation-bar",
+        "description": "Capacitor Plugin for Navigation Bar"
+    },
+    {
+        "name": "@tapdaq/cordova-vungle-adapter",
+        "description": "Tapdaq Vungle adapter for Apache Cordova"
+    },
+    {
+        "name": "hhong-mobile",
+        "description": "react mobile ui"
+    },
+    {
+        "name": "@ibash/libphonenumber-js",
+        "description": "A simpler (and smaller) rewrite of Google Android's libphonenumber library in javascript"
+    },
+    {
+        "name": "myregistry",
+        "description": "MyRegistry SDK"
+    },
+    {
+        "name": "jquery.finger",
+        "description": "jQuery Finger unifies click and touch events by removing the 300ms delay on touch devices. It also provide a common set of events to handle basic gestures such as drag and pinch. Small (< 1kb gzipped), it is focused on performance, is well tested and ... "
+    },
+    {
+        "name": "react-native-animated-colors",
+        "description": "Animate between Background Colors super smoothly"
+    },
+    {
+        "name": "@antv/f-test-utils",
+        "description": "FEngine for Test"
+    },
+    {
+        "name": "@tapdaq/cordova-maio-adapter",
+        "description": "Tapdaq Maio adapter for Apache Cordova"
+    },
+    {
+        "name": "wx-h5-fontsize-fixed",
+        "description": "本组件库由有爱开发团队开发，解决微信页面被老人机字体调整大小特别丑的痛点"
+    },
+    {
+        "name": "ares-cli",
+        "description": "Modular front-end integrated solution for mobile"
+    },
+    {
+        "name": "vue3-mobile-cli",
+        "description": "A CLI tool for generating Vue 3 mobile templates with various features"
+    },
+    {
+        "name": "@willynlabs/react-daf-mobi",
+        "description": "Wrapper of Mobiscroll components for use in DAF apps."
+    },
+    {
+        "name": "@interaktiv/eslint-config-dia",
+        "description": "ESLint shareable config for most sort of projects at DIA"
+    },
+    {
+        "name": "react-native-simple-animations",
+        "description": "A React Native component that adds simple entrance, exit, and attention-seeking animations to a child component."
+    },
+    {
+        "name": "nptconnect-ethereum-provider",
+        "description": "Ethereum Provider for NeopinConnect"
+    },
+    {
+        "name": "leaflet-engine",
+        "description": "Leaflet is an open-source JavaScript library for mobile-friendly interactive maps."
+    },
+    {
+        "name": "famicons",
+        "description": "Premium icons for Family."
+    },
+    {
+        "name": "@titanium/template-alloy-basic",
+        "description": "⭐  Axway Amplify template for using Alloy with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "react-native-crispyshot",
+        "description": "ready to use react native camera lib with expo-camera"
+    },
+    {
+        "name": "@deficonnect/core",
+        "description": "Core Library for WalletConnect"
+    },
+    {
+        "name": "@appcitor/react-native-voice-to-text",
+        "description": "This can use to convert voice to text real time in device"
+    },
+    {
+        "name": "corber",
+        "description": "Tooling for cordova and crosswalk hybrid applications built with Ember"
+    },
+    {
+        "name": "mobileui",
+        "description": "MobileUI is a simple and easy NPM package to install UI Components for web mobile apps using HTML, CSS and JavaScript."
+    },
+    {
+        "name": "react-native-switch-toggles",
+        "description": "React Native customizable switch component"
+    },
+    {
+        "name": "@dillionverma/react-native-swipe-button",
+        "description": "A UI component for displaying a button that can be swiped."
+    },
+    {
+        "name": "sfdx-mobilesdk-plugin",
+        "description": "Salesforce CLI plugin for creating mobile apps based on the Salesforce Mobile SDK"
+    },
+    {
+        "name": "react-native-evpchat",
+        "description": "A simple and fully customizable React Native component that implements a chat UI."
+    },
+    {
+        "name": "appium-tizen-tv-driver",
+        "description": "Tizen TV support for Appium"
+    },
+    {
+        "name": "@deficonnect/browser-utils",
+        "description": "Browser Utilities for WalletConnect"
+    },
+    {
+        "name": "react-native-email-chip",
+        "description": "A simple and customizable React Native component that implements email chips. "
+    },
+    {
+        "name": "inliner-terser",
+        "description": "Utility to inline images, CSS and JavaScript for a web page - useful for mobile sites"
+    },
+    {
+        "name": "use-mobile",
+        "description": "A React hook to detect device type and capabilities (mobile, tablet, desktop)"
+    },
+    {
+        "name": "apkup",
+        "description": "Publish APKs to Google Play Store"
+    },
+    {
+        "name": "prevent-pull-refresh",
+        "description": "Preventing the pull-to-refresh effect browser on mobile"
+    },
+    {
+        "name": "@walletconnect/channel-provider",
+        "description": "Channel Provider for WalletConnect"
+    },
+    {
+        "name": "@tapdaq/cordova-sdk",
+        "description": "Tapdaq SDK for Apache Cordova"
+    },
+    {
+        "name": "nativeloop",
+        "description": "⭐  Axway Amplify module for using nativeloop with Appcelerator Titanium SDK Framework"
+    },
+    {
+        "name": "bootstrap-fs-modal",
+        "description": "A simple way to improve Bootstrap modals UX on mobile phones"
+    },
+    {
+        "name": "jresplus",
+        "description": "恒生移动web应用平台（Light）快速开发集成工具箱"
+    },
+    {
+        "name": "@ta-multichoice/test-automation-framework-core",
+        "description": "MultiChoice Core Test Automation Framework (BDD + Mobile + Web + API)"
+    },
+    {
+        "name": "@tapdaq/cordova-applovin-adapter",
+        "description": "Tapdaq AppLovin adapter for Apache Cordova"
+    },
+    {
+        "name": "react-native-cardverify",
+        "description": "This library provides payment card scanning and verification functionality for your react-native app."
+    },
+    {
+        "name": "@aplus/core",
+        "description": "⭐  Axway Amplify module building Alloy projects on Appcelerator Titanium SDK Framework"
+    },
+    {
+        "name": "@react-native-oh-tpl/react-native-file-viewer",
+        "description": "Native file viewer for react-native"
+    },
+    {
+        "name": "@deficonnect/web3-provider",
+        "description": "Web3 Provider for WalletConnect"
+    },
+    {
+        "name": "@tapdaq/cordova-tapjoy-adapter",
+        "description": "Tapdaq Tapjoy adapter for Apache Cordova"
+    },
+    {
+        "name": "react-native-biometric-identification",
+        "description": "React Native authentication with the native Biometrics popup."
+    },
+    {
+        "name": "easy-vue-camera",
+        "description": "The easiest way possible to have a camera view that supports mobile and looks close the native camera apps on mobile phones"
+    },
+    {
+        "name": "@tapdaq/cordova-chartboost-adapter",
+        "description": "Tapdaq Chartboost adapter for Apache Cordova"
+    },
+    {
+        "name": "react-native-chatify",
+        "description": "React native chat easy to use and integrate"
+    },
+    {
+        "name": "ng-zorro-antd-mobile-mypay",
+        "description": "An enterprise-class mobile UI components based on Ant Design and Angular"
+    },
+    {
+        "name": "@titanium/imagefactory",
+        "description": "⭐  Axway Amplify module for image transformation - scale, crop, and compress images - for Appcelerator Titanium Mobile"
+    },
+    {
+        "name": "react-native-animated-segment-control",
+        "description": "A custom `SegmentControl` component, pretty much similar to native's SegmentControl but with animation"
+    },
+    {
+        "name": "pgwbrowser",
+        "description": "Browser & OS / platform detection plugin for jQuery and Zepto"
+    },
+    {
+        "name": "airr-react",
+        "description": "Reusable React components for building Single Page Apps."
+    },
+    {
+        "name": "@react-native-oh-tpl/react-native-toast",
+        "description": "A android like toast for react-native support for HarmonyOS"
+    },
+    {
+        "name": "react-native-woocommerce-api",
+        "description": "Connects react Native to WooCommerce API"
+    },
+    {
+        "name": "@deficonnect/iso-crypto",
+        "description": "Isomorphic Crypto for WalletConnect"
+    },
+    {
+        "name": "@tapdaq/cordova-adcolony-adapter",
+        "description": "Tapdaq AdColony adapter for Apache Cordova"
+    },
+    {
+        "name": "@tapdaq/cordova-admob-adapter",
+        "description": "Tapdaq AdMob adapter for Apache Cordova"
+    },
+    {
+        "name": "@awesome-cordova-library/image-resizer",
+        "description": "Cordova Plugin For Image Resize."
+    },
+    {
+        "name": "pit-js",
+        "description": "Pollable Input"
+    },
+    {
+        "name": "inliner2",
+        "description": "Utility to inline images, CSS and JavaScript for a web page - useful for mobile sites"
+    },
+    {
+        "name": "voyager-ionic-core",
+        "description": "Base components for Ionic"
+    },
+    {
+        "name": "uiconsole",
+        "description": "Web developer tools for testing, scripting and debugging on remote devices."
+    },
+    {
+        "name": "mt-weui-react",
+        "description": "weui for react"
+    },
+    {
+        "name": "@tapdaq/cordova-inmobi-adapter",
+        "description": "Tapdaq InMobi adapter for Apache Cordova"
+    },
+    {
+        "name": "@tapdaq/cordova-ironsource-adapter",
+        "description": "Tapdaq IronSource adapter for Apache Cordova"
+    },
+    {
+        "name": "@ljm-editor/modules",
+        "description": ""
+    },
+    {
+        "name": "@rsm/allfarblori",
+        "description": "Touch enabled minimalistic slider written in vanilla JavaScript."
+    },
+    {
+        "name": "@titanium/eslint-config",
+        "description": "⭐ Axway Amplify module for ESLint settings package with Appcelerator Titanium SDK"
+    },
+    {
+        "name": "tns-template-drawer-navigation-ts",
+        "description": "Side navigation template"
+    },
+    {
+        "name": "@mlatham/cyber",
+        "description": "Cross-platform UI bridge for mobile-embedded next.js apps."
+    },
+    {
+        "name": "@poppy-ui/core",
+        "description": "Base component for Poppy based on Daisy-ui"
+    },
+    {
+        "name": "taro-react-echarts",
+        "description": "taro图表"
+    },
+    {
+        "name": "blueimp-bootstrap-image-gallery",
+        "description": "Bootstrap Image Gallery is an extension to blueimp Gallery, a touch-enabled, responsive and customizable image and video gallery. It displays images and videos in the modal dialog of the Bootstrap framework, features swipe, mouse and keyboard navigation, "
+    },
+    {
+        "name": "@tapdaq/cordova-fan-adapter",
+        "description": "Tapdaq FAN adapter for Apache Cordova"
+    },
+    {
+        "name": "react-native-neu-element",
+        "description": "Neumorphism UI library for react-native"
+    },
+    {
+        "name": "@ledgerhq/ldls-ui-rnative",
+        "description": "**React Native UI component library for Ledger Design System** - Native mobile components built with NativeWind and design tokens."
+    },
+    {
+        "name": "@react-native-oh-tpl/react-native-image-rotate",
+        "description": "Rotate images from your react-native JavaScript code"
+    },
+    {
+        "name": "tns-template-tab-navigation-ng",
+        "description": "Tabbed interface template"
+    },
+    {
+        "name": "custom-device-detect",
+        "description": "custom-device-detect is a user agent parser. custom-device-detect will pars your custom user agent and detect your device."
+    },
+    {
+        "name": "@vladyoslav/drawer",
+        "description": "An unstyled draggable drawer component for React"
+    },
+    {
+        "name": "@deficonnect/http-connection",
+        "description": "Http Connection for WalletConnect Providers"
+    },
+    {
+        "name": "ly-tab",
+        "description": "A better mobile touch-swappable reusable component for vue2.*"
+    },
+    {
+        "name": "@tremho/jove-app-template",
+        "description": "Blank template for Jove supported NativeScript apps using TypeScript"
+    },
+    {
+        "name": "@feathersjs-offline/server",
+        "description": "Server part of implementation of the own-data / own-net principles for supporting offline-first functionality for Feathers (mobile) applications."
+    },
+    {
+        "name": "@finclip/applet-vconsole",
+        "description": "A lightweight, extendable front-end developer tool for mobile web page."
+    },
+    {
+        "name": "angular-ismobile",
+        "description": "A Angular wrapper provider-service for isMobile (https://github.com/kaimallea/isMobile)"
+    },
+    {
+        "name": "hotwire-native-bolt",
+        "description": "A lightweight JavaScript bridge for Hotwire-powered native applications"
+    },
+    {
+        "name": "wq",
+        "description": "Mobile data collection & survey framework"
+    },
+    {
+        "name": "hexo-generator-amp",
+        "description": "AMP ⚡ HTML (Accelerated Mobile Pages) generator for Hexo."
+    },
+    {
+        "name": "@tecafrik/africa-payment-sdk",
+        "description": "A single SDK to integrate all african payment providers seamlessly"
+    },
+    {
+        "name": "vue-simple-breakpoints",
+        "description": "A wrapper for simple-breakpoints"
+    },
+    {
+        "name": "ember-cordova",
+        "description": "Tooling for cordova and crosswalk hybrid applications built with Ember"
+    },
+    {
+        "name": "starlight-sidebar-swipe",
+        "description": "Make sidebar swipeable on mobile devices like Discord Mobile."
+    },
+    {
+        "name": "react-native-erxes-ui",
+        "description": "erxes react native ui library"
+    },
+    {
+        "name": "moralis-lobus",
+        "description": "The Moralis JavaScript SDK"
+    },
+    {
+        "name": "react-native-switch-month-week",
+        "description": "react native calendar with a week and month view"
+    },
+    {
+        "name": "goblin-base",
+        "description": "goblin-base is a toolkit fit for data vis engineer."
+    },
+    {
+        "name": "swiftclick",
+        "description": "Eliminates the 300ms click event delay on touch devices that support orientation change"
+    },
+    {
+        "name": "@vishnucss/card",
+        "description": "Card toolkit with modern css"
+    },
+    {
+        "name": "@tapdaq/cordova-unityads-adapter",
+        "description": "Tapdaq UnityAds adapter for Apache Cordova"
+    },
+    {
+        "name": "react-native-logging-tools",
+        "description": "[![Build Status](https://travis-ci.org/imranMnts/react-native-logging-tools.svg?branch=develop)](https://travis-ci.org/imranMnts/react-native-logging-tools) ![npm](https://img.shields.io/npm/v/react-native-logging-tools.svg) ![GitHub](https://img.shields."
+    },
+    {
+        "name": "@amir-hossein-karimi/toastify-react-native",
+        "description": "🎉 toastify-react-native allows you to add notifications to your react-native app (ios, android) with ease. No more nonsense!"
+    },
+    {
+        "name": "nbit-vant",
+        "description": "React Mobile UI Components base on Vant UI"
+    },
+    {
+        "name": "@zoom-image/qwik",
+        "description": "Adapter of zoom image core for Qwik"
+    },
+    {
+        "name": "@logo-software/icons",
+        "description": "Icon Module is used to add icons to Logo Elements Design System guide-based web and mobile applications. Our icons depend on the *Streamline Icons* paid version. For usage, just download and import `scss` to your project main `style.scss` is enough. It is"
+    },
+    {
+        "name": "@walletconnect/browser-crypto",
+        "description": "Browser Crypto for WalletConnect"
+    },
+    {
+        "name": "@demu/react-h5-audio-player",
+        "description": "A customizable React audio player. Written in TypeScript. Mobile compatible. Keyboard friendly"
+    },
+    {
+        "name": "@alephium/walletconnect-qrcode-modal",
+        "description": "QR Code Modal for WalletConnect"
+    },
+    {
+        "name": "ninjakit",
+        "description": "Material Design for React"
+    },
+    {
+        "name": "@bitget-wallet/omni-connect",
+        "description": "With OmniConnect, users can connect effortlessly across all platforms—whether it's a plugin, mobile app, TGMini App, or Web/H5. No matter where users are or which blockchain they want to interact with, OmniConnect provides direct, seamless access, ensurin"
+    },
+    {
+        "name": "@codsod/react-native-otp-input",
+        "description": "A customizable OTP input component for React Native with TypeScript support, enabling seamless user authentication with flexible input handling and cross-platform compatibility."
+    },
+    {
+        "name": "moxui",
+        "description": "[Moxui 文档](https://mooui.github.io)"
+    },
+    {
+        "name": "@jdthfe/ivory",
+        "description": "[ ![Travis (.org)](https://img.shields.io/travis/jdthfe/eui.svg?style=for-the-badge)](https://travis-ci.com/jdthfe/eui) [ ![Codecov](https://img.shields.io/codecov/c/gh/jdthfe/eui.svg?style=for-the-badge)](https://codecov.io/gh/jdthfe/eui/) ![GitHub top l"
+    },
+    {
+        "name": "@nativescript/template-blank-vue",
+        "description": "Blank template for NativeScript apps using Vue."
+    },
+    {
+        "name": "nptconnect-signer-connection",
+        "description": "Signer Connection for nptconnect Providers"
+    },
+    {
+        "name": "@vnmfify/icons",
+        "description": "Vnmfify icon components built on Vnmf"
+    },
+    {
+        "name": "shipthis",
+        "description": "ShipThis manages building and uploading your Godot games to the App Store and Google Play."
+    }
+]

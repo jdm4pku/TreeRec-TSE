@@ -1,0 +1,1126 @@
+[
+    {
+        "name": "serialport",
+        "description": "Node.js package to access serial ports. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!"
+    },
+    {
+        "name": "wechaty",
+        "description": "Wechaty is a RPA SDK for Chatbot Makers."
+    },
+    {
+        "name": "urdf-loader",
+        "description": "URDF Loader for THREE.js and webcomponent viewer"
+    },
+    {
+        "name": "@foxglove/ws-protocol",
+        "description": "Foxglove WebSocket protocol"
+    },
+    {
+        "name": "rclnodejs",
+        "description": "ROS2.0 JavaScript client with Node.js"
+    },
+    {
+        "name": "xacro-parser",
+        "description": "Utility for parsing and converting ROS Xacro files in Javascript."
+    },
+    {
+        "name": "johnny-five",
+        "description": "The JavaScript Robotics and Hardware Programming Framework. Use with: Arduino (all models), Electric Imp, Beagle Bone, Intel Galileo & Edison, Linino One, Pinoccio, pcDuino3, Raspberry Pi, Particle/Spark Core & Photon, Tessel 2, TI Launchpad and more!"
+    },
+    {
+        "name": "raspi-board",
+        "description": "Pin mapping functionality for the Raspberry Pi in Node.js"
+    },
+    {
+        "name": "@foxglove/ulog",
+        "description": "PX4 ULog file reader"
+    },
+    {
+        "name": "raspi-gpio",
+        "description": "Provides access to GPIO on the Raspberry Pi from Node.js"
+    },
+    {
+        "name": "create-foxglove-extension",
+        "description": "Create and package Foxglove extensions"
+    },
+    {
+        "name": "raspi-i2c",
+        "description": "Provides access to I2C on the Raspberry Pi from Node.js "
+    },
+    {
+        "name": "@transitive-sdk/utils",
+        "description": "Utils for the Transitive framework"
+    },
+    {
+        "name": "raspi-peripheral",
+        "description": "Provides a base class and pin management functions for the Raspi.js library suite"
+    },
+    {
+        "name": "@robotical/ricjs",
+        "description": "Javascript/TS library for Robotical RIC"
+    },
+    {
+        "name": "@code-dot-org/johnny-five",
+        "description": "Code.org fork of rwaldron/johnny-five: The JavaScript Robotics and Hardware Programming Framework. Use with: Arduino (all models), Electric Imp, Beagle Bone, Intel Galileo & Edison, Linino One, Pinoccio, pcDuino3, Raspberry Pi, Particle/Spark Core & Photo"
+    },
+    {
+        "name": "@juzi/wechaty",
+        "description": "Wechaty is a RPA SDK for Chatbot Makers."
+    },
+    {
+        "name": "wechaty-lab",
+        "description": "Wechaty is a RPA SDK for Chatbot Makers."
+    },
+    {
+        "name": "@cognite/robotics-sdk-ts",
+        "description": "robotics services Typescript sdk"
+    },
+    {
+        "name": "@robot.com/better-mqtt",
+        "description": "A modern, TypeScript-first MQTT client library that provides a better developer experience with async iterators, shared subscriptions, and React hooks. Better MQTT is a wrapper around the excellent [mqtt.js](https://github.com/mqttjs/MQTT.js) library, enh"
+    },
+    {
+        "name": "raspi",
+        "description": "Provides access to Raspberry Pi peripherals from Node.js"
+    },
+    {
+        "name": "@lichtblick/ulog",
+        "description": "PX4 ULog file reader"
+    },
+    {
+        "name": "@transitive-sdk/utils-ros",
+        "description": "Utils for using ROS with Transitive"
+    },
+    {
+        "name": "@transitive-sdk/utils-web",
+        "description": "Web utils for the Transitive framework"
+    },
+    {
+        "name": "cylon",
+        "description": "JavaScript framework for robotics, drones, and the Internet of Things (IoT) using Node.js"
+    },
+    {
+        "name": "node-web-gpio",
+        "description": "GPIO access with Node.js"
+    },
+    {
+        "name": "closed-chain-ik-tiny",
+        "description": "A generalized inverse kinematics solver that supports closed chains for parallel kinematics systems, dynamic reconfiguration, and arbitrary joint configuration based on damped least squares error minimization techniques"
+    },
+    {
+        "name": "node-web-i2c",
+        "description": "I2C access with Node.js"
+    },
+    {
+        "name": "raspi-serial",
+        "description": "Provides access to the serial port on the Raspberry Pi as part of the Raspi.js library suite"
+    },
+    {
+        "name": "cylon-i2c",
+        "description": "Cylon.js drivers for i2c devices"
+    },
+    {
+        "name": "@foxglove/embed-react",
+        "description": "This package provides the `<FoxgloveViewer />` component. It wraps the [`FoxgloveViewer` class](https://docs.foxglove.dev/docs/embed/foxglove-embed) to provide a React API for embedding [Foxglove](https://foxglove.dev/) in your application."
+    },
+    {
+        "name": "cylon-gpio",
+        "description": "Cylon module for General Purpose Input/Output (GPIO)"
+    },
+    {
+        "name": "@foxglove/ws-protocol-examples",
+        "description": "Foxglove WebSocket protocol examples"
+    },
+    {
+        "name": "@robostack/zethus",
+        "description": "Realtime robot data visualization in the browser"
+    },
+    {
+        "name": "create-lichtblick-extension",
+        "description": "Create and package Lichtblick extensions"
+    },
+    {
+        "name": "robotics-dev",
+        "description": "Robotics.dev P2P SDK client for robot control"
+    },
+    {
+        "name": "@robostack/amphion",
+        "description": "roslibjs based web visualization library"
+    },
+    {
+        "name": "webgme-rosmod",
+        "description": "This repository contains ROSMOD developed for WebGME. ROSMOD is a web-based, collaborative, modeling and execution environment for distributed embedded applications built using ROS http://rosmod.rcps.isis.vanderbilt.edu"
+    },
+    {
+        "name": "vexdb",
+        "description": "A simple tool for accessing the VexDB"
+    },
+    {
+        "name": "cylon-firmata",
+        "description": "Cylon module for Arduino and other microcontrollers using the Firmata protocol"
+    },
+    {
+        "name": "bot-state-machine",
+        "description": "Finite state machine for chat bot"
+    },
+    {
+        "name": "aijinkela-wechaty",
+        "description": "Wechaty is a RPA SDK for Chatbot Makers."
+    },
+    {
+        "name": "@robotical/ricjs-robotical-addons",
+        "description": "JS/TS library for Robotical RIC Addons"
+    },
+    {
+        "name": "nodatron",
+        "description": "Uses python serial for 2 way communication to Arduino Uno."
+    },
+    {
+        "name": "@transitive-sdk/create",
+        "description": "An initializer package for creating new Transitive capabilities"
+    },
+    {
+        "name": "robotevents-api",
+        "description": "A wrapper for the RobotEvents API."
+    },
+    {
+        "name": "@transitive-sdk/datacache",
+        "description": "A class for storing data in a JSON object with change detection and change notifications. Ideal for building data-syncs."
+    },
+    {
+        "name": "raspi-led",
+        "description": "Provides access to status LED on the Raspberry Pi as part of the Raspi.js library suite"
+    },
+    {
+        "name": "virtual-serialport",
+        "description": "A drop-in virtual replacement for node-serialport's SerialPort object"
+    },
+    {
+        "name": "rosreact",
+        "description": "Ros client library for React, written in TypeScript"
+    },
+    {
+        "name": "@linuxcnc-node/hal-2.8",
+        "description": "Node.js bindings for LinuxCNC HAL library"
+    },
+    {
+        "name": "sphero",
+        "description": "Sphero.js - The Official Orbotix JavaScript SDK to control Sphero robots"
+    },
+    {
+        "name": "raspi-soft-pwm",
+        "description": "Provides access to Soft PWM on the Raspberry Pi as part of the Raspi.js library suite"
+    },
+    {
+        "name": "ntcore-ts-client",
+        "description": "A TypeScript library for communication over [WPILib's NetworkTables 4.1 protocol](https://github.com/wpilibsuite/allwpilib/blob/main/ntcore/doc/networktables4.adoc)."
+    },
+    {
+        "name": "@lindy-robotics/cli",
+        "description": "CLI tool for deploying and managing ROS2 robot fleets"
+    },
+    {
+        "name": "amphion",
+        "description": "roslibjs based web visualization library"
+    },
+    {
+        "name": "frc-scouting",
+        "description": "A TypeScript library for handling FRC scouting data from robotics tournaments."
+    },
+    {
+        "name": "koishi-plugin-adapter-milky",
+        "description": "Milky Protocol Adapter for Koishi"
+    },
+    {
+        "name": "hedgehog-client",
+        "description": "Client library for the Hedgehog Educational Robotics Controller"
+    },
+    {
+        "name": "@openfluke/isocard",
+        "description": "Isomorphic Three.js + Jolt Physics JSON scene runner for browser and server (Node/Bun)."
+    },
+    {
+        "name": "zethus",
+        "description": "Realtime robot data visualization in the browser"
+    },
+    {
+        "name": "cylon-intel-iot",
+        "description": "Cylon module for Intel Joule, Edison, and Galileo IoT platforms"
+    },
+    {
+        "name": "cylon-leapmotion",
+        "description": "Cylon module for the Leap Motion"
+    },
+    {
+        "name": "robotics",
+        "description": "Robotics.dev P2P ROS2 robot controller CLI with ROS telemetry and video streaming"
+    },
+    {
+        "name": "urdf-js",
+        "description": "URDF Loader for THREE.js and webcomponent viewer"
+    },
+    {
+        "name": "rclnodejs-cli",
+        "description": "Commandline tools for the ROS2 rclnodejs client library"
+    },
+    {
+        "name": "cylon-sphero",
+        "description": "Cylon module for Sphero robot"
+    },
+    {
+        "name": "die-roboter",
+        "description": "A TypeScript library for robot simulation and control with Three.js"
+    },
+    {
+        "name": "j5e",
+        "description": "j5e is a device first robotics an IoT framework built to levarage the ECMA-419 specification"
+    },
+    {
+        "name": "oxmpl-js",
+        "description": "JavaScript/WASM Bindings for the OxMPL Library"
+    },
+    {
+        "name": "closed-chain-ik",
+        "description": "A generalized inverse kinematics solver that supports closed chains for parallel kinematics systems, dynamic reconfiguration, and arbitrary joint configuration based on damped least squares error minimization techniques"
+    },
+    {
+        "name": "@butter-robotics/mas-node-red-api",
+        "description": "A node-red API for Butter Robotics platform"
+    },
+    {
+        "name": "rapp-platform-api",
+        "description": "Containes RAPPCloud API modules used for interfering wth RAPP Platform as well as the RAPP Objects."
+    },
+    {
+        "name": "@beardicus/line-us",
+        "description": "A library for accessing Line-us drawing robots via Node.js and the browser."
+    },
+    {
+        "name": "cylon-spark",
+        "description": "Cylon adaptor for the Particle Core & Photon device"
+    },
+    {
+        "name": "cylon-raspi",
+        "description": "Cylon adaptor for Raspberry Pi"
+    },
+    {
+        "name": "raspi-core",
+        "description": "This package is deprecated, use \"raspi\" instead"
+    },
+    {
+        "name": "cylon-joystick",
+        "description": "Cylon module for any HID joystick"
+    },
+    {
+        "name": "node-dweetio",
+        "description": "A node.js client for dweet.io"
+    },
+    {
+        "name": "cylon-ble",
+        "description": "Cylon module for Bluetooth Low Energy (LE) peripherals"
+    },
+    {
+        "name": "navabilitysdk",
+        "description": "NavAbility SDK: Access NavAbility Cloud factor graph features from JavaScript. Note that this SDK and the related API are still in development. Please let us know if you have any issues at info@navability.io."
+    },
+    {
+        "name": "@robotevents/client",
+        "description": "A Robot Events API client."
+    },
+    {
+        "name": "ros-blessed",
+        "description": "A blessed ('curses') toolbox for ROS. Like rqt but for the command line."
+    },
+    {
+        "name": "roboticscape",
+        "description": "Node.js bindings for libroboticscape for BeagleBoard.org BeagleBone Blue or Robotics Cape"
+    },
+    {
+        "name": "@transitive-sdk/utils-caps",
+        "description": "Utilities to build and run Transitive capabilities in dev"
+    },
+    {
+        "name": "cylon-keyboard",
+        "description": "Cylon module for Keyboard"
+    },
+    {
+        "name": "saphero",
+        "description": "A Client-Side Dashboard to Easily Connect and Control Sphero/BB-8/Ollie Devices"
+    },
+    {
+        "name": "@monumental-works/apriltag-node",
+        "description": "Node.js bindings for AprilTag detection library"
+    },
+    {
+        "name": "scouting-schedule-generator",
+        "description": "An FRC scouting schedule generator"
+    },
+    {
+        "name": "kinematics",
+        "description": "Robot kinematics library"
+    },
+    {
+        "name": "cylon-pebble",
+        "description": "Cylon.js adaptor/driver for the Pebble smartwatch"
+    },
+    {
+        "name": "gazebojs",
+        "description": "NodeJs bindings for the Gazebo 5 simulator (gazebosim.org)"
+    },
+    {
+        "name": "cylon-crazyflie",
+        "description": "Cylon adaptor/drivers for Crazyflie nanocopter"
+    },
+    {
+        "name": "@eriknoorland/icpjs",
+        "description": "A Javascript library written in Typescript to perform the iterative closest point (ICP) algorithm on two 2D point clouds."
+    },
+    {
+        "name": "koishi-plugin-adapter-kritor",
+        "description": "Kritor Protocol Adapter for Koishi"
+    },
+    {
+        "name": "vex-match-parser",
+        "description": "A TypeScript library for parsing VEX Robotics match schedules from PDF files. Works in both Node.js and browser environments."
+    },
+    {
+        "name": "cylon-cli",
+        "description": "Generate new adaptor/driver modules for Cylon.js"
+    },
+    {
+        "name": "urdf-exporter",
+        "description": "THREE.js utility for exporting object trees as a URDF file."
+    },
+    {
+        "name": "ech-johnny-five",
+        "description": "The JavaScript Robotics and Hardware Programming Framework. Use with: Arduino (all models), Electric Imp, Beagle Bone, Intel Galileo & Edison, Linino One, Pinoccio, pcDuino3, Raspberry Pi, Particle/Spark Core & Photon, Tessel 2, TI Launchpad and more!"
+    },
+    {
+        "name": "cylon-neurosky",
+        "description": "Cylon module for Neurosky"
+    },
+    {
+        "name": "rosbrowz",
+        "description": "A visualization library for robotics (ros) in the browser."
+    },
+    {
+        "name": "raspi-wiringpi",
+        "description": "NPM wrapper around Wiring Pi so it can be easily installed via NPM or added as a package.json dependency"
+    },
+    {
+        "name": "ev3dev-lang",
+        "description": "An interface to control an EV3 or other supported platform running ev3dev from JavaScript."
+    },
+    {
+        "name": "qrkey",
+        "description": "Swarm robotics deployment made easy"
+    },
+    {
+        "name": "cylon-force",
+        "description": "Cylon adaptor/driver for Force.com"
+    },
+    {
+        "name": "cylon-api-socketio",
+        "description": "Socket.io API add-on module for Cylon.JS"
+    },
+    {
+        "name": "@j5e/event",
+        "description": "Event emitter class for J5e"
+    },
+    {
+        "name": "vex-mcp-server",
+        "description": "MCP server for VEX Robotics Competition data using RobotEvents API"
+    },
+    {
+        "name": "senutila",
+        "description": "A Discord bot framework focused on providing a great developer experience. Also better than discord.js."
+    },
+    {
+        "name": "@linuxcnc-node/hal",
+        "description": "Node.js bindings for LinuxCNC HAL library"
+    },
+    {
+        "name": "cylon-skynet",
+        "description": "Cylon.js adaptor for the Skynet open source machine to machine protocol"
+    },
+    {
+        "name": "bhive",
+        "description": "Behavior Tree for Javascript"
+    },
+    {
+        "name": "cylon-beaglebone",
+        "description": "Cylon adaptor for the Beaglebone Black single-board computer"
+    },
+    {
+        "name": "@j5e/fn",
+        "description": "Utilities for J5e used in various classes"
+    },
+    {
+        "name": "cylon-rapiro",
+        "description": "Cylon module for Rapiro"
+    },
+    {
+        "name": "favor",
+        "description": "A simple library for creating hardware-agnostic IoT applications in Javascript"
+    },
+    {
+        "name": "babylon-urdf-loader",
+        "description": "urdf file loader for babylonjs"
+    },
+    {
+        "name": "@dopl-technologies/telerobotic-sdk",
+        "description": "A node SDK used to connect to DOPL Technologies telerobotic services"
+    },
+    {
+        "name": "cylon-mqtt",
+        "description": "Cylon module for MQTT"
+    },
+    {
+        "name": "@j5e/animation",
+        "description": "Animation class for J5e used for scripting LEDs and Servos"
+    },
+    {
+        "name": "@j5e/easing",
+        "description": "Easing methods for J5e"
+    },
+    {
+        "name": "cylon-ollie",
+        "description": "Cylon module for Ollie"
+    },
+    {
+        "name": "cylon-octanis1-rover",
+        "description": "Cylon module for Octanis 1 Rover"
+    },
+    {
+        "name": "cylon-ardrone",
+        "description": "Cylon module for the Parrot ARDrone 2.0"
+    },
+    {
+        "name": "gamecontroller",
+        "description": "A node driver for several gamecontroller"
+    },
+    {
+        "name": "cylon-joystick-node-4-and-5",
+        "description": "Cylon module for any HID joystick"
+    },
+    {
+        "name": "cylon-sphero-ble",
+        "description": "Cylon.js module for Sphero BLE Robots"
+    },
+    {
+        "name": "aframe-urdf",
+        "description": "A URDF loader for A-Frame"
+    },
+    {
+        "name": "@bubuzi/serialport",
+        "description": "Node.js package to access serial ports. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!"
+    },
+    {
+        "name": "cylon-nest",
+        "description": "Cylon.js adaptor for the Nest"
+    },
+    {
+        "name": "cylon-opencv",
+        "description": "Cylon module for OpenCV"
+    },
+    {
+        "name": "apollocontroller",
+        "description": "A node driver for several gamecontroller"
+    },
+    {
+        "name": "dynamixel",
+        "description": "Node.js library for controlling DYNAMIXEL servo motors via U2D2 interface with Protocol 2.0 support"
+    },
+    {
+        "name": "cylon-tessel",
+        "description": "Cylon module for Tessel"
+    },
+    {
+        "name": "cylon-digispark",
+        "description": "Cylon module for Digispark"
+    },
+    {
+        "name": "snappy-core",
+        "description": "Node-RED based Robotics Programming software backend"
+    },
+    {
+        "name": "@j5e/led",
+        "description": "LED control class for J5e"
+    },
+    {
+        "name": "ribbons.actuators.led",
+        "description": "LED as a Ribbons actuator."
+    },
+    {
+        "name": "cylon-api-http",
+        "description": "HTTP API add-on module for Cylon.JS"
+    },
+    {
+        "name": "simspark",
+        "description": "Node interface to SimSpark, the simulator used for the RoboCup 3D Soccer Simulation League"
+    },
+    {
+        "name": "hrp",
+        "description": "Module that implements a protocol for talking to robots over a HID-USB communication"
+    },
+    {
+        "name": "@lerobot/web",
+        "description": "Web-based robotics control using WebSerial API"
+    },
+    {
+        "name": "thebluealliance",
+        "description": "Node.js wrapper for The Blue Alliance v2 API"
+    },
+    {
+        "name": "ribbons.application",
+        "description": "Prototype for Ribbons applications."
+    },
+    {
+        "name": "node-red-contrib-movehub",
+        "description": "Node-RED Nodes to control the Lego Boost Move Hub"
+    },
+    {
+        "name": "heya",
+        "description": "A platform for creating SumoBots"
+    },
+    {
+        "name": "vitrus",
+        "description": "TypeScript client for interfacing with the Vitrus SDK"
+    },
+    {
+        "name": "movemaster-robot",
+        "description": "A module to control a Mitsubishi Movemaster EX RV-M1 robotic arm via USB"
+    },
+    {
+        "name": "inform-2d",
+        "description": "convert vector paths to MOTOMAN INFORM (.JBI) files"
+    },
+    {
+        "name": "shxt.serialport",
+        "description": "Node.js package to access serial ports. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!"
+    },
+    {
+        "name": "cylon-i2cexpander",
+        "description": "A cylon driver for the able-electroncs i2c 32 GPIO board for the raspberry pi"
+    },
+    {
+        "name": "ribbons",
+        "description": "A robotics software development framework for Node.js: sensors, controllers and actuators."
+    },
+    {
+        "name": "@j5e/servo",
+        "description": "Servo class for J5e"
+    },
+    {
+        "name": "arizona",
+        "description": "A lightweight, fully-open source personal assistant. Fully customizable."
+    },
+    {
+        "name": "ribbons.component",
+        "description": "Prototype for Ribbons components."
+    },
+    {
+        "name": "p5.j5",
+        "description": "johnny-five library for p5.js"
+    },
+    {
+        "name": "lerobot",
+        "description": "CLI for lerobot.js"
+    },
+    {
+        "name": "pypot",
+        "description": "An ES6 / Javascript compliant, Promised-based, object-oriented client for Poppy robots (Pypot API) using Axios."
+    },
+    {
+        "name": "ev5-dev-tools",
+        "description": "CLI tool to scaffold EV5 C SDK projects"
+    },
+    {
+        "name": "ribbons.controller",
+        "description": "Prototype for Ribbons controllers."
+    },
+    {
+        "name": "awesome-pid",
+        "description": "A PID controller with built-in looping functionality."
+    },
+    {
+        "name": "cylon-bebop",
+        "description": "Cylon module for the Parrot Bebop drone"
+    },
+    {
+        "name": "create-coscene-extension",
+        "description": "Create and package coScene extensions"
+    },
+    {
+        "name": "smove",
+        "description": "Sinusoidal movement library"
+    },
+    {
+        "name": "@transitive-sdk/mongo",
+        "description": "A tiny MongoDB utility class for use in the Transitive framework."
+    },
+    {
+        "name": "cylon-wiced-sense",
+        "description": "Cylon module for WicedSense"
+    },
+    {
+        "name": "react-iot",
+        "description": "React IoT - Johnny Five React renderer"
+    },
+    {
+        "name": "@j5e/switch",
+        "description": "Switch class for J5e"
+    },
+    {
+        "name": "orbie",
+        "description": "orbie - a fork from the official Orbotix JavaScript SDK to control Sphero robots"
+    },
+    {
+        "name": "heya-remote-pawel-bot",
+        "description": "Remote Pawel Bot driver for Heya"
+    },
+    {
+        "name": "javascript-robotics",
+        "description": "Johnny-Five is the JavaScript Robotics and Hardware Programming Framework"
+    },
+    {
+        "name": "choreo",
+        "description": "A Robotics Framework"
+    },
+    {
+        "name": "@cognite/robotics-ts-sdk",
+        "description": "robotics services typescript sdk"
+    },
+    {
+        "name": "cylon-m2x",
+        "description": "Cylon module for M2X"
+    },
+    {
+        "name": "node-zowi",
+        "description": "Nodejs wrapper for BQ Zowi Robot"
+    },
+    {
+        "name": "wechaty_temp",
+        "description": "Wechaty is a RPA SDK for Chatbot Makers."
+    },
+    {
+        "name": "mycobot-node",
+        "description": "Node.js library for controlling the myCobot 280 arm with M5Stack"
+    },
+    {
+        "name": "cylon-imp",
+        "description": "Cylon module for the Electric Imp"
+    },
+    {
+        "name": "cylon-mip",
+        "description": "Cylon module for MIP"
+    },
+    {
+        "name": "kaia.js",
+        "description": "JS library for Kaia.ai robots"
+    },
+    {
+        "name": "@phoenix-plugin-registry/rapid-syntax-highlighter",
+        "description": "Brackets highlighter extension for ABB Robotics RAPID code."
+    },
+    {
+        "name": "ribbons.logger",
+        "description": "Prototype for Ribbons logger."
+    },
+    {
+        "name": "@noelneu/friendly-serialport",
+        "description": "Node.js package to access serial ports. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!"
+    },
+    {
+        "name": "@j5e/rgb",
+        "description": "RGB LED control class for J5e"
+    },
+    {
+        "name": "ribbons.actuator",
+        "description": "Prototype for Ribbons actuators."
+    },
+    {
+        "name": "virtual-hrp-robot",
+        "description": "Package that emulates a robot using the HID-Robot-Protocol (hrp)"
+    },
+    {
+        "name": "urdf-loader-extension",
+        "description": "URDF Loader for THREE.js and webcomponent viewer"
+    },
+    {
+        "name": "ircp-urdf",
+        "description": "URDF Loader for THREE.js and webcomponent viewer"
+    },
+    {
+        "name": "bonicbot",
+        "description": "JavaScript library for controlling BonicBot humanoid robot via serial and WebSocket communication with sequence and camera support"
+    },
+    {
+        "name": "@first-team-339/ntcore-ts-client",
+        "description": "A TypeScript library for communication over [WPILib's NetworkTables 4.0 protocol](https://github.com/wpilibsuite/allwpilib/blob/main/ntcore/doc/networktables4.adoc)."
+    },
+    {
+        "name": "himm",
+        "description": "Histrogramic In-Motion Mapping module framework for NodeJS."
+    },
+    {
+        "name": "cylon-powerup",
+        "description": "Cylon module for the Powerup 3.0"
+    },
+    {
+        "name": "cylon-hue",
+        "description": "Cylon.js module for Phillips Hue"
+    },
+    {
+        "name": "cubelets",
+        "description": "A package for interacting with Cubelets."
+    },
+    {
+        "name": "cylon-speech",
+        "description": "Cylon module for text to speech"
+    },
+    {
+        "name": "@tradeb0t/core",
+        "description": "🤖 Core library for trading software with high integration possibilities"
+    },
+    {
+        "name": "hrp-server",
+        "description": "Small server to manage HID-Devices and HRP-compliant robots connections"
+    },
+    {
+        "name": "cylon-api-mqtt",
+        "description": "MQTT API add-on module for Cylon.JS"
+    },
+    {
+        "name": "cylon-pinoccio",
+        "description": "Cylon adaptor for the Pinoccio mesh-networked microcontroller"
+    },
+    {
+        "name": "ribbons.actuators.say-mac",
+        "description": "Using Mac OSX's say command as a Ribbons actuator."
+    },
+    {
+        "name": "cylon-odroid",
+        "description": "Cylon Adaptor for Odroid single-board computers"
+    },
+    {
+        "name": "cylon-neurosky-master",
+        "description": "Updated Cylon module for Neurosky to support node 10"
+    },
+    {
+        "name": "@lerobot/node",
+        "description": "Node.js-based robotics control using SerialPort"
+    },
+    {
+        "name": "ts-kinematics",
+        "description": "A TypeScript library for kinematics calculations."
+    },
+    {
+        "name": "@lemlib/lemlink",
+        "description": "An alternative project manager and uploader for vex v5 projects"
+    },
+    {
+        "name": "cylon-myo",
+        "description": "Cylon module for the Myo"
+    },
+    {
+        "name": "owi-robot-arm",
+        "description": "Driver for OWI-535 ROBOTIC Arm Edge w/ USB"
+    },
+    {
+        "name": "edbotstudio",
+        "description": "A Node.js client API for Edbot Studio"
+    },
+    {
+        "name": "ribbons.actuators.say.mac",
+        "description": "Using Mac OSX's say command as a Ribbons actuator."
+    },
+    {
+        "name": "bbeight-discovery",
+        "description": "Automatically returns the address of your Sphero BB8 droid"
+    },
+    {
+        "name": "@palettegear/serialport",
+        "description": "Node.js package to access serial ports. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!"
+    },
+    {
+        "name": "raspi-onewire",
+        "description": "Provides access to 1-Wire on the Raspberry Pi from Node.js"
+    },
+    {
+        "name": "ribbons.do",
+        "description": "Prototype for Ribbons doers."
+    },
+    {
+        "name": "@j5e/tests",
+        "description": "Unit tests for J5e"
+    },
+    {
+        "name": "raspi-rotary-encoder",
+        "description": "Provides reading of a Rotary Encoder connected to the Raspberry Pi's GPIO pins"
+    },
+    {
+        "name": "cylon-chip",
+        "description": "Cylon.js adaptor for the C.H.I.P. single-board computer"
+    },
+    {
+        "name": "pagenodes-nodes",
+        "description": "node definitions for pagenodes"
+    },
+    {
+        "name": "node-red-contrib-milab-butter",
+        "description": "A node-red collection of nodes that perform robotics operations using butter.mas.api technology (Benny Megidish) "
+    },
+    {
+        "name": "gazebo4js",
+        "description": "NodeJs bindings for the Gazebo simulator (gazebosim.org)"
+    },
+    {
+        "name": "cylon-audio",
+        "description": "Cylon module for Audio"
+    },
+    {
+        "name": "stewart-platform-simulator",
+        "description": "An npm package for simulating parallel motion mechanisms."
+    },
+    {
+        "name": "ribbons.out",
+        "description": "Prototype for Ribbons output."
+    },
+    {
+        "name": "perferendisaccusantium",
+        "description": "JS/TS library for Robotical RIC Addons"
+    },
+    {
+        "name": "llwoll-gpio",
+        "description": "Cylon module for General Purpose Input/Output (GPIO)"
+    },
+    {
+        "name": "node-red-contrib-br_navigator-webassistant",
+        "description": "Node-RED nodes for BlueRobotics's navigator"
+    },
+    {
+        "name": "ribbons.sensors.keyboard.mac",
+        "description": "Using a mac keyboard as a Ribbons sensor."
+    },
+    {
+        "name": "ribbons.platforms.ar.drone",
+        "description": "AR.Drone as a Ribbons platform."
+    },
+    {
+        "name": "@kuyoonjo/serialport",
+        "description": "Node.js package to access serial ports. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!"
+    },
+    {
+        "name": "senutila-chuhang",
+        "description": "A Discord bot framework focused on providing a great developer experience. Also better than discord.js."
+    },
+    {
+        "name": "hazyair-dweetio",
+        "description": "A node.js client for dweet.io"
+    },
+    {
+        "name": "cylon-intel-iot-analytics",
+        "description": "Cylon module for Intel IoT Analytics"
+    },
+    {
+        "name": "ribbons.app",
+        "description": "Prototype for Ribbons app."
+    },
+    {
+        "name": "@pruebalau/cylon-odroid",
+        "description": "Cylon Adaptor for Odroid single-board computers"
+    },
+    {
+        "name": "daftbot",
+        "description": "JavaScript library for creating simple robots with Raspberry Pi."
+    },
+    {
+        "name": "tga-client-sdk",
+        "description": "JavaScript SDK to integrate with The Green Alliance Scouting Platform. "
+    },
+    {
+        "name": "nodesapiens",
+        "description": "WiringPi based Interface to Robosapiens on Raspberry Pi"
+    },
+    {
+        "name": "hrp-joy-driver",
+        "description": "Translate the joystick data into commands intended for use with the hrp-server and related packages"
+    },
+    {
+        "name": "robotsim",
+        "description": "Yet Another Robot Simulation, WIP"
+    },
+    {
+        "name": "ribbons.sensors.keyboard-mac",
+        "description": "Using a mac keyboard as a Ribbons sensor."
+    },
+    {
+        "name": "@coscene/extension",
+        "description": "This package contains type definitions for writing [coScene](https://coscene.cn) extensions."
+    },
+    {
+        "name": "snappy-io-nodes",
+        "description": "Group of nodes for common sensors and actuators"
+    },
+    {
+        "name": "react-mycobot",
+        "description": "A React-based WebSerial control package for myCobot robot arms."
+    },
+    {
+        "name": "ribbons.sensors.twitter",
+        "description": "Using Twitter as a Ribbons sensor."
+    },
+    {
+        "name": "circle.landlessness",
+        "description": "have the ar.drone fly in a circle around an obstacle."
+    },
+    {
+        "name": "@epson-robots/node-red-contrib-epson-robot",
+        "description": "A Node-RED node for Epson's SCARA and 6-axis type robots"
+    },
+    {
+        "name": "ribbons.sensors.twitter.mentions",
+        "description": "Using Twitter mentions as a Ribbons sensor."
+    },
+    {
+        "name": "ribbons.out.flight",
+        "description": "Ribbons flight output."
+    },
+    {
+        "name": "eywa-client",
+        "description": "EYWA client library for Node.js: JSON-RPC, GraphQL, stream-based file operations, and task management"
+    },
+    {
+        "name": "cylon-octoblu",
+        "description": "Cylon.js adaptor for the Octoblu open source machine to machine protocol"
+    },
+    {
+        "name": "ribbons.actuators.flight",
+        "description": "Ribbons flight actuator."
+    },
+    {
+        "name": "cylon-bean",
+        "description": "Cylon adaptor for LightBlue Bean"
+    },
+    {
+        "name": "node-dweetproio",
+        "description": "A node.js client for dweetpro.io"
+    },
+    {
+        "name": "rosbag-rx",
+        "description": "**A high-performance, frontend-focused ROS bag playback library for JavaScript and TypeScript.**"
+    },
+    {
+        "name": "ribbons.platforms.twitter.api",
+        "description": "Twitter API as a Ribbons platform."
+    },
+    {
+        "name": "ribbons.platforms.arduino",
+        "description": "Arduino as a Ribbons platform."
+    },
+    {
+        "name": "snappy-robotics",
+        "description": "Snappy Robotics GUI"
+    },
+    {
+        "name": "ribbons.in",
+        "description": "Prototype for Ribbons input."
+    },
+    {
+        "name": "basic_chessbot",
+        "description": "A basic chess algoritim to play with you."
+    },
+    {
+        "name": "kaia-services.js",
+        "description": "JS library for Kaia.ai services"
+    },
+    {
+        "name": "misty2-js",
+        "description": "Library for connecting to Misty Robotics's Misty 2 robot."
+    },
+    {
+        "name": "ribbons.out.say.mac",
+        "description": "Using Mac OSX's say command as a Ribbons output."
+    },
+    {
+        "name": "snappy-server",
+        "description": "Node-RED based Robotics Programming software backend"
+    },
+    {
+        "name": "feetech-servo-ts",
+        "description": "TypeScript SDK for Feetech servo motors using Web Serial API"
+    },
+    {
+        "name": "cylon-playbulb-candle",
+        "description": "Cylon module for Playbulb Candle"
+    },
+    {
+        "name": "ribbons.platforms.lego.mindstorms.nxt",
+        "description": "Lego Mindstorms NXT as a Ribbons platform."
+    },
+    {
+        "name": "snappy-gui",
+        "description": "Snappy Robotics GUI"
+    },
+    {
+        "name": "kaia-scout.js",
+        "description": "JS library for Kaia.ai Scout robot base"
+    },
+    {
+        "name": "robots-gap",
+        "description": "Information and mantenaince of Software Robots."
+    },
+    {
+        "name": "kaia-utils.js",
+        "description": "JS utility library for Kaia.ai robots"
+    },
+    {
+        "name": "ble-io",
+        "description": "IO class for generic GPIO service over Bluetooth low energy"
+    },
+    {
+        "name": "ribbons.sensor",
+        "description": "Prototype for Ribbons sensors."
+    },
+    {
+        "name": "vanbujm-raspi-led",
+        "description": "Provides access to status LED on the Raspberry Pi as part of the Raspi.js library suite"
+    },
+    {
+        "name": "kaia-face.js",
+        "description": "Robot face animation library for Kaia.ai"
+    },
+    {
+        "name": "rovotics",
+        "description": "A CLI app that gives you information about Rovotics, the Jesuit High School Underwater Robotics Team"
+    },
+    {
+        "name": "cylon-prueba",
+        "description": "JavaScript framework for robotics, drones, and the Internet of Things (IoT) using Node.js"
+    },
+    {
+        "name": "react-three-urdf",
+        "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules."
+    },
+    {
+        "name": "ribbons.in.keyboard.mac",
+        "description": "Using a mac keyboard as a Ribbons input."
+    },
+    {
+        "name": "cylon-i2c-bmp280",
+        "description": "Cylon.js drivers for i2c devices"
+    },
+    {
+        "name": "syncserialport",
+        "description": "NodeJS package that wraps some SerialPort package functions from async to sync calls."
+    },
+    {
+        "name": "cylon-firmata-llwoll",
+        "description": "Cylon module for Arduino and other microcontrollers using the Firmata protocol"
+    },
+    {
+        "name": "metabots",
+        "description": "AI-native robotics framework"
+    }
+]

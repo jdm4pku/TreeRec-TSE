@@ -1,0 +1,1587 @@
+[
+    {
+        "ecosystem": "hf",
+        "intent": "I want to generate original music tracks from text prompts using JavaScript in a web application.",
+        "predicted_candidate": "facebook/musicgen-small",
+        "gold": "Xenova/musicgen-small",
+        "recommendation_source": "/home/ubuntu/jdm/TreeRec/output/TreeRec/gpt4o/hf-rerank-recommendations.json",
+        "tree_path": "/home/ubuntu/jdm/TreeRec/output/TreeRec/gpt4o/hf-tree.pkl",
+        "num_nodes": 3655,
+        "num_leaf_nodes": 3000,
+        "num_layers": 4
+    },
+    {
+        "ecosystem": "js",
+        "intent": "I want to use a Babel plugin to optimize and preprocess my CSS-in-JS styles with Emotion.",
+        "predicted_candidate": "@emotion/babel-plugin",
+        "gold": "@emotion/babel-plugin",
+        "recommendation_source": "/home/ubuntu/jdm/TreeRec/output/TreeRec/gpt4o/js-rerank-recommendations.json",
+        "tree_path": "/home/ubuntu/jdm/TreeRec/output/TreeRec/gpt4o/js-tree.pkl",
+        "num_nodes": 10550,
+        "num_leaf_nodes": 9729,
+        "num_layers": 4
+    },
+    {
+        "ecosystem": "linux",
+        "intent": "I need extra headers and libraries to compile and develop open-source software on my system.",
+        "predicted_candidate": "Additional Development",
+        "gold": "Additional Development",
+        "recommendation_source": "/home/ubuntu/jdm/TreeRec/output/TreeRec/gpt4o/linux-rerank-recommendations.json",
+        "tree_path": "/home/ubuntu/jdm/TreeRec/output/TreeRec/gpt4o/linux-tree.pkl",
+        "num_nodes": 172,
+        "num_leaf_nodes": 142,
+        "num_layers": 2
+    },
+    {
+        "ecosystem": "js",
+        "intent": "I want to easily add and self-host the Montserrat font in my web project using npm.",
+        "timestamp": "2025-11-17 07:32:16",
+        "tree_path": "/home/ubuntu/jdm/TreeRec/output/TreeRec/gpt4o/js-tree.pkl",
+        "recommendation_source": "/home/ubuntu/jdm/TreeRec/output/TreeRec/gpt4o/js-rerank-recommendations.json",
+        "predicted_candidate": "@fontsource/montserrat",
+        "gold": "@fontsource/montserrat",
+        "retrieval": {
+            "top_k": 10,
+            "retrieval_time_seconds": 0.606,
+            "collapse_tree": false,
+            "retrieved_candidates": [
+                "@fontsource/montserrat",
+                "@fontsource/montserrat",
+                "@fontsource-variable/montserrat",
+                "@fontsource-variable/montserrat",
+                "@fontsource/montserrat-alternates",
+                "@fontsource/basic",
+                "@fontsource/ubuntu",
+                "@fontsource/ubuntu",
+                "@fontsource/marcellus",
+                "@fontsource/asap",
+                "@fontsource/barlow",
+                "@fontsource/barlow",
+                "@fontsource/titillium-web",
+                "@fontsource/ultra",
+                "@fontsource/questrial",
+                "@fontsource/hind",
+                "@fontsource/silkscreen",
+                "@fontsource/inter",
+                "@fontsource/inter",
+                "@fontsource/archivo",
+                "@fontsource/exo",
+                "@fontsource/domine",
+                "@fontsource/cormorant",
+                "@fontsource/cairo",
+                "@fontsource/dm-mono",
+                "@fontsource/dm-mono",
+                "@fontsource/caveat",
+                "@fontsource/play",
+                "@fontsource/satisfy",
+                "@fontsource/caprasimo",
+                "@fontsource/source-code-pro",
+                "@fontsource/source-code-pro",
+                "@fontsource/monofett",
+                "@fontsource/sansita",
+                "@fontsource/alata",
+                "@fontsource/special-elite",
+                "@fontsource/commit-mono",
+                "@fontsource/pacifico",
+                "@fontsource/acme",
+                "@fontsource/cinzel"
+            ],
+            "paths": [
+                {
+                    "candidate": "@fontsource/montserrat",
+                    "node_index": 66,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10406,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9763,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 66,
+                            "layer": 0,
+                            "name": "@fontsource/montserrat"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/montserrat",
+                    "node_index": 2507,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10406,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9763,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 2507,
+                            "layer": 0,
+                            "name": "@fontsource/montserrat"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource-variable/montserrat",
+                    "node_index": 107,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10406,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9763,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 107,
+                            "layer": 0,
+                            "name": "@fontsource-variable/montserrat"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource-variable/montserrat",
+                    "node_index": 2714,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10406,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9763,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 2714,
+                            "layer": 0,
+                            "name": "@fontsource-variable/montserrat"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/montserrat-alternates",
+                    "node_index": 605,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10406,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9763,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 605,
+                            "layer": 0,
+                            "name": "@fontsource/montserrat-alternates"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/basic",
+                    "node_index": 484,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10403,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9781,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 484,
+                            "layer": 0,
+                            "name": "@fontsource/basic"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/ubuntu",
+                    "node_index": 2811,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10408,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9782,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 2811,
+                            "layer": 0,
+                            "name": "@fontsource/ubuntu"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/ubuntu",
+                    "node_index": 133,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10408,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9782,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 133,
+                            "layer": 0,
+                            "name": "@fontsource/ubuntu"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/marcellus",
+                    "node_index": 968,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10411,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9766,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 968,
+                            "layer": 0,
+                            "name": "@fontsource/marcellus"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/asap",
+                    "node_index": 675,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10407,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9760,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 675,
+                            "layer": 0,
+                            "name": "@fontsource/asap"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/barlow",
+                    "node_index": 2643,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10411,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9766,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 2643,
+                            "layer": 0,
+                            "name": "@fontsource/barlow"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/barlow",
+                    "node_index": 101,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10411,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9766,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 101,
+                            "layer": 0,
+                            "name": "@fontsource/barlow"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/titillium-web",
+                    "node_index": 172,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10408,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9782,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 172,
+                            "layer": 0,
+                            "name": "@fontsource/titillium-web"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/ultra",
+                    "node_index": 859,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10408,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9782,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 859,
+                            "layer": 0,
+                            "name": "@fontsource/ultra"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/questrial",
+                    "node_index": 429,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10405,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9779,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 429,
+                            "layer": 0,
+                            "name": "@fontsource/questrial"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/hind",
+                    "node_index": 378,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10405,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9779,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 378,
+                            "layer": 0,
+                            "name": "@fontsource/hind"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/silkscreen",
+                    "node_index": 663,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10405,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9779,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 663,
+                            "layer": 0,
+                            "name": "@fontsource/silkscreen"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/inter",
+                    "node_index": 10,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10409,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9765,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10,
+                            "layer": 0,
+                            "name": "@fontsource/inter"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/inter",
+                    "node_index": 2252,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10409,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9765,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 2252,
+                            "layer": 0,
+                            "name": "@fontsource/inter"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/archivo",
+                    "node_index": 322,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10406,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9787,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 322,
+                            "layer": 0,
+                            "name": "@fontsource/archivo"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/exo",
+                    "node_index": 458,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10403,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9781,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 458,
+                            "layer": 0,
+                            "name": "@fontsource/exo"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/domine",
+                    "node_index": 704,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10409,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9785,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 704,
+                            "layer": 0,
+                            "name": "@fontsource/domine"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/cormorant",
+                    "node_index": 693,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10407,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9776,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 693,
+                            "layer": 0,
+                            "name": "@fontsource/cormorant"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/cairo",
+                    "node_index": 355,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10411,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9766,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 355,
+                            "layer": 0,
+                            "name": "@fontsource/cairo"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/dm-mono",
+                    "node_index": 2785,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10407,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10373,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 2785,
+                            "layer": 0,
+                            "name": "@fontsource/dm-mono"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/dm-mono",
+                    "node_index": 135,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10407,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10373,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 135,
+                            "layer": 0,
+                            "name": "@fontsource/dm-mono"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/caveat",
+                    "node_index": 365,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10405,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9779,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 365,
+                            "layer": 0,
+                            "name": "@fontsource/caveat"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/play",
+                    "node_index": 517,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10408,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9780,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 517,
+                            "layer": 0,
+                            "name": "@fontsource/play"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/satisfy",
+                    "node_index": 630,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10409,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9765,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 630,
+                            "layer": 0,
+                            "name": "@fontsource/satisfy"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/caprasimo",
+                    "node_index": 334,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10406,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9787,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 334,
+                            "layer": 0,
+                            "name": "@fontsource/caprasimo"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/source-code-pro",
+                    "node_index": 109,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10405,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9770,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 109,
+                            "layer": 0,
+                            "name": "@fontsource/source-code-pro"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/source-code-pro",
+                    "node_index": 2711,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10405,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9770,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 2711,
+                            "layer": 0,
+                            "name": "@fontsource/source-code-pro"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/monofett",
+                    "node_index": 273,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10407,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10373,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 273,
+                            "layer": 0,
+                            "name": "@fontsource/monofett"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/sansita",
+                    "node_index": 877,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10405,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10370,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 877,
+                            "layer": 0,
+                            "name": "@fontsource/sansita"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/alata",
+                    "node_index": 818,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10407,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9776,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 818,
+                            "layer": 0,
+                            "name": "@fontsource/alata"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/special-elite",
+                    "node_index": 921,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10409,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9785,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 921,
+                            "layer": 0,
+                            "name": "@fontsource/special-elite"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/commit-mono",
+                    "node_index": 610,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10407,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10373,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 610,
+                            "layer": 0,
+                            "name": "@fontsource/commit-mono"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/pacifico",
+                    "node_index": 289,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10411,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9759,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 289,
+                            "layer": 0,
+                            "name": "@fontsource/pacifico"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/acme",
+                    "node_index": 475,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10407,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9776,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 475,
+                            "layer": 0,
+                            "name": "@fontsource/acme"
+                        }
+                    ]
+                },
+                {
+                    "candidate": "@fontsource/cinzel",
+                    "node_index": 370,
+                    "path": [
+                        {
+                            "node_index": 10547,
+                            "layer": 4,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10528,
+                            "layer": 3,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 10410,
+                            "layer": 2,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 9761,
+                            "layer": 1,
+                            "name": ""
+                        },
+                        {
+                            "node_index": 370,
+                            "layer": 0,
+                            "name": "@fontsource/cinzel"
+                        }
+                    ]
+                }
+            ],
+            "node_details": [
+                {
+                    "node_index": 66,
+                    "layer": 0,
+                    "name": "@fontsource/montserrat",
+                    "desc_preview": "Self-host the Montserrat font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 2507,
+                    "layer": 0,
+                    "name": "@fontsource/montserrat",
+                    "desc_preview": "Self-host the Montserrat font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 107,
+                    "layer": 0,
+                    "name": "@fontsource-variable/montserrat",
+                    "desc_preview": "Self-host the Montserrat font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 2714,
+                    "layer": 0,
+                    "name": "@fontsource-variable/montserrat",
+                    "desc_preview": "Self-host the Montserrat font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 605,
+                    "layer": 0,
+                    "name": "@fontsource/montserrat-alternates",
+                    "desc_preview": "Self-host the Montserrat Alternates font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 484,
+                    "layer": 0,
+                    "name": "@fontsource/basic",
+                    "desc_preview": "Self-host the Basic font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 2811,
+                    "layer": 0,
+                    "name": "@fontsource/ubuntu",
+                    "desc_preview": "Self-host the Ubuntu font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 133,
+                    "layer": 0,
+                    "name": "@fontsource/ubuntu",
+                    "desc_preview": "Self-host the Ubuntu font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 968,
+                    "layer": 0,
+                    "name": "@fontsource/marcellus",
+                    "desc_preview": "Self-host the Marcellus font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 675,
+                    "layer": 0,
+                    "name": "@fontsource/asap",
+                    "desc_preview": "Self-host the Asap font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 2643,
+                    "layer": 0,
+                    "name": "@fontsource/barlow",
+                    "desc_preview": "Self-host the Barlow font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 101,
+                    "layer": 0,
+                    "name": "@fontsource/barlow",
+                    "desc_preview": "Self-host the Barlow font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 172,
+                    "layer": 0,
+                    "name": "@fontsource/titillium-web",
+                    "desc_preview": "Self-host the Titillium Web font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 859,
+                    "layer": 0,
+                    "name": "@fontsource/ultra",
+                    "desc_preview": "Self-host the Ultra font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 429,
+                    "layer": 0,
+                    "name": "@fontsource/questrial",
+                    "desc_preview": "Self-host the Questrial font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 378,
+                    "layer": 0,
+                    "name": "@fontsource/hind",
+                    "desc_preview": "Self-host the Hind font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 663,
+                    "layer": 0,
+                    "name": "@fontsource/silkscreen",
+                    "desc_preview": "Self-host the Silkscreen font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 10,
+                    "layer": 0,
+                    "name": "@fontsource/inter",
+                    "desc_preview": "Self-host the Inter font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 2252,
+                    "layer": 0,
+                    "name": "@fontsource/inter",
+                    "desc_preview": "Self-host the Inter font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 322,
+                    "layer": 0,
+                    "name": "@fontsource/archivo",
+                    "desc_preview": "Self-host the Archivo font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 458,
+                    "layer": 0,
+                    "name": "@fontsource/exo",
+                    "desc_preview": "Self-host the Exo font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 704,
+                    "layer": 0,
+                    "name": "@fontsource/domine",
+                    "desc_preview": "Self-host the Domine font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 693,
+                    "layer": 0,
+                    "name": "@fontsource/cormorant",
+                    "desc_preview": "Self-host the Cormorant font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 355,
+                    "layer": 0,
+                    "name": "@fontsource/cairo",
+                    "desc_preview": "Self-host the Cairo font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 2785,
+                    "layer": 0,
+                    "name": "@fontsource/dm-mono",
+                    "desc_preview": "Self-host the DM Mono font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 135,
+                    "layer": 0,
+                    "name": "@fontsource/dm-mono",
+                    "desc_preview": "Self-host the DM Mono font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 365,
+                    "layer": 0,
+                    "name": "@fontsource/caveat",
+                    "desc_preview": "Self-host the Caveat font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 517,
+                    "layer": 0,
+                    "name": "@fontsource/play",
+                    "desc_preview": "Self-host the Play font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 630,
+                    "layer": 0,
+                    "name": "@fontsource/satisfy",
+                    "desc_preview": "Self-host the Satisfy font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 334,
+                    "layer": 0,
+                    "name": "@fontsource/caprasimo",
+                    "desc_preview": "Self-host the Caprasimo font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 109,
+                    "layer": 0,
+                    "name": "@fontsource/source-code-pro",
+                    "desc_preview": "Self-host the Source Code Pro font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 2711,
+                    "layer": 0,
+                    "name": "@fontsource/source-code-pro",
+                    "desc_preview": "Self-host the Source Code Pro font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 273,
+                    "layer": 0,
+                    "name": "@fontsource/monofett",
+                    "desc_preview": "Self-host the Monofett font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 877,
+                    "layer": 0,
+                    "name": "@fontsource/sansita",
+                    "desc_preview": "Self-host the Sansita font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 818,
+                    "layer": 0,
+                    "name": "@fontsource/alata",
+                    "desc_preview": "Self-host the Alata font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 921,
+                    "layer": 0,
+                    "name": "@fontsource/special-elite",
+                    "desc_preview": "Self-host the Special Elite font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 610,
+                    "layer": 0,
+                    "name": "@fontsource/commit-mono",
+                    "desc_preview": "Self-host the Commit Mono font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 289,
+                    "layer": 0,
+                    "name": "@fontsource/pacifico",
+                    "desc_preview": "Self-host the Pacifico font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 475,
+                    "layer": 0,
+                    "name": "@fontsource/acme",
+                    "desc_preview": "Self-host the Acme font in a neatly bundled NPM package."
+                },
+                {
+                    "node_index": 370,
+                    "layer": 0,
+                    "name": "@fontsource/cinzel",
+                    "desc_preview": "Self-host the Cinzel font in a neatly bundled NPM package."
+                }
+            ],
+            "context_preview": "@fontsource/montserrat : Self-host the Montserrat font in a neatly bundled NPM package.\n\n@fontsource/montserrat : Self-host the Montserrat font in a neatly bundled NPM package.\n\n@fontsource-variable/montserrat : Self-host the Montserrat font in a neatly bundled NPM package.\n\n@fontsource-variable/montserrat : Self-host the Montserrat font in a neatly bundled NPM package.\n\n@fontsource/montserrat-alternates : Self-host the Montserrat Alternates font in a neatly bundled NPM package.\n\n@fontsource/basic : Self-host the Basic font in a neatly bundled NPM package.\n\n@fontsource/ubuntu : Self-host the Ubuntu font in a neatly bundled NPM package.\n\n@fontsource/ubuntu : Self-host the Ubuntu font in a neatly bundled NPM package.\n\n@fontsource/marcellus : Self-host the Marcellus font in a neatly bundled NPM package.\n\n@fontsource/asap : Self-host the Asap font in a neatly bundled NPM package.\n\n@fontsource/barlow : Self-host the Barlow font in a neatly bundled NPM package.\n\n@fontsource/barlow : Self-host the Barlow font in a neatly bundled NPM package.\n\n@fontsource/titillium-web : Self-host the Titillium Web font in a neatly bundled NPM package.\n\n@fontsource/ultra : Self-host the Ultra font in a neatly bundled NPM package.\n\n@fontsource/questrial : Self-host the Questrial font in a neatly bundled NPM package.\n\n@fontsource/hind : Self-host the Hind font in a neatly bundled NPM package.\n\n@fontsource/silkscreen : Self-host the Silkscreen font in a neatly bundled NPM package.\n\n@fontsource/inter : Self-host the Inter font in a neatly bundled NPM package.\n\n@fontsource/inter : Self-host the Inter font in a neatly bundled NPM package.\n\n@fontsource/archivo : Self-host the Archivo font in a neatly bundled NPM package.\n\n@fontsource/exo : Self-host the Exo font in a neatly bundled NPM package.\n\n@font..."
+        },
+        "rerank": {
+            "top_k": 10,
+            "candidates": [
+                "@fontsource/montserrat",
+                "@fontsource/montserrat",
+                "@fontsource-variable/montserrat",
+                "@fontsource-variable/montserrat",
+                "@fontsource/montserrat-alternates"
+            ],
+            "source": "/home/ubuntu/jdm/TreeRec/output/TreeRec/gpt4o/js-rerank-recommendations.json"
+        }
+    }
+]
