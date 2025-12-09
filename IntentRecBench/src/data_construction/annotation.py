@@ -129,9 +129,13 @@ def save_json(data, file_path):
         json.dump(data, file, ensure_ascii=False, indent=4)
 
 def gpt_completion(prompt):
+    api_key = os.environ.get("OPENAI_API_KEY", "")
+    base_url = os.environ.get("OPENAI_BASE_URL", "http://66.206.9.230:4000/v1")
+    if not api_key:
+        raise ValueError("请设置环境变量 OPENAI_API_KEY")
     client = OpenAI(
-        api_key="",  # replace with your key
-        base_url="http://66.206.9.230:4000/v1",
+        api_key=api_key,
+        base_url=base_url,
     )
     flag = False
     while not flag:

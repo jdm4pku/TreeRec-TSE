@@ -12,6 +12,8 @@ import torch
 from tenacity import retry, stop_after_attempt, wait_random_exponential
 from transformers import T5ForConditionalGeneration, T5Tokenizer
 
+from .utils import load_prompt
+
 
 class BaseRerankModel(ABC):
     @abstractmethod
@@ -25,7 +27,10 @@ class BaseRerankModel(ABC):
 class GPT3TurboRerankModel(BaseRerankModel):
     def __init__(self, model="gpt-3.5-turbo"):
         self.model = model
-        self.client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+        api_key = os.environ.get("OPENAI_API_KEY", "")
+        if not api_key:
+            raise ValueError("请设置环境变量 OPENAI_API_KEY")
+        self.client = OpenAI(api_key=api_key)
 
     @retry(wait=wait_random_exponential(min=1, max=20), stop=stop_after_attempt(6))
     def rerank(self, context, question, max_tokens=150, stop_sequence=None):
@@ -67,7 +72,10 @@ class GPT3TurboRerankModel(BaseRerankModel):
             model (str, optional): The GPT-3 model version to use for generating summaries. Defaults to "text-davinci-003".
         """
         self.model = model
-        self.client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+        api_key = os.environ.get("OPENAI_API_KEY", "")
+        if not api_key:
+            raise ValueError("请设置环境变量 OPENAI_API_KEY")
+        self.client = OpenAI(api_key=api_key)
 
     @retry(wait=wait_random_exponential(min=1, max=20), stop=stop_after_attempt(6))
     def _attempt_rerank(
@@ -84,29 +92,20 @@ class GPT3TurboRerankModel(BaseRerankModel):
         Returns:
             str: The generated summary.
         """
+        system_prompt = load_prompt("rerank_system")
+        user_prompt_template = load_prompt("rerank_user")
+        user_prompt = user_prompt_template.format(query=question, context=context)
+        
         response = self.client.chat.completions.create(
             model=self.model,
             messages=[
                 {
                     "role": "system",
-                    "content": (
-                        "You are an expert in software artifact retrieval and relevance ranking. "
-                        "Your task is to reorder retrieved artifacts based on their semantic relevance to the user's intent."
-                    ),
+                    "content": system_prompt,
                 },
                 {
                     "role": "user",
-                    "content": (
-                        f"User intent (query): {question}\n\n"
-                        f"Top-k retrieved artifacts:\n{context}\n\n"
-                        f"Please re-rank the artifacts from most relevant to least relevant "
-                        f"according to how well each artifact satisfies the user's intent.\n\n"
-                        f"Output the result strictly in **JSON format**, with the following structure:\n\n"
-                        f"{{\n"
-                        f'  "reranked_artifacts": ["artifact_name_1", "artifact_name_2", "artifact_name_3", ...]\n'
-                        f"}}\n\n"
-                        f"Do not include explanations, scores, or any additional text outside the JSON object."
-                    ),
+                    "content": user_prompt,
                 },
             ],
             temperature=0,
@@ -142,7 +141,10 @@ class GPT4oRerankModel(BaseRerankModel):
         Initializes the GPT-4o model with the specified model version.
         """
         self.model = model
-        self.client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+        api_key = os.environ.get("OPENAI_API_KEY", "")
+        if not api_key:
+            raise ValueError("请设置环境变量 OPENAI_API_KEY")
+        self.client = OpenAI(api_key=api_key)
 
     @retry(wait=wait_random_exponential(min=1, max=20), stop=stop_after_attempt(6))
     def _attempt_rerank(
@@ -159,29 +161,20 @@ class GPT4oRerankModel(BaseRerankModel):
         Returns:
             str: The generated summary.
         """
+        system_prompt = load_prompt("rerank_system")
+        user_prompt_template = load_prompt("rerank_user")
+        user_prompt = user_prompt_template.format(query=question, context=context)
+        
         response = self.client.chat.completions.create(
             model=self.model,
             messages=[
                 {
                     "role": "system",
-                    "content": (
-                        "You are an expert in software artifact retrieval and relevance ranking. "
-                        "Your task is to reorder retrieved artifacts based on their semantic relevance to the user's intent."
-                    ),
+                    "content": system_prompt,
                 },
                 {
                     "role": "user",
-                    "content": (
-                        f"User intent (query): {question}\n\n"
-                        f"Top-k retrieved artifacts:\n{context}\n\n"
-                        f"Please re-rank the artifacts from most relevant to least relevant "
-                        f"according to how well each artifact satisfies the user's intent.\n\n"
-                        f"Output the result strictly in **JSON format**, with the following structure:\n\n"
-                        f"{{\n"
-                        f'  "reranked_artifacts": ["artifact_name_1", "artifact_name_2", "artifact_name_3", ...]\n'
-                        f"}}\n\n"
-                        f"Do not include explanations, scores, or any additional text outside the JSON object."
-                    ),
+                    "content": user_prompt,
                 },
             ],
             temperature=0,
@@ -205,9 +198,12 @@ class QwenRerankModel(BaseRerankModel):
         Initializes the GPT-4 model with the specified model version.
         """
         self.model = model
+        api_key = os.environ.get("OPENAI_API_KEY", os.environ.get("SILICONFLOW_API_KEY", ""))
+        if not api_key:
+            raise ValueError("请设置环境变量 OPENAI_API_KEY 或 SILICONFLOW_API_KEY")
         self.client = OpenAI(
             base_url = "https://api.siliconflow.cn/v1",
-            api_key = ""
+            api_key = api_key
         )
         self.model = model
 
@@ -227,29 +223,20 @@ class QwenRerankModel(BaseRerankModel):
             str: The generated summary.
         """
 
+        system_prompt = load_prompt("rerank_system")
+        user_prompt_template = load_prompt("rerank_user")
+        user_prompt = user_prompt_template.format(query=question, context=context)
+        
         response = self.client.chat.completions.create(
             model=self.model,
             messages=[
                 {
                     "role": "system",
-                    "content": (
-                        "You are an expert in software artifact retrieval and relevance ranking. "
-                        "Your task is to reorder retrieved artifacts based on their semantic relevance to the user's intent."
-                    ),
+                    "content": system_prompt,
                 },
                 {
                     "role": "user",
-                    "content": (
-                        f"User intent (query): {question}\n\n"
-                        f"Top-k retrieved artifacts:\n{context}\n\n"
-                        f"Please re-rank the artifacts from most relevant to least relevant "
-                        f"according to how well each artifact satisfies the user's intent.\n\n"
-                        f"Output the result strictly in **JSON format**, with the following structure:\n\n"
-                        f"{{\n"
-                        f'  "reranked_artifacts": ["artifact_name_1", "artifact_name_2", "artifact_name_3", ...]\n'
-                        f"}}\n\n"
-                        f"Do not include explanations, scores, or any additional text outside the JSON object."
-                    ),
+                    "content": user_prompt,
                 },
             ],
             temperature=0,
@@ -295,29 +282,20 @@ class DeepSeekRerankModel(BaseRerankModel):
             str: The generated summary.
         """
 
+        system_prompt = load_prompt("rerank_system")
+        user_prompt_template = load_prompt("rerank_user")
+        user_prompt = user_prompt_template.format(query=question, context=context)
+        
         response = self.client.chat.completions.create(
             model=self.model,
             messages=[
                 {
                     "role": "system",
-                    "content": (
-                        "You are an expert in software artifact retrieval and relevance ranking. "
-                        "Your task is to reorder retrieved artifacts based on their semantic relevance to the user's intent."
-                    ),
+                    "content": system_prompt,
                 },
                 {
                     "role": "user",
-                    "content": (
-                        f"User intent (query): {question}\n\n"
-                        f"Top-k retrieved artifacts:\n{context}\n\n"
-                        f"Please re-rank the artifacts from most relevant to least relevant "
-                        f"according to how well each artifact satisfies the user's intent.\n\n"
-                        f"Output the result strictly in **JSON format**, with the following structure:\n\n"
-                        f"{{\n"
-                        f'  "reranked_artifacts": ["artifact_name_1", "artifact_name_2", "artifact_name_3", ...]\n'
-                        f"}}\n\n"
-                        f"Do not include explanations, scores, or any additional text outside the JSON object."
-                    ),
+                    "content": user_prompt,
                 },
             ],
             temperature=0,
@@ -341,9 +319,12 @@ class LlamaRerankModel(BaseRerankModel):
         """
         Initializes the Llama model with the specified model version.
         """
+        api_key = os.environ.get("OPENAI_API_KEY", os.environ.get("OPENROUTER_API_KEY", ""))
+        if not api_key:
+            raise ValueError("请设置环境变量 OPENAI_API_KEY 或 OPENROUTER_API_KEY")
         self.client = OpenAI(
             base_url = "https://openrouter.ai/api/v1",
-            api_key = ""
+            api_key = api_key
         )
         self.model = model
 
@@ -363,29 +344,20 @@ class LlamaRerankModel(BaseRerankModel):
             str: The generated summary.
         """
 
+        system_prompt = load_prompt("rerank_system")
+        user_prompt_template = load_prompt("rerank_user")
+        user_prompt = user_prompt_template.format(query=question, context=context)
+        
         response = self.client.chat.completions.create(
             model=self.model,
             messages=[
                 {
                     "role": "system",
-                    "content": (
-                        "You are an expert in software artifact retrieval and relevance ranking. "
-                        "Your task is to reorder retrieved artifacts based on their semantic relevance to the user's intent."
-                    ),
+                    "content": system_prompt,
                 },
                 {
                     "role": "user",
-                    "content": (
-                        f"User intent (query): {question}\n\n"
-                        f"Top-k retrieved artifacts:\n{context}\n\n"
-                        f"Please re-rank the artifacts from most relevant to least relevant "
-                        f"according to how well each artifact satisfies the user's intent.\n\n"
-                        f"Output the result strictly in **JSON format**, with the following structure:\n\n"
-                        f"{{\n"
-                        f'  "reranked_artifacts": ["artifact_name_1", "artifact_name_2", "artifact_name_3", ...]\n'
-                        f"}}\n\n"
-                        f"Do not include explanations, scores, or any additional text outside the JSON object."
-                    ),
+                    "content": user_prompt,
                 },
             ],
             temperature=0,

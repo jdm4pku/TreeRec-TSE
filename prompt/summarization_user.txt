@@ -1,0 +1,5 @@
+Based on the following sub-features, please generate the
+parent common feature that can cover these sub-features.
+The sub-features are: {context}
+Please only output the common feature in the format of
+’feature name: feature description:’.

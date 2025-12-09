@@ -34,9 +34,12 @@ class BaseEmbeddingModel(ABC):
 
 class OpenAIEmbeddingModel(BaseEmbeddingModel):
     def __init__(self, model="text-embedding-ada-002"):
+        api_key = os.environ.get("OPENAI_API_KEY", os.environ.get("OPENROUTER_API_KEY", ""))
+        if not api_key:
+            raise ValueError("请设置环境变量 OPENAI_API_KEY 或 OPENROUTER_API_KEY")
         self.client = OpenAI(
             base_url = "https://openrouter.ai/api/v1",
-            api_key = ""
+            api_key = api_key
         )
         self.model = model
 
@@ -51,9 +54,12 @@ class OpenAIEmbeddingModel(BaseEmbeddingModel):
 
 class QwenEmbeddingModel(BaseEmbeddingModel):
     def __init__(self, model="Qwen/Qwen3-Embedding-8B"):
+        api_key = os.environ.get("OPENAI_API_KEY", os.environ.get("SILICONFLOW_API_KEY", ""))
+        if not api_key:
+            raise ValueError("请设置环境变量 OPENAI_API_KEY 或 SILICONFLOW_API_KEY")
         self.client = OpenAI(
             base_url = "https://api.siliconflow.cn/v1",
-            api_key = ""
+            api_key = api_key
         )
         self.model = model
 

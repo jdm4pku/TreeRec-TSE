@@ -1,4 +1,5 @@
 import logging
+import os
 import re
 from typing import Dict, List, Set
 
@@ -212,3 +213,29 @@ def indices_of_nearest_neighbors_from_distances(distances: List[float]) -> np.nd
         np.ndarray: An array of indices sorted by ascending distance.
     """
     return np.argsort(distances)
+
+
+def load_prompt(prompt_name: str) -> str:
+    """
+    Loads a prompt template from the prompt directory.
+
+    Args:
+        prompt_name (str): Name of the prompt file (e.g., "summarization_system", "rerank_user").
+
+    Returns:
+        str: The prompt template content.
+
+    Raises:
+        FileNotFoundError: If the prompt file does not exist.
+    """
+    # Get the directory of the current file (TreeRec/utils.py)
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    # Go up one level to TreeRec/, then to prompt/
+    prompt_dir = os.path.join(os.path.dirname(current_dir), "prompt")
+    prompt_path = os.path.join(prompt_dir, f"{prompt_name}.txt")
+    
+    if not os.path.exists(prompt_path):
+        raise FileNotFoundError(f"Prompt file not found: {prompt_path}")
+    
+    with open(prompt_path, "r", encoding="utf-8") as f:
+        return f.read().strip()

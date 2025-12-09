@@ -50,9 +50,16 @@ def gpt5_evaluation(prompt, max_retries=5, retry_delay=1):
         str: 评估结果（"可靠"或"不可靠"）
     """
     # 使用与annotation.py相同的API配置
+    # 注意：请通过环境变量设置 OPENAI_API_KEY 和 OPENAI_BASE_URL
+    api_key = os.environ.get("OPENAI_API_KEY", "")
+    base_url = os.environ.get("OPENAI_BASE_URL", "")
+    if not api_key:
+        raise ValueError("请设置环境变量 OPENAI_API_KEY")
+    if not base_url:
+        raise ValueError("请设置环境变量 OPENAI_BASE_URL")
     client = OpenAI(
-        api_key=os.environ.get("OPENAI_API_KEY", "sk-BwTI1iSg83soUQ6u2d1096B8A27848E5B3E4141154Dc592b"),
-        base_url=os.environ.get("OPENAI_BASE_URL", "http://66.206.9.230:4000/v1"),
+        api_key=api_key,
+        base_url=base_url,
     )
     
     # 使用GPT-5模型

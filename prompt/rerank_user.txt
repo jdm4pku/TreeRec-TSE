@@ -1,0 +1,16 @@
+Given a user requirement and a list of candidate artifacts,
+rank the artifacts from best match to worst match accord-
+ing to how well each artifact satisfies the requirement.
+User Requirements: {query}
+Candidate Artifacts: {context}
+
+Please re-rank the artifacts from most relevant to least relevant according to how well each artifact satisfies the user's intent.
+
+Output the result strictly in **JSON format**, with the following structure:
+
+{{
+  "reranked_artifacts": ["artifact_name_1", "artifact_name_2", "artifact_name_3", ...]
+}}
+
+Do not include explanations, scores, or any additional text outside the JSON object.
+

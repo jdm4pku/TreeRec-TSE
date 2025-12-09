@@ -6,6 +6,8 @@ from abc import ABC, abstractmethod
 from openai import OpenAI
 from tenacity import retry, stop_after_attempt, wait_random_exponential
 
+from .utils import load_prompt
+
 logging.basicConfig(format="%(asctime)s - %(message)s", level=logging.INFO)
 
 
@@ -24,27 +26,25 @@ class GPT4oSummarizationModel(BaseSummarizationModel):
     def summarize(self, context, max_tokens=500, stop_sequence=None):
 
         try:
-            client = OpenAI()
+            api_key = os.environ.get("OPENAI_API_KEY", "")
+            if not api_key:
+                raise ValueError("请设置环境变量 OPENAI_API_KEY")
+            client = OpenAI(api_key=api_key)
 
+            system_prompt = load_prompt("summarization_system")
+            user_prompt_template = load_prompt("summarization_user")
+            user_prompt = user_prompt_template.format(context=context)
+            
             response = client.chat.completions.create(
                 model=self.model,
                 messages=[
                     {
                         "role": "system",
-                        "content": (
-                            "You are an expert in software engineering and requirements modeling. Your task is to analyze multiple software artifacts and identify their shared features."
-                            "Your task is to analyze multiple software artifacts and identify their shared features."
-                        ),
+                        "content": system_prompt,
                     },
                     {
                         "role": "user",
-                        "content": (
-                            f"The following are names and descriptions of several software artifacts.\n"
-                            f"Please read all of them carefully and write a concise, coherent summary "
-                            f"that captures their **common characteristics, goals, and functional focus**. "
-                            f"Do not list them one by one; instead, generalize their similarities "
-                            f"to express the overarching purpose or theme that unites them.\n\n{context}"
-                        ),
+                        "content": user_prompt,
                     },
                 ],
                 max_tokens=max_tokens,
@@ -94,30 +94,28 @@ class QwenSummarizationModel(BaseSummarizationModel):
     def summarize(self, context, max_tokens=500, stop_sequence=None):
 
         try:
+            api_key = os.environ.get("OPENAI_API_KEY", os.environ.get("SILICONFLOW_API_KEY", ""))
+            if not api_key:
+                raise ValueError("请设置环境变量 OPENAI_API_KEY 或 SILICONFLOW_API_KEY")
             client = OpenAI(
                 base_url = "https://api.siliconflow.cn/v1",
-                api_key = ""
+                api_key = api_key
             )
 
+            system_prompt = load_prompt("summarization_system")
+            user_prompt_template = load_prompt("summarization_user")
+            user_prompt = user_prompt_template.format(context=context)
+            
             response = client.chat.completions.create(
                 model=self.model,
                 messages=[
                     {
                         "role": "system",
-                        "content": (
-                            "You are an expert in software engineering and requirements modeling. Your task is to analyze multiple software artifacts and identify their shared features."
-                            "Your task is to analyze multiple software artifacts and identify their shared features."
-                        ),
+                        "content": system_prompt,
                     },
                     {
                         "role": "user",
-                        "content": (
-                            f"The following are names and descriptions of several software artifacts.\n"
-                            f"Please read all of them carefully and write a concise, coherent summary "
-                            f"that captures their **common characteristics, goals, and functional focus**. "
-                            f"Do not list them one by one; instead, generalize their similarities "
-                            f"to express the overarching purpose or theme that unites them.\n\n{context}"
-                        ),
+                        "content": user_prompt,
                     },
                 ],
                 max_tokens=max_tokens,
@@ -137,30 +135,28 @@ class DeepSeekSummarizationModel(BaseSummarizationModel):
     def summarize(self, context, max_tokens=500, stop_sequence=None):
 
         try:
+            api_key = os.environ.get("OPENAI_API_KEY", os.environ.get("SILICONFLOW_API_KEY", ""))
+            if not api_key:
+                raise ValueError("请设置环境变量 OPENAI_API_KEY 或 SILICONFLOW_API_KEY")
             client = OpenAI(
                 base_url = "https://api.siliconflow.cn/v1",
-                api_key = ""
+                api_key = api_key
             )
 
+            system_prompt = load_prompt("summarization_system")
+            user_prompt_template = load_prompt("summarization_user")
+            user_prompt = user_prompt_template.format(context=context)
+            
             response = client.chat.completions.create(
                 model=self.model,
                 messages=[
                     {
                         "role": "system",
-                        "content": (
-                            "You are an expert in software engineering and requirements modeling. Your task is to analyze multiple software artifacts and identify their shared features."
-                            "Your task is to analyze multiple software artifacts and identify their shared features."
-                        ),
+                        "content": system_prompt,
                     },
                     {
                         "role": "user",
-                        "content": (
-                            f"The following are names and descriptions of several software artifacts.\n"
-                            f"Please read all of them carefully and write a concise, coherent summary "
-                            f"that captures their **common characteristics, goals, and functional focus**. "
-                            f"Do not list them one by one; instead, generalize their similarities "
-                            f"to express the overarching purpose or theme that unites them.\n\n{context}"
-                        ),
+                        "content": user_prompt,
                     },
                 ],
                 max_tokens=max_tokens,
@@ -180,30 +176,28 @@ class LlamaSummarizationModel(BaseSummarizationModel):
     def summarize(self, context, max_tokens=500, stop_sequence=None):
 
         try:
+            api_key = os.environ.get("OPENAI_API_KEY", os.environ.get("OPENROUTER_API_KEY", ""))
+            if not api_key:
+                raise ValueError("请设置环境变量 OPENAI_API_KEY 或 OPENROUTER_API_KEY")
             client = OpenAI(
                 base_url = "https://openrouter.ai/api/v1",
-                api_key = ""
+                api_key = api_key
             )
 
+            system_prompt = load_prompt("summarization_system")
+            user_prompt_template = load_prompt("summarization_user")
+            user_prompt = user_prompt_template.format(context=context)
+            
             response = client.chat.completions.create(
                 model=self.model,
                 messages=[
                     {
                         "role": "system",
-                        "content": (
-                            "You are an expert in software engineering and requirements modeling. Your task is to analyze multiple software artifacts and identify their shared features."
-                            "Your task is to analyze multiple software artifacts and identify their shared features."
-                        ),
+                        "content": system_prompt,
                     },
                     {
                         "role": "user",
-                        "content": (
-                            f"The following are names and descriptions of several software artifacts.\n"
-                            f"Please read all of them carefully and write a concise, coherent summary "
-                            f"that captures their **common characteristics, goals, and functional focus**. "
-                            f"Do not list them one by one; instead, generalize their similarities "
-                            f"to express the overarching purpose or theme that unites them.\n\n{context}"
-                        ),
+                        "content": user_prompt,
                     },
                 ],
                 max_tokens=max_tokens,
