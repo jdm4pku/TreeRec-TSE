@@ -1,0 +1,35 @@
+{
+  "participant_id": "P4",
+  "assignments": {
+    "JS-S13": {
+      "A": "TreeRec",
+      "B": "GPT4",
+      "C": "BM25"
+    },
+    "JS-S14": {
+      "A": "TreeRec",
+      "B": "GPT4",
+      "C": "BM25"
+    },
+    "JS-S15": {
+      "A": "BM25",
+      "B": "TreeRec",
+      "C": "GPT4"
+    },
+    "JS-S16": {
+      "A": "TreeRec",
+      "B": "GPT4",
+      "C": "BM25"
+    },
+    "JS-S17": {
+      "A": "GPT4",
+      "B": "BM25",
+      "C": "TreeRec"
+    },
+    "JS-S18": {
+      "A": "TreeRec",
+      "B": "BM25",
+      "C": "GPT4"
+    }
+  }
+}

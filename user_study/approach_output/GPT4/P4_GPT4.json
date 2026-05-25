@@ -1,0 +1,193 @@
+{
+  "participant_id": "P4",
+  "ecosystem": "JavaScript",
+  "method": "GPT-4",
+  "results": [
+    {
+      "scenario_id": "JS-S13",
+      "query": "run multiple npm scripts in parallel or sequence with one command, like concurrently or npm-run-all",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "npm-run-all",
+          "description": "A CLI tool to run multiple npm-scripts in parallel or sequential."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "npm-run-all2",
+          "description": "A CLI tool to run multiple npm-scripts in parallel or sequential. (Maintenance fork)"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@xarc/run",
+          "description": "concurrent or serial run npm scripts, javascript tasks, and more"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "yarn-run-all",
+          "description": "A CLI tool to run multiple npm-scripts in parallel or sequential."
+        },
+        {
+          "rank": 5,
+          "artifact_name": "run-pty",
+          "description": "Run several commands concurrently. Show output for one command at a time. Kill all at once."
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S14",
+      "query": "generate HTML coverage report from LCOV data, grouped by directory and file",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@lcov-viewer/cli",
+          "description": "LCOV viewer CLI to convert coverage to grouped HTML report. Generates code coverage report grouped by directory."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@lcov-viewer/istanbul-report",
+          "description": "Istanbul grouped HTML report. Generates code coverage report grouped by directory."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "lcoview",
+          "description": "LCOV coverage report viewer that generates interactive HTML reports with file filtering"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "gulp-lcov-to-html",
+          "description": "Pure javascript implementation of LCOV's genhtml function for use in gulp"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "coverage-viewer",
+          "description": "Create a static website for exploring your project’s coverage statistics"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S15",
+      "query": "NestJS authentication module with JWT, user registration and login out of the box",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "quickship-cli",
+          "description": "Ship production-ready web, mobile, and backend projects in 60 seconds. Create Next.js, React, T3 Stack, MERN, Expo React Native, Express, or NestJS apps with TypeScript, flexible database options (Prisma/Mongoose or raw drivers), and modern tooling - then"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@rucken/cli",
+          "description": "Console tools for create and build Angular7+, Bootstrap, Ionic and NestJS application based on Rucken template"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "nicot",
+          "description": "Nest.js interacting with class-validator + OpenAPI + TypeORM for Nest.js Restful API development."
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@alphaapps/nestjs-auth",
+          "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth i"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "node-backend-generator",
+          "description": "🚀 CLI tool to generate professional Node.js backend templates with best practices, multiple databases, authentication, and production-ready features"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S16",
+      "query": "remap code coverage results from compiled JS back to original source using source maps",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "remap-istanbul",
+          "description": "A tool for remapping Istanbul coverage via Source Maps"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "istanbul-sourcemap-report",
+          "description": "Utility to generate coverage reports for sources from compiled code coverage using SourceMaps"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "map-coverage",
+          "description": "Generate coverage files from your source maps"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "karma-remap-coverage",
+          "description": "Karma reporter that shows coverage for original non transpiled code (TypeScript, ES6/7, etc)"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "mocha-remap-istanbul",
+          "description": "Istanbul code coverage reporter for Mocha supporting coverage remapping by remap-istanbul"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S17",
+      "query": "JavaScript implementation of IEEE 754 copysign function, copy sign from one float to another",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@stdlib/math-base-special-copysign",
+          "description": "Return a double-precision floating-point number with the magnitude of x and the sign of y."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "math-float64-copysign",
+          "description": "Returns a double-precision floating-point number with the magnitude of x and the sign of y."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "math-float64-to-words",
+          "description": "Splits a floating-point number into a higher order word and a lower order word."
+        },
+        {
+          "rank": 4,
+          "artifact_name": "math-float64-from-words",
+          "description": "Creates a double-precision floating-point number from a higher order word and a lower order word."
+        },
+        {
+          "rank": 5,
+          "artifact_name": "bit-twiddle",
+          "description": "Bit twiddling hacks for JavaScript"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S18",
+      "query": "TypeScript SDK for robotics device control and service management",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@cognite/robotics-sdk-ts",
+          "description": "robotics services Typescript sdk"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@cognite/robotics-ts-sdk",
+          "description": "robotics services typescript sdk"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "rclnodejs",
+          "description": "ROS2.0 JavaScript client with Node.js"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "jacdac-ts",
+          "description": "JavaScript/TypeScript library to interact with Jacdac devices"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "robotics-dev",
+          "description": "Robotics.dev P2P SDK client for robot control"
+        }
+      ]
+    }
+  ]
+}

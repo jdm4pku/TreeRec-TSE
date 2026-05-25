@@ -1,0 +1,32 @@
+{
+  "participant_id": "P11",
+  "education": "phd",
+  "dev_years": 3,
+  "ecosystem": "HuggingFace",
+  "queries": [
+    {
+      "scenario_id": "HF-S7",
+      "your_query": "visually-rich document understanding model for layout-aware retrieval over scanned PDFs — jointly encodes OCR text, spatial positions, and page images"
+    },
+    {
+      "scenario_id": "HF-S8",
+      "your_query": "high-fidelity text-to-image diffusion model with strong text rendering capability and compositional scene control"
+    },
+    {
+      "scenario_id": "HF-S9",
+      "your_query": "real-time monocular depth estimation network optimized for robotics, metric depth output from single RGB frame without auxiliary sensors"
+    },
+    {
+      "scenario_id": "HF-S10",
+      "your_query": "large multimodal model supporting interleaved image/video understanding, multi-language OCR, UI screenshot comprehension, and visual question answering"
+    },
+    {
+      "scenario_id": "HF-S11",
+      "your_query": "multi-label emotion classification transformer fine-tuned on GoEmotions or similar dataset, outputs probability distribution over co-occurring emotion categories"
+    },
+    {
+      "scenario_id": "HF-S12",
+      "your_query": "multilingual hybrid retrieval embedding model with both dense vector and learned sparse representations, supporting long-document chunking across 100+ languages"
+    }
+  ]
+}

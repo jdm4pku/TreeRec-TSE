@@ -1,0 +1,223 @@
+{
+  "participant_id": "P5",
+  "ecosystem": "JavaScript",
+  "method": "BM25",
+  "results": [
+    {
+      "scenario_id": "JS-S7",
+      "query": "lightweight static file server with hot-reload / live-reload support for front-end development",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "live-server",
+          "description": "simple development http server with live reload capability",
+          "score": 13.444407388769545
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@pattern-lab/live-server",
+          "description": "simple development http server with live reload capability",
+          "score": 13.444407388769545
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@compodoc/live-server",
+          "description": "Simple development http server with live reload capability",
+          "score": 13.444407388769545
+        },
+        {
+          "rank": 4,
+          "artifact_name": "simplehttpserver",
+          "description": "Simple HTTP Server for static files. Intended as testing and development tool",
+          "score": 13.050343543513193
+        },
+        {
+          "rank": 5,
+          "artifact_name": "hive-framework",
+          "description": "A website development framework built with Grunt and Sass, with optional support for jQuery UI.",
+          "score": 11.529294377611627
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S8",
+      "query": "WebDriver-based end-to-end testing framework for automated browser interaction in JavaScript",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@antiwork/shortest",
+          "description": "AI-powered natural language end-to-end testing framework",
+          "score": 14.260833809072775
+        },
+        {
+          "rank": 2,
+          "artifact_name": "testcafe",
+          "description": "Automated browser testing for the modern web development stack.",
+          "score": 14.158570447624395
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@browserstack/testcafe",
+          "description": "Automated browser testing for the modern web development stack.",
+          "score": 14.158570447624395
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@taqueria/plugin-jest",
+          "description": "A plugin for Taqueria providing automated testing using the Jest Testing Framework",
+          "score": 12.108614858747561
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@vendure/testing",
+          "description": "End-to-end testing tools for Vendure projects",
+          "score": 10.92793729007901
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S9",
+      "query": "numerical linear algebra library for JS — matrix multiplication, affine transforms, coordinate system conversions",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "linear-algebra",
+          "description": "Efficient, high-performance linear algebra library",
+          "score": 19.80629397560908
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@kjerandp/linear-algebra",
+          "description": "Math library for doing basic linear algebra operations",
+          "score": 17.768212408736858
+        },
+        {
+          "rank": 3,
+          "artifact_name": "symbolic-math",
+          "description": "Computer Algebra System in TypeScript",
+          "score": 13.791853482571437
+        },
+        {
+          "rank": 4,
+          "artifact_name": "stemcmicro",
+          "description": "Computer Algebra System in TypeScript",
+          "score": 13.791853482571437
+        },
+        {
+          "rank": 5,
+          "artifact_name": "jsxmath",
+          "description": "Computer Algebra System in TypeScript",
+          "score": 13.791853482571437
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S10",
+      "query": "safe expression parser and evaluator for user-defined formulas in a spreadsheet-like context, sandboxed execution",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "hyoka",
+          "description": "A simple math expression parser and evaluator",
+          "score": 21.72166892479316
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@datawrapper/expr-eval",
+          "description": "Mathematical expression evaluator",
+          "score": 16.762454803333817
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@atom-platform/expr-eval",
+          "description": "Mathematical expression evaluator",
+          "score": 16.762454803333817
+        },
+        {
+          "rank": 4,
+          "artifact_name": "expr-eval",
+          "description": "Mathematical expression evaluator",
+          "score": 16.762454803333817
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@oat-sa/expr-eval",
+          "description": "Mathematical expression evaluator",
+          "score": 16.762454803333817
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S11",
+      "query": "international phone number parsing and validation library with per-country formatting rules",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "react-native-intl-phone-input",
+          "description": "It is an international phone component.",
+          "score": 15.572798089343486
+        },
+        {
+          "rank": 2,
+          "artifact_name": "react-native-international-phone-number",
+          "description": "International mobile phone input component with mask for React Native",
+          "score": 15.049009177264104
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@lykmapipo/phone",
+          "description": "Helper utilities for parsing and validate phone numbers",
+          "score": 14.452931316631439
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@splainez/n8n-nodes-phonenumber-parser",
+          "description": "Parse a phone number and return its information",
+          "score": 13.62416874072136
+        },
+        {
+          "rank": 5,
+          "artifact_name": "a-calc",
+          "description": "A very powerful and easy-to-use number precision calculation and formatting library.",
+          "score": 12.785628001871588
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S12",
+      "query": "text diff algorithm implementation in JavaScript, unified or side-by-side diff output for version comparison",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "diff",
+          "description": "A JavaScript text diff implementation.",
+          "score": 27.72525151542697
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@amaui/diff",
+          "description": "Diff algorithm",
+          "score": 27.18593150796522
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@onesy/diff",
+          "description": "Diff algorithm",
+          "score": 27.18593150796522
+        },
+        {
+          "rank": 4,
+          "artifact_name": "libnpmdiff",
+          "description": "The registry diff",
+          "score": 17.712890454574758
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@romainberger/css-diff",
+          "description": "Get the diff between two css",
+          "score": 15.257889355372187
+        }
+      ]
+    }
+  ]
+}

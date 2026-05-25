@@ -1,0 +1,368 @@
+{
+  "participant_id": "P1",
+  "ecosystem": "JavaScript",
+  "method": "TreeRec",
+  "results": [
+    {
+      "scenario_id": "JS-S1",
+      "query": "npm package for yes/no confirm prompt in terminal",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "prompt-confirm",
+          "description": "Confirm (yes/no) prompt. Can be used standalone or with a prompt system like [Enquirer]."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "inquirer-confirm",
+          "description": "Simple confirm yes/no question for CLI node applications, returns a promise, built on top of inquirer"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "prompt-promise",
+          "description": "Sane CLI user-input (command prompt, confirm, multiline, password) as promises, it can be used with co@4"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "prompt-password",
+          "description": "Password prompt. Can be used as a standalone prompt, or as a plugin for [Enquirer]."
+        },
+        {
+          "rank": 5,
+          "artifact_name": "prompt-radio",
+          "description": "Radio prompt. Can be used as a standalone prompt, or as a plugin for [Enquirer]."
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S2",
+      "query": "javascript testing framework that works in both browser and node",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "jasmine-core",
+          "description": "Simple JavaScript testing framework for browsers and node.js"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "jasmine",
+          "description": "CLI for Jasmine, a simple JavaScript testing framework for browsers and Node"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "aria-mocha",
+          "description": "Zero configuration CLI testing tool for nodejs and browser base"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@drptbl/gremlins.js",
+          "description": "A monkey testing library written in JavaScript, for Node.js and the browser. Use it to check the robustness of web applications by unleashing a horde of undisciplined gremlins."
+        },
+        {
+          "rank": 5,
+          "artifact_name": "testee",
+          "description": "Automated cross-browser testing made easy."
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S3",
+      "query": "how to intercept http requests in javascript for testing and mocking",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@mswjs/interceptors",
+          "description": "Low-level HTTP/HTTPS/XHR/fetch request interception library."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "mockttp",
+          "description": "Mock HTTP server for testing HTTP clients and stubbing webservices"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "fetch-mock",
+          "description": "Mock http requests made using fetch"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "matrix-mock-request",
+          "description": "Testing tool for mocking HTTP request/response pairs"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "wdio-intercept-service",
+          "description": "Capture and assert HTTP ajax calls in webdriver.io 🕸"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S4",
+      "query": "nodejs library to add color to console output in terminal",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "cli-color",
+          "description": "Colors, formatting and other tools for the console"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "kleur",
+          "description": "The fastest Node.js library for formatting terminal text with ANSI colors~!"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "picocolors",
+          "description": "The tiniest and the fastest library for terminal output formatting with ANSI colors"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "node-console-colors",
+          "description": "ANSI colors for your cli with no dependencies"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "colors-cli",
+          "description": "Terminal string styling done right"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S5",
+      "query": "npm package for log levels with different icons like checkmark and warning sign",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "react-native-logging-tools",
+          "description": "[![Build Status](https://travis-ci.org/imranMnts/react-native-logging-tools.svg?branch=develop)](https://travis-ci.org/imranMnts/react-native-logging-tools) ![npm](https://img.shields.io/npm/v/react-native-logging-tools.svg) ![GitHub](https://img.shields."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "ionic-logging-service",
+          "description": "Logging functionalities for apps built with Ionic framework"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@react-native-vector-icons/common",
+          "description": "Customizable Icons for React Native with support for image source and full styling."
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@react-native-vector-icons/codemod",
+          "description": "Tool to help users migrate from react-native-vector-icons to @react-native-vector-icons/*"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@amaui/icons-material-react",
+          "description": "Icons material for React"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S6",
+      "query": "javascript json template engine to generate json dynamically from variables",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "jsdoc-parse",
+          "description": "Transforms jsdoc data into something more suitable for use as template input"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "cssjson",
+          "description": "Converts CSS to JSON and back."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "jschemer",
+          "description": "A Node.js library to generate documentation for JSON Schemas"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "json-schema-doc-ts",
+          "description": "Generate documentation for JSON Schemas"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "json-mask",
+          "description": "Tiny language and engine for selecting specific parts of a JS object, hiding the rest."
+        },
+        {
+          "rank": 6,
+          "artifact_name": "@frontvue/plugin-js",
+          "description": "FrontVue plugin for JavaScript boilerplate template and processing"
+        },
+        {
+          "rank": 7,
+          "artifact_name": "statistical-js",
+          "description": "Simple to use, completely useful"
+        },
+        {
+          "rank": 8,
+          "artifact_name": "cast-with-schema",
+          "description": "Casting JS objects to correct types using JSON schemas"
+        },
+        {
+          "rank": 9,
+          "artifact_name": "buffingjs",
+          "description": "An easy yet complete to use iterable data buffer in javascript"
+        },
+        {
+          "rank": 10,
+          "artifact_name": "nestdoc",
+          "description": "Nest.JS documentation generator"
+        },
+        {
+          "rank": 11,
+          "artifact_name": "ndoc",
+          "description": "JavaScript API documentor with simple syntax."
+        },
+        {
+          "rank": 12,
+          "artifact_name": "esdoc2",
+          "description": "Better Documentation Generator For JavaScript"
+        },
+        {
+          "rank": 13,
+          "artifact_name": "enzyme-to-json",
+          "description": "convert enzyme wrapper to a format compatible with Jest snapshot"
+        },
+        {
+          "rank": 14,
+          "artifact_name": "jsdoc-x",
+          "description": "Parser for outputting a customized Javascript object from documented code via JSDoc's explain (-X) command. "
+        },
+        {
+          "rank": 15,
+          "artifact_name": "imp-api",
+          "description": "Javascript wrapper for the Electric Imp Build API"
+        },
+        {
+          "rank": 16,
+          "artifact_name": "node-scripts-docs",
+          "description": "Generate documentation for your `package.json` scripts."
+        },
+        {
+          "rank": 17,
+          "artifact_name": "esdoc",
+          "description": "Good Documentation Generator For JavaScript"
+        },
+        {
+          "rank": 18,
+          "artifact_name": "kdim",
+          "description": "Utility data stuctures, math, and types for JS"
+        },
+        {
+          "rank": 19,
+          "artifact_name": "js-frameworks",
+          "description": "Create a base of a framework for JavaScript with diferents presets."
+        },
+        {
+          "rank": 20,
+          "artifact_name": "nestjs-console",
+          "description": "A NestJS module that provide a cli"
+        },
+        {
+          "rank": 21,
+          "artifact_name": "docson",
+          "description": "Documentation for your JSON types"
+        },
+        {
+          "rank": 22,
+          "artifact_name": "@discordjs/docgen",
+          "description": "The docs.json generator for discord.js and its related projects"
+        },
+        {
+          "rank": 23,
+          "artifact_name": "jss",
+          "description": "A lib for generating Style Sheets with JavaScript."
+        },
+        {
+          "rank": 24,
+          "artifact_name": "safely-read",
+          "description": "A Javascript utility for access nested objects safely"
+        },
+        {
+          "rank": 25,
+          "artifact_name": "package-json-to-readme",
+          "description": "Generate a README.md from package.json contents"
+        },
+        {
+          "rank": 26,
+          "artifact_name": "@openpgp/jsdoc",
+          "description": "An API documentation generator for JavaScript."
+        },
+        {
+          "rank": 27,
+          "artifact_name": "jsdoc-75lb",
+          "description": "An API documentation generator for JavaScript."
+        },
+        {
+          "rank": 28,
+          "artifact_name": "jest-rdf",
+          "description": "Jest utilities for RDF(JS)"
+        },
+        {
+          "rank": 29,
+          "artifact_name": "ghostface",
+          "description": "Evaluate Javascript in PhantomJS, and print the output."
+        },
+        {
+          "rank": 30,
+          "artifact_name": "code-context",
+          "description": "Parse a string of javascript to determine the context for functions, variables and comments based on the code that follows."
+        },
+        {
+          "rank": 31,
+          "artifact_name": "@electron/docs-parser",
+          "description": "Parse Electron documentation into a machine readable JSON file"
+        },
+        {
+          "rank": 32,
+          "artifact_name": "jstandard",
+          "description": "Common data structures implementation for javascript"
+        },
+        {
+          "rank": 33,
+          "artifact_name": "jsdoc",
+          "description": "An API documentation generator for JavaScript."
+        },
+        {
+          "rank": 34,
+          "artifact_name": "@itsjamie/esdoc-core",
+          "description": "Good Documentation Generator For JavaScript"
+        },
+        {
+          "rank": 35,
+          "artifact_name": "atlas-coverage",
+          "description": "Postprocesses puppeteer coverage data to project coverage data on minified js back to the source files"
+        },
+        {
+          "rank": 36,
+          "artifact_name": "@golevelup/ts-jest",
+          "description": "Reusable utilities to help level up NestJS Testing"
+        },
+        {
+          "rank": 37,
+          "artifact_name": "chartjs-color-string",
+          "description": "Parser and generator for CSS color strings"
+        },
+        {
+          "rank": 38,
+          "artifact_name": "wonder-jest",
+          "description": "Delightful JavaScript Testing."
+        },
+        {
+          "rank": 39,
+          "artifact_name": "wonder-jest-cli",
+          "description": "Delightful JavaScript Testing."
+        },
+        {
+          "rank": 40,
+          "artifact_name": "bessel",
+          "description": "Pure-JS Bessel Functions"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participant_id": "P1",
+  "education": "undergraduate",
+  "dev_years": 1,
+  "ecosystem": "JavaScript",
+  "queries": [
+    {
+      "scenario_id": "JS-S1",
+      "your_query": "npm package for yes/no confirm prompt in terminal"
+    },
+    {
+      "scenario_id": "JS-S2",
+      "your_query": "javascript testing framework that works in both browser and node"
+    },
+    {
+      "scenario_id": "JS-S3",
+      "your_query": "how to intercept http requests in javascript for testing and mocking"
+    },
+    {
+      "scenario_id": "JS-S4",
+      "your_query": "nodejs library to add color to console output in terminal"
+    },
+    {
+      "scenario_id": "JS-S5",
+      "your_query": "npm package for log levels with different icons like checkmark and warning sign"
+    },
+    {
+      "scenario_id": "JS-S6",
+      "your_query": "javascript json template engine to generate json dynamically from variables"
+    }
+  ]
+}

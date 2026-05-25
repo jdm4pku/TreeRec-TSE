@@ -1,0 +1,158 @@
+{
+  "participant_id": "P6",
+  "education": "phd",
+  "dev_years": 4,
+  "ecosystem": "JavaScript",
+  "evaluations": [
+    {
+      "scenario_id": "JS-S13",
+      "query": "npm task orchestration — run multiple package.json scripts concurrently or in a defined sequential pipeline",
+      "ground_truth": "npm-run-all",
+      "scores": {
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "GPT4": {
+          "relevance": 2,
+          "usefulness": 2
+        },
+        "BM25": {
+          "relevance": 4,
+          "usefulness": 4
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "BM25",
+        "worst": "GPT4"
+      },
+      "reason": "Method A places GT npm-run-all at #1, @xarc/run at #2 (also concurrent/serial), and npm-failsafe at #3 (sequential execution) — all directly relevant. Method C has GT at #3 and yarn-run-all at #2, but is-ci-cli at #1 is for CI-specific script selection, not orchestration. Method B recommends a CI/CD pipeline tool, grunt (task runner but outdated), and npm-run-path (PATH utility, not a script runner) — mostly off-target."
+    },
+    {
+      "scenario_id": "JS-S14",
+      "query": "LCOV to HTML coverage report generator with hierarchical directory grouping for CI artifacts",
+      "ground_truth": "@lcov-viewer/cli",
+      "scores": {
+        "BM25": {
+          "relevance": 4,
+          "usefulness": 4
+        },
+        "GPT4": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        }
+      },
+      "ranking": {
+        "best": "GPT4",
+        "neutral": "TreeRec",
+        "worst": "BM25"
+      },
+      "reason": "Methods B and C both have GT @lcov-viewer/cli at #1 with distinct, relevant alternatives (istanbul-report, lcoview). Method B edges ahead with GT at #1 and the best ordering. Method A has lcoview at #1 and GT at #2 but duplicates GT at #3, reducing value."
+    },
+    {
+      "scenario_id": "JS-S15",
+      "query": "NestJS passport integration for JWT-based auth with guards, registration and login endpoints",
+      "ground_truth": "@alphaapps/nestjs-auth",
+      "scores": {
+        "BM25": {
+          "relevance": 1,
+          "usefulness": 1
+        },
+        "GPT4": {
+          "relevance": 2,
+          "usefulness": 2
+        },
+        "TreeRec": {
+          "relevance": 3,
+          "usefulness": 2
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "GPT4",
+        "worst": "BM25"
+      },
+      "reason": "Method C includes GT @alphaapps/nestjs-auth at #3, though its description is garbled. quickship-cli and @aerogear/auth are loosely related. Method B has nicot (NestJS-related) at #1 and @steveylin/nestjs-configure, at least NestJS-adjacent. Method A has no NestJS relevance — valiend, login-express, and @better-auth/cli are generic auth tools."
+    },
+    {
+      "scenario_id": "JS-S16",
+      "query": "source-map-aware coverage remapping tool to translate Istanbul/V8 coverage from transpiled output back to TypeScript source",
+      "ground_truth": "remap-istanbul",
+      "scores": {
+        "GPT4": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "BM25": {
+          "relevance": 4,
+          "usefulness": 4
+        }
+      },
+      "ranking": {
+        "best": "GPT4",
+        "neutral": "TreeRec",
+        "worst": "BM25"
+      },
+      "reason": "Methods A and B both have GT remap-istanbul at #1 and remap-istanbul-adhoc at #2. Method A's #3 mocha-remap-istanbul adds a practical integration point. Method B's #3 istanbul-sourcemap-report is also relevant. Method C has GT at #2 behind front-remap-istanbul — all relevant but less diverse, essentially three variants of the same tool."
+    },
+    {
+      "scenario_id": "JS-S17",
+      "query": "IEEE 754 copysign utility for JavaScript — transfer sign bit from one floating-point value to another",
+      "ground_truth": "@stdlib/math-base-special-copysign",
+      "scores": {
+        "GPT4": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "BM25": {
+          "relevance": 2,
+          "usefulness": 1
+        },
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 4
+        }
+      },
+      "ranking": {
+        "best": "GPT4",
+        "neutral": "TreeRec",
+        "worst": "BM25"
+      },
+      "reason": "Method A has GT at #1, math-float64-copysign at #2, and math-float64-from-words at #3 — all directly related to IEEE 754 float operations. Method C also has GT at #1 and copysign at #2 but duplicates #2 at #3. Method B recommends sign-mask constants and maprange — low-level building blocks at best, not a copysign utility."
+    },
+    {
+      "scenario_id": "JS-S18",
+      "query": "TypeScript robotics SDK with gRPC or REST API bindings for device telemetry, command dispatch, and service lifecycle management",
+      "ground_truth": "@cognite/robotics-sdk-ts",
+      "scores": {
+        "BM25": {
+          "relevance": 3,
+          "usefulness": 3
+        },
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "GPT4": {
+          "relevance": 5,
+          "usefulness": 5
+        }
+      },
+      "ranking": {
+        "best": "GPT4",
+        "neutral": "TreeRec",
+        "worst": "BM25"
+      },
+      "reason": "Method C has GT at #1, @cognite/robotics-ts-sdk at #2, and @dopl-technologies/telerobotic-sdk at #3 — all robotics SDKs with excellent diversity. Method B is similar with robotics-dev at #3. Method A buries GT at #3 behind rest-api-kit (generic REST, not robotics) and serverless-iot-offline (IoT, not robotics)."
+    }
+  ]
+}

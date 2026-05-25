@@ -1,0 +1,223 @@
+{
+  "participant_id": "P4",
+  "ecosystem": "JavaScript",
+  "method": "BM25",
+  "results": [
+    {
+      "scenario_id": "JS-S13",
+      "query": "run multiple npm scripts in parallel or sequence with one command, like concurrently or npm-run-all",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "npm-run-all",
+          "description": "A CLI tool to run multiple npm-scripts in parallel or sequential.",
+          "score": 32.09707300534607
+        },
+        {
+          "rank": 2,
+          "artifact_name": "yarn-run-all",
+          "description": "A CLI tool to run multiple npm-scripts in parallel or sequential.",
+          "score": 23.92448457391331
+        },
+        {
+          "rank": 3,
+          "artifact_name": "npm-run-all2",
+          "description": "A CLI tool to run multiple npm-scripts in parallel or sequential. (Maintenance fork)",
+          "score": 22.254076065329702
+        },
+        {
+          "rank": 4,
+          "artifact_name": "mprocs",
+          "description": "Run multiple processes in parallel",
+          "score": 21.6696068946938
+        },
+        {
+          "rank": 5,
+          "artifact_name": "yarpm",
+          "description": "CLI tool to run npm scripts with either npm, pnpm or yarn, depending on how it was started",
+          "score": 17.051640915896343
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S14",
+      "query": "generate HTML coverage report from LCOV data, grouped by directory and file",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@lcov-viewer/cli",
+          "description": "LCOV viewer CLI to convert coverage to grouped HTML report. Generates code coverage report grouped by directory.",
+          "score": 26.025454885871973
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@lcov-viewer/cli",
+          "description": "LCOV viewer CLI to convert coverage to grouped HTML report. Generates code coverage report grouped by directory.",
+          "score": 25.464912765016322
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@lcov-viewer/istanbul-report",
+          "description": "Istanbul grouped HTML report. Generates code coverage report grouped by directory.",
+          "score": 25.23082569107654
+        },
+        {
+          "rank": 4,
+          "artifact_name": "lcov-badge",
+          "description": "Generate a badge from a Lcov report",
+          "score": 21.44360645761061
+        },
+        {
+          "rank": 5,
+          "artifact_name": "lcov-badge-generator",
+          "description": "Generate a badge from a lcov report",
+          "score": 21.44360645761061
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S15",
+      "query": "NestJS authentication module with JWT, user registration and login out of the box",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@rocketseat/gatsby-theme-docs",
+          "description": "Out of the box Gatsby Theme for creating documentation websites easily and quickly.",
+          "score": 15.827200809391684
+        },
+        {
+          "rank": 2,
+          "artifact_name": "login-express",
+          "description": "Generates node.js user signup & login system",
+          "score": 15.617155882106804
+        },
+        {
+          "rank": 3,
+          "artifact_name": "caviar",
+          "description": "A pluggable and extendable web framework which integrates React, Next and Koa to create your own web application out of the box with even zero configuration",
+          "score": 12.591417791209965
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@codsod/react-native-otp-input",
+          "description": "A customizable OTP input component for React Native with TypeScript support, enabling seamless user authentication with flexible input handling and cross-platform compatibility.",
+          "score": 10.680100351611161
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@titanium/authentication-oauth",
+          "description": "⭐  Axway Amplify module for OAuth authentication with Appcelerator Titanium SDK",
+          "score": 10.50339905693766
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S16",
+      "query": "remap code coverage results from compiled JS back to original source using source maps",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "map-coverage",
+          "description": "Generate coverage files from your source maps",
+          "score": 24.3875992787186
+        },
+        {
+          "rank": 2,
+          "artifact_name": "atlas-coverage",
+          "description": "Postprocesses puppeteer coverage data to project coverage data on minified js back to the source files",
+          "score": 21.398991396996625
+        },
+        {
+          "rank": 3,
+          "artifact_name": "istanbul-sourcemap-report",
+          "description": "Utility to generate coverage reports for sources from compiled code coverage using SourceMaps",
+          "score": 19.66472021789197
+        },
+        {
+          "rank": 4,
+          "artifact_name": "front-remap-istanbul",
+          "description": "A tool for remapping Istanbul coverage via Source Maps",
+          "score": 19.37437450443654
+        },
+        {
+          "rank": 5,
+          "artifact_name": "remap-istanbul",
+          "description": "A tool for remapping Istanbul coverage via Source Maps",
+          "score": 19.37437450443654
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S17",
+      "query": "JavaScript implementation of IEEE 754 copysign function, copy sign from one float to another",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@anselan/maprange",
+          "description": "Map values from one range to another",
+          "score": 16.577369557810997
+        },
+        {
+          "rank": 2,
+          "artifact_name": "css-color-converter",
+          "description": "Converts CSS colors from one representation to another",
+          "score": 15.876277560545036
+        },
+        {
+          "rank": 3,
+          "artifact_name": "css-unit-converter",
+          "description": "Converts CSS values from one unit to another",
+          "score": 15.876277560545036
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@cucumber/cucumber",
+          "description": "The official JavaScript implementation of Cucumber.",
+          "score": 11.572798257495418
+        },
+        {
+          "rank": 5,
+          "artifact_name": "sass",
+          "description": "A pure JavaScript implementation of Sass.",
+          "score": 11.572798257495418
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S18",
+      "query": "TypeScript SDK for robotics device control and service management",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@cognite/robotics-sdk-ts",
+          "description": "robotics services Typescript sdk",
+          "score": 15.259293068964295
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@cognite/robotics-ts-sdk",
+          "description": "robotics services typescript sdk",
+          "score": 15.259293068964295
+        },
+        {
+          "rank": 3,
+          "artifact_name": "imt-mcp-server",
+          "description": "MCP Server for IMT user management with device control capabilities",
+          "score": 15.179254253570397
+        },
+        {
+          "rank": 4,
+          "artifact_name": "je_nfc_sdk",
+          "description": "A comprehensive React Native SDK for NFC-based device control and communication",
+          "score": 14.10156148518825
+        },
+        {
+          "rank": 5,
+          "artifact_name": "die-roboter",
+          "description": "A TypeScript library for robot simulation and control with Three.js",
+          "score": 13.808912134512392
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "participant_id": "P7",
+  "education": "undergraduate",
+  "dev_years": 1,
+  "ecosystem": "HuggingFace",
+  "evaluations": [
+    {
+      "scenario_id": "HF-S1",
+      "query": "model for speaker diarization, detect who is speaking in audio",
+      "ground_truth": "pyannote/speaker-diarization-3.1",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 5, "usefulness": 4 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "A", "neutral": "C", "worst": "B" },
+      "reason": "All three recommend strong speaker diarization models. Method A has GT at #1 with nvidia and pyannote community models. Method C has GT at #2 with nvidia streaming model at #1 and pyannote 3.0 at #3. Method B misses GT entirely — nvidia sortformer and pyannote community are good but GT is the most established solution."
+    },
+    {
+      "scenario_id": "HF-S2",
+      "query": "depth estimation model from a single image, predict depth map from one photo",
+      "ground_truth": "apple/DepthPro-hf",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "A", "neutral": "C", "worst": "B" },
+      "reason": "All three are excellent. Method A has GT DepthPro-hf at #1 plus Depth-Anything-V2 variants — all directly relevant. Method C has apple/DepthPro at #1, GT at #2, Depth-Anything at #3. Method B also strong but #3 is marigold-normals (surface normals, not depth), slightly off-target."
+    },
+    {
+      "scenario_id": "HF-S3",
+      "query": "multilingual document retrieval model that works with text and images",
+      "ground_truth": "racineai/QwenAmann-4B-dse",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 4, "usefulness": 5 },
+        "C": { "relevance": 4, "usefulness": 5 }
+      },
+      "ranking": { "best": "A", "neutral": "C", "worst": "B" },
+      "reason": "Method A includes GT QwenAmann-4B-dse at #2, jina-embeddings-v4 at #1, and gme-Qwen2-VL — all multimodal multilingual retrieval models. Methods B and C don't include GT but recommend colpali, bge-m3, and jina-embeddings-v4 which are all strong alternatives. B and C are very similar; C edges ahead with jina at #1."
+    },
+    {
+      "scenario_id": "HF-S4",
+      "query": "general purpose language model for text generation, summarization and question answering",
+      "ground_truth": "meta-llama/Llama-3.2-3B-Instruct",
+      "scores": {
+        "A": { "relevance": 4, "usefulness": 4 },
+        "B": { "relevance": 4, "usefulness": 4 },
+        "C": { "relevance": 2, "usefulness": 2 }
+      },
+      "ranking": { "best": "B", "neutral": "A", "worst": "C" },
+      "reason": "None include the exact GT. Method B recommends powerful instruction-tuned models (gpt-oss-120b, Qwen3-235B, Llama-3.3-70B) that are all capable general-purpose models. Method A has Qwen2.5 variants and T5-11b (classic seq2seq). Method C recommends Arcee-VyLinh (obscure), MQG (question generation), and PubMedCLIP (medical vision) — poor match for general-purpose NLP."
+    },
+    {
+      "scenario_id": "HF-S5",
+      "query": "code generation model that can write HTML CSS JavaScript from instructions",
+      "ground_truth": "inclusionAI/Ling-1T",
+      "scores": {
+        "A": { "relevance": 2, "usefulness": 2 },
+        "B": { "relevance": 4, "usefulness": 4 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "C", "neutral": "B", "worst": "A" },
+      "reason": "None include GT Ling-1T. Method C recommends DeepSeek-Coder-V2, Qwen2.5-Coder-32B, and Qwen3-Coder — all state-of-the-art code generation models, very practical. Method B has CodeLlama variants and Qwen2.5-Coder-0.5B — relevant but older/smaller models. Method A recommends ReaderLM-v2 and Schematron, which are HTML-to-JSON extraction tools, not code generation models."
+    },
+    {
+      "scenario_id": "HF-S6",
+      "query": "NER model to detect and redact personal information like names and phone numbers from text",
+      "ground_truth": "knowledgator/gliner-pii-large-v1.0",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 4, "usefulness": 4 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "A", "neutral": "C", "worst": "B" },
+      "reason": "Method A has GT at #1, gliner-small-pii at #2, PII-Model-Phi3 at #3 — all PII-focused models, excellent. Method C has the same three models in reversed order (GT at #3). Method B has GT at #1 but #2 is a CV info extractor and #3 is UTC-DeBERTa (generic token classifier) — less focused on PII."
+    }
+  ]
+}

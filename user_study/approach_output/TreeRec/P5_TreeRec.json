@@ -1,0 +1,193 @@
+{
+  "participant_id": "P5",
+  "ecosystem": "JavaScript",
+  "method": "TreeRec",
+  "results": [
+    {
+      "scenario_id": "JS-S7",
+      "query": "lightweight static file server with hot-reload / live-reload support for front-end development",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@11ty/eleventy-dev-server",
+          "description": "A minimal, modern, generic, hot-reloading local web server to help web developers."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "live-server",
+          "description": "simple development http server with live reload capability"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "alive-server",
+          "description": "Alive fork of live-server: simple development http server with live reload capability"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@compodoc/live-server",
+          "description": "Simple development http server with live reload capability"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@pattern-lab/live-server",
+          "description": "simple development http server with live reload capability"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S8",
+      "query": "WebDriver-based end-to-end testing framework for automated browser interaction in JavaScript",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "selenium-webdriver",
+          "description": "The official WebDriver JavaScript bindings from the Selenium project"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "nightwatch",
+          "description": "Easy to use Node.js based end-to-end testing solution for web applications using the W3C WebDriver API."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "webdriver-manager",
+          "description": "A selenium server and browser driver manager for your end to end tests."
+        },
+        {
+          "rank": 4,
+          "artifact_name": "mocha-webdriver",
+          "description": "Write Mocha style tests using selenium-webdriver, with many conveniences."
+        },
+        {
+          "rank": 5,
+          "artifact_name": "webdriver-js-extender",
+          "description": "A plugin which adds additional commands to selenium's javascript implementation of the webdriver client side API"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S9",
+      "query": "numerical linear algebra library for JS — matrix multiplication, affine transforms, coordinate system conversions",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "linear-algebra",
+          "description": "Efficient, high-performance linear algebra library"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "numpy-matrix-js",
+          "description": "A numpy-like Matrix/Array module for Node JS and Browser JS"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "matrixops",
+          "description": "A package for doing matrix arithmetic with JavaScript arrays"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "math.js",
+          "description": "A simple math library written in Javascript."
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@kjerandp/linear-algebra",
+          "description": "Math library for doing basic linear algebra operations"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S10",
+      "query": "safe expression parser and evaluator for user-defined formulas in a spreadsheet-like context, sandboxed execution",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "numenor",
+          "description": "Customizable, safe evaluator of JavaScript-like expressions."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "mathjs",
+          "description": "Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser with support for symbolic computation, comes with a large set of built-in functions and constants, and offers an integrated solution to work with dif"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "morph-expressions",
+          "description": "An extremely efficient and flexible parser for Math or Logical expression using Javascript. It has all the basic functions supported with extensive support for new functions, variable etc."
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@pie-lib/math-evaluator",
+          "description": "Math evaluator tool for comparing expressions for equality"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "math-expression-evaluator",
+          "description": "A flexible math expression evaluator"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S11",
+      "query": "international phone number parsing and validation library with per-country formatting rules",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "intl-tel-input",
+          "description": "A JavaScript plugin for entering and validating international telephone numbers"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "libphonenumber-js",
+          "description": "A simpler (and smaller) rewrite of Google Android's libphonenumber library in javascript"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@ibash/libphonenumber-js",
+          "description": "A simpler (and smaller) rewrite of Google Android's libphonenumber library in javascript"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@lykmapipo/phone",
+          "description": "Helper utilities for parsing and validate phone numbers"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "mat-tel-input",
+          "description": "An Angular Material package for entering and validating international telephone numbers. It adds a flag dropdown to any input, detects the user's country, displays a relevant placeholder and provides formatting/validation methods."
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S12",
+      "query": "text diff algorithm implementation in JavaScript, unified or side-by-side diff output for version comparison",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "diff",
+          "description": "A JavaScript text diff implementation."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@amaui/diff",
+          "description": "Diff algorithm"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@onesy/diff",
+          "description": "Diff algorithm"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "numeric",
+          "description": "Numerical analysis in javascript"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "mathjs",
+          "description": "Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser with support for symbolic computation, comes with a large set of built-in functions and constants, and offers an integrated solution to work with dif"
+        }
+      ]
+    }
+  ]
+}

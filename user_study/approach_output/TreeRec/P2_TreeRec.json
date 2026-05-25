@@ -1,0 +1,193 @@
+{
+  "participant_id": "P2",
+  "ecosystem": "JavaScript",
+  "method": "TreeRec",
+  "results": [
+    {
+      "scenario_id": "JS-S7",
+      "query": "local dev server with live reload for static html css js",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "live-server : simple development http server with live reload capability",
+          "description": ""
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@compodoc/live-server : Simple development http server with live reload capability",
+          "description": ""
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@pattern-lab/live-server : simple development http server with live reload capability",
+          "description": ""
+        },
+        {
+          "rank": 4,
+          "artifact_name": "browser-sync : Live CSS Reload & Browser Syncing",
+          "description": ""
+        },
+        {
+          "rank": 5,
+          "artifact_name": "alive-server : Alive fork of live-server: simple development http server with live reload capability",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S8",
+      "query": "browser automation testing framework javascript webdriver",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "selenium-webdriver",
+          "description": "The official WebDriver JavaScript bindings from the Selenium project"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "webdriver-manager",
+          "description": "A selenium server and browser driver manager for your end to end tests."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@wdio/lighthouse-service",
+          "description": "A WebdriverIO service that allows you to run Chrome DevTools commands in your tests"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@serenity-js/webdriverio",
+          "description": "Adapter that integrates @serenity-js/web with the latest stable version of WebdriverIO, enabling Serenity/JS reporting and using the Screenplay Pattern to write web and mobile test scenarios"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@serenity-js/webdriverio-8",
+          "description": "Adapter that integrates @serenity-js/web with WebdriverIO 8, enabling Serenity/JS reporting and using the Screenplay Pattern to write web and mobile test scenarios"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S9",
+      "query": "javascript math library for matrix operations and coordinate transformations",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "math3d",
+          "description": "A nodejs library for 3D transformations similar to Unity3D containing necessary classes and functions for matrices, vectors, quaternions and transforms."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "matrixops",
+          "description": "A package for doing matrix arithmetic with JavaScript arrays"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "math.js",
+          "description": "A simple math library written in Javascript."
+        },
+        {
+          "rank": 4,
+          "artifact_name": "numpy-matrix-js",
+          "description": "A numpy-like Matrix/Array module for Node JS and Browser JS"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "wtc-math",
+          "description": "A math library that provides discrete components for common math operations. Includes vectors, matrices and quaternions."
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S10",
+      "query": "safely parse and evaluate math expressions from user input in javascript",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "decimal-eval",
+          "description": "A tiny, safe, fast JavaScript library for decimal arithmetic expressions."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "math-expression-evaluator",
+          "description": "A flexible math expression evaluator"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "numenor",
+          "description": "Customizable, safe evaluator of JavaScript-like expressions."
+        },
+        {
+          "rank": 4,
+          "artifact_name": "jse-eval",
+          "description": "JavaScript expression parsing and evaluation."
+        },
+        {
+          "rank": 5,
+          "artifact_name": "expr-eval",
+          "description": "Mathematical expression evaluator"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S11",
+      "query": "phone number input with country code formatting and validation js",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "mat-tel-input",
+          "description": "An Angular Material package for entering and validating international telephone numbers. It adds a flag dropdown to any input, detects the user's country, displays a relevant placeholder and provides formatting/validation methods."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "ngx-mat-input-tel",
+          "description": "An Angular Material package for entering and validating international telephone numbers. It adds a flag dropdown to any input, detects the user's country, displays a relevant placeholder and provides formatting/validation methods."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "ngx-mat-phone-input",
+          "description": "An Angular Material package for entering and validating international telephone numbers. It adds a flag dropdown to any input, detects the user's country, displays a relevant placeholder and provides formatting/validation methods."
+        },
+        {
+          "rank": 4,
+          "artifact_name": "ngx-mat-intl-tel-input",
+          "description": "An Angular Material package for entering and validating international telephone numbers. It adds a flag dropdown to any input, detects the user's country, displays a relevant placeholder and provides formatting/validation methods."
+        },
+        {
+          "rank": 5,
+          "artifact_name": "intl-tel-input",
+          "description": "A JavaScript plugin for entering and validating international telephone numbers"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S12",
+      "query": "javascript diff library to compare two text strings and show changes",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "diff",
+          "description": "A JavaScript text diff implementation."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@amaui/diff",
+          "description": "Diff algorithm"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@onesy/diff",
+          "description": "Diff algorithm"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "chai-string",
+          "description": "strings comparison matchers for chai"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@achingbrain/chai-string",
+          "description": "strings comparison matchers for chai"
+        }
+      ]
+    }
+  ]
+}

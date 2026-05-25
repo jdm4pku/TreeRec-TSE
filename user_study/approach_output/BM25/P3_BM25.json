@@ -1,0 +1,223 @@
+{
+  "participant_id": "P3",
+  "ecosystem": "JavaScript",
+  "method": "BM25",
+  "results": [
+    {
+      "scenario_id": "JS-S1",
+      "query": "interactive CLI confirmation prompt library for Node.js, like a simple yes/no dialog",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "yn",
+          "description": "Parse yes/no like values",
+          "score": 19.34283722683046
+        },
+        {
+          "rank": 2,
+          "artifact_name": "inquirer-confirm",
+          "description": "Simple confirm yes/no question for CLI node applications, returns a promise, built on top of inquirer",
+          "score": 12.692644700223966
+        },
+        {
+          "rank": 3,
+          "artifact_name": "v-dialogs",
+          "description": "A simple command-style pop-up dialog components for Vue3",
+          "score": 12.650726477969155
+        },
+        {
+          "rank": 4,
+          "artifact_name": "prompt-checkbox",
+          "description": "Multiple-choice/checkbox prompt. Can be used standalone or with a prompt system like [Enquirer].",
+          "score": 11.836314018828821
+        },
+        {
+          "rank": 5,
+          "artifact_name": "prompt-confirm",
+          "description": "Confirm (yes/no) prompt. Can be used standalone or with a prompt system like [Enquirer].",
+          "score": 11.437046487954273
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S2",
+      "query": "cross-environment JavaScript test framework that supports both Node.js and browser execution",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "backendless",
+          "description": "Backendless JavaScript SDK for Node.js and the browser",
+          "score": 13.468733834396147
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@tago-io/sdk",
+          "description": "TagoIO SDK for JavaScript in the browser and Node.js",
+          "score": 12.922225600749279
+        },
+        {
+          "rank": 3,
+          "artifact_name": "middleware-testlab",
+          "description": "Test framework for Node.js middleware (Koa and Express)",
+          "score": 12.481804244933777
+        },
+        {
+          "rank": 4,
+          "artifact_name": "jasmine-core",
+          "description": "Simple JavaScript testing framework for browsers and node.js",
+          "score": 12.164481475586845
+        },
+        {
+          "rank": 5,
+          "artifact_name": "jstest",
+          "description": "The cross-platform JavaScript test framework",
+          "score": 11.900135786212996
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S3",
+      "query": "HTTP request interception and mocking library for JavaScript, intercept fetch and XHR calls",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@mswjs/interceptors",
+          "description": "Low-level HTTP/HTTPS/XHR/fetch request interception library.",
+          "score": 18.646554216694923
+        },
+        {
+          "rank": 2,
+          "artifact_name": "wdio-intercept-service",
+          "description": "Capture and assert HTTP ajax calls in webdriver.io 🕸",
+          "score": 14.872728553822224
+        },
+        {
+          "rank": 3,
+          "artifact_name": "webdriverajax",
+          "description": "Capture and assert HTTP ajax calls in webdriver.io 🕸",
+          "score": 14.872728553822224
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@offirgolan/nise",
+          "description": "Fake XHR and server",
+          "score": 13.678765304396787
+        },
+        {
+          "rank": 5,
+          "artifact_name": "nise",
+          "description": "Fake XHR and server",
+          "score": 13.678765304396787
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S4",
+      "query": "Node.js terminal styling library for colored and bold text output in CLI apps",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "kleur",
+          "description": "The fastest Node.js library for formatting terminal text with ANSI colors~!",
+          "score": 17.87273063418534
+        },
+        {
+          "rank": 2,
+          "artifact_name": "chalkercli",
+          "description": "Colorful animations in terminal output",
+          "score": 16.855062447186707
+        },
+        {
+          "rank": 3,
+          "artifact_name": "chalk-animation",
+          "description": "Colorful animations in terminal output",
+          "score": 16.855062447186707
+        },
+        {
+          "rank": 4,
+          "artifact_name": "chalk",
+          "description": "Terminal string styling done right",
+          "score": 16.28574091258016
+        },
+        {
+          "rank": 5,
+          "artifact_name": "colors-cli",
+          "description": "Terminal string styling done right",
+          "score": 16.28574091258016
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S5",
+      "query": "console logger with emoji or unicode symbols for different log levels like success warning error",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "loggerr",
+          "description": "A simple logger to console or file",
+          "score": 18.59381653792778
+        },
+        {
+          "rank": 2,
+          "artifact_name": "figures",
+          "description": "Unicode symbols with fallbacks for older terminals",
+          "score": 17.192759518042433
+        },
+        {
+          "rank": 3,
+          "artifact_name": "log-symbols",
+          "description": "Colored symbols for various log levels. Example: `✔︎ Success`",
+          "score": 13.422464311695261
+        },
+        {
+          "rank": 4,
+          "artifact_name": "cypress-fail-on-console-error",
+          "description": "fail cypress test on console error",
+          "score": 13.018898069499219
+        },
+        {
+          "rank": 5,
+          "artifact_name": "postcss-fail-on-warn",
+          "description": "PostCSS plugin throws a error on any warning from previous PostCSS plugins",
+          "score": 11.85201472847309
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S6",
+      "query": "JSON templating library to dynamically build JSON structures from input parameters in Node.js",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "lang-json",
+          "description": "A lib for templating json",
+          "score": 20.45965271242439
+        },
+        {
+          "rank": 2,
+          "artifact_name": "jschemer",
+          "description": "A Node.js library to generate documentation for JSON Schemas",
+          "score": 17.667933436889122
+        },
+        {
+          "rank": 3,
+          "artifact_name": "apidoc-swagger",
+          "description": "Convert api doc json to swagger json",
+          "score": 16.343188703333425
+        },
+        {
+          "rank": 4,
+          "artifact_name": "apidoc-swagger-converter",
+          "description": "Convert api doc json to swagger-3.0 json",
+          "score": 16.343188703333425
+        },
+        {
+          "rank": 5,
+          "artifact_name": "convert-csv-to-json",
+          "description": "Convert CSV to JSON",
+          "score": 14.129174912347409
+        }
+      ]
+    }
+  ]
+}

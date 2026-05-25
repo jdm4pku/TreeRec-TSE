@@ -1,0 +1,80 @@
+{
+  "participant_id": "P3",
+  "education": "master",
+  "dev_years": 2,
+  "ecosystem": "JavaScript",
+  "evaluations": [
+    {
+      "scenario_id": "JS-S1",
+      "query": "interactive CLI confirmation prompt library for Node.js, like a simple yes/no dialog",
+      "ground_truth": "@inquirer/confirm",
+      "scores": {
+        "A": { "relevance": 3, "usefulness": 3 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "B", "neutral": "C", "worst": "A" },
+      "reason": "Method B includes GT @inquirer/confirm at #3 and all three are relevant CLI prompt libraries. Method C also recommends strong alternatives including @clack/prompts. Method A's yn is just a parser (not interactive), and v-dialogs is a Vue component — irrelevant for Node.js CLI."
+    },
+    {
+      "scenario_id": "JS-S2",
+      "query": "cross-environment JavaScript test framework that supports both Node.js and browser execution",
+      "ground_truth": "jasmine",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 1, "usefulness": 1 }
+      },
+      "ranking": { "best": "B", "neutral": "A", "worst": "C" },
+      "reason": "Method B recommends jstest (cross-platform), jasmine-core, and GT jasmine — all directly relevant. Method A also has jasmine-core and mocha, both excellent. Method C recommends backendless SDK and @tago-io/sdk which are not test frameworks at all."
+    },
+    {
+      "scenario_id": "JS-S3",
+      "query": "HTTP request interception and mocking library for JavaScript, intercept fetch and XHR calls",
+      "ground_truth": "@mswjs/interceptors",
+      "scores": {
+        "A": { "relevance": 4, "usefulness": 4 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "C", "neutral": "B", "worst": "A" },
+      "reason": "Method C has GT @mswjs/interceptors at #1, fetch-mock at #2, and mockttp at #3 — all highly relevant and diverse. Method B is also excellent with msw, fetch-mock, and GT at #3. Method A has GT at #1 but #2 and #3 are webdriver-specific interception tools, less broadly useful."
+    },
+    {
+      "scenario_id": "JS-S4",
+      "query": "Node.js terminal styling library for colored and bold text output in CLI apps",
+      "ground_truth": "kleur",
+      "scores": {
+        "A": { "relevance": 3, "usefulness": 3 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "B", "neutral": "C", "worst": "A" },
+      "reason": "Method B has GT kleur at #1, chalk at #2, cli-color at #3 — all perfect matches. Method C also recommends chalk, ansi-colors, and kleur — excellent. Method A has kleur at #1 but chalkercli and chalk-animation are animation libraries, not general styling."
+    },
+    {
+      "scenario_id": "JS-S5",
+      "query": "console logger with emoji or unicode symbols for different log levels like success warning error",
+      "ground_truth": "log-symbols",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 4, "usefulness": 4 },
+        "C": { "relevance": 3, "usefulness": 3 }
+      },
+      "ranking": { "best": "A", "neutral": "B", "worst": "C" },
+      "reason": "Method A has GT log-symbols at #1, plus log-utils and emojic — all directly relevant. Method B has GT at #2 with @hazeral/logger at #1 which is less well-known. Method C has GT at #3 but loggerr at #1 is a generic logger without symbol focus."
+    },
+    {
+      "scenario_id": "JS-S6",
+      "query": "JSON templating library to dynamically build JSON structures from input parameters in Node.js",
+      "ground_truth": "lang-json",
+      "scores": {
+        "A": { "relevance": 4, "usefulness": 4 },
+        "B": { "relevance": 3, "usefulness": 3 },
+        "C": { "relevance": 4, "usefulness": 3 }
+      },
+      "ranking": { "best": "A", "neutral": "C", "worst": "B" },
+      "reason": "All three place GT lang-json at #1. Method A adds json-mask which is somewhat useful for JSON manipulation. Method C has js-templates-generator which is partially relevant. Method B drifts to jschemer and apidoc-swagger which are documentation tools, not templating."
+    }
+  ]
+}

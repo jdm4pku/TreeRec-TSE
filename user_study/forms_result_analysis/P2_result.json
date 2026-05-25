@@ -1,0 +1,158 @@
+{
+  "participant_id": "P2",
+  "education": "undergraduate",
+  "dev_years": 1,
+  "ecosystem": "JavaScript",
+  "evaluations": [
+    {
+      "scenario_id": "JS-S7",
+      "query": "local dev server with live reload for static html css js",
+      "ground_truth": "live-server",
+      "scores": {
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "GPT4": {
+          "relevance": 4,
+          "usefulness": 4
+        },
+        "BM25": {
+          "relevance": 3,
+          "usefulness": 3
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "GPT4",
+        "worst": "BM25"
+      },
+      "reason": "All three methods include live-server or its forks. Method A is best because it also recommends browser-sync and @web/dev-server as diverse, useful alternatives. Method B and C mostly recommend forks of live-server (@compodoc/live-server, @pattern-lab/live-server) with little variety, and C has a duplicate entry."
+    },
+    {
+      "scenario_id": "JS-S8",
+      "query": "browser automation testing framework javascript webdriver",
+      "ground_truth": "nightwatch",
+      "scores": {
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "GPT4": {
+          "relevance": 4,
+          "usefulness": 4
+        },
+        "BM25": {
+          "relevance": 2,
+          "usefulness": 2
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "GPT4",
+        "worst": "BM25"
+      },
+      "reason": "Method A includes selenium-webdriver, @wdio/cli, and the GT nightwatch — a perfect set. Method B has selenium-webdriver but then drifts to webdriver-manager and a lighthouse service. Method C recommends obscure packages like @midscene/webdriver and a generic cucumber framework."
+    },
+    {
+      "scenario_id": "JS-S9",
+      "query": "javascript math library for matrix operations and coordinate transformations",
+      "ground_truth": "@loaders.gl/math",
+      "scores": {
+        "TreeRec": {
+          "relevance": 4,
+          "usefulness": 4
+        },
+        "GPT4": {
+          "relevance": 3,
+          "usefulness": 3
+        },
+        "BM25": {
+          "relevance": 4,
+          "usefulness": 4
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "BM25",
+        "worst": "GPT4"
+      },
+      "reason": "None of the methods recommend the GT @loaders.gl/math. However, Method A recommends mathjs, @thi.ng/matrices, and rematrix which are all highly relevant. Method C also recommends rematrix, @thi.ng/matrices, and wgpu-matrix. Method B's recommendations are less well-known (math3d, matrixops)."
+    },
+    {
+      "scenario_id": "JS-S10",
+      "query": "safely parse and evaluate math expressions from user input in javascript",
+      "ground_truth": "@sideway/formula",
+      "scores": {
+        "TreeRec": {
+          "relevance": 4,
+          "usefulness": 5
+        },
+        "BM25": {
+          "relevance": 4,
+          "usefulness": 4
+        },
+        "GPT4": {
+          "relevance": 4,
+          "usefulness": 4
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "GPT4",
+        "worst": "BM25"
+      },
+      "reason": "None include the GT @sideway/formula, but all recommend relevant expression parsers. Method A's mathjs and expr-eval are well-established and widely used. Method C's decimal-eval and math-expression-evaluator are also solid. Method B's @emmetio/math-expression is more niche."
+    },
+    {
+      "scenario_id": "JS-S11",
+      "query": "phone number input with country code formatting and validation js",
+      "ground_truth": "intl-tel-input",
+      "scores": {
+        "BM25": {
+          "relevance": 3,
+          "usefulness": 3
+        },
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "GPT4": {
+          "relevance": 3,
+          "usefulness": 2
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "BM25",
+        "worst": "GPT4"
+      },
+      "reason": "Method B places GT intl-tel-input at rank 1, plus libphonenumber-js which is also excellent. Method A recommends country-code-splitter and a React-specific component, partially relevant. Method C recommends only Angular Material packages, not useful for a general JS project."
+    },
+    {
+      "scenario_id": "JS-S12",
+      "query": "javascript diff library to compare two text strings and show changes",
+      "ground_truth": "diff",
+      "scores": {
+        "GPT4": {
+          "relevance": 5,
+          "usefulness": 4
+        },
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "BM25": {
+          "relevance": 3,
+          "usefulness": 3
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "GPT4",
+        "worst": "BM25"
+      },
+      "reason": "Both A and B place GT diff at rank 1. Method B adds disparity (colorized diff) which is very useful for the text editor use case. Method A's other two are generic diff algorithms. Method C drifts to lcov-comparer and css-diff which are less relevant to general text diffing."
+    }
+  ]
+}

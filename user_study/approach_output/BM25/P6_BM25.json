@@ -1,0 +1,223 @@
+{
+  "participant_id": "P6",
+  "ecosystem": "JavaScript",
+  "method": "BM25",
+  "results": [
+    {
+      "scenario_id": "JS-S13",
+      "query": "npm task orchestration — run multiple package.json scripts concurrently or in a defined sequential pipeline",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "is-ci-cli",
+          "description": "Run different npm scripts in a CI environment",
+          "score": 16.963298637018195
+        },
+        {
+          "rank": 2,
+          "artifact_name": "yarn-run-all",
+          "description": "A CLI tool to run multiple npm-scripts in parallel or sequential.",
+          "score": 14.985315420666387
+        },
+        {
+          "rank": 3,
+          "artifact_name": "npm-run-all",
+          "description": "A CLI tool to run multiple npm-scripts in parallel or sequential.",
+          "score": 14.985315420666387
+        },
+        {
+          "rank": 4,
+          "artifact_name": "npm-run-all2",
+          "description": "A CLI tool to run multiple npm-scripts in parallel or sequential. (Maintenance fork)",
+          "score": 13.939040074371812
+        },
+        {
+          "rank": 5,
+          "artifact_name": "tasuku",
+          "description": "タスク — The minimal task runner",
+          "score": 13.746215932938615
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S14",
+      "query": "LCOV to HTML coverage report generator with hierarchical directory grouping for CI artifacts",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "lcoview",
+          "description": "LCOV coverage report viewer that generates interactive HTML reports with file filtering",
+          "score": 18.026970669354256
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@lcov-viewer/cli",
+          "description": "LCOV viewer CLI to convert coverage to grouped HTML report. Generates code coverage report grouped by directory.",
+          "score": 16.34642790353186
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@lcov-viewer/cli",
+          "description": "LCOV viewer CLI to convert coverage to grouped HTML report. Generates code coverage report grouped by directory.",
+          "score": 15.785885782676214
+        },
+        {
+          "rank": 4,
+          "artifact_name": "gemini-coverage",
+          "description": "Coverage report generator for gemini",
+          "score": 14.689655078462861
+        },
+        {
+          "rank": 5,
+          "artifact_name": "clairvoyance-html",
+          "description": "A HTML report for Clairvoyance",
+          "score": 14.245775700517225
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S15",
+      "query": "NestJS passport integration for JWT-based auth with guards, registration and login endpoints",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "valiend",
+          "description": "a package for validate and check auth input",
+          "score": 9.84292275888362
+        },
+        {
+          "rank": 2,
+          "artifact_name": "login-express",
+          "description": "Generates node.js user signup & login system",
+          "score": 9.616185351271238
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@better-auth/cli",
+          "description": "The CLI for Better Auth",
+          "score": 9.529785657868185
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@midware/mauth",
+          "description": "A simple auth middleware for Node.js",
+          "score": 9.089510550026432
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@aerogear/auth",
+          "description": "JavaScript Auth module for AeroGear services",
+          "score": 9.089510550026432
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S16",
+      "query": "source-map-aware coverage remapping tool to translate Istanbul/V8 coverage from transpiled output back to TypeScript source",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "front-remap-istanbul",
+          "description": "A tool for remapping Istanbul coverage via Source Maps",
+          "score": 22.386607443064555
+        },
+        {
+          "rank": 2,
+          "artifact_name": "remap-istanbul",
+          "description": "A tool for remapping Istanbul coverage via Source Maps",
+          "score": 22.386607443064555
+        },
+        {
+          "rank": 3,
+          "artifact_name": "remap-istanbul-adhoc",
+          "description": "A tool for remapping Istanbul coverage via Source Maps",
+          "score": 22.386607443064555
+        },
+        {
+          "rank": 4,
+          "artifact_name": "atlas-coverage",
+          "description": "Postprocesses puppeteer coverage data to project coverage data on minified js back to the source files",
+          "score": 19.58350644863817
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@xgovformbuilder/lab-babel",
+          "description": "a transform for lab to allow testing babel transpiled modules, with coverage and source maps (fork from nfl/lab-babel)",
+          "score": 19.10981021586831
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S17",
+      "query": "IEEE 754 copysign utility for JavaScript — transfer sign bit from one floating-point value to another",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@stdlib/constants-float64-high-word-sign-mask",
+          "description": "High word mask for the sign bit of a double-precision floating-point number.",
+          "score": 17.001665274693487
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@anselan/maprange",
+          "description": "Map values from one range to another",
+          "score": 16.577369557810997
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@stdlib/constants-float64-high-word-abs-mask",
+          "description": "High word mask for excluding the sign bit of a double-precision floating-point number.",
+          "score": 16.40813678618626
+        },
+        {
+          "rank": 4,
+          "artifact_name": "css-unit-converter",
+          "description": "Converts CSS values from one unit to another",
+          "score": 15.876277560545036
+        },
+        {
+          "rank": 5,
+          "artifact_name": "css-color-converter",
+          "description": "Converts CSS colors from one representation to another",
+          "score": 15.876277560545036
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S18",
+      "query": "TypeScript robotics SDK with gRPC or REST API bindings for device telemetry, command dispatch, and service lifecycle management",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "rest-api-kit",
+          "description": "Enterprise-grade TypeScript REST API management library for React and React Native with advanced caching, state management, and performance optimization",
+          "score": 16.404396287240324
+        },
+        {
+          "rank": 2,
+          "artifact_name": "serverless-iot-offline",
+          "description": "Start AWS IoT service offline. Manages topic subscriptions, lifecycle events, thing shadow management and rule engine with limited SQL syntax support.",
+          "score": 15.516442407913155
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@cognite/robotics-sdk-ts",
+          "description": "robotics services Typescript sdk",
+          "score": 15.259293068964297
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@cognite/robotics-ts-sdk",
+          "description": "robotics services typescript sdk",
+          "score": 15.259293068964297
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@kaaiot/services",
+          "description": "Type definitions for KaaIoT platform REST API service communication",
+          "score": 15.102011981097549
+        }
+      ]
+    }
+  ]
+}

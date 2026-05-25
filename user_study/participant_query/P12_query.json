@@ -1,0 +1,32 @@
+{
+  "participant_id": "P12",
+  "education": "phd",
+  "dev_years": 5,
+  "ecosystem": "HuggingFace",
+  "queries": [
+    {
+      "scenario_id": "HF-S13",
+      "your_query": "compact SLM under 3B parameters with multilingual instruction-tuning, function-calling schema support, and quantization-friendly architecture for on-device deployment"
+    },
+    {
+      "scenario_id": "HF-S14",
+      "your_query": "end-to-end document AI model combining OCR, table structure recognition, and layout-aware VQA — multilingual, handles both printed and handwritten inputs in a single forward pass"
+    },
+    {
+      "scenario_id": "HF-S15",
+      "your_query": "stable diffusion variant with well-documented LoRA/DreamBooth fine-tuning pipeline for few-shot style adaptation on custom artistic datasets"
+    },
+    {
+      "scenario_id": "HF-S16",
+      "your_query": "single-view 3D reconstruction model that outputs textured mesh or NeRF from a single product photograph, suitable for novel view synthesis in e-commerce"
+    },
+    {
+      "scenario_id": "HF-S17",
+      "your_query": "video action recognition transformer pretrained on Kinetics-700 or similar large-scale benchmark, supports temporal modeling over variable-length clips for content classification"
+    },
+    {
+      "scenario_id": "HF-S18",
+      "your_query": "sentence-transformers compatible bilingual Russian-English embedding model trained with contrastive learning for semantic textual similarity, paraphrase mining, and intent clustering"
+    }
+  ]
+}

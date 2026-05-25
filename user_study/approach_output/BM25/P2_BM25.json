@@ -1,0 +1,223 @@
+{
+  "participant_id": "P2",
+  "ecosystem": "JavaScript",
+  "method": "BM25",
+  "results": [
+    {
+      "scenario_id": "JS-S7",
+      "query": "local dev server with live reload for static html css js",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@compodoc/live-server",
+          "description": "Simple development http server with live reload capability",
+          "score": 19.674351583465597
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@pattern-lab/live-server",
+          "description": "simple development http server with live reload capability",
+          "score": 19.674351583465597
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@pattern-lab/live-server",
+          "description": "simple development http server with live reload capability",
+          "score": 19.674351583465597
+        },
+        {
+          "rank": 4,
+          "artifact_name": "live-server",
+          "description": "simple development http server with live reload capability",
+          "score": 19.674351583465597
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@compodoc/live-server",
+          "description": "Simple development http server with live reload capability",
+          "score": 19.674351583465597
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S8",
+      "query": "browser automation testing framework javascript webdriver",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@midscene/webdriver",
+          "description": "WebDriver protocol implementation for Midscene automation",
+          "score": 14.360413449482047
+        },
+        {
+          "rank": 2,
+          "artifact_name": "generic-cucumber-protractor-framework",
+          "description": "Generic Cucumber Protractor Automation Framework",
+          "score": 13.401948994803565
+        },
+        {
+          "rank": 3,
+          "artifact_name": "webdriver-server",
+          "description": "webdriver server",
+          "score": 12.547548905612256
+        },
+        {
+          "rank": 4,
+          "artifact_name": "selenium-webdriver",
+          "description": "The official WebDriver JavaScript bindings from the Selenium project",
+          "score": 12.124366028601901
+        },
+        {
+          "rank": 5,
+          "artifact_name": "catjs",
+          "description": "(Mobile) Web Automation Framework ",
+          "score": 11.440097385908338
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S9",
+      "query": "javascript math library for matrix operations and coordinate transformations",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "rematrix",
+          "description": "Matrix transformations made easy",
+          "score": 19.065504649139783
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@thi.ng/matrices",
+          "description": "Matrix & quaternion operations for 2D/3D geometry processing",
+          "score": 16.104768232205178
+        },
+        {
+          "rank": 3,
+          "artifact_name": "wgpu-matrix",
+          "description": "fast matrix math library for WebGPU",
+          "score": 14.84243181465875
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@kjerandp/linear-algebra",
+          "description": "Math library for doing basic linear algebra operations",
+          "score": 12.698923226886613
+        },
+        {
+          "rank": 5,
+          "artifact_name": "matrixops",
+          "description": "A package for doing matrix arithmetic with JavaScript arrays",
+          "score": 12.64961367405041
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S10",
+      "query": "safely parse and evaluate math expressions from user input in javascript",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@emmetio/math-expression",
+          "description": "Parse and evaluate simple math expressions",
+          "score": 25.106529540604022
+        },
+        {
+          "rank": 2,
+          "artifact_name": "animipraesentium",
+          "description": "Safely evaluate JavaScript (estree) expressions, sync and async.",
+          "score": 21.493211787798188
+        },
+        {
+          "rank": 3,
+          "artifact_name": "eval-estree-expression",
+          "description": "Safely evaluate JavaScript (estree) expressions, sync and async.",
+          "score": 21.493211787798188
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@stemcmicro/directive",
+          "description": "JavaScript parser for math expressions",
+          "score": 14.605611740213998
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@stemcmicro/js-parse",
+          "description": "JavaScript parser for math expressions",
+          "score": 14.605611740213998
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S11",
+      "query": "phone number input with country code formatting and validation js",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "country-code-splitter",
+          "description": "Split country code and mobile number from mobile number. The module returns mobile number and country code.",
+          "score": 19.46232938845373
+        },
+        {
+          "rank": 2,
+          "artifact_name": "react-simple-phone-input",
+          "description": "A simple react phone input component with calling code dropdown🤷",
+          "score": 17.005816870422983
+        },
+        {
+          "rank": 3,
+          "artifact_name": "country-codes-flags-phone-codes",
+          "description": "Easily access country codes, flags 🏳 and phone codes",
+          "score": 16.482241804730418
+        },
+        {
+          "rank": 4,
+          "artifact_name": "react-native-international-phone-number",
+          "description": "International mobile phone input component with mask for React Native",
+          "score": 13.887190631770743
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@splainez/n8n-nodes-phonenumber-parser",
+          "description": "Parse a phone number and return its information",
+          "score": 13.62416874072136
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S12",
+      "query": "javascript diff library to compare two text strings and show changes",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "diff",
+          "description": "A JavaScript text diff implementation.",
+          "score": 20.67072016195636
+        },
+        {
+          "rank": 2,
+          "artifact_name": "lcov-comparer",
+          "description": "Visual diff between two lcov.info reports",
+          "score": 14.125482941124071
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@romainberger/css-diff",
+          "description": "Get the diff between two css",
+          "score": 14.125482941124071
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@fawazahmed/react-native-read-more",
+          "description": "A simple react native library to show large blocks of text in a condensed manner with the ability to collapse and expand.",
+          "score": 11.894626295036366
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@iiot2k/gpiomon",
+          "description": "monitor changes on any gpio library",
+          "score": 11.039009141817935
+        }
+      ]
+    }
+  ]
+}

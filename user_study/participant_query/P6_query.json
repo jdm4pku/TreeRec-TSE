@@ -1,0 +1,32 @@
+{
+  "participant_id": "P6",
+  "education": "phd",
+  "dev_years": 4,
+  "ecosystem": "JavaScript",
+  "queries": [
+    {
+      "scenario_id": "JS-S13",
+      "your_query": "npm task orchestration — run multiple package.json scripts concurrently or in a defined sequential pipeline"
+    },
+    {
+      "scenario_id": "JS-S14",
+      "your_query": "LCOV to HTML coverage report generator with hierarchical directory grouping for CI artifacts"
+    },
+    {
+      "scenario_id": "JS-S15",
+      "your_query": "NestJS passport integration for JWT-based auth with guards, registration and login endpoints"
+    },
+    {
+      "scenario_id": "JS-S16",
+      "your_query": "source-map-aware coverage remapping tool to translate Istanbul/V8 coverage from transpiled output back to TypeScript source"
+    },
+    {
+      "scenario_id": "JS-S17",
+      "your_query": "IEEE 754 copysign utility for JavaScript — transfer sign bit from one floating-point value to another"
+    },
+    {
+      "scenario_id": "JS-S18",
+      "your_query": "TypeScript robotics SDK with gRPC or REST API bindings for device telemetry, command dispatch, and service lifecycle management"
+    }
+  ]
+}

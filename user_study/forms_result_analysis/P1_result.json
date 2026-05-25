@@ -1,0 +1,158 @@
+{
+  "participant_id": "P1",
+  "education": "undergraduate",
+  "dev_years": 1,
+  "ecosystem": "JavaScript",
+  "evaluations": [
+    {
+      "scenario_id": "JS-S1",
+      "query": "npm package for yes/no confirm prompt in terminal",
+      "ground_truth": "@inquirer/confirm",
+      "scores": {
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "BM25": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "GPT4": {
+          "relevance": 4,
+          "usefulness": 4
+        }
+      },
+      "ranking": {
+        "best": "BM25",
+        "neutral": "TreeRec",
+        "worst": "GPT4"
+      },
+      "reason": "All three methods recommend relevant confirm prompt packages. Method B ranks the ground truth @inquirer/confirm first, Method A has it second. Method C misses it entirely but still provides usable alternatives."
+    },
+    {
+      "scenario_id": "JS-S2",
+      "query": "javascript testing framework that works in both browser and node",
+      "ground_truth": "jasmine",
+      "scores": {
+        "GPT4": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "TreeRec": {
+          "relevance": 4,
+          "usefulness": 4
+        },
+        "BM25": {
+          "relevance": 2,
+          "usefulness": 2
+        }
+      },
+      "ranking": {
+        "best": "GPT4",
+        "neutral": "TreeRec",
+        "worst": "BM25"
+      },
+      "reason": "Method A directly recommends jasmine-core and jasmine, perfectly matching the intent. Method B recommends popular frameworks (jest, mocha) which are useful but less targeted. Method C includes skmeans (a clustering library), which is completely irrelevant."
+    },
+    {
+      "scenario_id": "JS-S3",
+      "query": "how to intercept http requests in javascript for testing and mocking",
+      "ground_truth": "@mswjs/interceptors",
+      "scores": {
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "GPT4": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "BM25": {
+          "relevance": 3,
+          "usefulness": 3
+        }
+      },
+      "ranking": {
+        "best": "GPT4",
+        "neutral": "TreeRec",
+        "worst": "BM25"
+      },
+      "reason": "Method B places the ground truth @mswjs/interceptors at rank 1. Method A has it at rank 2 with msw at rank 1, which is also excellent. Method C recommends less well-known alternatives like faux-jax."
+    },
+    {
+      "scenario_id": "JS-S4",
+      "query": "nodejs library to add color to console output in terminal",
+      "ground_truth": "kleur",
+      "scores": {
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "GPT4": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "BM25": {
+          "relevance": 2,
+          "usefulness": 2
+        }
+      },
+      "ranking": {
+        "best": "GPT4",
+        "neutral": "TreeRec",
+        "worst": "BM25"
+      },
+      "reason": "Both A and B recommend highly relevant terminal color libraries. Method B includes the ground truth kleur at rank 2. Method A recommends chalk, picocolors, ansi-colors which are all great but miss kleur. Method C focuses on gradient and animation effects, not general terminal coloring."
+    },
+    {
+      "scenario_id": "JS-S5",
+      "query": "npm package for log levels with different icons like checkmark and warning sign",
+      "ground_truth": "log-symbols",
+      "scores": {
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "BM25": {
+          "relevance": 1,
+          "usefulness": 1
+        },
+        "GPT4": {
+          "relevance": 1,
+          "usefulness": 1
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "BM25",
+        "worst": "GPT4"
+      },
+      "reason": "Method A nails it with log-symbols at rank 1, plus related utilities. Method B recommends an echidna coverage parser which has nothing to do with log icons. Method C recommends React Native and Ionic packages, completely irrelevant for a Node.js logging task."
+    },
+    {
+      "scenario_id": "JS-S6",
+      "query": "javascript json template engine to generate json dynamically from variables",
+      "ground_truth": "lang-json",
+      "scores": {
+        "BM25": {
+          "relevance": 1,
+          "usefulness": 1
+        },
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 4
+        },
+        "GPT4": {
+          "relevance": 1,
+          "usefulness": 1
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "GPT4",
+        "worst": "BM25"
+      },
+      "reason": "Method B recommends the ground truth lang-json at rank 1, directly matching the intent. Method A recommends swagger-related generators which are completely off-topic. Method C recommends jsdoc and cssjson tools, also irrelevant to JSON templating."
+    }
+  ]
+}

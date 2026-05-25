@@ -1,0 +1,455 @@
+{
+  "participant_id": "P2",
+  "ecosystem": "JavaScript",
+  "instructions": {
+    "scoring": "For each method (A/B/C), rate the top-5 recommendations as a whole on: Relevance (1-5, how well do these recommendations match your intent?) and Usefulness (1-5, how useful would these recommendations be for solving your task?)",
+    "ranking": "Rank the three methods: assign Best, Neutral, Worst to A/B/C respectively. Each label must be used exactly once.",
+    "scale": "1=Very Poor, 2=Poor, 3=Average, 4=Good, 5=Excellent"
+  },
+  "queries": [
+    {
+      "scenario_id": "JS-S7",
+      "query": "local dev server with live reload for static html css js",
+      "method_A": [
+        {
+          "rank": 1,
+          "artifact_name": "live-server",
+          "description": "simple development http server with live reload capability"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "browser-sync",
+          "description": "Live CSS Reload & Browser Syncing"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@web/dev-server",
+          "description": "Dev server for web applications"
+        }
+      ],
+      "method_B": [
+        {
+          "rank": 1,
+          "artifact_name": "live-server : simple development http server with live reload capability",
+          "description": ""
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@compodoc/live-server : Simple development http server with live reload capability",
+          "description": ""
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@pattern-lab/live-server : simple development http server with live reload capability",
+          "description": ""
+        }
+      ],
+      "method_C": [
+        {
+          "rank": 1,
+          "artifact_name": "@compodoc/live-server",
+          "description": "Simple development http server with live reload capability"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@pattern-lab/live-server",
+          "description": "simple development http server with live reload capability"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@pattern-lab/live-server",
+          "description": "simple development http server with live reload capability"
+        }
+      ],
+      "evaluation": {
+        "method_A": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_B": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_C": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "overall_ranking": {
+          "best": null,
+          "neutral": null,
+          "worst": null
+        }
+      }
+    },
+    {
+      "scenario_id": "JS-S8",
+      "query": "browser automation testing framework javascript webdriver",
+      "method_A": [
+        {
+          "rank": 1,
+          "artifact_name": "selenium-webdriver",
+          "description": "The official WebDriver JavaScript bindings from the Selenium project"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@wdio/cli",
+          "description": "WebdriverIO testrunner command line interface"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "nightwatch",
+          "description": "Easy to use Node.js based end-to-end testing solution for web applications using the W3C WebDriver API."
+        }
+      ],
+      "method_B": [
+        {
+          "rank": 1,
+          "artifact_name": "selenium-webdriver",
+          "description": "The official WebDriver JavaScript bindings from the Selenium project"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "webdriver-manager",
+          "description": "A selenium server and browser driver manager for your end to end tests."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@wdio/lighthouse-service",
+          "description": "A WebdriverIO service that allows you to run Chrome DevTools commands in your tests"
+        }
+      ],
+      "method_C": [
+        {
+          "rank": 1,
+          "artifact_name": "@midscene/webdriver",
+          "description": "WebDriver protocol implementation for Midscene automation"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "generic-cucumber-protractor-framework",
+          "description": "Generic Cucumber Protractor Automation Framework"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "webdriver-server",
+          "description": "webdriver server"
+        }
+      ],
+      "evaluation": {
+        "method_A": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_B": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_C": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "overall_ranking": {
+          "best": null,
+          "neutral": null,
+          "worst": null
+        }
+      }
+    },
+    {
+      "scenario_id": "JS-S9",
+      "query": "javascript math library for matrix operations and coordinate transformations",
+      "method_A": [
+        {
+          "rank": 1,
+          "artifact_name": "mathjs",
+          "description": "Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser with support for symbolic computation, comes with a large set of built-in functions and constants, and offers an integrated solution to work with dif"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@thi.ng/matrices",
+          "description": "Matrix & quaternion operations for 2D/3D geometry processing"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "rematrix",
+          "description": "Matrix transformations made easy"
+        }
+      ],
+      "method_B": [
+        {
+          "rank": 1,
+          "artifact_name": "math3d",
+          "description": "A nodejs library for 3D transformations similar to Unity3D containing necessary classes and functions for matrices, vectors, quaternions and transforms."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "matrixops",
+          "description": "A package for doing matrix arithmetic with JavaScript arrays"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "math.js",
+          "description": "A simple math library written in Javascript."
+        }
+      ],
+      "method_C": [
+        {
+          "rank": 1,
+          "artifact_name": "rematrix",
+          "description": "Matrix transformations made easy"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@thi.ng/matrices",
+          "description": "Matrix & quaternion operations for 2D/3D geometry processing"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "wgpu-matrix",
+          "description": "fast matrix math library for WebGPU"
+        }
+      ],
+      "evaluation": {
+        "method_A": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_B": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_C": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "overall_ranking": {
+          "best": null,
+          "neutral": null,
+          "worst": null
+        }
+      }
+    },
+    {
+      "scenario_id": "JS-S10",
+      "query": "safely parse and evaluate math expressions from user input in javascript",
+      "method_A": [
+        {
+          "rank": 1,
+          "artifact_name": "mathjs",
+          "description": "Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser with support for symbolic computation, comes with a large set of built-in functions and constants, and offers an integrated solution to work with dif"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "expr-eval-fork",
+          "description": "Mathematical expression evaluator fork with prototype pollution fix"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "expr-eval",
+          "description": "Mathematical expression evaluator"
+        }
+      ],
+      "method_B": [
+        {
+          "rank": 1,
+          "artifact_name": "@emmetio/math-expression",
+          "description": "Parse and evaluate simple math expressions"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "animipraesentium",
+          "description": "Safely evaluate JavaScript (estree) expressions, sync and async."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "eval-estree-expression",
+          "description": "Safely evaluate JavaScript (estree) expressions, sync and async."
+        }
+      ],
+      "method_C": [
+        {
+          "rank": 1,
+          "artifact_name": "decimal-eval",
+          "description": "A tiny, safe, fast JavaScript library for decimal arithmetic expressions."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "math-expression-evaluator",
+          "description": "A flexible math expression evaluator"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "numenor",
+          "description": "Customizable, safe evaluator of JavaScript-like expressions."
+        }
+      ],
+      "evaluation": {
+        "method_A": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_B": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_C": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "overall_ranking": {
+          "best": null,
+          "neutral": null,
+          "worst": null
+        }
+      }
+    },
+    {
+      "scenario_id": "JS-S11",
+      "query": "phone number input with country code formatting and validation js",
+      "method_A": [
+        {
+          "rank": 1,
+          "artifact_name": "country-code-splitter",
+          "description": "Split country code and mobile number from mobile number. The module returns mobile number and country code."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "react-simple-phone-input",
+          "description": "A simple react phone input component with calling code dropdown🤷"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "country-codes-flags-phone-codes",
+          "description": "Easily access country codes, flags 🏳 and phone codes"
+        }
+      ],
+      "method_B": [
+        {
+          "rank": 1,
+          "artifact_name": "intl-tel-input",
+          "description": "A JavaScript plugin for entering and validating international telephone numbers"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "libphonenumber-js",
+          "description": "A simpler (and smaller) rewrite of Google Android's libphonenumber library in javascript"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "ngx-mat-intl-tel-input",
+          "description": "An Angular Material package for entering and validating international telephone numbers. It adds a flag dropdown to any input, detects the user's country, displays a relevant placeholder and provides formatting/validation methods."
+        }
+      ],
+      "method_C": [
+        {
+          "rank": 1,
+          "artifact_name": "mat-tel-input",
+          "description": "An Angular Material package for entering and validating international telephone numbers. It adds a flag dropdown to any input, detects the user's country, displays a relevant placeholder and provides formatting/validation methods."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "ngx-mat-input-tel",
+          "description": "An Angular Material package for entering and validating international telephone numbers. It adds a flag dropdown to any input, detects the user's country, displays a relevant placeholder and provides formatting/validation methods."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "ngx-mat-phone-input",
+          "description": "An Angular Material package for entering and validating international telephone numbers. It adds a flag dropdown to any input, detects the user's country, displays a relevant placeholder and provides formatting/validation methods."
+        }
+      ],
+      "evaluation": {
+        "method_A": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_B": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_C": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "overall_ranking": {
+          "best": null,
+          "neutral": null,
+          "worst": null
+        }
+      }
+    },
+    {
+      "scenario_id": "JS-S12",
+      "query": "javascript diff library to compare two text strings and show changes",
+      "method_A": [
+        {
+          "rank": 1,
+          "artifact_name": "diff",
+          "description": "A JavaScript text diff implementation."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@amaui/diff",
+          "description": "Diff algorithm"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@onesy/diff",
+          "description": "Diff algorithm"
+        }
+      ],
+      "method_B": [
+        {
+          "rank": 1,
+          "artifact_name": "diff",
+          "description": "A JavaScript text diff implementation."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "disparity",
+          "description": "Colorized string diff ideal for text/code that spans through multiple lines"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@amaui/diff",
+          "description": "Diff algorithm"
+        }
+      ],
+      "method_C": [
+        {
+          "rank": 1,
+          "artifact_name": "diff",
+          "description": "A JavaScript text diff implementation."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "lcov-comparer",
+          "description": "Visual diff between two lcov.info reports"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@romainberger/css-diff",
+          "description": "Get the diff between two css"
+        }
+      ],
+      "evaluation": {
+        "method_A": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_B": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_C": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "overall_ranking": {
+          "best": null,
+          "neutral": null,
+          "worst": null
+        }
+      }
+    }
+  ]
+}

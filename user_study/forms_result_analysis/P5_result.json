@@ -1,0 +1,158 @@
+{
+  "participant_id": "P5",
+  "education": "phd",
+  "dev_years": 3,
+  "ecosystem": "JavaScript",
+  "evaluations": [
+    {
+      "scenario_id": "JS-S7",
+      "query": "lightweight static file server with hot-reload / live-reload support for front-end development",
+      "ground_truth": "live-server",
+      "scores": {
+        "BM25": {
+          "relevance": 4,
+          "usefulness": 3
+        },
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "GPT4": {
+          "relevance": 5,
+          "usefulness": 4
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "GPT4",
+        "worst": "BM25"
+      },
+      "reason": "All three include GT live-server. Method B offers the best diversity: GT at #1, @11ty/eleventy-dev-server (modern alternative) at #2, @web/dev-server at #3. Method C also includes @11ty and alive-server. Method A only recommends live-server forks with no real diversity."
+    },
+    {
+      "scenario_id": "JS-S8",
+      "query": "WebDriver-based end-to-end testing framework for automated browser interaction in JavaScript",
+      "ground_truth": "nightwatch",
+      "scores": {
+        "BM25": {
+          "relevance": 3,
+          "usefulness": 3
+        },
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "GPT4": {
+          "relevance": 5,
+          "usefulness": 5
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "GPT4",
+        "worst": "BM25"
+      },
+      "reason": "Methods B and C both recommend selenium-webdriver at #1 and GT nightwatch at #2, directly matching the WebDriver requirement. Method B adds @wdio/cli which is also WebDriver-based. Method A recommends testcafe which uses its own protocol (not WebDriver), and @antiwork/shortest is AI-powered — neither aligns with the WebDriver-specific query."
+    },
+    {
+      "scenario_id": "JS-S9",
+      "query": "numerical linear algebra library for JS — matrix multiplication, affine transforms, coordinate system conversions",
+      "ground_truth": "@loaders.gl/math",
+      "scores": {
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "BM25": {
+          "relevance": 4,
+          "usefulness": 3
+        },
+        "GPT4": {
+          "relevance": 4,
+          "usefulness": 4
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "GPT4",
+        "worst": "BM25"
+      },
+      "reason": "None include GT @loaders.gl/math. Method A recommends mathjs (comprehensive), numeric (established), and @thi.ng/matrices (geometry-focused) — the strongest set for the described use case. Method C's linear-algebra and numpy-matrix-js are relevant. Method B includes symbolic-math which is more for symbolic computation, less practical for numerical transforms."
+    },
+    {
+      "scenario_id": "JS-S10",
+      "query": "safe expression parser and evaluator for user-defined formulas in a spreadsheet-like context, sandboxed execution",
+      "ground_truth": "@sideway/formula",
+      "scores": {
+        "TreeRec": {
+          "relevance": 4,
+          "usefulness": 4
+        },
+        "BM25": {
+          "relevance": 4,
+          "usefulness": 4
+        },
+        "GPT4": {
+          "relevance": 5,
+          "usefulness": 5
+        }
+      },
+      "ranking": {
+        "best": "GPT4",
+        "neutral": "TreeRec",
+        "worst": "BM25"
+      },
+      "reason": "None include GT @sideway/formula. Method C stands out with numenor (safe evaluator) at #1, mathjs (comprehensive expression parser) at #2, and morph-expressions at #3 — the best combination for a spreadsheet context. Method A has numenor plus estree-based evaluators which are lower-level. Method B's hyoka and expr-eval variants are relevant but less versatile."
+    },
+    {
+      "scenario_id": "JS-S11",
+      "query": "international phone number parsing and validation library with per-country formatting rules",
+      "ground_truth": "intl-tel-input",
+      "scores": {
+        "TreeRec": {
+          "relevance": 4,
+          "usefulness": 4
+        },
+        "GPT4": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "BM25": {
+          "relevance": 2,
+          "usefulness": 2
+        }
+      },
+      "ranking": {
+        "best": "GPT4",
+        "neutral": "TreeRec",
+        "worst": "BM25"
+      },
+      "reason": "Method B places GT intl-tel-input at #1 plus libphonenumber-js at #2 — an excellent pair covering both input UI and parsing. Method A has libphonenumber-js and @lykmapipo/phone, relevant but misses GT. Method C recommends React Native-specific components, not useful for a general JS registration form."
+    },
+    {
+      "scenario_id": "JS-S12",
+      "query": "text diff algorithm implementation in JavaScript, unified or side-by-side diff output for version comparison",
+      "ground_truth": "diff",
+      "scores": {
+        "GPT4": {
+          "relevance": 5,
+          "usefulness": 4
+        },
+        "BM25": {
+          "relevance": 5,
+          "usefulness": 4
+        },
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "GPT4",
+        "worst": "BM25"
+      },
+      "reason": "All three have GT diff at #1. Method C edges ahead with disparity at #2 — a colorized multi-line diff tool that directly addresses the 'visual diff output' aspect of the query. Methods A and B are identical, recommending @amaui/diff and @onesy/diff which are generic diff algorithms without visual output features."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "participant_id": "P6",
+  "education": "phd",
+  "dev_years": 4,
+  "ecosystem": "JavaScript",
+  "evaluations": [
+    {
+      "scenario_id": "JS-S13",
+      "query": "npm task orchestration — run multiple package.json scripts concurrently or in a defined sequential pipeline",
+      "ground_truth": "npm-run-all",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 2, "usefulness": 2 },
+        "C": { "relevance": 4, "usefulness": 4 }
+      },
+      "ranking": { "best": "A", "neutral": "C", "worst": "B" },
+      "reason": "Method A places GT npm-run-all at #1, @xarc/run at #2 (also concurrent/serial), and npm-failsafe at #3 (sequential execution) — all directly relevant. Method C has GT at #3 and yarn-run-all at #2, but is-ci-cli at #1 is for CI-specific script selection, not orchestration. Method B recommends a CI/CD pipeline tool, grunt (task runner but outdated), and npm-run-path (PATH utility, not a script runner) — mostly off-target."
+    },
+    {
+      "scenario_id": "JS-S14",
+      "query": "LCOV to HTML coverage report generator with hierarchical directory grouping for CI artifacts",
+      "ground_truth": "@lcov-viewer/cli",
+      "scores": {
+        "A": { "relevance": 4, "usefulness": 4 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "B", "neutral": "C", "worst": "A" },
+      "reason": "Methods B and C both have GT @lcov-viewer/cli at #1 with distinct, relevant alternatives (istanbul-report, lcoview). Method B edges ahead with GT at #1 and the best ordering. Method A has lcoview at #1 and GT at #2 but duplicates GT at #3, reducing value."
+    },
+    {
+      "scenario_id": "JS-S15",
+      "query": "NestJS passport integration for JWT-based auth with guards, registration and login endpoints",
+      "ground_truth": "@alphaapps/nestjs-auth",
+      "scores": {
+        "A": { "relevance": 1, "usefulness": 1 },
+        "B": { "relevance": 2, "usefulness": 2 },
+        "C": { "relevance": 3, "usefulness": 2 }
+      },
+      "ranking": { "best": "C", "neutral": "B", "worst": "A" },
+      "reason": "Method C includes GT @alphaapps/nestjs-auth at #3, though its description is garbled. quickship-cli and @aerogear/auth are loosely related. Method B has nicot (NestJS-related) at #1 and @steveylin/nestjs-configure, at least NestJS-adjacent. Method A has no NestJS relevance — valiend, login-express, and @better-auth/cli are generic auth tools."
+    },
+    {
+      "scenario_id": "JS-S16",
+      "query": "source-map-aware coverage remapping tool to translate Istanbul/V8 coverage from transpiled output back to TypeScript source",
+      "ground_truth": "remap-istanbul",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 4, "usefulness": 4 }
+      },
+      "ranking": { "best": "A", "neutral": "B", "worst": "C" },
+      "reason": "Methods A and B both have GT remap-istanbul at #1 and remap-istanbul-adhoc at #2. Method A's #3 mocha-remap-istanbul adds a practical integration point. Method B's #3 istanbul-sourcemap-report is also relevant. Method C has GT at #2 behind front-remap-istanbul — all relevant but less diverse, essentially three variants of the same tool."
+    },
+    {
+      "scenario_id": "JS-S17",
+      "query": "IEEE 754 copysign utility for JavaScript — transfer sign bit from one floating-point value to another",
+      "ground_truth": "@stdlib/math-base-special-copysign",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 2, "usefulness": 1 },
+        "C": { "relevance": 5, "usefulness": 4 }
+      },
+      "ranking": { "best": "A", "neutral": "C", "worst": "B" },
+      "reason": "Method A has GT at #1, math-float64-copysign at #2, and math-float64-from-words at #3 — all directly related to IEEE 754 float operations. Method C also has GT at #1 and copysign at #2 but duplicates #2 at #3. Method B recommends sign-mask constants and maprange — low-level building blocks at best, not a copysign utility."
+    },
+    {
+      "scenario_id": "JS-S18",
+      "query": "TypeScript robotics SDK with gRPC or REST API bindings for device telemetry, command dispatch, and service lifecycle management",
+      "ground_truth": "@cognite/robotics-sdk-ts",
+      "scores": {
+        "A": { "relevance": 3, "usefulness": 3 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "C", "neutral": "B", "worst": "A" },
+      "reason": "Method C has GT at #1, @cognite/robotics-ts-sdk at #2, and @dopl-technologies/telerobotic-sdk at #3 — all robotics SDKs with excellent diversity. Method B is similar with robotics-dev at #3. Method A buries GT at #3 behind rest-api-kit (generic REST, not robotics) and serverless-iot-offline (IoT, not robotics)."
+    }
+  ]
+}

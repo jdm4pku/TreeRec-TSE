@@ -1,0 +1,193 @@
+{
+  "participant_id": "P1",
+  "ecosystem": "JavaScript",
+  "method": "GPT-4",
+  "results": [
+    {
+      "scenario_id": "JS-S1",
+      "query": "npm package for yes/no confirm prompt in terminal",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "prompt-confirm",
+          "description": "Confirm (yes/no) prompt. Can be used standalone or with a prompt system like [Enquirer]."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@inquirer/confirm",
+          "description": "Inquirer confirm prompt"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "yesno",
+          "description": "A simple library for asking boolean questions in cli programs"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "inquirer-confirm",
+          "description": "Simple confirm yes/no question for CLI node applications, returns a promise, built on top of inquirer"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "prompts",
+          "description": "Lightweight, beautiful and user-friendly prompts"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S2",
+      "query": "javascript testing framework that works in both browser and node",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "jest",
+          "description": "Delightful JavaScript Testing."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "mocha",
+          "description": "simple, flexible, fun test framework"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "jasmine-core",
+          "description": "Simple JavaScript testing framework for browsers and node.js"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "qunit",
+          "description": "The powerful, easy-to-use testing framework."
+        },
+        {
+          "rank": 5,
+          "artifact_name": "kava",
+          "description": "Kava has been powering accurate test suites for Node.js and Web Browsers since 2012."
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S3",
+      "query": "how to intercept http requests in javascript for testing and mocking",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "msw",
+          "description": "Seamless REST/GraphQL API mocking library for browser and Node.js."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@mswjs/interceptors",
+          "description": "Low-level HTTP/HTTPS/XHR/fetch request interception library."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "fetch-mock",
+          "description": "Mock http requests made using fetch"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "mockttp",
+          "description": "Mock HTTP server for testing HTTP clients and stubbing webservices"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "faux-jax",
+          "description": "Intercept and respond to requests in the browser (XMLHttpRequest, XDomainRequest) and Node.js (http(s) module)"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S4",
+      "query": "nodejs library to add color to console output in terminal",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "chalk",
+          "description": "Terminal string styling done right"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "picocolors",
+          "description": "The tiniest and the fastest library for terminal output formatting with ANSI colors"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "ansi-colors",
+          "description": "Easily add ANSI colors to your text and symbols in the terminal. A faster drop-in replacement for chalk, kleur and turbocolor (without the dependencies and rendering bugs)."
+        },
+        {
+          "rank": 4,
+          "artifact_name": "kleur",
+          "description": "The fastest Node.js library for formatting terminal text with ANSI colors~!"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "cli-color",
+          "description": "Colors, formatting and other tools for the console"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S5",
+      "query": "npm package for log levels with different icons like checkmark and warning sign",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "log-symbols",
+          "description": "Colored symbols for various log levels. Example: `✔︎ Success`"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "log-utils",
+          "description": "Tiny wrapper around ansi-colors to add colored symbols and a timestamp."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "figures",
+          "description": "Unicode symbols with fallbacks for older terminals"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "emojic",
+          "description": "Emoji in your Node.js command line apps."
+        },
+        {
+          "rank": 5,
+          "artifact_name": "mad-logs",
+          "description": "Winston-lite-esque Log lib for terminal and browser debugging, with piles of unignorable log tags and marker styles."
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S6",
+      "query": "javascript json template engine to generate json dynamically from variables",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "lang-json",
+          "description": "A lib for templating json"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "js-templates-generator",
+          "description": "[![CircleCI](https://circleci.com/gh/onwuvic/templetes-generator.svg?style=svg)](https://circleci.com/gh/onwuvic/templetes-generator)  [![Maintainability](https://api.codeclimate.com/v1/badges/87660de3566aad73ebdd/maintainability)](https://codeclimate.com"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "engines",
+          "description": "Template engine library with fast, synchronous rendering, based on consolidate."
+        },
+        {
+          "rank": 4,
+          "artifact_name": "template7",
+          "description": "Mobile-first HTML template engine"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "node-simple-template",
+          "description": "Solution to insert variables into HTML."
+        }
+      ]
+    }
+  ]
+}

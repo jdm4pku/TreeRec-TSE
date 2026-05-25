@@ -1,0 +1,455 @@
+{
+  "participant_id": "P6",
+  "ecosystem": "JavaScript",
+  "instructions": {
+    "scoring": "For each method (A/B/C), rate the top-5 recommendations as a whole on: Relevance (1-5, how well do these recommendations match your intent?) and Usefulness (1-5, how useful would these recommendations be for solving your task?)",
+    "ranking": "Rank the three methods: assign Best, Neutral, Worst to A/B/C respectively. Each label must be used exactly once.",
+    "scale": "1=Very Poor, 2=Poor, 3=Average, 4=Good, 5=Excellent"
+  },
+  "queries": [
+    {
+      "scenario_id": "JS-S13",
+      "query": "npm task orchestration — run multiple package.json scripts concurrently or in a defined sequential pipeline",
+      "method_A": [
+        {
+          "rank": 1,
+          "artifact_name": "npm-run-all",
+          "description": "A CLI tool to run multiple npm-scripts in parallel or sequential."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@xarc/run",
+          "description": "concurrent or serial run npm scripts, javascript tasks, and more"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "npm-failsafe",
+          "description": "Executes a sequence of npm scripts."
+        }
+      ],
+      "method_B": [
+        {
+          "rank": 1,
+          "artifact_name": "@catladder/pipeline",
+          "description": "Panter workflow for cloud CI/CD and DevOps"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "grunt",
+          "description": "The JavaScript Task Runner"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "npm-run-path",
+          "description": "Get your PATH prepended with locally installed binaries"
+        }
+      ],
+      "method_C": [
+        {
+          "rank": 1,
+          "artifact_name": "is-ci-cli",
+          "description": "Run different npm scripts in a CI environment"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "yarn-run-all",
+          "description": "A CLI tool to run multiple npm-scripts in parallel or sequential."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "npm-run-all",
+          "description": "A CLI tool to run multiple npm-scripts in parallel or sequential."
+        }
+      ],
+      "evaluation": {
+        "method_A": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_B": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_C": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "overall_ranking": {
+          "best": null,
+          "neutral": null,
+          "worst": null
+        }
+      }
+    },
+    {
+      "scenario_id": "JS-S14",
+      "query": "LCOV to HTML coverage report generator with hierarchical directory grouping for CI artifacts",
+      "method_A": [
+        {
+          "rank": 1,
+          "artifact_name": "lcoview",
+          "description": "LCOV coverage report viewer that generates interactive HTML reports with file filtering"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@lcov-viewer/cli",
+          "description": "LCOV viewer CLI to convert coverage to grouped HTML report. Generates code coverage report grouped by directory."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@lcov-viewer/cli",
+          "description": "LCOV viewer CLI to convert coverage to grouped HTML report. Generates code coverage report grouped by directory."
+        }
+      ],
+      "method_B": [
+        {
+          "rank": 1,
+          "artifact_name": "@lcov-viewer/cli",
+          "description": "LCOV viewer CLI to convert coverage to grouped HTML report. Generates code coverage report grouped by directory."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "lcoview",
+          "description": "LCOV coverage report viewer that generates interactive HTML reports with file filtering"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@lcov-viewer/istanbul-report",
+          "description": "Istanbul grouped HTML report. Generates code coverage report grouped by directory."
+        }
+      ],
+      "method_C": [
+        {
+          "rank": 1,
+          "artifact_name": "@lcov-viewer/cli",
+          "description": "LCOV viewer CLI to convert coverage to grouped HTML report. Generates code coverage report grouped by directory."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@lcov-viewer/istanbul-report",
+          "description": "Istanbul grouped HTML report. Generates code coverage report grouped by directory."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "lcoview",
+          "description": "LCOV coverage report viewer that generates interactive HTML reports with file filtering"
+        }
+      ],
+      "evaluation": {
+        "method_A": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_B": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_C": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "overall_ranking": {
+          "best": null,
+          "neutral": null,
+          "worst": null
+        }
+      }
+    },
+    {
+      "scenario_id": "JS-S15",
+      "query": "NestJS passport integration for JWT-based auth with guards, registration and login endpoints",
+      "method_A": [
+        {
+          "rank": 1,
+          "artifact_name": "valiend",
+          "description": "a package for validate and check auth input"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "login-express",
+          "description": "Generates node.js user signup & login system"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@better-auth/cli",
+          "description": "The CLI for Better Auth"
+        }
+      ],
+      "method_B": [
+        {
+          "rank": 1,
+          "artifact_name": "nicot",
+          "description": "Nest.js interacting with class-validator + OpenAPI + TypeORM for Nest.js Restful API development."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@steveylin/nestjs-configure",
+          "description": ""
+        },
+        {
+          "rank": 3,
+          "artifact_name": "password-hash",
+          "description": "Password hashing and verification for node.js"
+        }
+      ],
+      "method_C": [
+        {
+          "rank": 1,
+          "artifact_name": "quickship-cli",
+          "description": "Ship production-ready web, mobile, and backend projects in 60 seconds. Create Next.js, React, T3 Stack, MERN, Expo React Native, Express, or NestJS apps with TypeScript, flexible database options (Prisma/Mongoose or raw drivers), and modern tooling - then"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@aerogear/auth",
+          "description": "JavaScript Auth module for AeroGear services"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@alphaapps/nestjs-auth",
+          "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth i"
+        }
+      ],
+      "evaluation": {
+        "method_A": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_B": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_C": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "overall_ranking": {
+          "best": null,
+          "neutral": null,
+          "worst": null
+        }
+      }
+    },
+    {
+      "scenario_id": "JS-S16",
+      "query": "source-map-aware coverage remapping tool to translate Istanbul/V8 coverage from transpiled output back to TypeScript source",
+      "method_A": [
+        {
+          "rank": 1,
+          "artifact_name": "remap-istanbul",
+          "description": "A tool for remapping Istanbul coverage via Source Maps"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "remap-istanbul-adhoc",
+          "description": "A tool for remapping Istanbul coverage via Source Maps"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "mocha-remap-istanbul",
+          "description": "Istanbul code coverage reporter for Mocha supporting coverage remapping by remap-istanbul"
+        }
+      ],
+      "method_B": [
+        {
+          "rank": 1,
+          "artifact_name": "remap-istanbul",
+          "description": "A tool for remapping Istanbul coverage via Source Maps"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "remap-istanbul-adhoc",
+          "description": "A tool for remapping Istanbul coverage via Source Maps"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "istanbul-sourcemap-report",
+          "description": "Utility to generate coverage reports for sources from compiled code coverage using SourceMaps"
+        }
+      ],
+      "method_C": [
+        {
+          "rank": 1,
+          "artifact_name": "front-remap-istanbul",
+          "description": "A tool for remapping Istanbul coverage via Source Maps"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "remap-istanbul",
+          "description": "A tool for remapping Istanbul coverage via Source Maps"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "remap-istanbul-adhoc",
+          "description": "A tool for remapping Istanbul coverage via Source Maps"
+        }
+      ],
+      "evaluation": {
+        "method_A": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_B": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_C": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "overall_ranking": {
+          "best": null,
+          "neutral": null,
+          "worst": null
+        }
+      }
+    },
+    {
+      "scenario_id": "JS-S17",
+      "query": "IEEE 754 copysign utility for JavaScript — transfer sign bit from one floating-point value to another",
+      "method_A": [
+        {
+          "rank": 1,
+          "artifact_name": "@stdlib/math-base-special-copysign",
+          "description": "Return a double-precision floating-point number with the magnitude of x and the sign of y."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "math-float64-copysign",
+          "description": "Returns a double-precision floating-point number with the magnitude of x and the sign of y."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "math-float64-from-words",
+          "description": "Creates a double-precision floating-point number from a higher order word and a lower order word."
+        }
+      ],
+      "method_B": [
+        {
+          "rank": 1,
+          "artifact_name": "@stdlib/constants-float64-high-word-sign-mask",
+          "description": "High word mask for the sign bit of a double-precision floating-point number."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@anselan/maprange",
+          "description": "Map values from one range to another"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@stdlib/constants-float64-high-word-abs-mask",
+          "description": "High word mask for excluding the sign bit of a double-precision floating-point number."
+        }
+      ],
+      "method_C": [
+        {
+          "rank": 1,
+          "artifact_name": "@stdlib/math-base-special-copysign",
+          "description": "Return a double-precision floating-point number with the magnitude of x and the sign of y."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "math-float64-copysign",
+          "description": "Returns a double-precision floating-point number with the magnitude of x and the sign of y."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "math-float64-copysign",
+          "description": "Returns a double-precision floating-point number with the magnitude of x and the sign of y."
+        }
+      ],
+      "evaluation": {
+        "method_A": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_B": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_C": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "overall_ranking": {
+          "best": null,
+          "neutral": null,
+          "worst": null
+        }
+      }
+    },
+    {
+      "scenario_id": "JS-S18",
+      "query": "TypeScript robotics SDK with gRPC or REST API bindings for device telemetry, command dispatch, and service lifecycle management",
+      "method_A": [
+        {
+          "rank": 1,
+          "artifact_name": "rest-api-kit",
+          "description": "Enterprise-grade TypeScript REST API management library for React and React Native with advanced caching, state management, and performance optimization"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "serverless-iot-offline",
+          "description": "Start AWS IoT service offline. Manages topic subscriptions, lifecycle events, thing shadow management and rule engine with limited SQL syntax support."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@cognite/robotics-sdk-ts",
+          "description": "robotics services Typescript sdk"
+        }
+      ],
+      "method_B": [
+        {
+          "rank": 1,
+          "artifact_name": "@cognite/robotics-ts-sdk",
+          "description": "robotics services typescript sdk"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@cognite/robotics-sdk-ts",
+          "description": "robotics services Typescript sdk"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "robotics-dev",
+          "description": "Robotics.dev P2P SDK client for robot control"
+        }
+      ],
+      "method_C": [
+        {
+          "rank": 1,
+          "artifact_name": "@cognite/robotics-sdk-ts",
+          "description": "robotics services Typescript sdk"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@cognite/robotics-ts-sdk",
+          "description": "robotics services typescript sdk"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@dopl-technologies/telerobotic-sdk",
+          "description": "A node SDK used to connect to DOPL Technologies telerobotic services"
+        }
+      ],
+      "evaluation": {
+        "method_A": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_B": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "method_C": {
+          "relevance": null,
+          "usefulness": null
+        },
+        "overall_ranking": {
+          "best": null,
+          "neutral": null,
+          "worst": null
+        }
+      }
+    }
+  ]
+}

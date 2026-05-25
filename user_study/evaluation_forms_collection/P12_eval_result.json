@@ -1,0 +1,80 @@
+{
+  "participant_id": "P12",
+  "education": "phd",
+  "dev_years": 5,
+  "ecosystem": "HuggingFace",
+  "evaluations": [
+    {
+      "scenario_id": "HF-S13",
+      "query": "compact SLM under 3B parameters with multilingual instruction-tuning, function-calling schema support, and quantization-friendly architecture for on-device deployment",
+      "ground_truth": "Qwen/Qwen3-0.6B",
+      "scores": {
+        "A": { "relevance": 4, "usefulness": 4 },
+        "B": { "relevance": 4, "usefulness": 4 },
+        "C": { "relevance": 2, "usefulness": 2 }
+      },
+      "ranking": { "best": "A", "neutral": "B", "worst": "C" },
+      "reason": "None include the exact GT Qwen3-0.6B. Method A has Qwen2.5-3B-Instruct (same Qwen family, multilingual, instruction-tuned, borderline 3B), Llama-3.2-3B-F1-Instruct, and granite-4.0-micro — all small instruction-tuned models. Method B has xLAM-1b-fc-r (1B, explicitly function-calling) and granite-4.0-micro, but Llama-xLAM-2-8b-fc-r at #2 is 8B — too large for 'under 3B' and on-device. Method A edges out B because all three are under/at 3B. Method C has SmolLM2-135M/360M — far too small (sub-500M) with limited multilingual and no function-calling support; SmolLM2-135M base at #3 isn't even instruct-tuned."
+    },
+    {
+      "scenario_id": "HF-S14",
+      "query": "end-to-end document AI model combining OCR, table structure recognition, and layout-aware VQA — multilingual, handles both printed and handwritten inputs in a single forward pass",
+      "ground_truth": "Qwen/Qwen3-VL-32B-Instruct",
+      "scores": {
+        "A": { "relevance": 4, "usefulness": 4 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 4, "usefulness": 4 }
+      },
+      "ranking": { "best": "B", "neutral": "C", "worst": "A" },
+      "reason": "None include the exact GT Qwen3-VL-32B. Method B has chandra at #1 (document understanding model), PaddleOCR-VL at #2 (end-to-end OCR+VQA pipeline), and olmOCR-2 at #3 — a diverse, complementary set covering OCR, layout, and VQA. Method C has layoutlmv3-base at #1 (layout-aware document understanding, exactly matching layout+table requirements), PaddleOCR-VL at #2, and dots.ocr at #3 — strong but layoutlmv3-base is an encoder requiring fine-tuning, not end-to-end. Method A has Infinity-Parser and two PP-OCRv5 detection models — PP-OCRv5 server/mobile are detection-only components, not end-to-end document AI."
+    },
+    {
+      "scenario_id": "HF-S15",
+      "query": "stable diffusion variant with well-documented LoRA/DreamBooth fine-tuning pipeline for few-shot style adaptation on custom artistic datasets",
+      "ground_truth": "lodestones/Chroma1-HD",
+      "scores": {
+        "A": { "relevance": 1, "usefulness": 1 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 3, "usefulness": 3 }
+      },
+      "ranking": { "best": "B", "neutral": "C", "worst": "A" },
+      "reason": "Method B has GT Chroma1-HD at #3, Flux at #1 (widely used for LoRA fine-tuning with excellent community documentation), and Hyper-SD at #2 (acceleration module compatible with LoRA) — best coverage of the fine-tuning ecosystem. Method C has Qwen-Image-Edit LoRA variants — these are pre-trained LoRA adapters for image editing, somewhat relevant to style adaptation but niche and not general stable diffusion base models. Method A is almost entirely irrelevant: SDPose-Wholebody/#1 and SDPose-Body/#3 are pose estimation models repurposing diffusion priors, not text-to-image generation models; only Qwen_Image_Edit_Sref_Lora at #2 has marginal relevance."
+    },
+    {
+      "scenario_id": "HF-S16",
+      "query": "single-view 3D reconstruction model that outputs textured mesh or NeRF from a single product photograph, suitable for novel view synthesis in e-commerce",
+      "ground_truth": "stabilityai/TripoSR",
+      "scores": {
+        "A": { "relevance": 3, "usefulness": 3 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 4, "usefulness": 4 }
+      },
+      "ranking": { "best": "B", "neutral": "C", "worst": "A" },
+      "reason": "None include the exact GT TripoSR. Method B has Hunyuan3D-2 at #1 and Hunyuan3D-2.1 at #2 (both single-image to 3D mesh, state-of-the-art), plus shap-e at #3 (OpenAI's 3D generation model) — all directly address single-view reconstruction. Method C has Hunyuan3D-2 at #1, stable-fast-3d at #2 (single-image to 3D, same Stability AI lineage as GT) — strong, but HunyuanWorld-Mirror at #3 is environment reconstruction, not single-object. Method A has SceneGen at #1 (scene-level, not single-object product), HunyuanWorld-Mirror at #2 (environment reconstruction), and Hunyuan3D-2 at #3 — only #3 is directly relevant; the other two target scenes/environments rather than individual product objects."
+    },
+    {
+      "scenario_id": "HF-S17",
+      "query": "video action recognition transformer pretrained on Kinetics-700 or similar large-scale benchmark, supports temporal modeling over variable-length clips for content classification",
+      "ground_truth": "google/vivit-b-16x2-kinetics400",
+      "scores": {
+        "A": { "relevance": 3, "usefulness": 3 },
+        "B": { "relevance": 1, "usefulness": 1 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "C", "neutral": "A", "worst": "B" },
+      "reason": "Method C has GT vivit-b-16x2-kinetics400 at #2 (Video Vision Transformer, pretrained on Kinetics-400), VideoMAE-large at #3 (self-supervised video pretraining on Kinetics), and multimodal-perceiver at #1 (Perceiver IO handles video but is not Kinetics-specialized) — best overall for video action recognition. Method A has multimodal-perceiver at #1, VideoMAE-large at #2 (strong match), but mpt-7b at #3 is a language model with zero video capability — a glaring miss. Method B is catastrophic: wavlm-base/#1 and wavlm-large/#2 are audio/speech models, completely irrelevant to video classification; MUG-V at #3 is video generation, not recognition."
+    },
+    {
+      "scenario_id": "HF-S18",
+      "query": "sentence-transformers compatible bilingual Russian-English embedding model trained with contrastive learning for semantic textual similarity, paraphrase mining, and intent clustering",
+      "ground_truth": "ai-forever/FRIDA",
+      "scores": {
+        "A": { "relevance": 4, "usefulness": 4 },
+        "B": { "relevance": 2, "usefulness": 2 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "C", "neutral": "A", "worst": "B" },
+      "reason": "Method C has GT FRIDA at #1 (Russian embedding model from ai-forever), ru-en-RoSBERTa at #2 (Russian-English bilingual, sentence-transformers compatible), and paraphrase-multilingual-mpnet at #3 (paraphrase mining) — a perfect trifecta covering all query requirements. Method A has ru-en-RoSBERTa at #1 and LaBSE at #2 (multilingual) and paraphrase-multilingual-mpnet at #3 — all relevant but misses GT FRIDA. Method B has sarashina-embedding (Japanese-focused, wrong language pair), bilingual-embedding-large (French-English per Lajavaness, not Russian), and all-distilroberta-v1 (English-only) — none target Russian-English bilingual embedding."
+    }
+  ]
+}

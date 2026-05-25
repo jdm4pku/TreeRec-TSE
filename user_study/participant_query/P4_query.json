@@ -1,0 +1,32 @@
+{
+  "participant_id": "P4",
+  "education": "master",
+  "dev_years": 3,
+  "ecosystem": "JavaScript",
+  "queries": [
+    {
+      "scenario_id": "JS-S13",
+      "your_query": "run multiple npm scripts in parallel or sequence with one command, like concurrently or npm-run-all"
+    },
+    {
+      "scenario_id": "JS-S14",
+      "your_query": "generate HTML coverage report from LCOV data, grouped by directory and file"
+    },
+    {
+      "scenario_id": "JS-S15",
+      "your_query": "NestJS authentication module with JWT, user registration and login out of the box"
+    },
+    {
+      "scenario_id": "JS-S16",
+      "your_query": "remap code coverage results from compiled JS back to original source using source maps"
+    },
+    {
+      "scenario_id": "JS-S17",
+      "your_query": "JavaScript implementation of IEEE 754 copysign function, copy sign from one float to another"
+    },
+    {
+      "scenario_id": "JS-S18",
+      "your_query": "TypeScript SDK for robotics device control and service management"
+    }
+  ]
+}

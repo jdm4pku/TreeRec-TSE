@@ -1,0 +1,110 @@
+[
+  {
+    "id": "JS-S1",
+    "scenario": "You are building a command-line tool and need to prompt the user for a simple confirmation (e.g., 'Do you want to proceed?') before executing a critical operation.",
+    "original_intent": "I want to ask users a yes/no question in my command-line application.",
+    "ground_truth": "@inquirer/confirm"
+  },
+  {
+    "id": "JS-S2",
+    "scenario": "You are developing a JavaScript project and want to set up a testing workflow. You need a framework that can run your test cases both in the browser and in a Node.js environment.",
+    "original_intent": "I want to write and run JavaScript tests for my code in the browser or Node.js.",
+    "ground_truth": "jasmine"
+  },
+  {
+    "id": "JS-S3",
+    "scenario": "You are building a debugging or mocking layer for your application. You need to capture and manipulate outgoing network requests (HTTP, HTTPS, XHR, or fetch) before they reach the server.",
+    "original_intent": "I want to intercept and modify HTTP, HTTPS, XHR, or fetch requests in my JavaScript application.",
+    "ground_truth": "@mswjs/interceptors"
+  },
+  {
+    "id": "JS-S4",
+    "scenario": "You are working on a Node.js CLI tool and want its terminal output to be more readable by applying colors and text styles (bold, underline, etc.) to different messages.",
+    "original_intent": "I want to add colored and styled text output to my Node.js terminal applications.",
+    "ground_truth": "kleur"
+  },
+  {
+    "id": "JS-S5",
+    "scenario": "You are building a logging utility for your Node.js application. You want different log levels (success, error, warning, info) to display with visually distinct icons or symbols in the console.",
+    "original_intent": "I want to add colored icons or symbols to my console logs to visually indicate success, error, or warning messages.",
+    "ground_truth": "log-symbols"
+  },
+  {
+    "id": "JS-S6",
+    "scenario": "You are working on a data pipeline that needs to produce JSON output. The JSON structure varies depending on input parameters, so you need a way to define JSON templates and fill them dynamically.",
+    "original_intent": "I want to generate dynamic JSON structures using templates.",
+    "ground_truth": "lang-json"
+  },
+  {
+    "id": "JS-S7",
+    "scenario": "You are developing a static website and want a lightweight local server that serves your HTML/CSS/JS files and automatically refreshes the browser whenever you save changes to any file.",
+    "original_intent": "I want a local web server that automatically reloads my site when I make changes during development.",
+    "ground_truth": "live-server"
+  },
+  {
+    "id": "JS-S8",
+    "scenario": "You are responsible for quality assurance of a web application. You need to set up automated browser-based end-to-end tests that simulate real user interactions using the WebDriver protocol.",
+    "original_intent": "I want to automate end-to-end testing for my web application using WebDriver in Node.js.",
+    "ground_truth": "nightwatch"
+  },
+  {
+    "id": "JS-S9",
+    "scenario": "You are building a data visualization tool that loads geospatial or 3D data files. During processing, you need utility functions for mathematical operations like matrix transforms and coordinate conversions.",
+    "original_intent": "I need math utilities or classes to perform calculations when working with data loading or visualization in JavaScript.",
+    "ground_truth": "@loaders.gl/math"
+  },
+  {
+    "id": "JS-S10",
+    "scenario": "You are developing a spreadsheet-like application where users can enter formulas (e.g., mathematical expressions or string operations). You need a way to parse and safely evaluate these user-defined formulas.",
+    "original_intent": "I want to parse and evaluate mathematical or string formulas in my JavaScript application.",
+    "ground_truth": "@sideway/formula"
+  },
+  {
+    "id": "JS-S11",
+    "scenario": "You are building a registration form for an international user base. You need a phone number input field that automatically formats numbers based on country codes and validates them.",
+    "original_intent": "I want to add an input field that formats and validates international phone numbers.",
+    "ground_truth": "intl-tel-input"
+  },
+  {
+    "id": "JS-S12",
+    "scenario": "You are building a text editor with version tracking. You need to compare two versions of a document and visually show what was added, removed, or changed between them.",
+    "original_intent": "I want to compare two text strings in JavaScript and highlight the differences between them.",
+    "ground_truth": "diff"
+  },
+  {
+    "id": "JS-S13",
+    "scenario": "Your project has multiple npm scripts (e.g., lint, build, test) that you frequently need to run together. You want a way to execute several of them in parallel or sequentially with a single command.",
+    "original_intent": "I want to run several npm scripts at once or in a specific order from the command line.",
+    "ground_truth": "npm-run-all"
+  },
+  {
+    "id": "JS-S14",
+    "scenario": "You have collected code coverage data in LCOV format from your CI pipeline. You want to generate a clean, grouped HTML report so that your team can browse coverage results by directory and file.",
+    "original_intent": "I want to generate a grouped HTML report from my code coverage data using a command-line tool.",
+    "ground_truth": "@lcov-viewer/cli"
+  },
+  {
+    "id": "JS-S15",
+    "scenario": "You are developing a backend service using the NestJS framework. You need to add user login, registration, and token-based authentication features to your API.",
+    "original_intent": "I want to add authentication features to my NestJS application.",
+    "ground_truth": "@alphaapps/nestjs-auth"
+  },
+  {
+    "id": "JS-S16",
+    "scenario": "Your project uses source maps for transpiled code. After running tests, the coverage report points to the compiled output. You need to map the coverage data back to the original source files.",
+    "original_intent": "I want to adjust my code coverage reports to match my original source files using source maps.",
+    "ground_truth": "remap-istanbul"
+  },
+  {
+    "id": "JS-S17",
+    "scenario": "You are implementing a numerical computation module and need a utility function that copies the sign (+/-) from one number to another, similar to the IEEE 754 copysign operation.",
+    "original_intent": "I want a function that sets the sign of one number to match another number in JavaScript.",
+    "ground_truth": "@stdlib/math-base-special-copysign"
+  },
+  {
+    "id": "JS-S18",
+    "scenario": "You are developing a TypeScript application that needs to communicate with and control robotic devices. You need an SDK that provides APIs for managing robotics services and operations.",
+    "original_intent": "I want to integrate robotics services into my TypeScript application using an SDK.",
+    "ground_truth": "@cognite/robotics-sdk-ts"
+  }
+]

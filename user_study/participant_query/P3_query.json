@@ -1,0 +1,32 @@
+{
+  "participant_id": "P3",
+  "education": "master",
+  "dev_years": 2,
+  "ecosystem": "JavaScript",
+  "queries": [
+    {
+      "scenario_id": "JS-S1",
+      "your_query": "interactive CLI confirmation prompt library for Node.js, like a simple yes/no dialog"
+    },
+    {
+      "scenario_id": "JS-S2",
+      "your_query": "cross-environment JavaScript test framework that supports both Node.js and browser execution"
+    },
+    {
+      "scenario_id": "JS-S3",
+      "your_query": "HTTP request interception and mocking library for JavaScript, intercept fetch and XHR calls"
+    },
+    {
+      "scenario_id": "JS-S4",
+      "your_query": "Node.js terminal styling library for colored and bold text output in CLI apps"
+    },
+    {
+      "scenario_id": "JS-S5",
+      "your_query": "console logger with emoji or unicode symbols for different log levels like success warning error"
+    },
+    {
+      "scenario_id": "JS-S6",
+      "your_query": "JSON templating library to dynamically build JSON structures from input parameters in Node.js"
+    }
+  ]
+}

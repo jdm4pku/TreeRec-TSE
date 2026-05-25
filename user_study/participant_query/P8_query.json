@@ -1,0 +1,32 @@
+{
+  "participant_id": "P8",
+  "education": "undergraduate",
+  "dev_years": 2,
+  "ecosystem": "HuggingFace",
+  "queries": [
+    {
+      "scenario_id": "HF-S7",
+      "your_query": "document understanding model for scanned PDFs, combines text and layout for retrieval"
+    },
+    {
+      "scenario_id": "HF-S8",
+      "your_query": "text to image generation model, create high quality images from detailed text descriptions"
+    },
+    {
+      "scenario_id": "HF-S9",
+      "your_query": "monocular depth estimation model, fast real-time depth prediction from single RGB camera"
+    },
+    {
+      "scenario_id": "HF-S10",
+      "your_query": "multimodal vision language model that can understand screenshots, video, and OCR in multiple languages"
+    },
+    {
+      "scenario_id": "HF-S11",
+      "your_query": "multi-label emotion detection model for English text, classify multiple emotions in one sentence"
+    },
+    {
+      "scenario_id": "HF-S12",
+      "your_query": "multilingual text embedding model for search, supports dense and sparse retrieval across languages"
+    }
+  ]
+}

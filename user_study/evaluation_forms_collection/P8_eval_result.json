@@ -1,0 +1,80 @@
+{
+  "participant_id": "P8",
+  "education": "undergraduate",
+  "dev_years": 2,
+  "ecosystem": "HuggingFace",
+  "evaluations": [
+    {
+      "scenario_id": "HF-S7",
+      "query": "document understanding model for scanned PDFs, combines text and layout for retrieval",
+      "ground_truth": "vidore/colpali",
+      "scores": {
+        "A": { "relevance": 3, "usefulness": 3 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 4, "usefulness": 4 }
+      },
+      "ranking": { "best": "B", "neutral": "C", "worst": "A" },
+      "reason": "None include GT vidore/colpali. Method B recommends jina-embeddings-v4 and QwenAmann-4B-dse (multimodal retrieval models) plus layoutlmv3 (layout-aware document model) — best fit for the retrieval-focused query. Method C has Gliese-OCR, InfMLLM2, and layoutlmv3 — document understanding but OCR-heavy. Method A is pure OCR (Gliese-OCR, nemoretriever-ocr, Infinity-Parser) without retrieval capability."
+    },
+    {
+      "scenario_id": "HF-S8",
+      "query": "text to image generation model, create high quality images from detailed text descriptions",
+      "ground_truth": "stabilityai/stable-diffusion-3.5-large",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 4, "usefulness": 4 },
+        "C": { "relevance": 3, "usefulness": 3 }
+      },
+      "ranking": { "best": "A", "neutral": "B", "worst": "C" },
+      "reason": "Method A has GT stable-diffusion-3.5-large at #1 plus SDXL at #3 — top-tier text-to-image models. Method B has HunyuanImage-2.1 and Sana (strong models) and kandinsky-3. Method C recommends older kandinsky-2-1, OmniGen2 (editing-focused), and kandinsky inpaint — less suited for pure text-to-image generation."
+    },
+    {
+      "scenario_id": "HF-S9",
+      "query": "monocular depth estimation model, fast real-time depth prediction from single RGB camera",
+      "ground_truth": "depth-anything/Depth-Anything-V2-Large-hf",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "C", "neutral": "B", "worst": "A" },
+      "reason": "All three recommend the same excellent models (DepthPro, DepthPro-hf, Depth-Anything-V2). Method C has GT Depth-Anything-V2-Large-hf at #3 and both DepthPro versions — all transformers-compatible. Method B has GT-adjacent DepthPro-hf at #1. Method A uses apple/DepthPro (non-hf version) at #1 which requires more setup, and doesn't include the exact GT -hf variant."
+    },
+    {
+      "scenario_id": "HF-S10",
+      "query": "multimodal vision language model that can understand screenshots, video, and OCR in multiple languages",
+      "ground_truth": "Qwen/Qwen3-VL-8B-Thinking",
+      "scores": {
+        "A": { "relevance": 3, "usefulness": 3 },
+        "B": { "relevance": 4, "usefulness": 4 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "C", "neutral": "B", "worst": "A" },
+      "reason": "None include the exact GT. Method C recommends Qwen3-Omni-30B (same Qwen family, omni-modal), InternVL3_5-241B, and Qwen2.5-VL-72B — all powerful VLMs supporting screenshots, video, OCR, multilingual. Method B has InternVL3-8B, Qwen3-VL-2B-GGUF (same family as GT), and TowerVideo. Method A has Phi-4-multimodal but CLIP models (#2, #3) are vision-language alignment, not full VLMs for OCR/video understanding."
+    },
+    {
+      "scenario_id": "HF-S11",
+      "query": "multi-label emotion detection model for English text, classify multiple emotions in one sentence",
+      "ground_truth": "SamLowe/roberta-base-go_emotions",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 4, "usefulness": 4 },
+        "C": { "relevance": 3, "usefulness": 3 }
+      },
+      "ranking": { "best": "A", "neutral": "B", "worst": "C" },
+      "reason": "Method A has GT roberta-base-go_emotions at #1, EmoRoBERTa at #2 (also GoEmotions-based), and bert-base-emotion at #3 — all text emotion classifiers. Method B has emotion-english-distilroberta, emotion_text_classifier, and t5-base-emotion — relevant but single-label focused. Method C has emotion-distilroberta at #1 but then bias-type-classifier (#2, not emotion) and speech emotion recognition (#3, audio not text)."
+    },
+    {
+      "scenario_id": "HF-S12",
+      "query": "multilingual text embedding model for search, supports dense and sparse retrieval across languages",
+      "ground_truth": "BAAI/bge-m3",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "A", "neutral": "B", "worst": "C" },
+      "reason": "All three have GT bge-m3 at #1 and recommend excellent multilingual embedding models. Method A adds gte-multilingual-base at #2 and nomic-embed-v2-moe at #3. Method B swaps #2 and #3 ordering. Method C replaces gte-multilingual with snowflake-arctic-embed — slightly less multilingual-focused. All are very close; A edges with gte-multilingual being a strong multilingual model at #2."
+    }
+  ]
+}

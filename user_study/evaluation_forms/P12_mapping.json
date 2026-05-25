@@ -1,0 +1,35 @@
+{
+  "participant_id": "P12",
+  "assignments": {
+    "HF-S13": {
+      "A": "GPT4",
+      "B": "BM25",
+      "C": "TreeRec"
+    },
+    "HF-S14": {
+      "A": "BM25",
+      "B": "GPT4",
+      "C": "TreeRec"
+    },
+    "HF-S15": {
+      "A": "BM25",
+      "B": "GPT4",
+      "C": "TreeRec"
+    },
+    "HF-S16": {
+      "A": "TreeRec",
+      "B": "GPT4",
+      "C": "BM25"
+    },
+    "HF-S17": {
+      "A": "TreeRec",
+      "B": "BM25",
+      "C": "GPT4"
+    },
+    "HF-S18": {
+      "A": "TreeRec",
+      "B": "BM25",
+      "C": "GPT4"
+    }
+  }
+}

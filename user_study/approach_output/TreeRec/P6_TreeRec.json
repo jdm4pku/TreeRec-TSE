@@ -1,0 +1,193 @@
+{
+  "participant_id": "P6",
+  "ecosystem": "JavaScript",
+  "method": "TreeRec",
+  "results": [
+    {
+      "scenario_id": "JS-S13",
+      "query": "npm task orchestration — run multiple package.json scripts concurrently or in a defined sequential pipeline",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@catladder/pipeline",
+          "description": "Panter workflow for cloud CI/CD and DevOps"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "grunt",
+          "description": "The JavaScript Task Runner"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "npm-run-path",
+          "description": "Get your PATH prepended with locally installed binaries"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "gulp-execa",
+          "description": "Gulp.js command execution for humans"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@esm2cjs/npm-run-path",
+          "description": "Get your PATH prepended with locally installed binaries. This is a fork of sindresorhus/npm-run-path, but with CommonJS support."
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S14",
+      "query": "LCOV to HTML coverage report generator with hierarchical directory grouping for CI artifacts",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@lcov-viewer/cli",
+          "description": "LCOV viewer CLI to convert coverage to grouped HTML report. Generates code coverage report grouped by directory."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "lcoview",
+          "description": "LCOV coverage report viewer that generates interactive HTML reports with file filtering"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@lcov-viewer/istanbul-report",
+          "description": "Istanbul grouped HTML report. Generates code coverage report grouped by directory."
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@cedx/lcov",
+          "description": "Parse and format to LCOV your code coverage reports."
+        },
+        {
+          "rank": 5,
+          "artifact_name": "coverage-viewer",
+          "description": "Create a static website for exploring your project’s coverage statistics"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S15",
+      "query": "NestJS passport integration for JWT-based auth with guards, registration and login endpoints",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "nicot",
+          "description": "Nest.js interacting with class-validator + OpenAPI + TypeORM for Nest.js Restful API development."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@steveylin/nestjs-configure",
+          "description": ""
+        },
+        {
+          "rank": 3,
+          "artifact_name": "password-hash",
+          "description": "Password hashing and verification for node.js"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@nestjs-cognito/testing",
+          "description": "Cognito testing helpers for NestJS-Cognito"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@solid-nestjs/rest-api",
+          "description": "solid-nestjs Rest-API utilities"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S16",
+      "query": "source-map-aware coverage remapping tool to translate Istanbul/V8 coverage from transpiled output back to TypeScript source",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "remap-istanbul",
+          "description": "A tool for remapping Istanbul coverage via Source Maps"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "remap-istanbul-adhoc",
+          "description": "A tool for remapping Istanbul coverage via Source Maps"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "mocha-remap-istanbul",
+          "description": "Istanbul code coverage reporter for Mocha supporting coverage remapping by remap-istanbul"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "front-remap-istanbul",
+          "description": "A tool for remapping Istanbul coverage via Source Maps"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "istanbul-sourcemap-report",
+          "description": "Utility to generate coverage reports for sources from compiled code coverage using SourceMaps"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S17",
+      "query": "IEEE 754 copysign utility for JavaScript — transfer sign bit from one floating-point value to another",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@stdlib/math-base-special-copysign",
+          "description": "Return a double-precision floating-point number with the magnitude of x and the sign of y."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "math-float64-copysign",
+          "description": "Returns a double-precision floating-point number with the magnitude of x and the sign of y."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "math-float64-from-words",
+          "description": "Creates a double-precision floating-point number from a higher order word and a lower order word."
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@stdlib/constants-float64-high-word-sign-mask",
+          "description": "High word mask for the sign bit of a double-precision floating-point number."
+        },
+        {
+          "rank": 5,
+          "artifact_name": "math-float32-to-binary-string",
+          "description": "Returns a string giving the literal bit representation of a single-precision floating-point number."
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S18",
+      "query": "TypeScript robotics SDK with gRPC or REST API bindings for device telemetry, command dispatch, and service lifecycle management",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@cognite/robotics-sdk-ts",
+          "description": "robotics services Typescript sdk"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@cognite/robotics-ts-sdk",
+          "description": "robotics services typescript sdk"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@dopl-technologies/telerobotic-sdk",
+          "description": "A node SDK used to connect to DOPL Technologies telerobotic services"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@robotevents/client",
+          "description": "A Robot Events API client."
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@lerobot/node",
+          "description": "Node.js-based robotics control using SerialPort"
+        }
+      ]
+    }
+  ]
+}

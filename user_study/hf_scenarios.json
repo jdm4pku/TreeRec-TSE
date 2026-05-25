@@ -1,0 +1,110 @@
+[
+  {
+    "id": "HF-S1",
+    "scenario": "You are working on a podcast production tool and need to automatically segment an audio file to identify who is speaking at each point in time.",
+    "original_intent": "I want to automatically identify who is speaking and when in an audio recording.",
+    "ground_truth": "pyannote/speaker-diarization-3.1"
+  },
+  {
+    "id": "HF-S2",
+    "scenario": "You are building an augmented reality application that needs to understand the 3D structure of a scene from a single photograph, producing a per-pixel depth map without requiring stereo cameras.",
+    "original_intent": "I want to estimate the depth of each pixel in a single image to create detailed, high-resolution depth maps without needing camera information.",
+    "ground_truth": "apple/DepthPro-hf"
+  },
+  {
+    "id": "HF-S3",
+    "scenario": "You are building a multilingual technical document search engine. The documents contain mixed content—text, diagrams, tables, and screenshots—and you need retrieval to work across languages.",
+    "original_intent": "I want to search and retrieve technical documents in multiple languages using screenshots that contain text, images, and layout.",
+    "ground_truth": "racineai/QwenAmann-4B-dse"
+  },
+  {
+    "id": "HF-S4",
+    "scenario": "You need a versatile language model for your NLP pipeline that can handle a variety of tasks including generating text, producing summaries of long articles, and answering questions based on context.",
+    "original_intent": "I want a general-purpose language model for tasks like text generation, summarization, and question answering.",
+    "ground_truth": "meta-llama/Llama-3.2-3B-Instruct"
+  },
+  {
+    "id": "HF-S5",
+    "scenario": "You are building an AI coding assistant that needs to understand complex instructions, perform multi-step reasoning, and generate high-quality HTML/CSS/JavaScript code for front-end interfaces.",
+    "original_intent": "I want a model that can understand complex instructions, perform advanced reasoning, and generate high-quality front-end code and visually appealing outputs.",
+    "ground_truth": "inclusionAI/Ling-1T"
+  },
+  {
+    "id": "HF-S6",
+    "scenario": "You are developing a privacy compliance tool that needs to automatically scan text documents and redact personally identifiable information such as names, phone numbers, and account details. You also need to define custom sensitive entity types.",
+    "original_intent": "I want to automatically detect and extract sensitive information like names, phone numbers, and account details from text, with the ability to specify custom entity types for privacy compliance.",
+    "ground_truth": "knowledgator/gliner-pii-large-v1.0"
+  },
+  {
+    "id": "HF-S7",
+    "scenario": "You are building a document retrieval system for scanned PDFs and image-heavy reports. You need a model that can understand both the textual content and the visual layout of document pages for accurate search.",
+    "original_intent": "I want to search and retrieve documents using both text and visual features from images or scanned pages.",
+    "ground_truth": "vidore/colpali"
+  },
+  {
+    "id": "HF-S8",
+    "scenario": "You are working on a creative design platform that allows users to describe an image in detail—including specific text, objects, and scene composition—and generates a high-quality image from that description.",
+    "original_intent": "I want to generate high-quality images from detailed text prompts, including accurate typography and complex scene descriptions.",
+    "ground_truth": "stabilityai/stable-diffusion-3.5-large"
+  },
+  {
+    "id": "HF-S9",
+    "scenario": "You are developing a robotics navigation system that needs to quickly estimate the distance to objects in the environment using only a single RGB camera, without LiDAR or stereo vision.",
+    "original_intent": "I want to estimate depth maps from a single image using a fast and accurate monocular depth estimation model.",
+    "ground_truth": "depth-anything/Depth-Anything-V2-Large-hf"
+  },
+  {
+    "id": "HF-S10",
+    "scenario": "You are building a multimodal AI assistant that needs to analyze screenshots of user interfaces, understand video content, read text in images across multiple languages, and answer detailed questions about visual inputs.",
+    "original_intent": "I want a model that can understand and reason over both text and images or videos, perform complex visual tasks like GUI interaction and coding from visuals, handle long documents and videos, recognize a wide range of objects and text in multiple languages, and provide detailed multimodal analysis and answers.",
+    "ground_truth": "Qwen/Qwen3-VL-8B-Thinking"
+  },
+  {
+    "id": "HF-S11",
+    "scenario": "You are building a social media monitoring tool that analyzes user comments. You need to detect multiple emotions in a single piece of English text (e.g., a comment that expresses both joy and surprise).",
+    "original_intent": "I want to detect and classify multiple emotions expressed in English text, including cases where more than one emotion is present.",
+    "ground_truth": "SamLowe/roberta-base-go_emotions"
+  },
+  {
+    "id": "HF-S12",
+    "scenario": "You are building a cross-lingual search engine that needs to index and retrieve documents in many languages. The system should support both dense and sparse retrieval strategies and handle documents of varying lengths.",
+    "original_intent": "I want a multilingual model to generate text embeddings and perform dense, sparse, or hybrid retrieval for both short and long documents.",
+    "ground_truth": "BAAI/bge-m3"
+  },
+  {
+    "id": "HF-S13",
+    "scenario": "You need a lightweight language model that can run on edge devices with limited resources. It should support multiple languages, handle instruction-following, code generation, and be usable as a conversational or tool-calling agent.",
+    "original_intent": "I want a multilingual language model that can handle complex reasoning, follow instructions, generate code, and support both conversational and agent-based tasks.",
+    "ground_truth": "Qwen/Qwen3-0.6B"
+  },
+  {
+    "id": "HF-S14",
+    "scenario": "You are developing a document digitization pipeline. You need a model that can take images of printed or handwritten documents, extract text (OCR) in multiple languages, understand tables and layouts, and answer questions about the document content.",
+    "original_intent": "I want a model that can understand and reason over both text and images or videos, extract information from visual content, perform OCR in multiple languages, and assist with tasks like GUI automation, code generation from visuals, and spatial or temporal analysis.",
+    "ground_truth": "Qwen/Qwen3-VL-32B-Instruct"
+  },
+  {
+    "id": "HF-S15",
+    "scenario": "You are an artist who wants to create custom AI-generated artwork. You need a text-to-image model that is easy to fine-tune on your own style or dataset to produce personalized visual content.",
+    "original_intent": "I want a flexible text-to-image model that I can fine-tune for custom generative art or visual content creation.",
+    "ground_truth": "lodestones/Chroma1-HD"
+  },
+  {
+    "id": "HF-S16",
+    "scenario": "You are building an e-commerce platform and want to let users upload a photo of a product to automatically generate a 3D preview model that can be viewed from different angles.",
+    "original_intent": "I want to generate a 3D model from a single image quickly.",
+    "ground_truth": "stabilityai/TripoSR"
+  },
+  {
+    "id": "HF-S17",
+    "scenario": "You are building a video content moderation system that needs to classify video clips into activity categories (e.g., sports, cooking, dancing). You need a model specifically designed for video understanding.",
+    "original_intent": "I want a transformer-based model for processing and classifying video data.",
+    "ground_truth": "google/vivit-b-16x2-kinetics400"
+  },
+  {
+    "id": "HF-S18",
+    "scenario": "You are building a bilingual (Russian and English) customer support system. You need to compute sentence embeddings for tasks like finding similar questions, detecting paraphrases, and routing tickets by topic.",
+    "original_intent": "I want to generate text embeddings for Russian and English sentences to perform tasks like semantic search, paraphrase detection, sentiment analysis, topic classification, and textual entailment.",
+    "ground_truth": "ai-forever/FRIDA"
+  }
+]

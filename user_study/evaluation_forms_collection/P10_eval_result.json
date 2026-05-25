@@ -1,0 +1,80 @@
+{
+  "participant_id": "P10",
+  "education": "master",
+  "dev_years": 3,
+  "ecosystem": "HuggingFace",
+  "evaluations": [
+    {
+      "scenario_id": "HF-S13",
+      "query": "small multilingual instruction-tuned LLM for edge deployment, supports code generation and tool-use with low memory footprint",
+      "ground_truth": "Qwen/Qwen3-0.6B",
+      "scores": {
+        "A": { "relevance": 3, "usefulness": 3 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 3, "usefulness": 3 }
+      },
+      "ranking": { "best": "B", "neutral": "A", "worst": "C" },
+      "reason": "None include the exact GT Qwen3-0.6B. Method B recommends Qwen2.5-3B-Instruct (same Qwen family, small), LFM2-1.2B-Tool (explicitly tool-use), and Qwen2.5-Coder-1.5B (code generation) — all small, instruction-tuned, and matching the requirements. Method A has Qwen3-VL-8B (too large for edge at 8B, plus it's a vision model), LFM2-2.6B, and FastThink-0.5B. Method C has LFM2-700M (very small but limited), Tower-Plus-2B (translation-focused), and bitnet-2B (1-bit, experimental)."
+    },
+    {
+      "scenario_id": "HF-S14",
+      "query": "document OCR and understanding model — multilingual text extraction, table recognition, layout parsing, and document VQA in one pipeline",
+      "ground_truth": "Qwen/Qwen3-VL-32B-Instruct",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 4, "usefulness": 4 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "A", "neutral": "C", "worst": "B" },
+      "reason": "None include the exact GT Qwen3-VL-32B. Method A recommends dots.ocr, MinerU2.5, and PaddleOCR-VL — all dedicated document OCR/understanding pipelines supporting tables and layout. Method C has PaddleOCR-VL, dots.ocr, and DeepSeek-OCR — equally strong OCR-focused recommendations. Method B has InfMLLM2 (document understanding) but Infinity-Parser lacks clear documentation — slightly less cohesive."
+    },
+    {
+      "scenario_id": "HF-S15",
+      "query": "text-to-image diffusion model that is easy to fine-tune with LoRA or DreamBooth on custom artistic style datasets",
+      "ground_truth": "lodestones/Chroma1-HD",
+      "scores": {
+        "A": { "relevance": 4, "usefulness": 4 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 4, "usefulness": 4 }
+      },
+      "ranking": { "best": "B", "neutral": "A", "worst": "C" },
+      "reason": "Method B includes GT Chroma1-HD at #2, FLUX.1-dev at #1 (popular for LoRA fine-tuning), and SDXL at #3 — all well-documented for LoRA/DreamBooth workflows. Method A has dreamshaper-xl and SD-2.1/2 — good diffusion models but older and less fine-tuning ecosystem support. Method C has QwenImage-based LoRA models and animagine-xl — more niche and style-specific, less generalizable for custom fine-tuning."
+    },
+    {
+      "scenario_id": "HF-S16",
+      "query": "single-image to 3D mesh generation model, reconstruct a 3D object from one product photo for multi-angle viewing",
+      "ground_truth": "stabilityai/TripoSR",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 4, "usefulness": 4 },
+        "C": { "relevance": 4, "usefulness": 4 }
+      },
+      "ranking": { "best": "A", "neutral": "C", "worst": "B" },
+      "reason": "Method A has GT TripoSR at #1, Hunyuan3D-2.1 at #2, and LGM at #3 — all single-image to 3D mesh models, perfectly matching the e-commerce product reconstruction task. Method C has Hunyuan3D-2 and stable-fast-3d (both relevant) but SceneGen at #2 is for scene reconstruction, not single-object. Method B has Matrix-3D, TRELLIS, and HunyuanWorld-Mirror — relevant 3D models but HunyuanWorld-Mirror is for mirror/environment reconstruction, less focused on single product objects."
+    },
+    {
+      "scenario_id": "HF-S17",
+      "query": "video classification model for human activity recognition, pretrained on large-scale video datasets like Kinetics",
+      "ground_truth": "google/vivit-b-16x2-kinetics400",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 4, "usefulness": 4 },
+        "C": { "relevance": 2, "usefulness": 2 }
+      },
+      "ranking": { "best": "A", "neutral": "B", "worst": "C" },
+      "reason": "Method A has GT vivit-b-16x2-kinetics400 at #1, X-CLIP at #2, and VideoMAE at #3 — all established video classification/understanding models pretrained on Kinetics. Method B has VideoMAE, X-CLIP, and InternVideo2.5 — all relevant video models but GT missing. Method C has wavlm-base and wavlm-large at #1 and #2 — these are audio/speech models, completely irrelevant to video classification. Only X-CLIP at #3 is relevant."
+    },
+    {
+      "scenario_id": "HF-S18",
+      "query": "Russian-English bilingual sentence embedding model for semantic similarity, paraphrase detection, and topic clustering",
+      "ground_truth": "ai-forever/FRIDA",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 3, "usefulness": 3 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "A", "neutral": "C", "worst": "B" },
+      "reason": "Method A has GT FRIDA at #1, ru-en-RoSBERTa at #2 (Russian-English specific), and LaBSE at #3 (multilingual) — a perfect trio for bilingual embedding. Method C has ru-en-RoSBERTa at #1, GT FRIDA at #2, and paraphrase-multilingual-MiniLM at #3 — also excellent. Method B has sarashina-embedding (Japanese-focused, not Russian), bce-reranker (Chinese bilingual), and GT FRIDA only at #3 — poor language match overall."
+    }
+  ]
+}

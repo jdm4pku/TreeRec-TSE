@@ -1,0 +1,158 @@
+{
+  "participant_id": "P11",
+  "education": "phd",
+  "dev_years": 3,
+  "ecosystem": "HuggingFace",
+  "evaluations": [
+    {
+      "scenario_id": "HF-S7",
+      "query": "visually-rich document understanding model for layout-aware retrieval over scanned PDFs — jointly encodes OCR text, spatial positions, and page images",
+      "ground_truth": "vidore/colpali",
+      "scores": {
+        "BM25": {
+          "relevance": 3,
+          "usefulness": 3
+        },
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "GPT4": {
+          "relevance": 3,
+          "usefulness": 3
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "GPT4",
+        "worst": "BM25"
+      },
+      "reason": "None include GT vidore/colpali. Method B excels with QwenAmann-4B-dse at #1 (document-level visually-rich retrieval), layoutlmv3 at #2 (the canonical layout-aware encoder jointly modeling text, spatial positions, and images), and PaddleOCR-VL at #3. Method C has layoutlmv3 at #1 (directly matching the query's 'jointly encodes OCR text, spatial positions, and page images') but Gliese-OCR and dots.ocr are pure OCR. Method A is entirely OCR-focused with no retrieval or layout-aware encoding capability."
+    },
+    {
+      "scenario_id": "HF-S8",
+      "query": "high-fidelity text-to-image diffusion model with strong text rendering capability and compositional scene control",
+      "ground_truth": "stabilityai/stable-diffusion-3.5-large",
+      "scores": {
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "BM25": {
+          "relevance": 3,
+          "usefulness": 3
+        },
+        "GPT4": {
+          "relevance": 3,
+          "usefulness": 3
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "GPT4",
+        "worst": "BM25"
+      },
+      "reason": "Method A has GT stable-diffusion-3.5-large at #2 (SD3.5 uses rectified flow with triple text encoders for superior text rendering), Qwen-Image at #1, and HunyuanImage-3.0 at #3 — all capable of compositional scene control. Method C has kandinsky-3 and HunyuanImage-2.1 — decent diffusion models but neither is known for strong text rendering. Method B has QwenImage-Rebalance (a fine-tune, not a standalone model), HunyuanImage-2.1, and Ming-flash-omni (multimodal, not text-to-image) — poor fit for the compositional generation query."
+    },
+    {
+      "scenario_id": "HF-S9",
+      "query": "real-time monocular depth estimation network optimized for robotics, metric depth output from single RGB frame without auxiliary sensors",
+      "ground_truth": "depth-anything/Depth-Anything-V2-Large-hf",
+      "scores": {
+        "BM25": {
+          "relevance": 4,
+          "usefulness": 4
+        },
+        "GPT4": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        }
+      },
+      "ranking": {
+        "best": "GPT4",
+        "neutral": "TreeRec",
+        "worst": "BM25"
+      },
+      "reason": "Methods B and C are identical: DepthPro-hf/#1 or apple/DepthPro/#1, and critically Depth-Anything-V2-Metric-Indoor-Small-hf at #3 — which outputs metric depth (not relative), directly matching the robotics requirement for absolute distance. Method B has DepthPro (non-hf) at #1, GT-adjacent at #2, metric model at #3. Method A has marigold-normals at #3 (surface normal estimation, not depth) — a miss for a query explicitly requesting metric depth."
+    },
+    {
+      "scenario_id": "HF-S10",
+      "query": "large multimodal model supporting interleaved image/video understanding, multi-language OCR, UI screenshot comprehension, and visual question answering",
+      "ground_truth": "Qwen/Qwen3-VL-8B-Thinking",
+      "scores": {
+        "BM25": {
+          "relevance": 3,
+          "usefulness": 3
+        },
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "GPT4": {
+          "relevance": 4,
+          "usefulness": 4
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "GPT4",
+        "worst": "BM25"
+      },
+      "reason": "None include the exact GT Qwen3-VL-8B-Thinking. Method B recommends Qwen3-VL-235B-A22B-Thinking (same family, larger, with thinking capability), InternVL3_5-241B, and Qwen3-Omni — all flagship VLMs supporting interleaved image/video, OCR, and UI comprehension. Method C has InternVL3-8B and InternVL3_5 variants — strong VLMs but all from one family, less diversity. Method A has UniMedVL (medical-domain, not general UI) at #1 and small Qwen3-VL GGUF quantizations at #2/#3 — less suitable for a 'large' model query."
+    },
+    {
+      "scenario_id": "HF-S11",
+      "query": "multi-label emotion classification transformer fine-tuned on GoEmotions or similar dataset, outputs probability distribution over co-occurring emotion categories",
+      "ground_truth": "SamLowe/roberta-base-go_emotions",
+      "scores": {
+        "BM25": {
+          "relevance": 3,
+          "usefulness": 3
+        },
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "GPT4": {
+          "relevance": 4,
+          "usefulness": 4
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "GPT4",
+        "worst": "BM25"
+      },
+      "reason": "Method B has GT roberta-base-go_emotions at #1 (explicitly multi-label, trained on GoEmotions with 28 emotion categories), EmoRoBERTa at #2 (also GoEmotions-based), and bert-base-emotion at #3. Method C has emotion_text_classifier, emotion-distilroberta, and bert-base-emotion — relevant emotion classifiers but none specifically multi-label GoEmotions. Method A has emotion_text_classifier and EmoRoBERTa but speech-emotion-recognition at #3 is audio-based, not text — a notable miss for a text classification query."
+    },
+    {
+      "scenario_id": "HF-S12",
+      "query": "multilingual hybrid retrieval embedding model with both dense vector and learned sparse representations, supporting long-document chunking across 100+ languages",
+      "ground_truth": "BAAI/bge-m3",
+      "scores": {
+        "TreeRec": {
+          "relevance": 5,
+          "usefulness": 5
+        },
+        "BM25": {
+          "relevance": 4,
+          "usefulness": 4
+        },
+        "GPT4": {
+          "relevance": 5,
+          "usefulness": 5
+        }
+      },
+      "ranking": {
+        "best": "TreeRec",
+        "neutral": "GPT4",
+        "worst": "BM25"
+      },
+      "reason": "All three have GT bge-m3 at #1 (which natively supports dense, sparse, and multi-vector retrieval across 100+ languages). Method A adds nomic-embed-v2-moe (multilingual MoE embeddings) and splade-v3 (learned sparse retrieval) — directly addressing the hybrid dense+sparse requirement. Method C has nomic-embed-v2-moe and nvidia/llama-nv-embedqa (dense only). Method B has nvidia/llama-nv-embedqa and gte-multilingual — both dense-only models, not addressing the sparse retrieval aspect."
+    }
+  ]
+}

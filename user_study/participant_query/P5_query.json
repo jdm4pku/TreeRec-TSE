@@ -1,0 +1,32 @@
+{
+  "participant_id": "P5",
+  "education": "phd",
+  "dev_years": 3,
+  "ecosystem": "JavaScript",
+  "queries": [
+    {
+      "scenario_id": "JS-S7",
+      "your_query": "lightweight static file server with hot-reload / live-reload support for front-end development"
+    },
+    {
+      "scenario_id": "JS-S8",
+      "your_query": "WebDriver-based end-to-end testing framework for automated browser interaction in JavaScript"
+    },
+    {
+      "scenario_id": "JS-S9",
+      "your_query": "numerical linear algebra library for JS — matrix multiplication, affine transforms, coordinate system conversions"
+    },
+    {
+      "scenario_id": "JS-S10",
+      "your_query": "safe expression parser and evaluator for user-defined formulas in a spreadsheet-like context, sandboxed execution"
+    },
+    {
+      "scenario_id": "JS-S11",
+      "your_query": "international phone number parsing and validation library with per-country formatting rules"
+    },
+    {
+      "scenario_id": "JS-S12",
+      "your_query": "text diff algorithm implementation in JavaScript, unified or side-by-side diff output for version comparison"
+    }
+  ]
+}

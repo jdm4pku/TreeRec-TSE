@@ -1,0 +1,193 @@
+{
+  "participant_id": "P4",
+  "ecosystem": "JavaScript",
+  "method": "TreeRec",
+  "results": [
+    {
+      "scenario_id": "JS-S13",
+      "query": "run multiple npm scripts in parallel or sequence with one command, like concurrently or npm-run-all",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "npm-run-all",
+          "description": "A CLI tool to run multiple npm-scripts in parallel or sequential."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "npm-run-all2",
+          "description": "A CLI tool to run multiple npm-scripts in parallel or sequential. (Maintenance fork)"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "yarn-run-all",
+          "description": "A CLI tool to run multiple npm-scripts in parallel or sequential."
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@xarc/run",
+          "description": "concurrent or serial run npm scripts, javascript tasks, and more"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "mprocs",
+          "description": "Run multiple processes in parallel"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S14",
+      "query": "generate HTML coverage report from LCOV data, grouped by directory and file",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@lcov-viewer/cli",
+          "description": "LCOV viewer CLI to convert coverage to grouped HTML report. Generates code coverage report grouped by directory."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "lcoview",
+          "description": "LCOV coverage report viewer that generates interactive HTML reports with file filtering"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@lcov-viewer/istanbul-report",
+          "description": "Istanbul grouped HTML report. Generates code coverage report grouped by directory."
+        },
+        {
+          "rank": 4,
+          "artifact_name": "coverage-viewer",
+          "description": "Create a static website for exploring your project’s coverage statistics"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "total-coverage",
+          "description": "Parse LCOV file and return total coverages"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S15",
+      "query": "NestJS authentication module with JWT, user registration and login out of the box",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "login-express",
+          "description": "Generates node.js user signup & login system"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@midware/mauth",
+          "description": "A simple auth middleware for Node.js"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "json-server-auth",
+          "description": "Authentication middleware for JSON Server"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@aerogear/auth",
+          "description": "JavaScript Auth module for AeroGear services"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@nestjs-cognito/testing",
+          "description": "Cognito testing helpers for NestJS-Cognito"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S16",
+      "query": "remap code coverage results from compiled JS back to original source using source maps",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "istanbul-sourcemap-report",
+          "description": "Utility to generate coverage reports for sources from compiled code coverage using SourceMaps"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "atlas-coverage",
+          "description": "Postprocesses puppeteer coverage data to project coverage data on minified js back to the source files"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "babel-plugin-transform-coverage",
+          "description": "A plugin for Babel 6 that converts the source code to the code with coverage measurement for jscover"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "istanbul-source-map",
+          "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+        },
+        {
+          "rank": 5,
+          "artifact_name": "babel-istanbul",
+          "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests "
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S17",
+      "query": "JavaScript implementation of IEEE 754 copysign function, copy sign from one float to another",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@stdlib/math-base-special-copysign",
+          "description": "Return a double-precision floating-point number with the magnitude of x and the sign of y."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "math-float64-copysign",
+          "description": "Returns a double-precision floating-point number with the magnitude of x and the sign of y."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "numeric",
+          "description": "Numerical analysis in javascript"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "math-float64-from-words",
+          "description": "Creates a double-precision floating-point number from a higher order word and a lower order word."
+        },
+        {
+          "rank": 5,
+          "artifact_name": "math-float64-ldexp",
+          "description": "Multiplies a double-precision floating-point number by an integer power of two."
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S18",
+      "query": "TypeScript SDK for robotics device control and service management",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@cognite/robotics-sdk-ts",
+          "description": "robotics services Typescript sdk"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@cognite/robotics-ts-sdk",
+          "description": "robotics services typescript sdk"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "robotics-dev",
+          "description": "Robotics.dev P2P SDK client for robot control"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "feetech-servo-ts",
+          "description": "TypeScript SDK for Feetech servo motors using Web Serial API"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "@lerobot/node",
+          "description": "Node.js-based robotics control using SerialPort"
+        }
+      ]
+    }
+  ]
+}

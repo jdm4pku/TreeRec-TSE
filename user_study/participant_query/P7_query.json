@@ -1,0 +1,32 @@
+{
+  "participant_id": "P7",
+  "education": "undergraduate",
+  "dev_years": 1,
+  "ecosystem": "HuggingFace",
+  "queries": [
+    {
+      "scenario_id": "HF-S1",
+      "your_query": "model for speaker diarization, detect who is speaking in audio"
+    },
+    {
+      "scenario_id": "HF-S2",
+      "your_query": "depth estimation model from a single image, predict depth map from one photo"
+    },
+    {
+      "scenario_id": "HF-S3",
+      "your_query": "multilingual document retrieval model that works with text and images"
+    },
+    {
+      "scenario_id": "HF-S4",
+      "your_query": "general purpose language model for text generation, summarization and question answering"
+    },
+    {
+      "scenario_id": "HF-S5",
+      "your_query": "code generation model that can write HTML CSS JavaScript from instructions"
+    },
+    {
+      "scenario_id": "HF-S6",
+      "your_query": "NER model to detect and redact personal information like names and phone numbers from text"
+    }
+  ]
+}

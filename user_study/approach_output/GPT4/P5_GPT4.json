@@ -1,0 +1,193 @@
+{
+  "participant_id": "P5",
+  "ecosystem": "JavaScript",
+  "method": "GPT-4",
+  "results": [
+    {
+      "scenario_id": "JS-S7",
+      "query": "lightweight static file server with hot-reload / live-reload support for front-end development",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "live-server",
+          "description": "simple development http server with live reload capability"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@11ty/eleventy-dev-server",
+          "description": "A minimal, modern, generic, hot-reloading local web server to help web developers."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@web/dev-server",
+          "description": "Dev server for web applications"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "browser-sync",
+          "description": "Live CSS Reload & Browser Syncing"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "alive-server",
+          "description": "Alive fork of live-server: simple development http server with live reload capability"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S8",
+      "query": "WebDriver-based end-to-end testing framework for automated browser interaction in JavaScript",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "selenium-webdriver",
+          "description": "The official WebDriver JavaScript bindings from the Selenium project"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "nightwatch",
+          "description": "Easy to use Node.js based end-to-end testing solution for web applications using the W3C WebDriver API."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@wdio/cli",
+          "description": "WebdriverIO testrunner command line interface"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "wd",
+          "description": "WebDriver/Selenium 2 node.js client"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "codeceptjs",
+          "description": "Supercharged End 2 End Testing Framework for NodeJS"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S9",
+      "query": "numerical linear algebra library for JS — matrix multiplication, affine transforms, coordinate system conversions",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "mathjs",
+          "description": "Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser with support for symbolic computation, comes with a large set of built-in functions and constants, and offers an integrated solution to work with dif"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "numeric",
+          "description": "Numerical analysis in javascript"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@thi.ng/matrices",
+          "description": "Matrix & quaternion operations for 2D/3D geometry processing"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "numpy-matrix-js",
+          "description": "A numpy-like Matrix/Array module for Node JS and Browser JS"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "math3d",
+          "description": "A nodejs library for 3D transformations similar to Unity3D containing necessary classes and functions for matrices, vectors, quaternions and transforms."
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S10",
+      "query": "safe expression parser and evaluator for user-defined formulas in a spreadsheet-like context, sandboxed execution",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "numenor",
+          "description": "Customizable, safe evaluator of JavaScript-like expressions."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "eval-estree-expression",
+          "description": "Safely evaluate JavaScript (estree) expressions, sync and async."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "animipraesentium",
+          "description": "Safely evaluate JavaScript (estree) expressions, sync and async."
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@casbin/expression-eval",
+          "description": "JavaScript expression parsing and evaluation."
+        },
+        {
+          "rank": 5,
+          "artifact_name": "whence",
+          "description": "Add context awareness to your apps and frameworks by safely evaluating user-defined conditional expressions. Useful for evaluating expressions in config files, prompts, key bindings, completions, templates, and many other user cases."
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S11",
+      "query": "international phone number parsing and validation library with per-country formatting rules",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "libphonenumber-js",
+          "description": "A simpler (and smaller) rewrite of Google Android's libphonenumber library in javascript"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "@ibash/libphonenumber-js",
+          "description": "A simpler (and smaller) rewrite of Google Android's libphonenumber library in javascript"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@lykmapipo/phone",
+          "description": "Helper utilities for parsing and validate phone numbers"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "intl-tel-input",
+          "description": "A JavaScript plugin for entering and validating international telephone numbers"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "phoneparser",
+          "description": "A parser for phone numbers."
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S12",
+      "query": "text diff algorithm implementation in JavaScript, unified or side-by-side diff output for version comparison",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "diff",
+          "description": "A JavaScript text diff implementation."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "disparity",
+          "description": "Colorized string diff ideal for text/code that spans through multiple lines"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@amaui/diff",
+          "description": "Diff algorithm"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@onesy/diff",
+          "description": "Diff algorithm"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "levenshtein-edit-distance",
+          "description": "Levenshtein edit distance"
+        }
+      ]
+    }
+  ]
+}

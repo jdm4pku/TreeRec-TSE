@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "id": "P1",
+      "education": "undergraduate",
+      "dev_years": 1,
+      "ecosystem": "JavaScript"
+    },
+    {
+      "id": "P2",
+      "education": "undergraduate",
+      "dev_years": 1,
+      "ecosystem": "JavaScript"
+    },
+    {
+      "id": "P3",
+      "education": "master",
+      "dev_years": 2,
+      "ecosystem": "JavaScript"
+    },
+    {
+      "id": "P4",
+      "education": "master",
+      "dev_years": 3,
+      "ecosystem": "JavaScript"
+    },
+    {
+      "id": "P5",
+      "education": "phd",
+      "dev_years": 3,
+      "ecosystem": "JavaScript"
+    },
+    {
+      "id": "P6",
+      "education": "phd",
+      "dev_years": 4,
+      "ecosystem": "JavaScript"
+    },
+    {
+      "id": "P7",
+      "education": "undergraduate",
+      "dev_years": 1,
+      "ecosystem": "HuggingFace"
+    },
+    {
+      "id": "P8",
+      "education": "undergraduate",
+      "dev_years": 2,
+      "ecosystem": "HuggingFace"
+    },
+    {
+      "id": "P9",
+      "education": "master",
+      "dev_years": 2,
+      "ecosystem": "HuggingFace"
+    },
+    {
+      "id": "P10",
+      "education": "master",
+      "dev_years": 3,
+      "ecosystem": "HuggingFace"
+    },
+    {
+      "id": "P11",
+      "education": "phd",
+      "dev_years": 3,
+      "ecosystem": "HuggingFace"
+    },
+    {
+      "id": "P12",
+      "education": "phd",
+      "dev_years": 5,
+      "ecosystem": "HuggingFace"
+    }
+  ]
+}

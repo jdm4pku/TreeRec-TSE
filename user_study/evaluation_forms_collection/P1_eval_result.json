@@ -1,0 +1,80 @@
+{
+  "participant_id": "P1",
+  "education": "undergraduate",
+  "dev_years": 1,
+  "ecosystem": "JavaScript",
+  "evaluations": [
+    {
+      "scenario_id": "JS-S1",
+      "query": "npm package for yes/no confirm prompt in terminal",
+      "ground_truth": "@inquirer/confirm",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 4, "usefulness": 4 }
+      },
+      "ranking": { "best": "B", "neutral": "A", "worst": "C" },
+      "reason": "All three methods recommend relevant confirm prompt packages. Method B ranks the ground truth @inquirer/confirm first, Method A has it second. Method C misses it entirely but still provides usable alternatives."
+    },
+    {
+      "scenario_id": "JS-S2",
+      "query": "javascript testing framework that works in both browser and node",
+      "ground_truth": "jasmine",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 4, "usefulness": 4 },
+        "C": { "relevance": 2, "usefulness": 2 }
+      },
+      "ranking": { "best": "A", "neutral": "B", "worst": "C" },
+      "reason": "Method A directly recommends jasmine-core and jasmine, perfectly matching the intent. Method B recommends popular frameworks (jest, mocha) which are useful but less targeted. Method C includes skmeans (a clustering library), which is completely irrelevant."
+    },
+    {
+      "scenario_id": "JS-S3",
+      "query": "how to intercept http requests in javascript for testing and mocking",
+      "ground_truth": "@mswjs/interceptors",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 3, "usefulness": 3 }
+      },
+      "ranking": { "best": "B", "neutral": "A", "worst": "C" },
+      "reason": "Method B places the ground truth @mswjs/interceptors at rank 1. Method A has it at rank 2 with msw at rank 1, which is also excellent. Method C recommends less well-known alternatives like faux-jax."
+    },
+    {
+      "scenario_id": "JS-S4",
+      "query": "nodejs library to add color to console output in terminal",
+      "ground_truth": "kleur",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 2, "usefulness": 2 }
+      },
+      "ranking": { "best": "B", "neutral": "A", "worst": "C" },
+      "reason": "Both A and B recommend highly relevant terminal color libraries. Method B includes the ground truth kleur at rank 2. Method A recommends chalk, picocolors, ansi-colors which are all great but miss kleur. Method C focuses on gradient and animation effects, not general terminal coloring."
+    },
+    {
+      "scenario_id": "JS-S5",
+      "query": "npm package for log levels with different icons like checkmark and warning sign",
+      "ground_truth": "log-symbols",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 1, "usefulness": 1 },
+        "C": { "relevance": 1, "usefulness": 1 }
+      },
+      "ranking": { "best": "A", "neutral": "B", "worst": "C" },
+      "reason": "Method A nails it with log-symbols at rank 1, plus related utilities. Method B recommends an echidna coverage parser which has nothing to do with log icons. Method C recommends React Native and Ionic packages, completely irrelevant for a Node.js logging task."
+    },
+    {
+      "scenario_id": "JS-S6",
+      "query": "javascript json template engine to generate json dynamically from variables",
+      "ground_truth": "lang-json",
+      "scores": {
+        "A": { "relevance": 1, "usefulness": 1 },
+        "B": { "relevance": 5, "usefulness": 4 },
+        "C": { "relevance": 1, "usefulness": 1 }
+      },
+      "ranking": { "best": "B", "neutral": "C", "worst": "A" },
+      "reason": "Method B recommends the ground truth lang-json at rank 1, directly matching the intent. Method A recommends swagger-related generators which are completely off-topic. Method C recommends jsdoc and cssjson tools, also irrelevant to JSON templating."
+    }
+  ]
+}

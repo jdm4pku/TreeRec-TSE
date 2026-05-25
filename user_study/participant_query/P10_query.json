@@ -1,0 +1,32 @@
+{
+  "participant_id": "P10",
+  "education": "master",
+  "dev_years": 3,
+  "ecosystem": "HuggingFace",
+  "queries": [
+    {
+      "scenario_id": "HF-S13",
+      "your_query": "small multilingual instruction-tuned LLM for edge deployment, supports code generation and tool-use with low memory footprint"
+    },
+    {
+      "scenario_id": "HF-S14",
+      "your_query": "document OCR and understanding model — multilingual text extraction, table recognition, layout parsing, and document VQA in one pipeline"
+    },
+    {
+      "scenario_id": "HF-S15",
+      "your_query": "text-to-image diffusion model that is easy to fine-tune with LoRA or DreamBooth on custom artistic style datasets"
+    },
+    {
+      "scenario_id": "HF-S16",
+      "your_query": "single-image to 3D mesh generation model, reconstruct a 3D object from one product photo for multi-angle viewing"
+    },
+    {
+      "scenario_id": "HF-S17",
+      "your_query": "video classification model for human activity recognition, pretrained on large-scale video datasets like Kinetics"
+    },
+    {
+      "scenario_id": "HF-S18",
+      "your_query": "Russian-English bilingual sentence embedding model for semantic similarity, paraphrase detection, and topic clustering"
+    }
+  ]
+}

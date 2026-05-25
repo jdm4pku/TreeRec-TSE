@@ -1,0 +1,32 @@
+{
+  "participant_id": "P2",
+  "education": "undergraduate",
+  "dev_years": 1,
+  "ecosystem": "JavaScript",
+  "queries": [
+    {
+      "scenario_id": "JS-S7",
+      "your_query": "local dev server with live reload for static html css js"
+    },
+    {
+      "scenario_id": "JS-S8",
+      "your_query": "browser automation testing framework javascript webdriver"
+    },
+    {
+      "scenario_id": "JS-S9",
+      "your_query": "javascript math library for matrix operations and coordinate transformations"
+    },
+    {
+      "scenario_id": "JS-S10",
+      "your_query": "safely parse and evaluate math expressions from user input in javascript"
+    },
+    {
+      "scenario_id": "JS-S11",
+      "your_query": "phone number input with country code formatting and validation js"
+    },
+    {
+      "scenario_id": "JS-S12",
+      "your_query": "javascript diff library to compare two text strings and show changes"
+    }
+  ]
+}

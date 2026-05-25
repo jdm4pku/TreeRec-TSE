@@ -1,0 +1,32 @@
+{
+  "participant_id": "P9",
+  "education": "master",
+  "dev_years": 2,
+  "ecosystem": "HuggingFace",
+  "queries": [
+    {
+      "scenario_id": "HF-S1",
+      "your_query": "speaker diarization pretrained model for audio segmentation, identify speaker turns with timestamps"
+    },
+    {
+      "scenario_id": "HF-S2",
+      "your_query": "monocular depth estimation model that produces dense per-pixel depth maps from a single RGB image, no stereo input needed"
+    },
+    {
+      "scenario_id": "HF-S3",
+      "your_query": "multimodal multilingual document retrieval model that jointly encodes text and visual layout for cross-lingual search over mixed-content pages"
+    },
+    {
+      "scenario_id": "HF-S4",
+      "your_query": "general-purpose instruction-tuned LLM for text generation, abstractive summarization, and extractive QA tasks"
+    },
+    {
+      "scenario_id": "HF-S5",
+      "your_query": "code LLM with strong reasoning capability for generating frontend code (HTML/CSS/JS) from natural language instructions"
+    },
+    {
+      "scenario_id": "HF-S6",
+      "your_query": "PII detection and redaction NER model, supports custom entity types for names, phone numbers, account IDs in documents"
+    }
+  ]
+}

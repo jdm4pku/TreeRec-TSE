@@ -1,0 +1,193 @@
+{
+  "participant_id": "P3",
+  "ecosystem": "JavaScript",
+  "method": "TreeRec",
+  "results": [
+    {
+      "scenario_id": "JS-S1",
+      "query": "interactive CLI confirmation prompt library for Node.js, like a simple yes/no dialog",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "inquirer-confirm",
+          "description": "Simple confirm yes/no question for CLI node applications, returns a promise, built on top of inquirer"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "prompt-confirm",
+          "description": "Confirm (yes/no) prompt. Can be used standalone or with a prompt system like [Enquirer]."
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@clack/prompts",
+          "description": "Effortlessly build beautiful command-line apps 🪄 [Try the demo](https://stackblitz.com/edit/clack-prompts?file=index.js)"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "prompt-promise",
+          "description": "Sane CLI user-input (command prompt, confirm, multiline, password) as promises, it can be used with co@4"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "enquirer",
+          "description": "Stylish, intuitive and user-friendly prompt system. Fast and lightweight enough for small projects, powerful and extensible enough for the most advanced use cases."
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S2",
+      "query": "cross-environment JavaScript test framework that supports both Node.js and browser execution",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "jstest",
+          "description": "The cross-platform JavaScript test framework"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "jasmine-core",
+          "description": "Simple JavaScript testing framework for browsers and node.js"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "jasmine",
+          "description": "CLI for Jasmine, a simple JavaScript testing framework for browsers and Node"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "jasmine-node",
+          "description": "DOM-less simple JavaScript BDD testing framework for Node"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "aria-mocha",
+          "description": "Zero configuration CLI testing tool for nodejs and browser base"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S3",
+      "query": "HTTP request interception and mocking library for JavaScript, intercept fetch and XHR calls",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@mswjs/interceptors",
+          "description": "Low-level HTTP/HTTPS/XHR/fetch request interception library."
+        },
+        {
+          "rank": 2,
+          "artifact_name": "fetch-mock",
+          "description": "Mock http requests made using fetch"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "mockttp",
+          "description": "Mock HTTP server for testing HTTP clients and stubbing webservices"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "wdio-intercept-service",
+          "description": "Capture and assert HTTP ajax calls in webdriver.io 🕸"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "stubborn-ws",
+          "description": "Web server to mock external HTTP APIs in tests"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S4",
+      "query": "Node.js terminal styling library for colored and bold text output in CLI apps",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "kleur",
+          "description": "The fastest Node.js library for formatting terminal text with ANSI colors~!"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "chalk",
+          "description": "Terminal string styling done right"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "cli-color",
+          "description": "Colors, formatting and other tools for the console"
+        },
+        {
+          "rank": 4,
+          "artifact_name": "@brillout/picocolors",
+          "description": "The tiniest and the fastest library for terminal output formatting with ANSI colors"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "picocolors",
+          "description": "The tiniest and the fastest library for terminal output formatting with ANSI colors"
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S5",
+      "query": "console logger with emoji or unicode symbols for different log levels like success warning error",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@hazeral/logger",
+          "description": "A simple package to log colourful messages for your program"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "log-symbols",
+          "description": "Colored symbols for various log levels. Example: `✔︎ Success`"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "emojic",
+          "description": "Emoji in your Node.js command line apps."
+        },
+        {
+          "rank": 4,
+          "artifact_name": "console-log-colors",
+          "description": "Console log colors helper for simple lightweight useage, no external dependencies."
+        },
+        {
+          "rank": 5,
+          "artifact_name": "verbalize",
+          "description": "A pluggable logging utility with built-in colors, styles, and modes."
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S6",
+      "query": "JSON templating library to dynamically build JSON structures from input parameters in Node.js",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "lang-json",
+          "description": "A lib for templating json"
+        },
+        {
+          "rank": 2,
+          "artifact_name": "jsdoc-parse",
+          "description": "Transforms jsdoc data into something more suitable for use as template input"
+        },
+        {
+          "rank": 3,
+          "artifact_name": "json-mask",
+          "description": "Tiny language and engine for selecting specific parts of a JS object, hiding the rest."
+        },
+        {
+          "rank": 4,
+          "artifact_name": "dot-json",
+          "description": "Easily edit a json file from the CLI or NodeJS"
+        },
+        {
+          "rank": 5,
+          "artifact_name": "shunter",
+          "description": "A Node.js application built to read JSON and translate it into HTML"
+        }
+      ]
+    }
+  ]
+}

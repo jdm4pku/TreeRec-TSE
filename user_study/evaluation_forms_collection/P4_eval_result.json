@@ -1,0 +1,80 @@
+{
+  "participant_id": "P4",
+  "education": "master",
+  "dev_years": 3,
+  "ecosystem": "JavaScript",
+  "evaluations": [
+    {
+      "scenario_id": "JS-S13",
+      "query": "run multiple npm scripts in parallel or sequence with one command, like concurrently or npm-run-all",
+      "ground_truth": "npm-run-all",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "B", "neutral": "A", "worst": "C" },
+      "reason": "All three place GT npm-run-all at #1 and recommend very similar alternatives. Method B edges ahead with @xarc/run which adds diversity beyond forks. A and C both include yarn-run-all and npm-run-all2 which are essentially forks of the same tool."
+    },
+    {
+      "scenario_id": "JS-S14",
+      "query": "generate HTML coverage report from LCOV data, grouped by directory and file",
+      "ground_truth": "@lcov-viewer/cli",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 4, "usefulness": 4 }
+      },
+      "ranking": { "best": "A", "neutral": "B", "worst": "C" },
+      "reason": "All three have GT @lcov-viewer/cli at #1. Method A adds lcoview as a distinct alternative at #2, offering more diversity. Method B is also solid. Method C has a duplicate entry for @lcov-viewer/cli at #1 and #2, reducing its value."
+    },
+    {
+      "scenario_id": "JS-S15",
+      "query": "NestJS authentication module with JWT, user registration and login out of the box",
+      "ground_truth": "@alphaapps/nestjs-auth",
+      "scores": {
+        "A": { "relevance": 1, "usefulness": 1 },
+        "B": { "relevance": 2, "usefulness": 2 },
+        "C": { "relevance": 2, "usefulness": 2 }
+      },
+      "ranking": { "best": "C", "neutral": "B", "worst": "A" },
+      "reason": "None recommend the GT. Method C at least mentions NestJS-related tools (@rucken/cli, nicot with NestJS). Method B has login-express and generic auth middleware — somewhat relevant but not NestJS-specific. Method A recommends a Gatsby docs theme at #1 which is completely off-topic."
+    },
+    {
+      "scenario_id": "JS-S16",
+      "query": "remap code coverage results from compiled JS back to original source using source maps",
+      "ground_truth": "remap-istanbul",
+      "scores": {
+        "A": { "relevance": 4, "usefulness": 4 },
+        "B": { "relevance": 5, "usefulness": 5 },
+        "C": { "relevance": 4, "usefulness": 4 }
+      },
+      "ranking": { "best": "B", "neutral": "A", "worst": "C" },
+      "reason": "Method B places GT remap-istanbul at #1, plus istanbul-sourcemap-report and map-coverage — all directly relevant. Method A has istanbul-sourcemap-report at #1 which is relevant but misses GT. Method C is similar to A but with different ordering."
+    },
+    {
+      "scenario_id": "JS-S17",
+      "query": "JavaScript implementation of IEEE 754 copysign function, copy sign from one float to another",
+      "ground_truth": "@stdlib/math-base-special-copysign",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 1, "usefulness": 1 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "A", "neutral": "C", "worst": "B" },
+      "reason": "Methods A and C both have GT at #1 and math-float64-copysign at #2, both excellent. A's #3 math-float64-to-words is related to float internals. C's #3 numeric is a general numerical library. Method B recommends maprange and CSS converters — completely irrelevant to copysign."
+    },
+    {
+      "scenario_id": "JS-S18",
+      "query": "TypeScript SDK for robotics device control and service management",
+      "ground_truth": "@cognite/robotics-sdk-ts",
+      "scores": {
+        "A": { "relevance": 5, "usefulness": 5 },
+        "B": { "relevance": 5, "usefulness": 4 },
+        "C": { "relevance": 5, "usefulness": 5 }
+      },
+      "ranking": { "best": "C", "neutral": "A", "worst": "B" },
+      "reason": "All three have GT at #1 and @cognite/robotics-ts-sdk at #2. Method C's #3 rclnodejs (ROS2 JS client) is highly relevant for robotics. Method A's #3 robotics-dev is also relevant. Method B's #3 imt-mcp-server is about device control but less robotics-focused."
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "participant_id": "P1",
+  "ecosystem": "JavaScript",
+  "method": "BM25",
+  "results": [
+    {
+      "scenario_id": "JS-S1",
+      "query": "npm package for yes/no confirm prompt in terminal",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "@inquirer/confirm",
+          "description": "Inquirer confirm prompt",
+          "score": 18.175508933520582
+        },
+        {
+          "rank": 2,
+          "artifact_name": "inquirer-confirm",
+          "description": "Simple confirm yes/no question for CLI node applications, returns a promise, built on top of inquirer",
+          "score": 13.052429618934905
+        },
+        {
+          "rank": 3,
+          "artifact_name": "prompt-confirm",
+          "description": "Confirm (yes/no) prompt. Can be used standalone or with a prompt system like [Enquirer].",
+          "score": 11.431365766142516
+        },
+        {
+          "rank": 4,
+          "artifact_name": "yn",
+          "description": "Parse yes/no like values",
+          "score": 10.439436217587739
+        },
+        {
+          "rank": 5,
+          "artifact_name": "selenium-server",
+          "description": "Selenium in an npm package",
+          "score": 10.118103539075179
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S2",
+      "query": "javascript testing framework that works in both browser and node",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "assume",
+          "description": "Expect-like assertions that works seamlessly in node and browsers",
+          "score": 18.24775214489149
+        },
+        {
+          "rank": 2,
+          "artifact_name": "skmeans",
+          "description": "Super fast simple k-means and k-means++ clustering for unidimiensional and multidimensional data. Works in node and browser",
+          "score": 14.31905794519465
+        },
+        {
+          "rank": 3,
+          "artifact_name": "jasmine-node",
+          "description": "DOM-less simple JavaScript BDD testing framework for Node",
+          "score": 14.17021469693119
+        },
+        {
+          "rank": 4,
+          "artifact_name": "gulp-jsdoc-to-markdown",
+          "description": "Plugin for jsdoc-to-markdown. Works in both buffer and streaming modes.",
+          "score": 14.099713166940292
+        },
+        {
+          "rank": 5,
+          "artifact_name": "vex-match-parser",
+          "description": "A TypeScript library for parsing VEX Robotics match schedules from PDF files. Works in both Node.js and browser environments.",
+          "score": 13.73345036993678
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S3",
+      "query": "how to intercept http requests in javascript for testing and mocking",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "faux-jax",
+          "description": "Intercept and respond to requests in the browser (XMLHttpRequest, XDomainRequest) and Node.js (http(s) module)",
+          "score": 18.274161577409334
+        },
+        {
+          "rank": 2,
+          "artifact_name": "matrix-mock-request",
+          "description": "Testing tool for mocking HTTP request/response pairs",
+          "score": 15.910363356789691
+        },
+        {
+          "rank": 3,
+          "artifact_name": "fetch-mock",
+          "description": "Mock http requests made using fetch",
+          "score": 15.497519797312188
+        },
+        {
+          "rank": 4,
+          "artifact_name": "chai-nock",
+          "description": "Extends Chai with assertions for the Nock Http mocking framework",
+          "score": 13.258004269085575
+        },
+        {
+          "rank": 5,
+          "artifact_name": "puppeteer-intercept-and-modify-requests",
+          "description": "The `puppeteer-intercept-and-modify-requests` TypeScript library allows you to intercept and modify network requests and responses using Puppeteer. It supports modifying all network requests and responses. You can also apply delays, stream responses, modi",
+          "score": 13.026171953669177
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S4",
+      "query": "nodejs library to add color to console output in terminal",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "gradient-string",
+          "description": "Beautiful color gradients in terminal output",
+          "score": 18.976727413720795
+        },
+        {
+          "rank": 2,
+          "artifact_name": "chalkercli",
+          "description": "Colorful animations in terminal output",
+          "score": 14.460638516013642
+        },
+        {
+          "rank": 3,
+          "artifact_name": "chalk-animation",
+          "description": "Colorful animations in terminal output",
+          "score": 14.460638516013642
+        },
+        {
+          "rank": 4,
+          "artifact_name": "bash-color",
+          "description": "a simple tool for wrapping strings in bash color codes. Used to color console output.",
+          "score": 14.355026490228536
+        },
+        {
+          "rank": 5,
+          "artifact_name": "color-normalize",
+          "description": "Convert any color data to sanitized output format",
+          "score": 13.380344774970933
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S5",
+      "query": "npm package for log levels with different icons like checkmark and warning sign",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "echidna-coverage-parser",
+          "description": "Echidna log parser package",
+          "score": 13.152448728073534
+        },
+        {
+          "rank": 2,
+          "artifact_name": "mad-logs",
+          "description": "Winston-lite-esque Log lib for terminal and browser debugging, with piles of unignorable log tags and marker styles.",
+          "score": 11.0388194012538
+        },
+        {
+          "rank": 3,
+          "artifact_name": "@hazeral/logger",
+          "description": "A simple package to log colourful messages for your program",
+          "score": 10.513095761622967
+        },
+        {
+          "rank": 4,
+          "artifact_name": "deploid",
+          "description": "Build → package → sign → publish web apps to Android",
+          "score": 10.373818830453338
+        },
+        {
+          "rank": 5,
+          "artifact_name": "warning-symbol",
+          "description": "Cross-platform warning symbol.",
+          "score": 10.216954188229824
+        }
+      ]
+    },
+    {
+      "scenario_id": "JS-S6",
+      "query": "javascript json template engine to generate json dynamically from variables",
+      "top5_recommendations": [
+        {
+          "rank": 1,
+          "artifact_name": "ng2-rest-swagger-generator",
+          "description": "Generate Angualr 2 Service from swagger json",
+          "score": 18.056558421638602
+        },
+        {
+          "rank": 2,
+          "artifact_name": "apidoc-swagger",
+          "description": "Convert api doc json to swagger json",
+          "score": 16.343188703333425
+        },
+        {
+          "rank": 3,
+          "artifact_name": "apidoc-swagger-converter",
+          "description": "Convert api doc json to swagger-3.0 json",
+          "score": 16.343188703333425
+        },
+        {
+          "rank": 4,
+          "artifact_name": "json-schema-doc-ts",
+          "description": "Generate documentation for JSON Schemas",
+          "score": 16.08966888759496
+        },
+        {
+          "rank": 5,
+          "artifact_name": "jschemer",
+          "description": "A Node.js library to generate documentation for JSON Schemas",
+          "score": 15.12938699031077
+        }
+      ]
+    }
+  ]
+}
